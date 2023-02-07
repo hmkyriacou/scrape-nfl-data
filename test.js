@@ -41,7 +41,7 @@ async function main() {
         }
     })
 
-    console.log(years_)
+    console.log(curDataObj[yearToStart])
 }
 
 main()

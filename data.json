@@ -1,1 +1,3504 @@
-{"2010":{},"2011":{},"2012":{},"2013":{},"2014":{},"2015":{},"2016":{},"2017":{},"2018":{},"2019":{},"2020":{"1":{"Houston Texans_Kansas City Chiefs":{"date":"Sep 10, 2020","away_score":"20","home_score":"34"},"Seattle Seahawks_Atlanta Falcons":{"date":"Sep 13, 2020","away_score":"38","home_score":"25"},"New York Jets_Buffalo Bills":{"date":"Sep 13, 2020","away_score":"17","home_score":"27"},"Las Vegas Raiders_Carolina Panthers":{"date":"Sep 13, 2020","away_score":"34","home_score":"30"},"Chicago Bears_Detroit Lions":{"date":"Sep 13, 2020","away_score":"27","home_score":"23"},"Indianapolis Colts_Jacksonville Jaguars":{"date":"Sep 13, 2020","away_score":"20","home_score":"27"},"Green Bay Packers_Minnesota Vikings":{"date":"Sep 13, 2020","away_score":"43","home_score":"34"},"Miami Dolphins_New England Patriots":{"date":"Sep 13, 2020","away_score":"11","home_score":"21"},"Cleveland Browns_Baltimore Ravens":{"date":"Sep 13, 2020","away_score":"6","home_score":"38"},"Philadelphia Eagles_Washington Football Team":{"date":"Sep 13, 2020","away_score":"17","home_score":"27"},"Los Angeles Chargers_Cincinnati Bengals":{"date":"Sep 13, 2020","away_score":"16","home_score":"13"},"Tampa Bay Buccaneers_New Orleans Saints":{"date":"Sep 13, 2020","away_score":"23","home_score":"34"},"Arizona Cardinals_San Francisco 49ers":{"date":"Sep 13, 2020","away_score":"24","home_score":"20"},"Dallas Cowboys_Los Angeles Rams":{"date":"Sep 13, 2020","away_score":"17","home_score":"20"},"Pittsburgh Steelers_New York Giants":{"date":"Sep 14, 2020","away_score":"26","home_score":"16"},"Tennessee Titans_Denver Broncos":{"date":"Sep 14, 2020","away_score":"16","home_score":"14"}},"2":{"Cincinnati Bengals_Cleveland Browns":{"date":"Sep 17, 2020","away_score":"30","home_score":"35"},"New York Giants_Chicago Bears":{"date":"Sep 20, 2020","away_score":"13","home_score":"17"},"Minnesota Vikings_Indianapolis Colts":{"date":"Sep 20, 2020","away_score":"11","home_score":"28"},"Atlanta Falcons_Dallas Cowboys":{"date":"Sep 20, 2020","away_score":"39","home_score":"40"},"Detroit Lions_Green Bay Packers":{"date":"Sep 20, 2020","away_score":"21","home_score":"42"},"Buffalo Bills_Miami Dolphins":{"date":"Sep 20, 2020","away_score":"31","home_score":"28"},"San Francisco 49ers_New York Jets":{"date":"Sep 20, 2020","away_score":"31","home_score":"13"},"Jacksonville Jaguars_Tennessee Titans":{"date":"Sep 20, 2020","away_score":"30","home_score":"33"},"Los Angeles Rams_Philadelphia Eagles":{"date":"Sep 20, 2020","away_score":"37","home_score":"19"},"Denver Broncos_Pittsburgh Steelers":{"date":"Sep 20, 2020","away_score":"21","home_score":"26"},"Carolina Panthers_Tampa Bay Buccaneers":{"date":"Sep 20, 2020","away_score":"17","home_score":"31"},"Washington Football Team_Arizona Cardinals":{"date":"Sep 20, 2020","away_score":"15","home_score":"30"},"Baltimore Ravens_Houston Texans":{"date":"Sep 20, 2020","away_score":"33","home_score":"16"},"Kansas City Chiefs_Los Angeles Chargers":{"date":"Sep 20, 2020","away_score":"23","home_score":"20"},"New England Patriots_Seattle Seahawks":{"date":"Sep 20, 2020","away_score":"30","home_score":"35"},"New Orleans Saints_Las Vegas Raiders":{"date":"Sep 21, 2020","away_score":"24","home_score":"34"}},"3":{"Miami Dolphins_Jacksonville Jaguars":{"date":"Sep 24, 2020","away_score":"31","home_score":"13"},"Chicago Bears_Atlanta Falcons":{"date":"Sep 27, 2020","away_score":"30","home_score":"26"},"Los Angeles Rams_Buffalo Bills":{"date":"Sep 27, 2020","away_score":"32","home_score":"35"},"Washington Football Team_Cleveland Browns":{"date":"Sep 27, 2020","away_score":"20","home_score":"34"},"Tennessee Titans_Minnesota Vikings":{"date":"Sep 27, 2020","away_score":"31","home_score":"30"},"Las Vegas Raiders_New England Patriots":{"date":"Sep 27, 2020","away_score":"20","home_score":"36"},"San Francisco 49ers_New York Giants":{"date":"Sep 27, 2020","away_score":"36","home_score":"9"},"Cincinnati Bengals_Philadelphia Eagles":{"date":"Sep 27, 2020","away_score":"23","home_score":"23"},"Houston Texans_Pittsburgh Steelers":{"date":"Sep 27, 2020","away_score":"21","home_score":"28"},"New York Jets_Indianapolis Colts":{"date":"Sep 27, 2020","away_score":"7","home_score":"36"},"Carolina Panthers_Los Angeles Chargers":{"date":"Sep 27, 2020","away_score":"21","home_score":"16"},"Detroit Lions_Arizona Cardinals":{"date":"Sep 27, 2020","away_score":"26","home_score":"23"},"Tampa Bay Buccaneers_Denver Broncos":{"date":"Sep 27, 2020","away_score":"28","home_score":"10"},"Dallas Cowboys_Seattle Seahawks":{"date":"Sep 27, 2020","away_score":"31","home_score":"38"},"Green Bay Packers_New Orleans Saints":{"date":"Sep 27, 2020","away_score":"37","home_score":"30"},"Kansas City Chiefs_Baltimore Ravens":{"date":"Sep 28, 2020","away_score":"34","home_score":"20"}},"4":{"Denver Broncos_New York Jets":{"date":"Oct 1, 2020","away_score":"37","home_score":"28"},"Arizona Cardinals_Carolina Panthers":{"date":"Oct 4, 2020","away_score":"21","home_score":"31"},"Indianapolis Colts_Chicago Bears":{"date":"Oct 4, 2020","away_score":"19","home_score":"11"},"Jacksonville Jaguars_Cincinnati Bengals":{"date":"Oct 4, 2020","away_score":"25","home_score":"33"},"Cleveland Browns_Dallas Cowboys":{"date":"Oct 4, 2020","away_score":"49","home_score":"38"},"New Orleans Saints_Detroit Lions":{"date":"Oct 4, 2020","away_score":"35","home_score":"29"},"Minnesota Vikings_Houston Texans":{"date":"Oct 4, 2020","away_score":"31","home_score":"23"},"Seattle Seahawks_Miami Dolphins":{"date":"Oct 4, 2020","away_score":"31","home_score":"23"},"Los Angeles Chargers_Tampa Bay Buccaneers":{"date":"Oct 4, 2020","away_score":"31","home_score":"38"},"Baltimore Ravens_Washington Football Team":{"date":"Oct 4, 2020","away_score":"31","home_score":"17"},"New York Giants_Los Angeles Rams":{"date":"Oct 4, 2020","away_score":"9","home_score":"17"},"Buffalo Bills_Las Vegas Raiders":{"date":"Oct 4, 2020","away_score":"30","home_score":"23"},"Philadelphia Eagles_San Francisco 49ers":{"date":"Oct 4, 2020","away_score":"25","home_score":"20"},"New England Patriots_Kansas City Chiefs":{"date":"Oct 5, 2020","away_score":"10","home_score":"26"},"Atlanta Falcons_Green Bay Packers":{"date":"Oct 5, 2020","away_score":"16","home_score":"30"}},"5":{"Tampa Bay Buccaneers_Chicago Bears":{"date":"Oct 8, 2020","away_score":"19","home_score":"20"},"Carolina Panthers_Atlanta Falcons":{"date":"Oct 11, 2020","away_score":"23","home_score":"16"},"Jacksonville Jaguars_Houston Texans":{"date":"Oct 11, 2020","away_score":"14","home_score":"30"},"Las Vegas Raiders_Kansas City Chiefs":{"date":"Oct 11, 2020","away_score":"40","home_score":"32"},"Arizona Cardinals_New York Jets":{"date":"Oct 11, 2020","away_score":"30","home_score":"10"},"Philadelphia Eagles_Pittsburgh Steelers":{"date":"Oct 11, 2020","away_score":"29","home_score":"38"},"Cincinnati Bengals_Baltimore Ravens":{"date":"Oct 11, 2020","away_score":"3","home_score":"27"},"Los Angeles Rams_Washington Football Team":{"date":"Oct 11, 2020","away_score":"30","home_score":"10"},"Miami Dolphins_San Francisco 49ers":{"date":"Oct 11, 2020","away_score":"43","home_score":"17"},"Indianapolis Colts_Cleveland Browns":{"date":"Oct 11, 2020","away_score":"23","home_score":"32"},"New York Giants_Dallas Cowboys":{"date":"Oct 11, 2020","away_score":"34","home_score":"37"},"Minnesota Vikings_Seattle Seahawks":{"date":"Oct 11, 2020","away_score":"26","home_score":"27"},"Los Angeles Chargers_New Orleans Saints":{"date":"Oct 12, 2020","away_score":"27","home_score":"30"},"Buffalo Bills_Tennessee Titans":{"date":"Oct 13, 2020","away_score":"16","home_score":"42"}},"6":{"Chicago Bears_Carolina Panthers":{"date":"Oct 18, 2020","away_score":"23","home_score":"16"},"Cincinnati Bengals_Indianapolis Colts":{"date":"Oct 18, 2020","away_score":"27","home_score":"31"},"Detroit Lions_Jacksonville Jaguars":{"date":"Oct 18, 2020","away_score":"34","home_score":"16"},"Atlanta Falcons_Minnesota Vikings":{"date":"Oct 18, 2020","away_score":"40","home_score":"23"},"Denver Broncos_New England Patriots":{"date":"Oct 18, 2020","away_score":"18","home_score":"12"},"Washington Football Team_New York Giants":{"date":"Oct 18, 2020","away_score":"19","home_score":"20"},"Houston Texans_Tennessee Titans":{"date":"Oct 18, 2020","away_score":"36","home_score":"42"},"Baltimore Ravens_Philadelphia Eagles":{"date":"Oct 18, 2020","away_score":"30","home_score":"28"},"Cleveland Browns_Pittsburgh Steelers":{"date":"Oct 18, 2020","away_score":"7","home_score":"38"},"New York Jets_Miami Dolphins":{"date":"Oct 18, 2020","away_score":"0","home_score":"24"},"Green Bay Packers_Tampa Bay Buccaneers":{"date":"Oct 18, 2020","away_score":"10","home_score":"38"},"Los Angeles Rams_San Francisco 49ers":{"date":"Oct 18, 2020","away_score":"16","home_score":"24"},"Kansas City Chiefs_Buffalo Bills":{"date":"Oct 19, 2020","away_score":"26","home_score":"17"},"Arizona Cardinals_Dallas Cowboys":{"date":"Oct 19, 2020","away_score":"38","home_score":"10"}},"7":{"New York Giants_Philadelphia Eagles":{"date":"Oct 22, 2020","away_score":"21","home_score":"22"},"Detroit Lions_Atlanta Falcons":{"date":"Oct 25, 2020","away_score":"23","home_score":"22"},"Cleveland Browns_Cincinnati Bengals":{"date":"Oct 25, 2020","away_score":"37","home_score":"34"},"Green Bay Packers_Houston Texans":{"date":"Oct 25, 2020","away_score":"35","home_score":"20"},"Carolina Panthers_New Orleans Saints":{"date":"Oct 25, 2020","away_score":"24","home_score":"27"},"Buffalo Bills_New York Jets":{"date":"Oct 25, 2020","away_score":"18","home_score":"10"},"Pittsburgh Steelers_Tennessee Titans":{"date":"Oct 25, 2020","away_score":"27","home_score":"24"},"Dallas Cowboys_Washington Football Team":{"date":"Oct 25, 2020","away_score":"3","home_score":"25"},"Tampa Bay Buccaneers_Las Vegas Raiders":{"date":"Oct 25, 2020","away_score":"45","home_score":"20"},"Kansas City Chiefs_Denver Broncos":{"date":"Oct 25, 2020","away_score":"43","home_score":"16"},"San Francisco 49ers_New England Patriots":{"date":"Oct 25, 2020","away_score":"33","home_score":"6"},"Jacksonville Jaguars_Los Angeles Chargers":{"date":"Oct 25, 2020","away_score":"29","home_score":"39"},"Seattle Seahawks_Arizona Cardinals":{"date":"Oct 25, 2020","away_score":"34","home_score":"37"},"Chicago Bears_Los Angeles Rams":{"date":"Oct 26, 2020","away_score":"10","home_score":"24"}},"8":{},"9":{},"10":{},"11":{},"12":{},"13":{},"14":{},"15":{},"16":{},"17":{},"18":{},"19":{},"20":{},"21":{}},"2021":{"4":{"Jacksonville Jaguars_Cincinnati Bengals":{"date":"Sep 30, 2021","away_score":"21","home_score":"24"},"Washington Football Team_Atlanta Falcons":{"date":"Oct 3, 2021","away_score":"34","home_score":"30"},"Houston Texans_Buffalo Bills":{"date":"Oct 3, 2021","away_score":"0","home_score":"40"},"Detroit Lions_Chicago Bears":{"date":"Oct 3, 2021","away_score":"14","home_score":"24"},"Carolina Panthers_Dallas Cowboys":{"date":"Oct 3, 2021","away_score":"28","home_score":"36"},"Indianapolis Colts_Miami Dolphins":{"date":"Oct 3, 2021","away_score":"27","home_score":"17"},"Cleveland Browns_Minnesota Vikings":{"date":"Oct 3, 2021","away_score":"14","home_score":"7"},"New York Giants_New Orleans Saints":{"date":"Oct 3, 2021","away_score":"27","home_score":"21"},"Tennessee Titans_New York Jets":{"date":"Oct 3, 2021","away_score":"24","home_score":"27"},"Kansas City Chiefs_Philadelphia Eagles":{"date":"Oct 3, 2021","away_score":"42","home_score":"30"},"Arizona Cardinals_Los Angeles Rams":{"date":"Oct 3, 2021","away_score":"37","home_score":"20"},"Seattle Seahawks_San Francisco 49ers":{"date":"Oct 3, 2021","away_score":"28","home_score":"21"},"Baltimore Ravens_Denver Broncos":{"date":"Oct 3, 2021","away_score":"23","home_score":"7"},"Pittsburgh Steelers_Green Bay Packers":{"date":"Oct 3, 2021","away_score":"17","home_score":"27"},"Tampa Bay Buccaneers_New England Patriots":{"date":"Oct 3, 2021","away_score":"19","home_score":"17"},"Las Vegas Raiders_Los Angeles Chargers":{"date":"Oct 4, 2021","away_score":"14","home_score":"28"}},"5":{"Los Angeles Rams_Seattle Seahawks":{"date":"Oct 7, 2021","away_score":"26","home_score":"17"},"New York Jets_Atlanta Falcons":{"date":"Oct 10, 2021","away_score":"20","home_score":"27"},"Philadelphia Eagles_Carolina Panthers":{"date":"Oct 10, 2021","away_score":"21","home_score":"18"},"Green Bay Packers_Cincinnati Bengals":{"date":"Oct 10, 2021","away_score":"25","home_score":"22"},"New England Patriots_Houston Texans":{"date":"Oct 10, 2021","away_score":"25","home_score":"22"},"Tennessee Titans_Jacksonville Jaguars":{"date":"Oct 10, 2021","away_score":"37","home_score":"19"},"Detroit Lions_Minnesota Vikings":{"date":"Oct 10, 2021","away_score":"17","home_score":"19"},"Denver Broncos_Pittsburgh Steelers":{"date":"Oct 10, 2021","away_score":"19","home_score":"27"},"Miami Dolphins_Tampa Bay Buccaneers":{"date":"Oct 10, 2021","away_score":"17","home_score":"45"},"New Orleans Saints_Washington Football Team":{"date":"Oct 10, 2021","away_score":"33","home_score":"22"},"Chicago Bears_Las Vegas Raiders":{"date":"Oct 10, 2021","away_score":"20","home_score":"9"},"Cleveland Browns_Los Angeles Chargers":{"date":"Oct 10, 2021","away_score":"42","home_score":"47"},"San Francisco 49ers_Arizona Cardinals":{"date":"Oct 10, 2021","away_score":"10","home_score":"17"},"New York Giants_Dallas Cowboys":{"date":"Oct 10, 2021","away_score":"20","home_score":"44"},"Buffalo Bills_Kansas City Chiefs":{"date":"Oct 10, 2021","away_score":"38","home_score":"20"},"Indianapolis Colts_Baltimore Ravens":{"date":"Oct 11, 2021","away_score":"25","home_score":"31"}},"6":{"Tampa Bay Buccaneers_Philadelphia Eagles":{"date":"Oct 14, 2021","away_score":"28","home_score":"22"},"Miami Dolphins_Jacksonville Jaguars":{"date":"Oct 17, 2021","away_score":"20","home_score":"23"},"Minnesota Vikings_Carolina Panthers":{"date":"Oct 17, 2021","away_score":"34","home_score":"28"},"Green Bay Packers_Chicago Bears":{"date":"Oct 17, 2021","away_score":"24","home_score":"14"},"Houston Texans_Indianapolis Colts":{"date":"Oct 17, 2021","away_score":"3","home_score":"31"},"Cincinnati Bengals_Detroit Lions":{"date":"Oct 17, 2021","away_score":"34","home_score":"11"},"Los Angeles Rams_New York Giants":{"date":"Oct 17, 2021","away_score":"38","home_score":"11"},"Los Angeles Chargers_Baltimore Ravens":{"date":"Oct 17, 2021","away_score":"6","home_score":"34"},"Kansas City Chiefs_Washington Football Team":{"date":"Oct 17, 2021","away_score":"31","home_score":"13"},"Arizona Cardinals_Cleveland Browns":{"date":"Oct 17, 2021","away_score":"37","home_score":"14"},"Las Vegas Raiders_Denver Broncos":{"date":"Oct 17, 2021","away_score":"34","home_score":"24"},"Dallas Cowboys_New England Patriots":{"date":"Oct 17, 2021","away_score":"35","home_score":"29"},"Seattle Seahawks_Pittsburgh Steelers":{"date":"Oct 17, 2021","away_score":"20","home_score":"23"},"Buffalo Bills_Tennessee Titans":{"date":"Oct 18, 2021","away_score":"31","home_score":"34"}},"7":{"Denver Broncos_Cleveland Browns":{"date":"Oct 21, 2021","away_score":"14","home_score":"17"},"Washington Football Team_Green Bay Packers":{"date":"Oct 24, 2021","away_score":"10","home_score":"24"},"Atlanta Falcons_Miami Dolphins":{"date":"Oct 24, 2021","away_score":"30","home_score":"28"},"New York Jets_New England Patriots":{"date":"Oct 24, 2021","away_score":"13","home_score":"54"},"Carolina Panthers_New York Giants":{"date":"Oct 24, 2021","away_score":"3","home_score":"25"},"Kansas City Chiefs_Tennessee Titans":{"date":"Oct 24, 2021","away_score":"3","home_score":"27"},"Cincinnati Bengals_Baltimore Ravens":{"date":"Oct 24, 2021","away_score":"41","home_score":"17"},"Philadelphia Eagles_Las Vegas Raiders":{"date":"Oct 24, 2021","away_score":"22","home_score":"33"},"Detroit Lions_Los Angeles Rams":{"date":"Oct 24, 2021","away_score":"19","home_score":"28"},"Houston Texans_Arizona Cardinals":{"date":"Oct 24, 2021","away_score":"5","home_score":"31"},"Chicago Bears_Tampa Bay Buccaneers":{"date":"Oct 24, 2021","away_score":"3","home_score":"38"},"Indianapolis Colts_San Francisco 49ers":{"date":"Oct 24, 2021","away_score":"30","home_score":"18"},"New Orleans Saints_Seattle Seahawks":{"date":"Oct 25, 2021","away_score":"13","home_score":"10"}},"8":{"Green Bay Packers_Arizona Cardinals":{"date":"Oct 28, 2021","away_score":"24","home_score":"21"},"Carolina Panthers_Atlanta Falcons":{"date":"Oct 31, 2021","away_score":"19","home_score":"13"},"Miami Dolphins_Buffalo Bills":{"date":"Oct 31, 2021","away_score":"11","home_score":"26"},"San Francisco 49ers_Chicago Bears":{"date":"Oct 31, 2021","away_score":"33","home_score":"22"},"Pittsburgh Steelers_Cleveland Browns":{"date":"Oct 31, 2021","away_score":"15","home_score":"10"},"Tennessee Titans_Indianapolis Colts":{"date":"Oct 31, 2021","away_score":"34","home_score":"31"},"Philadelphia Eagles_Detroit Lions":{"date":"Oct 31, 2021","away_score":"44","home_score":"6"},"Los Angeles Rams_Houston Texans":{"date":"Oct 31, 2021","away_score":"38","home_score":"22"},"Cincinnati Bengals_New York Jets":{"date":"Oct 31, 2021","away_score":"31","home_score":"34"},"New England Patriots_Los Angeles Chargers":{"date":"Oct 31, 2021","away_score":"27","home_score":"24"},"Jacksonville Jaguars_Seattle Seahawks":{"date":"Oct 31, 2021","away_score":"7","home_score":"31"},"Washington Football Team_Denver Broncos":{"date":"Oct 31, 2021","away_score":"10","home_score":"17"},"Tampa Bay Buccaneers_New Orleans Saints":{"date":"Oct 31, 2021","away_score":"27","home_score":"36"},"Dallas Cowboys_Minnesota Vikings":{"date":"Oct 31, 2021","away_score":"20","home_score":"16"},"New York Giants_Kansas City Chiefs":{"date":"Nov 1, 2021","away_score":"17","home_score":"20"}},"9":{"New York Jets_Indianapolis Colts":{"date":"Nov 4, 2021","away_score":"30","home_score":"45"},"New England Patriots_Carolina Panthers":{"date":"Nov 7, 2021","away_score":"24","home_score":"6"},"Cleveland Browns_Cincinnati Bengals":{"date":"Nov 7, 2021","away_score":"41","home_score":"16"},"Denver Broncos_Dallas Cowboys":{"date":"Nov 7, 2021","away_score":"30","home_score":"16"},"Buffalo Bills_Jacksonville Jaguars":{"date":"Nov 7, 2021","away_score":"6","home_score":"9"},"Houston Texans_Miami Dolphins":{"date":"Nov 7, 2021","away_score":"9","home_score":"17"},"Atlanta Falcons_New Orleans Saints":{"date":"Nov 7, 2021","away_score":"27","home_score":"25"},"Las Vegas Raiders_New York Giants":{"date":"Nov 7, 2021","away_score":"16","home_score":"23"},"Minnesota Vikings_Baltimore Ravens":{"date":"Nov 7, 2021","away_score":"31","home_score":"34"},"Los Angeles Chargers_Philadelphia Eagles":{"date":"Nov 7, 2021","away_score":"27","home_score":"24"},"Green Bay Packers_Kansas City Chiefs":{"date":"Nov 7, 2021","away_score":"7","home_score":"13"},"Arizona Cardinals_San Francisco 49ers":{"date":"Nov 7, 2021","away_score":"31","home_score":"17"},"Tennessee Titans_Los Angeles Rams":{"date":"Nov 7, 2021","away_score":"28","home_score":"16"},"Chicago Bears_Pittsburgh Steelers":{"date":"Nov 8, 2021","away_score":"27","home_score":"29"}},"10":{"Baltimore Ravens_Miami Dolphins":{"date":"Nov 11, 2021","away_score":"10","home_score":"22"},"Jacksonville Jaguars_Indianapolis Colts":{"date":"Nov 14, 2021","away_score":"17","home_score":"23"},"Atlanta Falcons_Dallas Cowboys":{"date":"Nov 14, 2021","away_score":"3","home_score":"43"},"Cleveland Browns_New England Patriots":{"date":"Nov 14, 2021","away_score":"7","home_score":"45"},"Buffalo Bills_New York Jets":{"date":"Nov 14, 2021","away_score":"45","home_score":"17"},"New Orleans Saints_Tennessee Titans":{"date":"Nov 14, 2021","away_score":"21","home_score":"23"},"Detroit Lions_Pittsburgh Steelers":{"date":"Nov 14, 2021","away_score":"16","home_score":"16"},"Tampa Bay Buccaneers_Washington Football Team":{"date":"Nov 14, 2021","away_score":"19","home_score":"29"},"Carolina Panthers_Arizona Cardinals":{"date":"Nov 14, 2021","away_score":"34","home_score":"10"},"Minnesota Vikings_Los Angeles Chargers":{"date":"Nov 14, 2021","away_score":"27","home_score":"20"},"Philadelphia Eagles_Denver Broncos":{"date":"Nov 14, 2021","away_score":"30","home_score":"13"},"Seattle Seahawks_Green Bay Packers":{"date":"Nov 14, 2021","away_score":"0","home_score":"17"},"Kansas City Chiefs_Las Vegas Raiders":{"date":"Nov 14, 2021","away_score":"41","home_score":"14"},"Los Angeles Rams_San Francisco 49ers":{"date":"Nov 15, 2021","away_score":"10","home_score":"31"}},"11":{"New England Patriots_Atlanta Falcons":{"date":"Nov 18, 2021","away_score":"25","home_score":"0"},"Indianapolis Colts_Buffalo Bills":{"date":"Nov 21, 2021","away_score":"41","home_score":"15"},"Washington Football Team_Carolina Panthers":{"date":"Nov 21, 2021","away_score":"27","home_score":"21"},"Baltimore Ravens_Chicago Bears":{"date":"Nov 21, 2021","away_score":"16","home_score":"13"},"Detroit Lions_Cleveland Browns":{"date":"Nov 21, 2021","away_score":"10","home_score":"13"},"San Francisco 49ers_Jacksonville Jaguars":{"date":"Nov 21, 2021","away_score":"30","home_score":"10"},"Green Bay Packers_Minnesota Vikings":{"date":"Nov 21, 2021","away_score":"31","home_score":"34"},"Miami Dolphins_New York Jets":{"date":"Nov 21, 2021","away_score":"24","home_score":"17"},"Houston Texans_Tennessee Titans":{"date":"Nov 21, 2021","away_score":"22","home_score":"13"},"New Orleans Saints_Philadelphia Eagles":{"date":"Nov 21, 2021","away_score":"29","home_score":"40"},"Cincinnati Bengals_Las Vegas Raiders":{"date":"Nov 21, 2021","away_score":"32","home_score":"13"},"Dallas Cowboys_Kansas City Chiefs":{"date":"Nov 21, 2021","away_score":"9","home_score":"19"},"Arizona Cardinals_Seattle Seahawks":{"date":"Nov 21, 2021","away_score":"23","home_score":"13"},"Pittsburgh Steelers_Los Angeles Chargers":{"date":"Nov 21, 2021","away_score":"37","home_score":"41"},"New York Giants_Tampa Bay Buccaneers":{"date":"Nov 22, 2021","away_score":"10","home_score":"30"}},"12":{"Chicago Bears_Detroit Lions":{"date":"Nov 25, 2021","away_score":"16","home_score":"14"},"Las Vegas Raiders_Dallas Cowboys":{"date":"Nov 25, 2021","away_score":"36","home_score":"33"},"Buffalo Bills_New Orleans Saints":{"date":"Nov 25, 2021","away_score":"31","home_score":"6"},"Pittsburgh Steelers_Cincinnati Bengals":{"date":"Nov 28, 2021","away_score":"10","home_score":"41"},"Tampa Bay Buccaneers_Indianapolis Colts":{"date":"Nov 28, 2021","away_score":"38","home_score":"31"},"New York Jets_Houston Texans":{"date":"Nov 28, 2021","away_score":"21","home_score":"14"},"Atlanta Falcons_Jacksonville Jaguars":{"date":"Nov 28, 2021","away_score":"21","home_score":"14"},"Carolina Panthers_Miami Dolphins":{"date":"Nov 28, 2021","away_score":"10","home_score":"33"},"Tennessee Titans_New England Patriots":{"date":"Nov 28, 2021","away_score":"13","home_score":"36"},"Philadelphia Eagles_New York Giants":{"date":"Nov 28, 2021","away_score":"7","home_score":"13"},"Los Angeles Chargers_Denver Broncos":{"date":"Nov 28, 2021","away_score":"13","home_score":"28"},"Los Angeles Rams_Green Bay Packers":{"date":"Nov 28, 2021","away_score":"28","home_score":"36"},"Minnesota Vikings_San Francisco 49ers":{"date":"Nov 28, 2021","away_score":"26","home_score":"34"},"Cleveland Browns_Baltimore Ravens":{"date":"Nov 28, 2021","away_score":"10","home_score":"16"},"Seattle Seahawks_Washington Football Team":{"date":"Nov 29, 2021","away_score":"15","home_score":"17"}},"13":{"Dallas Cowboys_New Orleans Saints":{"date":"Dec 2, 2021","away_score":"27","home_score":"17"},"Tampa Bay Buccaneers_Atlanta Falcons":{"date":"Dec 5, 2021","away_score":"30","home_score":"17"},"Arizona Cardinals_Chicago Bears":{"date":"Dec 5, 2021","away_score":"33","home_score":"22"},"Los Angeles Chargers_Cincinnati Bengals":{"date":"Dec 5, 2021","away_score":"41","home_score":"22"},"Minnesota Vikings_Detroit Lions":{"date":"Dec 5, 2021","away_score":"27","home_score":"29"},"Indianapolis Colts_Houston Texans":{"date":"Dec 5, 2021","away_score":"31","home_score":"0"},"New York Giants_Miami Dolphins":{"date":"Dec 5, 2021","away_score":"9","home_score":"20"},"Philadelphia Eagles_New York Jets":{"date":"Dec 5, 2021","away_score":"33","home_score":"18"},"San Francisco 49ers_Seattle Seahawks":{"date":"Dec 5, 2021","away_score":"23","home_score":"30"},"Washington Football Team_Las Vegas Raiders":{"date":"Dec 5, 2021","away_score":"17","home_score":"15"},"Baltimore Ravens_Pittsburgh Steelers":{"date":"Dec 5, 2021","away_score":"19","home_score":"20"},"Jacksonville Jaguars_Los Angeles Rams":{"date":"Dec 5, 2021","away_score":"7","home_score":"37"},"Denver Broncos_Kansas City Chiefs":{"date":"Dec 5, 2021","away_score":"9","home_score":"22"},"New England Patriots_Buffalo Bills":{"date":"Dec 6, 2021","away_score":"14","home_score":"10"}},"14":{"Pittsburgh Steelers_Minnesota Vikings":{"date":"Dec 9, 2021","away_score":"28","home_score":"36"},"Atlanta Falcons_Carolina Panthers":{"date":"Dec 12, 2021","away_score":"29","home_score":"21"},"San Francisco 49ers_Cincinnati Bengals":{"date":"Dec 12, 2021","away_score":"26","home_score":"23"},"Baltimore Ravens_Cleveland Browns":{"date":"Dec 12, 2021","away_score":"22","home_score":"24"},"Seattle Seahawks_Houston Texans":{"date":"Dec 12, 2021","away_score":"33","home_score":"13"},"Las Vegas Raiders_Kansas City Chiefs":{"date":"Dec 12, 2021","away_score":"9","home_score":"48"},"New Orleans Saints_New York Jets":{"date":"Dec 12, 2021","away_score":"30","home_score":"9"},"Jacksonville Jaguars_Tennessee Titans":{"date":"Dec 12, 2021","away_score":"0","home_score":"20"},"Dallas Cowboys_Washington Football Team":{"date":"Dec 12, 2021","away_score":"27","home_score":"20"},"Detroit Lions_Denver Broncos":{"date":"Dec 12, 2021","away_score":"10","home_score":"38"},"New York Giants_Los Angeles Chargers":{"date":"Dec 12, 2021","away_score":"21","home_score":"37"},"Buffalo Bills_Tampa Bay Buccaneers":{"date":"Dec 12, 2021","away_score":"27","home_score":"33"},"Chicago Bears_Green Bay Packers":{"date":"Dec 12, 2021","away_score":"30","home_score":"45"},"Los Angeles Rams_Arizona Cardinals":{"date":"Dec 13, 2021","away_score":"30","home_score":"23"}},"15":{"Kansas City Chiefs_Los Angeles Chargers":{"date":"Dec 16, 2021","away_score":"34","home_score":"28"},"New England Patriots_Indianapolis Colts":{"date":"Dec 18, 2021","away_score":"17","home_score":"27"},"Carolina Panthers_Buffalo Bills":{"date":"Dec 19, 2021","away_score":"14","home_score":"31"},"Arizona Cardinals_Detroit Lions":{"date":"Dec 19, 2021","away_score":"12","home_score":"30"},"Houston Texans_Jacksonville Jaguars":{"date":"Dec 19, 2021","away_score":"30","home_score":"16"},"New York Jets_Miami Dolphins":{"date":"Dec 19, 2021","away_score":"24","home_score":"31"},"Dallas Cowboys_New York Giants":{"date":"Dec 19, 2021","away_score":"21","home_score":"6"},"Tennessee Titans_Pittsburgh Steelers":{"date":"Dec 19, 2021","away_score":"13","home_score":"19"},"Green Bay Packers_Baltimore Ravens":{"date":"Dec 19, 2021","away_score":"31","home_score":"30"},"Cincinnati Bengals_Denver Broncos":{"date":"Dec 19, 2021","away_score":"15","home_score":"10"},"Atlanta Falcons_San Francisco 49ers":{"date":"Dec 19, 2021","away_score":"13","home_score":"31"},"New Orleans Saints_Tampa Bay Buccaneers":{"date":"Dec 19, 2021","away_score":"9","home_score":"0"},"Las Vegas Raiders_Cleveland Browns":{"date":"Dec 20, 2021","away_score":"16","home_score":"14"},"Minnesota Vikings_Chicago Bears":{"date":"Dec 20, 2021","away_score":"17","home_score":"9"},"Washington Football Team_Philadelphia Eagles":{"date":"Dec 21, 2021","away_score":"17","home_score":"27"},"Seattle Seahawks_Los Angeles Rams":{"date":"Dec 21, 2021","away_score":"10","home_score":"20"}},"16":{"San Francisco 49ers_Tennessee Titans":{"date":"Dec 23, 2021","away_score":"17","home_score":"20"},"Cleveland Browns_Green Bay Packers":{"date":"Dec 25, 2021","away_score":"22","home_score":"24"},"Indianapolis Colts_Arizona Cardinals":{"date":"Dec 25, 2021","away_score":"22","home_score":"16"},"Detroit Lions_Atlanta Falcons":{"date":"Dec 26, 2021","away_score":"16","home_score":"20"},"Tampa Bay Buccaneers_Carolina Panthers":{"date":"Dec 26, 2021","away_score":"32","home_score":"6"},"Baltimore Ravens_Cincinnati Bengals":{"date":"Dec 26, 2021","away_score":"21","home_score":"41"},"Los Angeles Chargers_Houston Texans":{"date":"Dec 26, 2021","away_score":"29","home_score":"41"},"Los Angeles Rams_Minnesota Vikings":{"date":"Dec 26, 2021","away_score":"30","home_score":"23"},"Buffalo Bills_New England Patriots":{"date":"Dec 26, 2021","away_score":"33","home_score":"21"},"Jacksonville Jaguars_New York Jets":{"date":"Dec 26, 2021","away_score":"21","home_score":"26"},"New York Giants_Philadelphia Eagles":{"date":"Dec 26, 2021","away_score":"10","home_score":"34"},"Chicago Bears_Seattle Seahawks":{"date":"Dec 26, 2021","away_score":"25","home_score":"24"},"Pittsburgh Steelers_Kansas City Chiefs":{"date":"Dec 26, 2021","away_score":"10","home_score":"36"},"Denver Broncos_Las Vegas Raiders":{"date":"Dec 26, 2021","away_score":"13","home_score":"17"},"Washington Football Team_Dallas Cowboys":{"date":"Dec 26, 2021","away_score":"14","home_score":"56"},"Miami Dolphins_New Orleans Saints":{"date":"Dec 27, 2021","away_score":"20","home_score":"3"}},"17":{"Atlanta Falcons_Buffalo Bills":{"date":"Jan 2, 2022","away_score":"15","home_score":"29"},"New York Giants_Chicago Bears":{"date":"Jan 2, 2022","away_score":"3","home_score":"29"},"Kansas City Chiefs_Cincinnati Bengals":{"date":"Jan 2, 2022","away_score":"31","home_score":"34"},"Las Vegas Raiders_Indianapolis Colts":{"date":"Jan 2, 2022","away_score":"23","home_score":"20"},"Arizona Cardinals_Dallas Cowboys":{"date":"Jan 2, 2022","away_score":"25","home_score":"22"},"Carolina Panthers_New Orleans Saints":{"date":"Jan 2, 2022","away_score":"10","home_score":"18"},"Jacksonville Jaguars_New England Patriots":{"date":"Jan 2, 2022","away_score":"10","home_score":"50"},"Tampa Bay Buccaneers_New York Jets":{"date":"Jan 2, 2022","away_score":"28","home_score":"24"},"Miami Dolphins_Tennessee Titans":{"date":"Jan 2, 2022","away_score":"3","home_score":"34"},"Philadelphia Eagles_Washington Football Team":{"date":"Jan 2, 2022","away_score":"20","home_score":"16"},"Denver Broncos_Los Angeles Chargers":{"date":"Jan 2, 2022","away_score":"13","home_score":"34"},"Houston Texans_San Francisco 49ers":{"date":"Jan 2, 2022","away_score":"7","home_score":"23"},"Los Angeles Rams_Baltimore Ravens":{"date":"Jan 2, 2022","away_score":"20","home_score":"19"},"Detroit Lions_Seattle Seahawks":{"date":"Jan 2, 2022","away_score":"29","home_score":"51"},"Minnesota Vikings_Green Bay Packers":{"date":"Jan 2, 2022","away_score":"10","home_score":"37"},"Cleveland Browns_Pittsburgh Steelers":{"date":"Jan 3, 2022","away_score":"14","home_score":"26"}},"18":{"Kansas City Chiefs_Denver Broncos":{"date":"Jan 8, 2022","away_score":"28","home_score":"24"},"Dallas Cowboys_Philadelphia Eagles":{"date":"Jan 8, 2022","away_score":"51","home_score":"26"},"New Orleans Saints_Atlanta Falcons":{"date":"Jan 9, 2022","away_score":"30","home_score":"20"},"New York Jets_Buffalo Bills":{"date":"Jan 9, 2022","away_score":"10","home_score":"27"},"Cincinnati Bengals_Cleveland Browns":{"date":"Jan 9, 2022","away_score":"16","home_score":"21"},"Green Bay Packers_Detroit Lions":{"date":"Jan 9, 2022","away_score":"30","home_score":"37"},"Tennessee Titans_Houston Texans":{"date":"Jan 9, 2022","away_score":"28","home_score":"25"},"Indianapolis Colts_Jacksonville Jaguars":{"date":"Jan 9, 2022","away_score":"11","home_score":"26"},"New England Patriots_Miami Dolphins":{"date":"Jan 9, 2022","away_score":"24","home_score":"33"},"Chicago Bears_Minnesota Vikings":{"date":"Jan 9, 2022","away_score":"17","home_score":"31"},"Washington Football Team_New York Giants":{"date":"Jan 9, 2022","away_score":"22","home_score":"7"},"Pittsburgh Steelers_Baltimore Ravens":{"date":"Jan 9, 2022","away_score":"16","home_score":"13"},"Carolina Panthers_Tampa Bay Buccaneers":{"date":"Jan 9, 2022","away_score":"17","home_score":"41"},"Seattle Seahawks_Arizona Cardinals":{"date":"Jan 9, 2022","away_score":"38","home_score":"30"},"San Francisco 49ers_Los Angeles Rams":{"date":"Jan 9, 2022","away_score":"27","home_score":"24"},"Los Angeles Chargers_Las Vegas Raiders":{"date":"Jan 9, 2022","away_score":"32","home_score":"35"}},"19":{"Las Vegas Raiders_Cincinnati Bengals":{"date":"Jan 15, 2022","away_score":"19","home_score":"26"},"New England Patriots_Buffalo Bills":{"date":"Jan 15, 2022","away_score":"17","home_score":"47"},"Philadelphia Eagles_Tampa Bay Buccaneers":{"date":"Jan 16, 2022","away_score":"15","home_score":"31"},"San Francisco 49ers_Dallas Cowboys":{"date":"Jan 16, 2022","away_score":"23","home_score":"17"},"Pittsburgh Steelers_Kansas City Chiefs":{"date":"Jan 16, 2022","away_score":"21","home_score":"42"},"Arizona Cardinals_Los Angeles Rams":{"date":"Jan 17, 2022","away_score":"11","home_score":"34"}},"20":{"Cincinnati Bengals_Tennessee Titans":{"date":"Jan 22, 2022","away_score":"19","home_score":"16"},"San Francisco 49ers_Green Bay Packers":{"date":"Jan 22, 2022","away_score":"13","home_score":"10"},"Los Angeles Rams_Tampa Bay Buccaneers":{"date":"Jan 23, 2022","away_score":"30","home_score":"27"},"Buffalo Bills_Kansas City Chiefs":{"date":"Jan 23, 2022","away_score":"36","home_score":"42"}},"21":{"Cincinnati Bengals_Kansas City Chiefs":{"date":"Jan 30, 2022","away_score":"27","home_score":"24"},"San Francisco 49ers_Los Angeles Rams":{"date":"Jan 30, 2022","away_score":"17","home_score":"20"}},"22":{"Los Angeles Rams_Cincinnati Bengals":{"date":"Feb 13, 2022","away_score":"23","home_score":"20"}}},"2022":{"1":{"Buffalo Bills_Los Angeles Rams":{"date":"Sep 8, 2022","away_score":"31","home_score":"10"},"New Orleans Saints_Atlanta Falcons":{"date":"Sep 11, 2022","away_score":"27","home_score":"26"},"Cleveland Browns_Carolina Panthers":{"date":"Sep 11, 2022","away_score":"26","home_score":"24"},"San Francisco 49ers_Chicago Bears":{"date":"Sep 11, 2022","away_score":"10","home_score":"19"},"Pittsburgh Steelers_Cincinnati Bengals":{"date":"Sep 11, 2022","away_score":"23","home_score":"20"},"Philadelphia Eagles_Detroit Lions":{"date":"Sep 11, 2022","away_score":"38","home_score":"35"},"Indianapolis Colts_Houston Texans":{"date":"Sep 11, 2022","away_score":"20","home_score":"20"},"New England Patriots_Miami Dolphins":{"date":"Sep 11, 2022","away_score":"7","home_score":"20"},"Baltimore Ravens_New York Jets":{"date":"Sep 11, 2022","away_score":"24","home_score":"9"},"Jacksonville Jaguars_Washington Commanders":{"date":"Sep 11, 2022","away_score":"22","home_score":"28"},"Kansas City Chiefs_Arizona Cardinals":{"date":"Sep 11, 2022","away_score":"44","home_score":"21"},"Green Bay Packers_Minnesota Vikings":{"date":"Sep 11, 2022","away_score":"7","home_score":"23"},"New York Giants_Tennessee Titans":{"date":"Sep 11, 2022","away_score":"21","home_score":"20"},"Las Vegas Raiders_Los Angeles Chargers":{"date":"Sep 11, 2022","away_score":"19","home_score":"24"},"Tampa Bay Buccaneers_Dallas Cowboys":{"date":"Sep 11, 2022","away_score":"19","home_score":"3"},"Denver Broncos_Seattle Seahawks":{"date":"Sep 12, 2022","away_score":"16","home_score":"17"}},"2":{"Los Angeles Chargers_Kansas City Chiefs":{"date":"Sep 15, 2022","away_score":"24","home_score":"27"},"New York Jets_Cleveland Browns":{"date":"Sep 18, 2022","away_score":"31","home_score":"30"},"Washington Commanders_Detroit Lions":{"date":"Sep 18, 2022","away_score":"27","home_score":"36"},"Indianapolis Colts_Jacksonville Jaguars":{"date":"Sep 18, 2022","away_score":"0","home_score":"24"},"Tampa Bay Buccaneers_New Orleans Saints":{"date":"Sep 18, 2022","away_score":"20","home_score":"10"},"Carolina Panthers_New York Giants":{"date":"Sep 18, 2022","away_score":"16","home_score":"19"},"New England Patriots_Pittsburgh Steelers":{"date":"Sep 18, 2022","away_score":"17","home_score":"14"},"Miami Dolphins_Baltimore Ravens":{"date":"Sep 18, 2022","away_score":"42","home_score":"38"},"Atlanta Falcons_Los Angeles Rams":{"date":"Sep 18, 2022","away_score":"27","home_score":"31"},"Seattle Seahawks_San Francisco 49ers":{"date":"Sep 18, 2022","away_score":"7","home_score":"27"},"Cincinnati Bengals_Dallas Cowboys":{"date":"Sep 18, 2022","away_score":"17","home_score":"20"},"Houston Texans_Denver Broncos":{"date":"Sep 18, 2022","away_score":"9","home_score":"16"},"Arizona Cardinals_Las Vegas Raiders":{"date":"Sep 18, 2022","away_score":"29","home_score":"23"},"Chicago Bears_Green Bay Packers":{"date":"Sep 18, 2022","away_score":"10","home_score":"27"},"Tennessee Titans_Buffalo Bills":{"date":"Sep 19, 2022","away_score":"7","home_score":"41"},"Minnesota Vikings_Philadelphia Eagles":{"date":"Sep 19, 2022","away_score":"7","home_score":"24"}},"3":{"Pittsburgh Steelers_Cleveland Browns":{"date":"Sep 22, 2022","away_score":"17","home_score":"29"},"New Orleans Saints_Carolina Panthers":{"date":"Sep 25, 2022","away_score":"14","home_score":"22"},"Houston Texans_Chicago Bears":{"date":"Sep 25, 2022","away_score":"20","home_score":"23"},"Kansas City Chiefs_Indianapolis Colts":{"date":"Sep 25, 2022","away_score":"17","home_score":"20"},"Buffalo Bills_Miami Dolphins":{"date":"Sep 25, 2022","away_score":"19","home_score":"21"},"Detroit Lions_Minnesota Vikings":{"date":"Sep 25, 2022","away_score":"24","home_score":"28"},"Baltimore Ravens_New England Patriots":{"date":"Sep 25, 2022","away_score":"37","home_score":"26"},"Cincinnati Bengals_New York Jets":{"date":"Sep 25, 2022","away_score":"27","home_score":"12"},"Las Vegas Raiders_Tennessee Titans":{"date":"Sep 25, 2022","away_score":"22","home_score":"24"},"Philadelphia Eagles_Washington Commanders":{"date":"Sep 25, 2022","away_score":"24","home_score":"8"},"Jacksonville Jaguars_Los Angeles Chargers":{"date":"Sep 25, 2022","away_score":"38","home_score":"10"},"Los Angeles Rams_Arizona Cardinals":{"date":"Sep 25, 2022","away_score":"20","home_score":"12"},"Atlanta Falcons_Seattle Seahawks":{"date":"Sep 25, 2022","away_score":"27","home_score":"23"},"Green Bay Packers_Tampa Bay Buccaneers":{"date":"Sep 25, 2022","away_score":"14","home_score":"12"},"San Francisco 49ers_Denver Broncos":{"date":"Sep 25, 2022","away_score":"10","home_score":"11"},"Dallas Cowboys_New York Giants":{"date":"Sep 26, 2022","away_score":"23","home_score":"16"}},"4":{"Miami Dolphins_Cincinnati Bengals":{"date":"Sep 29, 2022","away_score":"15","home_score":"27"},"Minnesota Vikings_New Orleans Saints":{"date":"Oct 2, 2022","away_score":"28","home_score":"25"},"Cleveland Browns_Atlanta Falcons":{"date":"Oct 2, 2022","away_score":"20","home_score":"23"},"Tennessee Titans_Indianapolis Colts":{"date":"Oct 2, 2022","away_score":"24","home_score":"17"},"Washington Commanders_Dallas Cowboys":{"date":"Oct 2, 2022","away_score":"10","home_score":"25"},"Seattle Seahawks_Detroit Lions":{"date":"Oct 2, 2022","away_score":"48","home_score":"45"},"Los Angeles Chargers_Houston Texans":{"date":"Oct 2, 2022","away_score":"34","home_score":"24"},"Chicago Bears_New York Giants":{"date":"Oct 2, 2022","away_score":"12","home_score":"20"},"Jacksonville Jaguars_Philadelphia Eagles":{"date":"Oct 2, 2022","away_score":"21","home_score":"29"},"New York Jets_Pittsburgh Steelers":{"date":"Oct 2, 2022","away_score":"24","home_score":"20"},"Buffalo Bills_Baltimore Ravens":{"date":"Oct 2, 2022","away_score":"23","home_score":"20"},"Arizona Cardinals_Carolina Panthers":{"date":"Oct 2, 2022","away_score":"26","home_score":"16"},"New England Patriots_Green Bay Packers":{"date":"Oct 2, 2022","away_score":"24","home_score":"27"},"Denver Broncos_Las Vegas Raiders":{"date":"Oct 2, 2022","away_score":"23","home_score":"32"},"Kansas City Chiefs_Tampa Bay Buccaneers":{"date":"Oct 2, 2022","away_score":"41","home_score":"31"},"Los Angeles Rams_San Francisco 49ers":{"date":"Oct 3, 2022","away_score":"9","home_score":"24"}},"5":{"Indianapolis Colts_Denver Broncos":{"date":"Oct 6, 2022","away_score":"12","home_score":"9"},"New York Giants_Green Bay Packers":{"date":"Oct 9, 2022","away_score":"27","home_score":"22"},"Pittsburgh Steelers_Buffalo Bills":{"date":"Oct 9, 2022","away_score":"3","home_score":"38"},"Los Angeles Chargers_Cleveland Browns":{"date":"Oct 9, 2022","away_score":"30","home_score":"28"},"Houston Texans_Jacksonville Jaguars":{"date":"Oct 9, 2022","away_score":"13","home_score":"6"},"Chicago Bears_Minnesota Vikings":{"date":"Oct 9, 2022","away_score":"22","home_score":"29"},"Seattle Seahawks_New Orleans Saints":{"date":"Oct 9, 2022","away_score":"32","home_score":"39"},"Detroit Lions_New England Patriots":{"date":"Oct 9, 2022","away_score":"0","home_score":"29"},"Miami Dolphins_New York Jets":{"date":"Oct 9, 2022","away_score":"17","home_score":"40"},"Atlanta Falcons_Tampa Bay Buccaneers":{"date":"Oct 9, 2022","away_score":"15","home_score":"21"},"Tennessee Titans_Washington Commanders":{"date":"Oct 9, 2022","away_score":"21","home_score":"17"},"San Francisco 49ers_Carolina Panthers":{"date":"Oct 9, 2022","away_score":"37","home_score":"15"},"Philadelphia Eagles_Arizona Cardinals":{"date":"Oct 9, 2022","away_score":"20","home_score":"17"},"Dallas Cowboys_Los Angeles Rams":{"date":"Oct 9, 2022","away_score":"22","home_score":"10"},"Cincinnati Bengals_Baltimore Ravens":{"date":"Oct 9, 2022","away_score":"17","home_score":"19"},"Las Vegas Raiders_Kansas City Chiefs":{"date":"Oct 10, 2022","away_score":"29","home_score":"30"}},"6":{"Washington Commanders_Chicago Bears":{"date":"Oct 13, 2022","away_score":"12","home_score":"7"},"San Francisco 49ers_Atlanta Falcons":{"date":"Oct 16, 2022","away_score":"14","home_score":"28"},"New England Patriots_Cleveland Browns":{"date":"Oct 16, 2022","away_score":"38","home_score":"15"},"Jacksonville Jaguars_Indianapolis Colts":{"date":"Oct 16, 2022","away_score":"27","home_score":"34"},"New York Jets_Green Bay Packers":{"date":"Oct 16, 2022","away_score":"27","home_score":"10"},"Minnesota Vikings_Miami Dolphins":{"date":"Oct 16, 2022","away_score":"24","home_score":"16"},"Cincinnati Bengals_New Orleans Saints":{"date":"Oct 16, 2022","away_score":"30","home_score":"26"},"Baltimore Ravens_New York Giants":{"date":"Oct 16, 2022","away_score":"20","home_score":"24"},"Tampa Bay Buccaneers_Pittsburgh Steelers":{"date":"Oct 16, 2022","away_score":"18","home_score":"20"},"Carolina Panthers_Los Angeles Rams":{"date":"Oct 16, 2022","away_score":"10","home_score":"24"},"Arizona Cardinals_Seattle Seahawks":{"date":"Oct 16, 2022","away_score":"9","home_score":"19"},"Buffalo Bills_Kansas City Chiefs":{"date":"Oct 16, 2022","away_score":"24","home_score":"20"},"Dallas Cowboys_Philadelphia Eagles":{"date":"Oct 16, 2022","away_score":"17","home_score":"26"},"Denver Broncos_Los Angeles Chargers":{"date":"Oct 17, 2022","away_score":"16","home_score":"19"}},"7":{"New Orleans Saints_Arizona Cardinals":{"date":"Oct 20, 2022","away_score":"34","home_score":"42"},"Tampa Bay Buccaneers_Carolina Panthers":{"date":"Oct 23, 2022","away_score":"3","home_score":"21"},"Atlanta Falcons_Cincinnati Bengals":{"date":"Oct 23, 2022","away_score":"17","home_score":"35"},"Detroit Lions_Dallas Cowboys":{"date":"Oct 23, 2022","away_score":"6","home_score":"24"},"New York Giants_Jacksonville Jaguars":{"date":"Oct 23, 2022","away_score":"23","home_score":"17"},"Indianapolis Colts_Tennessee Titans":{"date":"Oct 23, 2022","away_score":"10","home_score":"19"},"Cleveland Browns_Baltimore Ravens":{"date":"Oct 23, 2022","away_score":"20","home_score":"23"},"Green Bay Packers_Washington Commanders":{"date":"Oct 23, 2022","away_score":"21","home_score":"23"},"New York Jets_Denver Broncos":{"date":"Oct 23, 2022","away_score":"16","home_score":"9"},"Houston Texans_Las Vegas Raiders":{"date":"Oct 23, 2022","away_score":"20","home_score":"38"},"Seattle Seahawks_Los Angeles Chargers":{"date":"Oct 23, 2022","away_score":"37","home_score":"23"},"Kansas City Chiefs_San Francisco 49ers":{"date":"Oct 23, 2022","away_score":"44","home_score":"23"},"Pittsburgh Steelers_Miami Dolphins":{"date":"Oct 23, 2022","away_score":"10","home_score":"16"},"Chicago Bears_New England Patriots":{"date":"Oct 24, 2022","away_score":"33","home_score":"14"}},"8":{"Baltimore Ravens_Tampa Bay Buccaneers":{"date":"Oct 27, 2022","away_score":"27","home_score":"22"},"Denver Broncos_Jacksonville Jaguars":{"date":"Oct 30, 2022","away_score":"21","home_score":"17"},"Carolina Panthers_Atlanta Falcons":{"date":"Oct 30, 2022","away_score":"34","home_score":"37"},"Chicago Bears_Dallas Cowboys":{"date":"Oct 30, 2022","away_score":"29","home_score":"49"},"Miami Dolphins_Detroit Lions":{"date":"Oct 30, 2022","away_score":"31","home_score":"27"},"Arizona Cardinals_Minnesota Vikings":{"date":"Oct 30, 2022","away_score":"26","home_score":"34"},"Las Vegas Raiders_New Orleans Saints":{"date":"Oct 30, 2022","away_score":"0","home_score":"24"},"New England Patriots_New York Jets":{"date":"Oct 30, 2022","away_score":"22","home_score":"17"},"Pittsburgh Steelers_Philadelphia Eagles":{"date":"Oct 30, 2022","away_score":"13","home_score":"35"},"Tennessee Titans_Houston Texans":{"date":"Oct 30, 2022","away_score":"17","home_score":"10"},"Washington Commanders_Indianapolis Colts":{"date":"Oct 30, 2022","away_score":"17","home_score":"16"},"San Francisco 49ers_Los Angeles Rams":{"date":"Oct 30, 2022","away_score":"31","home_score":"14"},"New York Giants_Seattle Seahawks":{"date":"Oct 30, 2022","away_score":"13","home_score":"27"},"Green Bay Packers_Buffalo Bills":{"date":"Oct 30, 2022","away_score":"17","home_score":"27"},"Cincinnati Bengals_Cleveland Browns":{"date":"Oct 31, 2022","away_score":"13","home_score":"32"}},"9":{"Philadelphia Eagles_Houston Texans":{"date":"Nov 3, 2022","away_score":"29","home_score":"17"},"Los Angeles Chargers_Atlanta Falcons":{"date":"Nov 6, 2022","away_score":"20","home_score":"17"},"Miami Dolphins_Chicago Bears":{"date":"Nov 6, 2022","away_score":"35","home_score":"32"},"Carolina Panthers_Cincinnati Bengals":{"date":"Nov 6, 2022","away_score":"21","home_score":"42"},"Green Bay Packers_Detroit Lions":{"date":"Nov 6, 2022","away_score":"9","home_score":"15"},"Las Vegas Raiders_Jacksonville Jaguars":{"date":"Nov 6, 2022","away_score":"20","home_score":"27"},"Indianapolis Colts_New England Patriots":{"date":"Nov 6, 2022","away_score":"3","home_score":"26"},"Buffalo Bills_New York Jets":{"date":"Nov 6, 2022","away_score":"17","home_score":"20"},"Minnesota Vikings_Washington Commanders":{"date":"Nov 6, 2022","away_score":"20","home_score":"17"},"Seattle Seahawks_Arizona Cardinals":{"date":"Nov 6, 2022","away_score":"31","home_score":"21"},"Los Angeles Rams_Tampa Bay Buccaneers":{"date":"Nov 6, 2022","away_score":"13","home_score":"16"},"Tennessee Titans_Kansas City Chiefs":{"date":"Nov 6, 2022","away_score":"17","home_score":"20"},"Baltimore Ravens_New Orleans Saints":{"date":"Nov 7, 2022","away_score":"27","home_score":"13"}},"10":{"Atlanta Falcons_Carolina Panthers":{"date":"Nov 10, 2022","away_score":"15","home_score":"25"},"Seattle Seahawks_Tampa Bay Buccaneers":{"date":"Nov 13, 2022","away_score":"16","home_score":"21"},"Minnesota Vikings_Buffalo Bills":{"date":"Nov 13, 2022","away_score":"33","home_score":"30"},"Detroit Lions_Chicago Bears":{"date":"Nov 13, 2022","away_score":"31","home_score":"30"},"Jacksonville Jaguars_Kansas City Chiefs":{"date":"Nov 13, 2022","away_score":"17","home_score":"27"},"Cleveland Browns_Miami Dolphins":{"date":"Nov 13, 2022","away_score":"17","home_score":"39"},"Houston Texans_New York Giants":{"date":"Nov 13, 2022","away_score":"16","home_score":"24"},"Denver Broncos_Tennessee Titans":{"date":"Nov 13, 2022","away_score":"10","home_score":"17"},"New Orleans Saints_Pittsburgh Steelers":{"date":"Nov 13, 2022","away_score":"10","home_score":"20"},"Indianapolis Colts_Las Vegas Raiders":{"date":"Nov 13, 2022","away_score":"25","home_score":"20"},"Dallas Cowboys_Green Bay Packers":{"date":"Nov 13, 2022","away_score":"28","home_score":"31"},"Arizona Cardinals_Los Angeles Rams":{"date":"Nov 13, 2022","away_score":"27","home_score":"17"},"Los Angeles Chargers_San Francisco 49ers":{"date":"Nov 13, 2022","away_score":"16","home_score":"22"},"Washington Commanders_Philadelphia Eagles":{"date":"Nov 14, 2022","away_score":"32","home_score":"21"}},"11":{"Tennessee Titans_Green Bay Packers":{"date":"Nov 17, 2022","away_score":"27","home_score":"17"},"Chicago Bears_Atlanta Falcons":{"date":"Nov 20, 2022","away_score":"24","home_score":"27"},"Cleveland Browns_Buffalo Bills":{"date":"Nov 20, 2022","away_score":"23","home_score":"31"},"Philadelphia Eagles_Indianapolis Colts":{"date":"Nov 20, 2022","away_score":"17","home_score":"16"},"Washington Commanders_Houston Texans":{"date":"Nov 20, 2022","away_score":"23","home_score":"10"},"Los Angeles Rams_New Orleans Saints":{"date":"Nov 20, 2022","away_score":"20","home_score":"27"},"New York Jets_New England Patriots":{"date":"Nov 20, 2022","away_score":"3","home_score":"10"},"Detroit Lions_New York Giants":{"date":"Nov 20, 2022","away_score":"31","home_score":"18"},"Carolina Panthers_Baltimore Ravens":{"date":"Nov 20, 2022","away_score":"3","home_score":"13"},"Las Vegas Raiders_Denver Broncos":{"date":"Nov 20, 2022","away_score":"22","home_score":"16"},"Dallas Cowboys_Minnesota Vikings":{"date":"Nov 20, 2022","away_score":"40","home_score":"3"},"Cincinnati Bengals_Pittsburgh Steelers":{"date":"Nov 20, 2022","away_score":"37","home_score":"30"},"Kansas City Chiefs_Los Angeles Chargers":{"date":"Nov 20, 2022","away_score":"30","home_score":"27"},"San Francisco 49ers_Arizona Cardinals":{"date":"Nov 21, 2022","away_score":"38","home_score":"10"}},"12":{"Buffalo Bills_Detroit Lions":{"date":"Nov 24, 2022","away_score":"28","home_score":"25"},"New York Giants_Dallas Cowboys":{"date":"Nov 24, 2022","away_score":"20","home_score":"28"},"New England Patriots_Minnesota Vikings":{"date":"Nov 24, 2022","away_score":"26","home_score":"33"},"Denver Broncos_Carolina Panthers":{"date":"Nov 27, 2022","away_score":"10","home_score":"23"},"Tampa Bay Buccaneers_Cleveland Browns":{"date":"Nov 27, 2022","away_score":"17","home_score":"23"},"Baltimore Ravens_Jacksonville Jaguars":{"date":"Nov 27, 2022","away_score":"27","home_score":"28"},"Houston Texans_Miami Dolphins":{"date":"Nov 27, 2022","away_score":"15","home_score":"30"},"Chicago Bears_New York Jets":{"date":"Nov 27, 2022","away_score":"10","home_score":"31"},"Cincinnati Bengals_Tennessee Titans":{"date":"Nov 27, 2022","away_score":"20","home_score":"16"},"Atlanta Falcons_Washington Commanders":{"date":"Nov 27, 2022","away_score":"13","home_score":"19"},"Los Angeles Chargers_Arizona Cardinals":{"date":"Nov 27, 2022","away_score":"25","home_score":"24"},"Las Vegas Raiders_Seattle Seahawks":{"date":"Nov 27, 2022","away_score":"40","home_score":"34"},"Los Angeles Rams_Kansas City Chiefs":{"date":"Nov 27, 2022","away_score":"10","home_score":"26"},"New Orleans Saints_San Francisco 49ers":{"date":"Nov 27, 2022","away_score":"0","home_score":"13"},"Green Bay Packers_Philadelphia Eagles":{"date":"Nov 27, 2022","away_score":"33","home_score":"40"},"Pittsburgh Steelers_Indianapolis Colts":{"date":"Nov 28, 2022","away_score":"24","home_score":"17"}},"13":{"Buffalo Bills_New England Patriots":{"date":"Dec 1, 2022","away_score":"24","home_score":"10"},"Pittsburgh Steelers_Atlanta Falcons":{"date":"Dec 4, 2022","away_score":"19","home_score":"16"},"Green Bay Packers_Chicago Bears":{"date":"Dec 4, 2022","away_score":"28","home_score":"19"},"Jacksonville Jaguars_Detroit Lions":{"date":"Dec 4, 2022","away_score":"14","home_score":"40"},"Cleveland Browns_Houston Texans":{"date":"Dec 4, 2022","away_score":"27","home_score":"14"},"New York Jets_Minnesota Vikings":{"date":"Dec 4, 2022","away_score":"22","home_score":"27"},"Washington Commanders_New York Giants":{"date":"Dec 4, 2022","away_score":"20","home_score":"20"},"Tennessee Titans_Philadelphia Eagles":{"date":"Dec 4, 2022","away_score":"10","home_score":"35"},"Denver Broncos_Baltimore Ravens":{"date":"Dec 4, 2022","away_score":"9","home_score":"10"},"Seattle Seahawks_Los Angeles Rams":{"date":"Dec 4, 2022","away_score":"27","home_score":"23"},"Miami Dolphins_San Francisco 49ers":{"date":"Dec 4, 2022","away_score":"17","home_score":"33"},"Kansas City Chiefs_Cincinnati Bengals":{"date":"Dec 4, 2022","away_score":"24","home_score":"27"},"Los Angeles Chargers_Las Vegas Raiders":{"date":"Dec 4, 2022","away_score":"20","home_score":"27"},"Indianapolis Colts_Dallas Cowboys":{"date":"Dec 4, 2022","away_score":"19","home_score":"54"},"New Orleans Saints_Tampa Bay Buccaneers":{"date":"Dec 5, 2022","away_score":"16","home_score":"17"}},"14":{"Las Vegas Raiders_Los Angeles Rams":{"date":"Dec 8, 2022","away_score":"16","home_score":"17"},"New York Jets_Buffalo Bills":{"date":"Dec 11, 2022","away_score":"12","home_score":"20"},"Cleveland Browns_Cincinnati Bengals":{"date":"Dec 11, 2022","away_score":"10","home_score":"23"},"Houston Texans_Dallas Cowboys":{"date":"Dec 11, 2022","away_score":"23","home_score":"27"},"Minnesota Vikings_Detroit Lions":{"date":"Dec 11, 2022","away_score":"23","home_score":"34"},"Philadelphia Eagles_New York Giants":{"date":"Dec 11, 2022","away_score":"48","home_score":"22"},"Jacksonville Jaguars_Tennessee Titans":{"date":"Dec 11, 2022","away_score":"36","home_score":"22"},"Baltimore Ravens_Pittsburgh Steelers":{"date":"Dec 11, 2022","away_score":"16","home_score":"14"},"Kansas City Chiefs_Denver Broncos":{"date":"Dec 11, 2022","away_score":"34","home_score":"28"},"Carolina Panthers_Seattle Seahawks":{"date":"Dec 11, 2022","away_score":"30","home_score":"24"},"Tampa Bay Buccaneers_San Francisco 49ers":{"date":"Dec 11, 2022","away_score":"7","home_score":"35"},"Miami Dolphins_Los Angeles Chargers":{"date":"Dec 11, 2022","away_score":"17","home_score":"23"},"New England Patriots_Arizona Cardinals":{"date":"Dec 12, 2022","away_score":"27","home_score":"13"}},"15":{"San Francisco 49ers_Seattle Seahawks":{"date":"Dec 15, 2022","away_score":"21","home_score":"13"},"Indianapolis Colts_Minnesota Vikings":{"date":"Dec 17, 2022","away_score":"36","home_score":"39"},"Baltimore Ravens_Cleveland Browns":{"date":"Dec 17, 2022","away_score":"3","home_score":"13"},"Miami Dolphins_Buffalo Bills":{"date":"Dec 17, 2022","away_score":"29","home_score":"32"},"Pittsburgh Steelers_Carolina Panthers":{"date":"Dec 18, 2022","away_score":"24","home_score":"16"},"Philadelphia Eagles_Chicago Bears":{"date":"Dec 18, 2022","away_score":"25","home_score":"20"},"Kansas City Chiefs_Houston Texans":{"date":"Dec 18, 2022","away_score":"30","home_score":"24"},"Dallas Cowboys_Jacksonville Jaguars":{"date":"Dec 18, 2022","away_score":"34","home_score":"40"},"Atlanta Falcons_New Orleans Saints":{"date":"Dec 18, 2022","away_score":"18","home_score":"21"},"Detroit Lions_New York Jets":{"date":"Dec 18, 2022","away_score":"20","home_score":"17"},"Arizona Cardinals_Denver Broncos":{"date":"Dec 18, 2022","away_score":"15","home_score":"24"},"Tennessee Titans_Los Angeles Chargers":{"date":"Dec 18, 2022","away_score":"14","home_score":"17"},"Cincinnati Bengals_Tampa Bay Buccaneers":{"date":"Dec 18, 2022","away_score":"34","home_score":"23"},"New York Giants_Washington Commanders":{"date":"Dec 18, 2022","away_score":"20","home_score":"12"},"New England Patriots_Las Vegas Raiders":{"date":"Dec 18, 2022","away_score":"24","home_score":"30"},"Los Angeles Rams_Green Bay Packers":{"date":"Dec 19, 2022","away_score":"12","home_score":"24"}},"16":{"Jacksonville Jaguars_New York Jets":{"date":"Dec 22, 2022","away_score":"19","home_score":"3"},"Detroit Lions_Carolina Panthers":{"date":"Dec 24, 2022","away_score":"23","home_score":"37"},"Buffalo Bills_Chicago Bears":{"date":"Dec 24, 2022","away_score":"35","home_score":"13"},"New Orleans Saints_Cleveland Browns":{"date":"Dec 24, 2022","away_score":"17","home_score":"10"},"Seattle Seahawks_Kansas City Chiefs":{"date":"Dec 24, 2022","away_score":"10","home_score":"24"},"New York Giants_Minnesota Vikings":{"date":"Dec 24, 2022","away_score":"24","home_score":"27"},"Cincinnati Bengals_New England Patriots":{"date":"Dec 24, 2022","away_score":"22","home_score":"18"},"Houston Texans_Tennessee Titans":{"date":"Dec 24, 2022","away_score":"19","home_score":"14"},"Atlanta Falcons_Baltimore Ravens":{"date":"Dec 24, 2022","away_score":"9","home_score":"17"},"Washington Commanders_San Francisco 49ers":{"date":"Dec 24, 2022","away_score":"20","home_score":"37"},"Philadelphia Eagles_Dallas Cowboys":{"date":"Dec 24, 2022","away_score":"34","home_score":"40"},"Las Vegas Raiders_Pittsburgh Steelers":{"date":"Dec 24, 2022","away_score":"10","home_score":"13"},"Green Bay Packers_Miami Dolphins":{"date":"Dec 25, 2022","away_score":"26","home_score":"20"},"Denver Broncos_Los Angeles Rams":{"date":"Dec 25, 2022","away_score":"14","home_score":"51"},"Tampa Bay Buccaneers_Arizona Cardinals":{"date":"Dec 25, 2022","away_score":"19","home_score":"16"},"Los Angeles Chargers_Indianapolis Colts":{"date":"Dec 26, 2022","away_score":"20","home_score":"3"}},"17":{"Dallas Cowboys_Tennessee Titans":{"date":"Dec 29, 2022","away_score":"27","home_score":"13"},"Arizona Cardinals_Atlanta Falcons":{"date":"Jan 1, 2023","away_score":"19","home_score":"20"},"Chicago Bears_Detroit Lions":{"date":"Jan 1, 2023","away_score":"10","home_score":"41"},"Jacksonville Jaguars_Houston Texans":{"date":"Jan 1, 2023","away_score":"31","home_score":"3"},"Denver Broncos_Kansas City Chiefs":{"date":"Jan 1, 2023","away_score":"24","home_score":"27"},"Miami Dolphins_New England Patriots":{"date":"Jan 1, 2023","away_score":"21","home_score":"23"},"Indianapolis Colts_New York Giants":{"date":"Jan 1, 2023","away_score":"10","home_score":"38"},"New Orleans Saints_Philadelphia Eagles":{"date":"Jan 1, 2023","away_score":"20","home_score":"10"},"Pittsburgh Steelers_Baltimore Ravens":{"date":"Jan 1, 2023","away_score":"16","home_score":"13"},"Carolina Panthers_Tampa Bay Buccaneers":{"date":"Jan 1, 2023","away_score":"24","home_score":"30"},"Cleveland Browns_Washington Commanders":{"date":"Jan 1, 2023","away_score":"24","home_score":"10"},"San Francisco 49ers_Las Vegas Raiders":{"date":"Jan 1, 2023","away_score":"37","home_score":"34"},"New York Jets_Seattle Seahawks":{"date":"Jan 1, 2023","away_score":"6","home_score":"23"},"Minnesota Vikings_Green Bay Packers":{"date":"Jan 1, 2023","away_score":"17","home_score":"41"},"Los Angeles Rams_Los Angeles Chargers":{"date":"Jan 1, 2023","away_score":"10","home_score":"31"}},"18":{"Kansas City Chiefs_Las Vegas Raiders":{"date":"Jan 7, 2023","away_score":"31","home_score":"13"},"Tennessee Titans_Jacksonville Jaguars":{"date":"Jan 7, 2023","away_score":"16","home_score":"20"},"Tampa Bay Buccaneers_Atlanta Falcons":{"date":"Jan 8, 2023","away_score":"17","home_score":"30"},"New England Patriots_Buffalo Bills":{"date":"Jan 8, 2023","away_score":"23","home_score":"35"},"Minnesota Vikings_Chicago Bears":{"date":"Jan 8, 2023","away_score":"29","home_score":"13"},"Baltimore Ravens_Cincinnati Bengals":{"date":"Jan 8, 2023","away_score":"16","home_score":"27"},"Houston Texans_Indianapolis Colts":{"date":"Jan 8, 2023","away_score":"32","home_score":"31"},"New York Jets_Miami Dolphins":{"date":"Jan 8, 2023","away_score":"6","home_score":"11"},"Carolina Panthers_New Orleans Saints":{"date":"Jan 8, 2023","away_score":"10","home_score":"7"},"Cleveland Browns_Pittsburgh Steelers":{"date":"Jan 8, 2023","away_score":"14","home_score":"28"},"Los Angeles Chargers_Denver Broncos":{"date":"Jan 8, 2023","away_score":"28","home_score":"31"},"New York Giants_Philadelphia Eagles":{"date":"Jan 8, 2023","away_score":"16","home_score":"22"},"Los Angeles Rams_Seattle Seahawks":{"date":"Jan 8, 2023","away_score":"16","home_score":"19"},"Arizona Cardinals_San Francisco 49ers":{"date":"Jan 8, 2023","away_score":"13","home_score":"38"},"Dallas Cowboys_Washington Commanders":{"date":"Jan 8, 2023","away_score":"6","home_score":"26"},"Detroit Lions_Green Bay Packers":{"date":"Jan 8, 2023","away_score":"20","home_score":"16"}},"19":{"Seattle Seahawks_San Francisco 49ers":{"date":"Jan 14, 2023","away_score":"23","home_score":"41"},"Los Angeles Chargers_Jacksonville Jaguars":{"date":"Jan 14, 2023","away_score":"30","home_score":"31"},"Miami Dolphins_Buffalo Bills":{"date":"Jan 15, 2023","away_score":"31","home_score":"34"},"New York Giants_Minnesota Vikings":{"date":"Jan 15, 2023","away_score":"31","home_score":"24"},"Baltimore Ravens_Cincinnati Bengals":{"date":"Jan 15, 2023","away_score":"17","home_score":"24"},"Dallas Cowboys_Tampa Bay Buccaneers":{"date":"Jan 16, 2023","away_score":"31","home_score":"14"}},"20":{"Jacksonville Jaguars_Kansas City Chiefs":{"date":"Jan 21, 2023","away_score":"20","home_score":"27"},"New York Giants_Philadelphia Eagles":{"date":"Jan 21, 2023","away_score":"7","home_score":"38"},"Cincinnati Bengals_Buffalo Bills":{"date":"Jan 22, 2023","away_score":"27","home_score":"10"},"Dallas Cowboys_San Francisco 49ers":{"date":"Jan 22, 2023","away_score":"12","home_score":"19"}},"21":{"San Francisco 49ers_Philadelphia Eagles":{"date":"Jan 29, 2023","away_score":"7","home_score":"31"},"Cincinnati Bengals_Kansas City Chiefs":{"date":"Jan 29, 2023","away_score":"20","home_score":"23"}},"22":{"Kansas City Chiefs_Philadelphia Eagles":{"date":"Sunday","away_score":"","home_score":""}}}}
+{
+    "2010": {},
+    "2011": {},
+    "2012": {},
+    "2013": {},
+    "2014": {},
+    "2015": {},
+    "2016": {},
+    "2017": {},
+    "2018": {},
+    "2019": {},
+    "2020": {
+        "1": {
+            "Houston Texans_Kansas City Chiefs": {
+                "date": "Sep 10, 2020",
+                "away_score": "20",
+                "home_score": "34"
+            },
+            "Seattle Seahawks_Atlanta Falcons": {
+                "date": "Sep 13, 2020",
+                "away_score": "38",
+                "home_score": "25"
+            },
+            "New York Jets_Buffalo Bills": {
+                "date": "Sep 13, 2020",
+                "away_score": "17",
+                "home_score": "27"
+            },
+            "Las Vegas Raiders_Carolina Panthers": {
+                "date": "Sep 13, 2020",
+                "away_score": "34",
+                "home_score": "30"
+            },
+            "Chicago Bears_Detroit Lions": {
+                "date": "Sep 13, 2020",
+                "away_score": "27",
+                "home_score": "23"
+            },
+            "Indianapolis Colts_Jacksonville Jaguars": {
+                "date": "Sep 13, 2020",
+                "away_score": "20",
+                "home_score": "27"
+            },
+            "Green Bay Packers_Minnesota Vikings": {
+                "date": "Sep 13, 2020",
+                "away_score": "43",
+                "home_score": "34"
+            },
+            "Miami Dolphins_New England Patriots": {
+                "date": "Sep 13, 2020",
+                "away_score": "11",
+                "home_score": "21"
+            },
+            "Cleveland Browns_Baltimore Ravens": {
+                "date": "Sep 13, 2020",
+                "away_score": "6",
+                "home_score": "38"
+            },
+            "Philadelphia Eagles_Washington Football Team": {
+                "date": "Sep 13, 2020",
+                "away_score": "17",
+                "home_score": "27"
+            },
+            "Los Angeles Chargers_Cincinnati Bengals": {
+                "date": "Sep 13, 2020",
+                "away_score": "16",
+                "home_score": "13"
+            },
+            "Tampa Bay Buccaneers_New Orleans Saints": {
+                "date": "Sep 13, 2020",
+                "away_score": "23",
+                "home_score": "34"
+            },
+            "Arizona Cardinals_San Francisco 49ers": {
+                "date": "Sep 13, 2020",
+                "away_score": "24",
+                "home_score": "20"
+            },
+            "Dallas Cowboys_Los Angeles Rams": {
+                "date": "Sep 13, 2020",
+                "away_score": "17",
+                "home_score": "20"
+            },
+            "Pittsburgh Steelers_New York Giants": {
+                "date": "Sep 14, 2020",
+                "away_score": "26",
+                "home_score": "16"
+            },
+            "Tennessee Titans_Denver Broncos": {
+                "date": "Sep 14, 2020",
+                "away_score": "16",
+                "home_score": "14"
+            }
+        },
+        "2": {
+            "Cincinnati Bengals_Cleveland Browns": {
+                "date": "Sep 17, 2020",
+                "away_score": "30",
+                "home_score": "35"
+            },
+            "New York Giants_Chicago Bears": {
+                "date": "Sep 20, 2020",
+                "away_score": "13",
+                "home_score": "17"
+            },
+            "Minnesota Vikings_Indianapolis Colts": {
+                "date": "Sep 20, 2020",
+                "away_score": "11",
+                "home_score": "28"
+            },
+            "Atlanta Falcons_Dallas Cowboys": {
+                "date": "Sep 20, 2020",
+                "away_score": "39",
+                "home_score": "40"
+            },
+            "Detroit Lions_Green Bay Packers": {
+                "date": "Sep 20, 2020",
+                "away_score": "21",
+                "home_score": "42"
+            },
+            "Buffalo Bills_Miami Dolphins": {
+                "date": "Sep 20, 2020",
+                "away_score": "31",
+                "home_score": "28"
+            },
+            "San Francisco 49ers_New York Jets": {
+                "date": "Sep 20, 2020",
+                "away_score": "31",
+                "home_score": "13"
+            },
+            "Jacksonville Jaguars_Tennessee Titans": {
+                "date": "Sep 20, 2020",
+                "away_score": "30",
+                "home_score": "33"
+            },
+            "Los Angeles Rams_Philadelphia Eagles": {
+                "date": "Sep 20, 2020",
+                "away_score": "37",
+                "home_score": "19"
+            },
+            "Denver Broncos_Pittsburgh Steelers": {
+                "date": "Sep 20, 2020",
+                "away_score": "21",
+                "home_score": "26"
+            },
+            "Carolina Panthers_Tampa Bay Buccaneers": {
+                "date": "Sep 20, 2020",
+                "away_score": "17",
+                "home_score": "31"
+            },
+            "Washington Football Team_Arizona Cardinals": {
+                "date": "Sep 20, 2020",
+                "away_score": "15",
+                "home_score": "30"
+            },
+            "Baltimore Ravens_Houston Texans": {
+                "date": "Sep 20, 2020",
+                "away_score": "33",
+                "home_score": "16"
+            },
+            "Kansas City Chiefs_Los Angeles Chargers": {
+                "date": "Sep 20, 2020",
+                "away_score": "23",
+                "home_score": "20"
+            },
+            "New England Patriots_Seattle Seahawks": {
+                "date": "Sep 20, 2020",
+                "away_score": "30",
+                "home_score": "35"
+            },
+            "New Orleans Saints_Las Vegas Raiders": {
+                "date": "Sep 21, 2020",
+                "away_score": "24",
+                "home_score": "34"
+            }
+        },
+        "3": {
+            "Miami Dolphins_Jacksonville Jaguars": {
+                "date": "Sep 24, 2020",
+                "away_score": "31",
+                "home_score": "13"
+            },
+            "Chicago Bears_Atlanta Falcons": {
+                "date": "Sep 27, 2020",
+                "away_score": "30",
+                "home_score": "26"
+            },
+            "Los Angeles Rams_Buffalo Bills": {
+                "date": "Sep 27, 2020",
+                "away_score": "32",
+                "home_score": "35"
+            },
+            "Washington Football Team_Cleveland Browns": {
+                "date": "Sep 27, 2020",
+                "away_score": "20",
+                "home_score": "34"
+            },
+            "Tennessee Titans_Minnesota Vikings": {
+                "date": "Sep 27, 2020",
+                "away_score": "31",
+                "home_score": "30"
+            },
+            "Las Vegas Raiders_New England Patriots": {
+                "date": "Sep 27, 2020",
+                "away_score": "20",
+                "home_score": "36"
+            },
+            "San Francisco 49ers_New York Giants": {
+                "date": "Sep 27, 2020",
+                "away_score": "36",
+                "home_score": "9"
+            },
+            "Cincinnati Bengals_Philadelphia Eagles": {
+                "date": "Sep 27, 2020",
+                "away_score": "23",
+                "home_score": "23"
+            },
+            "Houston Texans_Pittsburgh Steelers": {
+                "date": "Sep 27, 2020",
+                "away_score": "21",
+                "home_score": "28"
+            },
+            "New York Jets_Indianapolis Colts": {
+                "date": "Sep 27, 2020",
+                "away_score": "7",
+                "home_score": "36"
+            },
+            "Carolina Panthers_Los Angeles Chargers": {
+                "date": "Sep 27, 2020",
+                "away_score": "21",
+                "home_score": "16"
+            },
+            "Detroit Lions_Arizona Cardinals": {
+                "date": "Sep 27, 2020",
+                "away_score": "26",
+                "home_score": "23"
+            },
+            "Tampa Bay Buccaneers_Denver Broncos": {
+                "date": "Sep 27, 2020",
+                "away_score": "28",
+                "home_score": "10"
+            },
+            "Dallas Cowboys_Seattle Seahawks": {
+                "date": "Sep 27, 2020",
+                "away_score": "31",
+                "home_score": "38"
+            },
+            "Green Bay Packers_New Orleans Saints": {
+                "date": "Sep 27, 2020",
+                "away_score": "37",
+                "home_score": "30"
+            },
+            "Kansas City Chiefs_Baltimore Ravens": {
+                "date": "Sep 28, 2020",
+                "away_score": "34",
+                "home_score": "20"
+            }
+        },
+        "4": {
+            "Denver Broncos_New York Jets": {
+                "date": "Oct 1, 2020",
+                "away_score": "37",
+                "home_score": "28"
+            },
+            "Arizona Cardinals_Carolina Panthers": {
+                "date": "Oct 4, 2020",
+                "away_score": "21",
+                "home_score": "31"
+            },
+            "Indianapolis Colts_Chicago Bears": {
+                "date": "Oct 4, 2020",
+                "away_score": "19",
+                "home_score": "11"
+            },
+            "Jacksonville Jaguars_Cincinnati Bengals": {
+                "date": "Oct 4, 2020",
+                "away_score": "25",
+                "home_score": "33"
+            },
+            "Cleveland Browns_Dallas Cowboys": {
+                "date": "Oct 4, 2020",
+                "away_score": "49",
+                "home_score": "38"
+            },
+            "New Orleans Saints_Detroit Lions": {
+                "date": "Oct 4, 2020",
+                "away_score": "35",
+                "home_score": "29"
+            },
+            "Minnesota Vikings_Houston Texans": {
+                "date": "Oct 4, 2020",
+                "away_score": "31",
+                "home_score": "23"
+            },
+            "Seattle Seahawks_Miami Dolphins": {
+                "date": "Oct 4, 2020",
+                "away_score": "31",
+                "home_score": "23"
+            },
+            "Los Angeles Chargers_Tampa Bay Buccaneers": {
+                "date": "Oct 4, 2020",
+                "away_score": "31",
+                "home_score": "38"
+            },
+            "Baltimore Ravens_Washington Football Team": {
+                "date": "Oct 4, 2020",
+                "away_score": "31",
+                "home_score": "17"
+            },
+            "New York Giants_Los Angeles Rams": {
+                "date": "Oct 4, 2020",
+                "away_score": "9",
+                "home_score": "17"
+            },
+            "Buffalo Bills_Las Vegas Raiders": {
+                "date": "Oct 4, 2020",
+                "away_score": "30",
+                "home_score": "23"
+            },
+            "Philadelphia Eagles_San Francisco 49ers": {
+                "date": "Oct 4, 2020",
+                "away_score": "25",
+                "home_score": "20"
+            },
+            "New England Patriots_Kansas City Chiefs": {
+                "date": "Oct 5, 2020",
+                "away_score": "10",
+                "home_score": "26"
+            },
+            "Atlanta Falcons_Green Bay Packers": {
+                "date": "Oct 5, 2020",
+                "away_score": "16",
+                "home_score": "30"
+            }
+        },
+        "5": {
+            "Tampa Bay Buccaneers_Chicago Bears": {
+                "date": "Oct 8, 2020",
+                "away_score": "19",
+                "home_score": "20"
+            },
+            "Carolina Panthers_Atlanta Falcons": {
+                "date": "Oct 11, 2020",
+                "away_score": "23",
+                "home_score": "16"
+            },
+            "Jacksonville Jaguars_Houston Texans": {
+                "date": "Oct 11, 2020",
+                "away_score": "14",
+                "home_score": "30"
+            },
+            "Las Vegas Raiders_Kansas City Chiefs": {
+                "date": "Oct 11, 2020",
+                "away_score": "40",
+                "home_score": "32"
+            },
+            "Arizona Cardinals_New York Jets": {
+                "date": "Oct 11, 2020",
+                "away_score": "30",
+                "home_score": "10"
+            },
+            "Philadelphia Eagles_Pittsburgh Steelers": {
+                "date": "Oct 11, 2020",
+                "away_score": "29",
+                "home_score": "38"
+            },
+            "Cincinnati Bengals_Baltimore Ravens": {
+                "date": "Oct 11, 2020",
+                "away_score": "3",
+                "home_score": "27"
+            },
+            "Los Angeles Rams_Washington Football Team": {
+                "date": "Oct 11, 2020",
+                "away_score": "30",
+                "home_score": "10"
+            },
+            "Miami Dolphins_San Francisco 49ers": {
+                "date": "Oct 11, 2020",
+                "away_score": "43",
+                "home_score": "17"
+            },
+            "Indianapolis Colts_Cleveland Browns": {
+                "date": "Oct 11, 2020",
+                "away_score": "23",
+                "home_score": "32"
+            },
+            "New York Giants_Dallas Cowboys": {
+                "date": "Oct 11, 2020",
+                "away_score": "34",
+                "home_score": "37"
+            },
+            "Minnesota Vikings_Seattle Seahawks": {
+                "date": "Oct 11, 2020",
+                "away_score": "26",
+                "home_score": "27"
+            },
+            "Los Angeles Chargers_New Orleans Saints": {
+                "date": "Oct 12, 2020",
+                "away_score": "27",
+                "home_score": "30"
+            },
+            "Buffalo Bills_Tennessee Titans": {
+                "date": "Oct 13, 2020",
+                "away_score": "16",
+                "home_score": "42"
+            }
+        },
+        "6": {
+            "Chicago Bears_Carolina Panthers": {
+                "date": "Oct 18, 2020",
+                "away_score": "23",
+                "home_score": "16"
+            },
+            "Cincinnati Bengals_Indianapolis Colts": {
+                "date": "Oct 18, 2020",
+                "away_score": "27",
+                "home_score": "31"
+            },
+            "Detroit Lions_Jacksonville Jaguars": {
+                "date": "Oct 18, 2020",
+                "away_score": "34",
+                "home_score": "16"
+            },
+            "Atlanta Falcons_Minnesota Vikings": {
+                "date": "Oct 18, 2020",
+                "away_score": "40",
+                "home_score": "23"
+            },
+            "Denver Broncos_New England Patriots": {
+                "date": "Oct 18, 2020",
+                "away_score": "18",
+                "home_score": "12"
+            },
+            "Washington Football Team_New York Giants": {
+                "date": "Oct 18, 2020",
+                "away_score": "19",
+                "home_score": "20"
+            },
+            "Houston Texans_Tennessee Titans": {
+                "date": "Oct 18, 2020",
+                "away_score": "36",
+                "home_score": "42"
+            },
+            "Baltimore Ravens_Philadelphia Eagles": {
+                "date": "Oct 18, 2020",
+                "away_score": "30",
+                "home_score": "28"
+            },
+            "Cleveland Browns_Pittsburgh Steelers": {
+                "date": "Oct 18, 2020",
+                "away_score": "7",
+                "home_score": "38"
+            },
+            "New York Jets_Miami Dolphins": {
+                "date": "Oct 18, 2020",
+                "away_score": "0",
+                "home_score": "24"
+            },
+            "Green Bay Packers_Tampa Bay Buccaneers": {
+                "date": "Oct 18, 2020",
+                "away_score": "10",
+                "home_score": "38"
+            },
+            "Los Angeles Rams_San Francisco 49ers": {
+                "date": "Oct 18, 2020",
+                "away_score": "16",
+                "home_score": "24"
+            },
+            "Kansas City Chiefs_Buffalo Bills": {
+                "date": "Oct 19, 2020",
+                "away_score": "26",
+                "home_score": "17"
+            },
+            "Arizona Cardinals_Dallas Cowboys": {
+                "date": "Oct 19, 2020",
+                "away_score": "38",
+                "home_score": "10"
+            }
+        },
+        "7": {
+            "New York Giants_Philadelphia Eagles": {
+                "date": "Oct 22, 2020",
+                "away_score": "21",
+                "home_score": "22"
+            },
+            "Detroit Lions_Atlanta Falcons": {
+                "date": "Oct 25, 2020",
+                "away_score": "23",
+                "home_score": "22"
+            },
+            "Cleveland Browns_Cincinnati Bengals": {
+                "date": "Oct 25, 2020",
+                "away_score": "37",
+                "home_score": "34"
+            },
+            "Green Bay Packers_Houston Texans": {
+                "date": "Oct 25, 2020",
+                "away_score": "35",
+                "home_score": "20"
+            },
+            "Carolina Panthers_New Orleans Saints": {
+                "date": "Oct 25, 2020",
+                "away_score": "24",
+                "home_score": "27"
+            },
+            "Buffalo Bills_New York Jets": {
+                "date": "Oct 25, 2020",
+                "away_score": "18",
+                "home_score": "10"
+            },
+            "Pittsburgh Steelers_Tennessee Titans": {
+                "date": "Oct 25, 2020",
+                "away_score": "27",
+                "home_score": "24"
+            },
+            "Dallas Cowboys_Washington Football Team": {
+                "date": "Oct 25, 2020",
+                "away_score": "3",
+                "home_score": "25"
+            },
+            "Tampa Bay Buccaneers_Las Vegas Raiders": {
+                "date": "Oct 25, 2020",
+                "away_score": "45",
+                "home_score": "20"
+            },
+            "Kansas City Chiefs_Denver Broncos": {
+                "date": "Oct 25, 2020",
+                "away_score": "43",
+                "home_score": "16"
+            },
+            "San Francisco 49ers_New England Patriots": {
+                "date": "Oct 25, 2020",
+                "away_score": "33",
+                "home_score": "6"
+            },
+            "Jacksonville Jaguars_Los Angeles Chargers": {
+                "date": "Oct 25, 2020",
+                "away_score": "29",
+                "home_score": "39"
+            },
+            "Seattle Seahawks_Arizona Cardinals": {
+                "date": "Oct 25, 2020",
+                "away_score": "34",
+                "home_score": "37"
+            },
+            "Chicago Bears_Los Angeles Rams": {
+                "date": "Oct 26, 2020",
+                "away_score": "10",
+                "home_score": "24"
+            }
+        },
+        "8": {},
+        "9": {},
+        "10": {},
+        "11": {},
+        "12": {},
+        "13": {},
+        "14": {},
+        "15": {},
+        "16": {},
+        "17": {},
+        "18": {},
+        "19": {},
+        "20": {},
+        "21": {}
+    },
+    "2021": {
+        "1": {
+            "Dallas Cowboys_Tampa Bay Buccaneers": {
+                "date": "Sep 9, 2021",
+                "away_score": "29",
+                "home_score": "31"
+            },
+            "Philadelphia Eagles_Atlanta Falcons": {
+                "date": "Sep 12, 2021",
+                "away_score": "32",
+                "home_score": "6"
+            },
+            "Pittsburgh Steelers_Buffalo Bills": {
+                "date": "Sep 12, 2021",
+                "away_score": "23",
+                "home_score": "16"
+            },
+            "New York Jets_Carolina Panthers": {
+                "date": "Sep 12, 2021",
+                "away_score": "14",
+                "home_score": "19"
+            },
+            "Minnesota Vikings_Cincinnati Bengals": {
+                "date": "Sep 12, 2021",
+                "away_score": "24",
+                "home_score": "27"
+            },
+            "Seattle Seahawks_Indianapolis Colts": {
+                "date": "Sep 12, 2021",
+                "away_score": "28",
+                "home_score": "16"
+            },
+            "San Francisco 49ers_Detroit Lions": {
+                "date": "Sep 12, 2021",
+                "away_score": "41",
+                "home_score": "33"
+            },
+            "Jacksonville Jaguars_Houston Texans": {
+                "date": "Sep 12, 2021",
+                "away_score": "21",
+                "home_score": "37"
+            },
+            "Arizona Cardinals_Tennessee Titans": {
+                "date": "Sep 12, 2021",
+                "away_score": "38",
+                "home_score": "13"
+            },
+            "Los Angeles Chargers_Washington Football Team": {
+                "date": "Sep 12, 2021",
+                "away_score": "20",
+                "home_score": "16"
+            },
+            "Cleveland Browns_Kansas City Chiefs": {
+                "date": "Sep 12, 2021",
+                "away_score": "29",
+                "home_score": "33"
+            },
+            "Green Bay Packers_New Orleans Saints": {
+                "date": "Sep 12, 2021",
+                "away_score": "3",
+                "home_score": "38"
+            },
+            "Miami Dolphins_New England Patriots": {
+                "date": "Sep 12, 2021",
+                "away_score": "17",
+                "home_score": "16"
+            },
+            "Denver Broncos_New York Giants": {
+                "date": "Sep 12, 2021",
+                "away_score": "27",
+                "home_score": "13"
+            },
+            "Chicago Bears_Los Angeles Rams": {
+                "date": "Sep 12, 2021",
+                "away_score": "14",
+                "home_score": "34"
+            },
+            "Baltimore Ravens_Las Vegas Raiders": {
+                "date": "Sep 13, 2021",
+                "away_score": "27",
+                "home_score": "33"
+            }
+        },
+        "2": {
+            "New York Giants_Washington Football Team": {
+                "date": "Sep 16, 2021",
+                "away_score": "29",
+                "home_score": "30"
+            },
+            "New Orleans Saints_Carolina Panthers": {
+                "date": "Sep 19, 2021",
+                "away_score": "7",
+                "home_score": "26"
+            },
+            "Cincinnati Bengals_Chicago Bears": {
+                "date": "Sep 19, 2021",
+                "away_score": "17",
+                "home_score": "20"
+            },
+            "Houston Texans_Cleveland Browns": {
+                "date": "Sep 19, 2021",
+                "away_score": "21",
+                "home_score": "31"
+            },
+            "Los Angeles Rams_Indianapolis Colts": {
+                "date": "Sep 19, 2021",
+                "away_score": "27",
+                "home_score": "24"
+            },
+            "Denver Broncos_Jacksonville Jaguars": {
+                "date": "Sep 19, 2021",
+                "away_score": "23",
+                "home_score": "13"
+            },
+            "Buffalo Bills_Miami Dolphins": {
+                "date": "Sep 19, 2021",
+                "away_score": "35",
+                "home_score": "0"
+            },
+            "New England Patriots_New York Jets": {
+                "date": "Sep 19, 2021",
+                "away_score": "25",
+                "home_score": "6"
+            },
+            "San Francisco 49ers_Philadelphia Eagles": {
+                "date": "Sep 19, 2021",
+                "away_score": "17",
+                "home_score": "11"
+            },
+            "Las Vegas Raiders_Pittsburgh Steelers": {
+                "date": "Sep 19, 2021",
+                "away_score": "26",
+                "home_score": "17"
+            },
+            "Minnesota Vikings_Arizona Cardinals": {
+                "date": "Sep 19, 2021",
+                "away_score": "33",
+                "home_score": "34"
+            },
+            "Atlanta Falcons_Tampa Bay Buccaneers": {
+                "date": "Sep 19, 2021",
+                "away_score": "25",
+                "home_score": "48"
+            },
+            "Dallas Cowboys_Los Angeles Chargers": {
+                "date": "Sep 19, 2021",
+                "away_score": "20",
+                "home_score": "17"
+            },
+            "Tennessee Titans_Seattle Seahawks": {
+                "date": "Sep 19, 2021",
+                "away_score": "33",
+                "home_score": "30"
+            },
+            "Kansas City Chiefs_Baltimore Ravens": {
+                "date": "Sep 19, 2021",
+                "away_score": "35",
+                "home_score": "36"
+            },
+            "Detroit Lions_Green Bay Packers": {
+                "date": "Sep 20, 2021",
+                "away_score": "17",
+                "home_score": "35"
+            }
+        },
+        "3": {
+            "Carolina Panthers_Houston Texans": {
+                "date": "Sep 23, 2021",
+                "away_score": "24",
+                "home_score": "9"
+            },
+            "Washington Football Team_Buffalo Bills": {
+                "date": "Sep 26, 2021",
+                "away_score": "21",
+                "home_score": "43"
+            },
+            "Chicago Bears_Cleveland Browns": {
+                "date": "Sep 26, 2021",
+                "away_score": "6",
+                "home_score": "26"
+            },
+            "Baltimore Ravens_Detroit Lions": {
+                "date": "Sep 26, 2021",
+                "away_score": "19",
+                "home_score": "17"
+            },
+            "Arizona Cardinals_Jacksonville Jaguars": {
+                "date": "Sep 26, 2021",
+                "away_score": "31",
+                "home_score": "19"
+            },
+            "Los Angeles Chargers_Kansas City Chiefs": {
+                "date": "Sep 26, 2021",
+                "away_score": "30",
+                "home_score": "24"
+            },
+            "New Orleans Saints_New England Patriots": {
+                "date": "Sep 26, 2021",
+                "away_score": "28",
+                "home_score": "13"
+            },
+            "Atlanta Falcons_New York Giants": {
+                "date": "Sep 26, 2021",
+                "away_score": "17",
+                "home_score": "14"
+            },
+            "Indianapolis Colts_Tennessee Titans": {
+                "date": "Sep 26, 2021",
+                "away_score": "16",
+                "home_score": "25"
+            },
+            "Cincinnati Bengals_Pittsburgh Steelers": {
+                "date": "Sep 26, 2021",
+                "away_score": "24",
+                "home_score": "10"
+            },
+            "New York Jets_Denver Broncos": {
+                "date": "Sep 26, 2021",
+                "away_score": "0",
+                "home_score": "26"
+            },
+            "Miami Dolphins_Las Vegas Raiders": {
+                "date": "Sep 26, 2021",
+                "away_score": "28",
+                "home_score": "31"
+            },
+            "Seattle Seahawks_Minnesota Vikings": {
+                "date": "Sep 26, 2021",
+                "away_score": "17",
+                "home_score": "30"
+            },
+            "Tampa Bay Buccaneers_Los Angeles Rams": {
+                "date": "Sep 26, 2021",
+                "away_score": "24",
+                "home_score": "34"
+            },
+            "Green Bay Packers_San Francisco 49ers": {
+                "date": "Sep 26, 2021",
+                "away_score": "30",
+                "home_score": "28"
+            },
+            "Philadelphia Eagles_Dallas Cowboys": {
+                "date": "Sep 27, 2021",
+                "away_score": "21",
+                "home_score": "41"
+            }
+        },
+        "4": {
+            "Jacksonville Jaguars_Cincinnati Bengals": {
+                "date": "Sep 30, 2021",
+                "away_score": "21",
+                "home_score": "24"
+            },
+            "Washington Football Team_Atlanta Falcons": {
+                "date": "Oct 3, 2021",
+                "away_score": "34",
+                "home_score": "30"
+            },
+            "Houston Texans_Buffalo Bills": {
+                "date": "Oct 3, 2021",
+                "away_score": "0",
+                "home_score": "40"
+            },
+            "Detroit Lions_Chicago Bears": {
+                "date": "Oct 3, 2021",
+                "away_score": "14",
+                "home_score": "24"
+            },
+            "Carolina Panthers_Dallas Cowboys": {
+                "date": "Oct 3, 2021",
+                "away_score": "28",
+                "home_score": "36"
+            },
+            "Indianapolis Colts_Miami Dolphins": {
+                "date": "Oct 3, 2021",
+                "away_score": "27",
+                "home_score": "17"
+            },
+            "Cleveland Browns_Minnesota Vikings": {
+                "date": "Oct 3, 2021",
+                "away_score": "14",
+                "home_score": "7"
+            },
+            "New York Giants_New Orleans Saints": {
+                "date": "Oct 3, 2021",
+                "away_score": "27",
+                "home_score": "21"
+            },
+            "Tennessee Titans_New York Jets": {
+                "date": "Oct 3, 2021",
+                "away_score": "24",
+                "home_score": "27"
+            },
+            "Kansas City Chiefs_Philadelphia Eagles": {
+                "date": "Oct 3, 2021",
+                "away_score": "42",
+                "home_score": "30"
+            },
+            "Arizona Cardinals_Los Angeles Rams": {
+                "date": "Oct 3, 2021",
+                "away_score": "37",
+                "home_score": "20"
+            },
+            "Seattle Seahawks_San Francisco 49ers": {
+                "date": "Oct 3, 2021",
+                "away_score": "28",
+                "home_score": "21"
+            },
+            "Baltimore Ravens_Denver Broncos": {
+                "date": "Oct 3, 2021",
+                "away_score": "23",
+                "home_score": "7"
+            },
+            "Pittsburgh Steelers_Green Bay Packers": {
+                "date": "Oct 3, 2021",
+                "away_score": "17",
+                "home_score": "27"
+            },
+            "Tampa Bay Buccaneers_New England Patriots": {
+                "date": "Oct 3, 2021",
+                "away_score": "19",
+                "home_score": "17"
+            },
+            "Las Vegas Raiders_Los Angeles Chargers": {
+                "date": "Oct 4, 2021",
+                "away_score": "14",
+                "home_score": "28"
+            }
+        },
+        "5": {
+            "Los Angeles Rams_Seattle Seahawks": {
+                "date": "Oct 7, 2021",
+                "away_score": "26",
+                "home_score": "17"
+            },
+            "New York Jets_Atlanta Falcons": {
+                "date": "Oct 10, 2021",
+                "away_score": "20",
+                "home_score": "27"
+            },
+            "Philadelphia Eagles_Carolina Panthers": {
+                "date": "Oct 10, 2021",
+                "away_score": "21",
+                "home_score": "18"
+            },
+            "Green Bay Packers_Cincinnati Bengals": {
+                "date": "Oct 10, 2021",
+                "away_score": "25",
+                "home_score": "22"
+            },
+            "New England Patriots_Houston Texans": {
+                "date": "Oct 10, 2021",
+                "away_score": "25",
+                "home_score": "22"
+            },
+            "Tennessee Titans_Jacksonville Jaguars": {
+                "date": "Oct 10, 2021",
+                "away_score": "37",
+                "home_score": "19"
+            },
+            "Detroit Lions_Minnesota Vikings": {
+                "date": "Oct 10, 2021",
+                "away_score": "17",
+                "home_score": "19"
+            },
+            "Denver Broncos_Pittsburgh Steelers": {
+                "date": "Oct 10, 2021",
+                "away_score": "19",
+                "home_score": "27"
+            },
+            "Miami Dolphins_Tampa Bay Buccaneers": {
+                "date": "Oct 10, 2021",
+                "away_score": "17",
+                "home_score": "45"
+            },
+            "New Orleans Saints_Washington Football Team": {
+                "date": "Oct 10, 2021",
+                "away_score": "33",
+                "home_score": "22"
+            },
+            "Chicago Bears_Las Vegas Raiders": {
+                "date": "Oct 10, 2021",
+                "away_score": "20",
+                "home_score": "9"
+            },
+            "Cleveland Browns_Los Angeles Chargers": {
+                "date": "Oct 10, 2021",
+                "away_score": "42",
+                "home_score": "47"
+            },
+            "San Francisco 49ers_Arizona Cardinals": {
+                "date": "Oct 10, 2021",
+                "away_score": "10",
+                "home_score": "17"
+            },
+            "New York Giants_Dallas Cowboys": {
+                "date": "Oct 10, 2021",
+                "away_score": "20",
+                "home_score": "44"
+            },
+            "Buffalo Bills_Kansas City Chiefs": {
+                "date": "Oct 10, 2021",
+                "away_score": "38",
+                "home_score": "20"
+            },
+            "Indianapolis Colts_Baltimore Ravens": {
+                "date": "Oct 11, 2021",
+                "away_score": "25",
+                "home_score": "31"
+            }
+        },
+        "6": {
+            "Tampa Bay Buccaneers_Philadelphia Eagles": {
+                "date": "Oct 14, 2021",
+                "away_score": "28",
+                "home_score": "22"
+            },
+            "Miami Dolphins_Jacksonville Jaguars": {
+                "date": "Oct 17, 2021",
+                "away_score": "20",
+                "home_score": "23"
+            },
+            "Minnesota Vikings_Carolina Panthers": {
+                "date": "Oct 17, 2021",
+                "away_score": "34",
+                "home_score": "28"
+            },
+            "Green Bay Packers_Chicago Bears": {
+                "date": "Oct 17, 2021",
+                "away_score": "24",
+                "home_score": "14"
+            },
+            "Houston Texans_Indianapolis Colts": {
+                "date": "Oct 17, 2021",
+                "away_score": "3",
+                "home_score": "31"
+            },
+            "Cincinnati Bengals_Detroit Lions": {
+                "date": "Oct 17, 2021",
+                "away_score": "34",
+                "home_score": "11"
+            },
+            "Los Angeles Rams_New York Giants": {
+                "date": "Oct 17, 2021",
+                "away_score": "38",
+                "home_score": "11"
+            },
+            "Los Angeles Chargers_Baltimore Ravens": {
+                "date": "Oct 17, 2021",
+                "away_score": "6",
+                "home_score": "34"
+            },
+            "Kansas City Chiefs_Washington Football Team": {
+                "date": "Oct 17, 2021",
+                "away_score": "31",
+                "home_score": "13"
+            },
+            "Arizona Cardinals_Cleveland Browns": {
+                "date": "Oct 17, 2021",
+                "away_score": "37",
+                "home_score": "14"
+            },
+            "Las Vegas Raiders_Denver Broncos": {
+                "date": "Oct 17, 2021",
+                "away_score": "34",
+                "home_score": "24"
+            },
+            "Dallas Cowboys_New England Patriots": {
+                "date": "Oct 17, 2021",
+                "away_score": "35",
+                "home_score": "29"
+            },
+            "Seattle Seahawks_Pittsburgh Steelers": {
+                "date": "Oct 17, 2021",
+                "away_score": "20",
+                "home_score": "23"
+            },
+            "Buffalo Bills_Tennessee Titans": {
+                "date": "Oct 18, 2021",
+                "away_score": "31",
+                "home_score": "34"
+            }
+        },
+        "7": {
+            "Denver Broncos_Cleveland Browns": {
+                "date": "Oct 21, 2021",
+                "away_score": "14",
+                "home_score": "17"
+            },
+            "Washington Football Team_Green Bay Packers": {
+                "date": "Oct 24, 2021",
+                "away_score": "10",
+                "home_score": "24"
+            },
+            "Atlanta Falcons_Miami Dolphins": {
+                "date": "Oct 24, 2021",
+                "away_score": "30",
+                "home_score": "28"
+            },
+            "New York Jets_New England Patriots": {
+                "date": "Oct 24, 2021",
+                "away_score": "13",
+                "home_score": "54"
+            },
+            "Carolina Panthers_New York Giants": {
+                "date": "Oct 24, 2021",
+                "away_score": "3",
+                "home_score": "25"
+            },
+            "Kansas City Chiefs_Tennessee Titans": {
+                "date": "Oct 24, 2021",
+                "away_score": "3",
+                "home_score": "27"
+            },
+            "Cincinnati Bengals_Baltimore Ravens": {
+                "date": "Oct 24, 2021",
+                "away_score": "41",
+                "home_score": "17"
+            },
+            "Philadelphia Eagles_Las Vegas Raiders": {
+                "date": "Oct 24, 2021",
+                "away_score": "22",
+                "home_score": "33"
+            },
+            "Detroit Lions_Los Angeles Rams": {
+                "date": "Oct 24, 2021",
+                "away_score": "19",
+                "home_score": "28"
+            },
+            "Houston Texans_Arizona Cardinals": {
+                "date": "Oct 24, 2021",
+                "away_score": "5",
+                "home_score": "31"
+            },
+            "Chicago Bears_Tampa Bay Buccaneers": {
+                "date": "Oct 24, 2021",
+                "away_score": "3",
+                "home_score": "38"
+            },
+            "Indianapolis Colts_San Francisco 49ers": {
+                "date": "Oct 24, 2021",
+                "away_score": "30",
+                "home_score": "18"
+            },
+            "New Orleans Saints_Seattle Seahawks": {
+                "date": "Oct 25, 2021",
+                "away_score": "13",
+                "home_score": "10"
+            }
+        },
+        "8": {
+            "Green Bay Packers_Arizona Cardinals": {
+                "date": "Oct 28, 2021",
+                "away_score": "24",
+                "home_score": "21"
+            },
+            "Carolina Panthers_Atlanta Falcons": {
+                "date": "Oct 31, 2021",
+                "away_score": "19",
+                "home_score": "13"
+            },
+            "Miami Dolphins_Buffalo Bills": {
+                "date": "Oct 31, 2021",
+                "away_score": "11",
+                "home_score": "26"
+            },
+            "San Francisco 49ers_Chicago Bears": {
+                "date": "Oct 31, 2021",
+                "away_score": "33",
+                "home_score": "22"
+            },
+            "Pittsburgh Steelers_Cleveland Browns": {
+                "date": "Oct 31, 2021",
+                "away_score": "15",
+                "home_score": "10"
+            },
+            "Tennessee Titans_Indianapolis Colts": {
+                "date": "Oct 31, 2021",
+                "away_score": "34",
+                "home_score": "31"
+            },
+            "Philadelphia Eagles_Detroit Lions": {
+                "date": "Oct 31, 2021",
+                "away_score": "44",
+                "home_score": "6"
+            },
+            "Los Angeles Rams_Houston Texans": {
+                "date": "Oct 31, 2021",
+                "away_score": "38",
+                "home_score": "22"
+            },
+            "Cincinnati Bengals_New York Jets": {
+                "date": "Oct 31, 2021",
+                "away_score": "31",
+                "home_score": "34"
+            },
+            "New England Patriots_Los Angeles Chargers": {
+                "date": "Oct 31, 2021",
+                "away_score": "27",
+                "home_score": "24"
+            },
+            "Jacksonville Jaguars_Seattle Seahawks": {
+                "date": "Oct 31, 2021",
+                "away_score": "7",
+                "home_score": "31"
+            },
+            "Washington Football Team_Denver Broncos": {
+                "date": "Oct 31, 2021",
+                "away_score": "10",
+                "home_score": "17"
+            },
+            "Tampa Bay Buccaneers_New Orleans Saints": {
+                "date": "Oct 31, 2021",
+                "away_score": "27",
+                "home_score": "36"
+            },
+            "Dallas Cowboys_Minnesota Vikings": {
+                "date": "Oct 31, 2021",
+                "away_score": "20",
+                "home_score": "16"
+            },
+            "New York Giants_Kansas City Chiefs": {
+                "date": "Nov 1, 2021",
+                "away_score": "17",
+                "home_score": "20"
+            }
+        },
+        "9": {
+            "New York Jets_Indianapolis Colts": {
+                "date": "Nov 4, 2021",
+                "away_score": "30",
+                "home_score": "45"
+            },
+            "New England Patriots_Carolina Panthers": {
+                "date": "Nov 7, 2021",
+                "away_score": "24",
+                "home_score": "6"
+            },
+            "Cleveland Browns_Cincinnati Bengals": {
+                "date": "Nov 7, 2021",
+                "away_score": "41",
+                "home_score": "16"
+            },
+            "Denver Broncos_Dallas Cowboys": {
+                "date": "Nov 7, 2021",
+                "away_score": "30",
+                "home_score": "16"
+            },
+            "Buffalo Bills_Jacksonville Jaguars": {
+                "date": "Nov 7, 2021",
+                "away_score": "6",
+                "home_score": "9"
+            },
+            "Houston Texans_Miami Dolphins": {
+                "date": "Nov 7, 2021",
+                "away_score": "9",
+                "home_score": "17"
+            },
+            "Atlanta Falcons_New Orleans Saints": {
+                "date": "Nov 7, 2021",
+                "away_score": "27",
+                "home_score": "25"
+            },
+            "Las Vegas Raiders_New York Giants": {
+                "date": "Nov 7, 2021",
+                "away_score": "16",
+                "home_score": "23"
+            },
+            "Minnesota Vikings_Baltimore Ravens": {
+                "date": "Nov 7, 2021",
+                "away_score": "31",
+                "home_score": "34"
+            },
+            "Los Angeles Chargers_Philadelphia Eagles": {
+                "date": "Nov 7, 2021",
+                "away_score": "27",
+                "home_score": "24"
+            },
+            "Green Bay Packers_Kansas City Chiefs": {
+                "date": "Nov 7, 2021",
+                "away_score": "7",
+                "home_score": "13"
+            },
+            "Arizona Cardinals_San Francisco 49ers": {
+                "date": "Nov 7, 2021",
+                "away_score": "31",
+                "home_score": "17"
+            },
+            "Tennessee Titans_Los Angeles Rams": {
+                "date": "Nov 7, 2021",
+                "away_score": "28",
+                "home_score": "16"
+            },
+            "Chicago Bears_Pittsburgh Steelers": {
+                "date": "Nov 8, 2021",
+                "away_score": "27",
+                "home_score": "29"
+            }
+        },
+        "10": {
+            "Baltimore Ravens_Miami Dolphins": {
+                "date": "Nov 11, 2021",
+                "away_score": "10",
+                "home_score": "22"
+            },
+            "Jacksonville Jaguars_Indianapolis Colts": {
+                "date": "Nov 14, 2021",
+                "away_score": "17",
+                "home_score": "23"
+            },
+            "Atlanta Falcons_Dallas Cowboys": {
+                "date": "Nov 14, 2021",
+                "away_score": "3",
+                "home_score": "43"
+            },
+            "Cleveland Browns_New England Patriots": {
+                "date": "Nov 14, 2021",
+                "away_score": "7",
+                "home_score": "45"
+            },
+            "Buffalo Bills_New York Jets": {
+                "date": "Nov 14, 2021",
+                "away_score": "45",
+                "home_score": "17"
+            },
+            "New Orleans Saints_Tennessee Titans": {
+                "date": "Nov 14, 2021",
+                "away_score": "21",
+                "home_score": "23"
+            },
+            "Detroit Lions_Pittsburgh Steelers": {
+                "date": "Nov 14, 2021",
+                "away_score": "16",
+                "home_score": "16"
+            },
+            "Tampa Bay Buccaneers_Washington Football Team": {
+                "date": "Nov 14, 2021",
+                "away_score": "19",
+                "home_score": "29"
+            },
+            "Carolina Panthers_Arizona Cardinals": {
+                "date": "Nov 14, 2021",
+                "away_score": "34",
+                "home_score": "10"
+            },
+            "Minnesota Vikings_Los Angeles Chargers": {
+                "date": "Nov 14, 2021",
+                "away_score": "27",
+                "home_score": "20"
+            },
+            "Philadelphia Eagles_Denver Broncos": {
+                "date": "Nov 14, 2021",
+                "away_score": "30",
+                "home_score": "13"
+            },
+            "Seattle Seahawks_Green Bay Packers": {
+                "date": "Nov 14, 2021",
+                "away_score": "0",
+                "home_score": "17"
+            },
+            "Kansas City Chiefs_Las Vegas Raiders": {
+                "date": "Nov 14, 2021",
+                "away_score": "41",
+                "home_score": "14"
+            },
+            "Los Angeles Rams_San Francisco 49ers": {
+                "date": "Nov 15, 2021",
+                "away_score": "10",
+                "home_score": "31"
+            }
+        },
+        "11": {
+            "New England Patriots_Atlanta Falcons": {
+                "date": "Nov 18, 2021",
+                "away_score": "25",
+                "home_score": "0"
+            },
+            "Indianapolis Colts_Buffalo Bills": {
+                "date": "Nov 21, 2021",
+                "away_score": "41",
+                "home_score": "15"
+            },
+            "Washington Football Team_Carolina Panthers": {
+                "date": "Nov 21, 2021",
+                "away_score": "27",
+                "home_score": "21"
+            },
+            "Baltimore Ravens_Chicago Bears": {
+                "date": "Nov 21, 2021",
+                "away_score": "16",
+                "home_score": "13"
+            },
+            "Detroit Lions_Cleveland Browns": {
+                "date": "Nov 21, 2021",
+                "away_score": "10",
+                "home_score": "13"
+            },
+            "San Francisco 49ers_Jacksonville Jaguars": {
+                "date": "Nov 21, 2021",
+                "away_score": "30",
+                "home_score": "10"
+            },
+            "Green Bay Packers_Minnesota Vikings": {
+                "date": "Nov 21, 2021",
+                "away_score": "31",
+                "home_score": "34"
+            },
+            "Miami Dolphins_New York Jets": {
+                "date": "Nov 21, 2021",
+                "away_score": "24",
+                "home_score": "17"
+            },
+            "Houston Texans_Tennessee Titans": {
+                "date": "Nov 21, 2021",
+                "away_score": "22",
+                "home_score": "13"
+            },
+            "New Orleans Saints_Philadelphia Eagles": {
+                "date": "Nov 21, 2021",
+                "away_score": "29",
+                "home_score": "40"
+            },
+            "Cincinnati Bengals_Las Vegas Raiders": {
+                "date": "Nov 21, 2021",
+                "away_score": "32",
+                "home_score": "13"
+            },
+            "Dallas Cowboys_Kansas City Chiefs": {
+                "date": "Nov 21, 2021",
+                "away_score": "9",
+                "home_score": "19"
+            },
+            "Arizona Cardinals_Seattle Seahawks": {
+                "date": "Nov 21, 2021",
+                "away_score": "23",
+                "home_score": "13"
+            },
+            "Pittsburgh Steelers_Los Angeles Chargers": {
+                "date": "Nov 21, 2021",
+                "away_score": "37",
+                "home_score": "41"
+            },
+            "New York Giants_Tampa Bay Buccaneers": {
+                "date": "Nov 22, 2021",
+                "away_score": "10",
+                "home_score": "30"
+            }
+        },
+        "12": {
+            "Chicago Bears_Detroit Lions": {
+                "date": "Nov 25, 2021",
+                "away_score": "16",
+                "home_score": "14"
+            },
+            "Las Vegas Raiders_Dallas Cowboys": {
+                "date": "Nov 25, 2021",
+                "away_score": "36",
+                "home_score": "33"
+            },
+            "Buffalo Bills_New Orleans Saints": {
+                "date": "Nov 25, 2021",
+                "away_score": "31",
+                "home_score": "6"
+            },
+            "Pittsburgh Steelers_Cincinnati Bengals": {
+                "date": "Nov 28, 2021",
+                "away_score": "10",
+                "home_score": "41"
+            },
+            "Tampa Bay Buccaneers_Indianapolis Colts": {
+                "date": "Nov 28, 2021",
+                "away_score": "38",
+                "home_score": "31"
+            },
+            "New York Jets_Houston Texans": {
+                "date": "Nov 28, 2021",
+                "away_score": "21",
+                "home_score": "14"
+            },
+            "Atlanta Falcons_Jacksonville Jaguars": {
+                "date": "Nov 28, 2021",
+                "away_score": "21",
+                "home_score": "14"
+            },
+            "Carolina Panthers_Miami Dolphins": {
+                "date": "Nov 28, 2021",
+                "away_score": "10",
+                "home_score": "33"
+            },
+            "Tennessee Titans_New England Patriots": {
+                "date": "Nov 28, 2021",
+                "away_score": "13",
+                "home_score": "36"
+            },
+            "Philadelphia Eagles_New York Giants": {
+                "date": "Nov 28, 2021",
+                "away_score": "7",
+                "home_score": "13"
+            },
+            "Los Angeles Chargers_Denver Broncos": {
+                "date": "Nov 28, 2021",
+                "away_score": "13",
+                "home_score": "28"
+            },
+            "Los Angeles Rams_Green Bay Packers": {
+                "date": "Nov 28, 2021",
+                "away_score": "28",
+                "home_score": "36"
+            },
+            "Minnesota Vikings_San Francisco 49ers": {
+                "date": "Nov 28, 2021",
+                "away_score": "26",
+                "home_score": "34"
+            },
+            "Cleveland Browns_Baltimore Ravens": {
+                "date": "Nov 28, 2021",
+                "away_score": "10",
+                "home_score": "16"
+            },
+            "Seattle Seahawks_Washington Football Team": {
+                "date": "Nov 29, 2021",
+                "away_score": "15",
+                "home_score": "17"
+            }
+        },
+        "13": {
+            "Dallas Cowboys_New Orleans Saints": {
+                "date": "Dec 2, 2021",
+                "away_score": "27",
+                "home_score": "17"
+            },
+            "Tampa Bay Buccaneers_Atlanta Falcons": {
+                "date": "Dec 5, 2021",
+                "away_score": "30",
+                "home_score": "17"
+            },
+            "Arizona Cardinals_Chicago Bears": {
+                "date": "Dec 5, 2021",
+                "away_score": "33",
+                "home_score": "22"
+            },
+            "Los Angeles Chargers_Cincinnati Bengals": {
+                "date": "Dec 5, 2021",
+                "away_score": "41",
+                "home_score": "22"
+            },
+            "Minnesota Vikings_Detroit Lions": {
+                "date": "Dec 5, 2021",
+                "away_score": "27",
+                "home_score": "29"
+            },
+            "Indianapolis Colts_Houston Texans": {
+                "date": "Dec 5, 2021",
+                "away_score": "31",
+                "home_score": "0"
+            },
+            "New York Giants_Miami Dolphins": {
+                "date": "Dec 5, 2021",
+                "away_score": "9",
+                "home_score": "20"
+            },
+            "Philadelphia Eagles_New York Jets": {
+                "date": "Dec 5, 2021",
+                "away_score": "33",
+                "home_score": "18"
+            },
+            "San Francisco 49ers_Seattle Seahawks": {
+                "date": "Dec 5, 2021",
+                "away_score": "23",
+                "home_score": "30"
+            },
+            "Washington Football Team_Las Vegas Raiders": {
+                "date": "Dec 5, 2021",
+                "away_score": "17",
+                "home_score": "15"
+            },
+            "Baltimore Ravens_Pittsburgh Steelers": {
+                "date": "Dec 5, 2021",
+                "away_score": "19",
+                "home_score": "20"
+            },
+            "Jacksonville Jaguars_Los Angeles Rams": {
+                "date": "Dec 5, 2021",
+                "away_score": "7",
+                "home_score": "37"
+            },
+            "Denver Broncos_Kansas City Chiefs": {
+                "date": "Dec 5, 2021",
+                "away_score": "9",
+                "home_score": "22"
+            },
+            "New England Patriots_Buffalo Bills": {
+                "date": "Dec 6, 2021",
+                "away_score": "14",
+                "home_score": "10"
+            }
+        },
+        "14": {
+            "Pittsburgh Steelers_Minnesota Vikings": {
+                "date": "Dec 9, 2021",
+                "away_score": "28",
+                "home_score": "36"
+            },
+            "Atlanta Falcons_Carolina Panthers": {
+                "date": "Dec 12, 2021",
+                "away_score": "29",
+                "home_score": "21"
+            },
+            "San Francisco 49ers_Cincinnati Bengals": {
+                "date": "Dec 12, 2021",
+                "away_score": "26",
+                "home_score": "23"
+            },
+            "Baltimore Ravens_Cleveland Browns": {
+                "date": "Dec 12, 2021",
+                "away_score": "22",
+                "home_score": "24"
+            },
+            "Seattle Seahawks_Houston Texans": {
+                "date": "Dec 12, 2021",
+                "away_score": "33",
+                "home_score": "13"
+            },
+            "Las Vegas Raiders_Kansas City Chiefs": {
+                "date": "Dec 12, 2021",
+                "away_score": "9",
+                "home_score": "48"
+            },
+            "New Orleans Saints_New York Jets": {
+                "date": "Dec 12, 2021",
+                "away_score": "30",
+                "home_score": "9"
+            },
+            "Jacksonville Jaguars_Tennessee Titans": {
+                "date": "Dec 12, 2021",
+                "away_score": "0",
+                "home_score": "20"
+            },
+            "Dallas Cowboys_Washington Football Team": {
+                "date": "Dec 12, 2021",
+                "away_score": "27",
+                "home_score": "20"
+            },
+            "Detroit Lions_Denver Broncos": {
+                "date": "Dec 12, 2021",
+                "away_score": "10",
+                "home_score": "38"
+            },
+            "New York Giants_Los Angeles Chargers": {
+                "date": "Dec 12, 2021",
+                "away_score": "21",
+                "home_score": "37"
+            },
+            "Buffalo Bills_Tampa Bay Buccaneers": {
+                "date": "Dec 12, 2021",
+                "away_score": "27",
+                "home_score": "33"
+            },
+            "Chicago Bears_Green Bay Packers": {
+                "date": "Dec 12, 2021",
+                "away_score": "30",
+                "home_score": "45"
+            },
+            "Los Angeles Rams_Arizona Cardinals": {
+                "date": "Dec 13, 2021",
+                "away_score": "30",
+                "home_score": "23"
+            }
+        },
+        "15": {
+            "Kansas City Chiefs_Los Angeles Chargers": {
+                "date": "Dec 16, 2021",
+                "away_score": "34",
+                "home_score": "28"
+            },
+            "New England Patriots_Indianapolis Colts": {
+                "date": "Dec 18, 2021",
+                "away_score": "17",
+                "home_score": "27"
+            },
+            "Carolina Panthers_Buffalo Bills": {
+                "date": "Dec 19, 2021",
+                "away_score": "14",
+                "home_score": "31"
+            },
+            "Arizona Cardinals_Detroit Lions": {
+                "date": "Dec 19, 2021",
+                "away_score": "12",
+                "home_score": "30"
+            },
+            "Houston Texans_Jacksonville Jaguars": {
+                "date": "Dec 19, 2021",
+                "away_score": "30",
+                "home_score": "16"
+            },
+            "New York Jets_Miami Dolphins": {
+                "date": "Dec 19, 2021",
+                "away_score": "24",
+                "home_score": "31"
+            },
+            "Dallas Cowboys_New York Giants": {
+                "date": "Dec 19, 2021",
+                "away_score": "21",
+                "home_score": "6"
+            },
+            "Tennessee Titans_Pittsburgh Steelers": {
+                "date": "Dec 19, 2021",
+                "away_score": "13",
+                "home_score": "19"
+            },
+            "Green Bay Packers_Baltimore Ravens": {
+                "date": "Dec 19, 2021",
+                "away_score": "31",
+                "home_score": "30"
+            },
+            "Cincinnati Bengals_Denver Broncos": {
+                "date": "Dec 19, 2021",
+                "away_score": "15",
+                "home_score": "10"
+            },
+            "Atlanta Falcons_San Francisco 49ers": {
+                "date": "Dec 19, 2021",
+                "away_score": "13",
+                "home_score": "31"
+            },
+            "New Orleans Saints_Tampa Bay Buccaneers": {
+                "date": "Dec 19, 2021",
+                "away_score": "9",
+                "home_score": "0"
+            },
+            "Las Vegas Raiders_Cleveland Browns": {
+                "date": "Dec 20, 2021",
+                "away_score": "16",
+                "home_score": "14"
+            },
+            "Minnesota Vikings_Chicago Bears": {
+                "date": "Dec 20, 2021",
+                "away_score": "17",
+                "home_score": "9"
+            },
+            "Washington Football Team_Philadelphia Eagles": {
+                "date": "Dec 21, 2021",
+                "away_score": "17",
+                "home_score": "27"
+            },
+            "Seattle Seahawks_Los Angeles Rams": {
+                "date": "Dec 21, 2021",
+                "away_score": "10",
+                "home_score": "20"
+            }
+        },
+        "16": {
+            "San Francisco 49ers_Tennessee Titans": {
+                "date": "Dec 23, 2021",
+                "away_score": "17",
+                "home_score": "20"
+            },
+            "Cleveland Browns_Green Bay Packers": {
+                "date": "Dec 25, 2021",
+                "away_score": "22",
+                "home_score": "24"
+            },
+            "Indianapolis Colts_Arizona Cardinals": {
+                "date": "Dec 25, 2021",
+                "away_score": "22",
+                "home_score": "16"
+            },
+            "Detroit Lions_Atlanta Falcons": {
+                "date": "Dec 26, 2021",
+                "away_score": "16",
+                "home_score": "20"
+            },
+            "Tampa Bay Buccaneers_Carolina Panthers": {
+                "date": "Dec 26, 2021",
+                "away_score": "32",
+                "home_score": "6"
+            },
+            "Baltimore Ravens_Cincinnati Bengals": {
+                "date": "Dec 26, 2021",
+                "away_score": "21",
+                "home_score": "41"
+            },
+            "Los Angeles Chargers_Houston Texans": {
+                "date": "Dec 26, 2021",
+                "away_score": "29",
+                "home_score": "41"
+            },
+            "Los Angeles Rams_Minnesota Vikings": {
+                "date": "Dec 26, 2021",
+                "away_score": "30",
+                "home_score": "23"
+            },
+            "Buffalo Bills_New England Patriots": {
+                "date": "Dec 26, 2021",
+                "away_score": "33",
+                "home_score": "21"
+            },
+            "Jacksonville Jaguars_New York Jets": {
+                "date": "Dec 26, 2021",
+                "away_score": "21",
+                "home_score": "26"
+            },
+            "New York Giants_Philadelphia Eagles": {
+                "date": "Dec 26, 2021",
+                "away_score": "10",
+                "home_score": "34"
+            },
+            "Chicago Bears_Seattle Seahawks": {
+                "date": "Dec 26, 2021",
+                "away_score": "25",
+                "home_score": "24"
+            },
+            "Pittsburgh Steelers_Kansas City Chiefs": {
+                "date": "Dec 26, 2021",
+                "away_score": "10",
+                "home_score": "36"
+            },
+            "Denver Broncos_Las Vegas Raiders": {
+                "date": "Dec 26, 2021",
+                "away_score": "13",
+                "home_score": "17"
+            },
+            "Washington Football Team_Dallas Cowboys": {
+                "date": "Dec 26, 2021",
+                "away_score": "14",
+                "home_score": "56"
+            },
+            "Miami Dolphins_New Orleans Saints": {
+                "date": "Dec 27, 2021",
+                "away_score": "20",
+                "home_score": "3"
+            }
+        },
+        "17": {
+            "Atlanta Falcons_Buffalo Bills": {
+                "date": "Jan 2, 2022",
+                "away_score": "15",
+                "home_score": "29"
+            },
+            "New York Giants_Chicago Bears": {
+                "date": "Jan 2, 2022",
+                "away_score": "3",
+                "home_score": "29"
+            },
+            "Kansas City Chiefs_Cincinnati Bengals": {
+                "date": "Jan 2, 2022",
+                "away_score": "31",
+                "home_score": "34"
+            },
+            "Las Vegas Raiders_Indianapolis Colts": {
+                "date": "Jan 2, 2022",
+                "away_score": "23",
+                "home_score": "20"
+            },
+            "Arizona Cardinals_Dallas Cowboys": {
+                "date": "Jan 2, 2022",
+                "away_score": "25",
+                "home_score": "22"
+            },
+            "Carolina Panthers_New Orleans Saints": {
+                "date": "Jan 2, 2022",
+                "away_score": "10",
+                "home_score": "18"
+            },
+            "Jacksonville Jaguars_New England Patriots": {
+                "date": "Jan 2, 2022",
+                "away_score": "10",
+                "home_score": "50"
+            },
+            "Tampa Bay Buccaneers_New York Jets": {
+                "date": "Jan 2, 2022",
+                "away_score": "28",
+                "home_score": "24"
+            },
+            "Miami Dolphins_Tennessee Titans": {
+                "date": "Jan 2, 2022",
+                "away_score": "3",
+                "home_score": "34"
+            },
+            "Philadelphia Eagles_Washington Football Team": {
+                "date": "Jan 2, 2022",
+                "away_score": "20",
+                "home_score": "16"
+            },
+            "Denver Broncos_Los Angeles Chargers": {
+                "date": "Jan 2, 2022",
+                "away_score": "13",
+                "home_score": "34"
+            },
+            "Houston Texans_San Francisco 49ers": {
+                "date": "Jan 2, 2022",
+                "away_score": "7",
+                "home_score": "23"
+            },
+            "Los Angeles Rams_Baltimore Ravens": {
+                "date": "Jan 2, 2022",
+                "away_score": "20",
+                "home_score": "19"
+            },
+            "Detroit Lions_Seattle Seahawks": {
+                "date": "Jan 2, 2022",
+                "away_score": "29",
+                "home_score": "51"
+            },
+            "Minnesota Vikings_Green Bay Packers": {
+                "date": "Jan 2, 2022",
+                "away_score": "10",
+                "home_score": "37"
+            },
+            "Cleveland Browns_Pittsburgh Steelers": {
+                "date": "Jan 3, 2022",
+                "away_score": "14",
+                "home_score": "26"
+            }
+        },
+        "18": {
+            "Kansas City Chiefs_Denver Broncos": {
+                "date": "Jan 8, 2022",
+                "away_score": "28",
+                "home_score": "24"
+            },
+            "Dallas Cowboys_Philadelphia Eagles": {
+                "date": "Jan 8, 2022",
+                "away_score": "51",
+                "home_score": "26"
+            },
+            "New Orleans Saints_Atlanta Falcons": {
+                "date": "Jan 9, 2022",
+                "away_score": "30",
+                "home_score": "20"
+            },
+            "New York Jets_Buffalo Bills": {
+                "date": "Jan 9, 2022",
+                "away_score": "10",
+                "home_score": "27"
+            },
+            "Cincinnati Bengals_Cleveland Browns": {
+                "date": "Jan 9, 2022",
+                "away_score": "16",
+                "home_score": "21"
+            },
+            "Green Bay Packers_Detroit Lions": {
+                "date": "Jan 9, 2022",
+                "away_score": "30",
+                "home_score": "37"
+            },
+            "Tennessee Titans_Houston Texans": {
+                "date": "Jan 9, 2022",
+                "away_score": "28",
+                "home_score": "25"
+            },
+            "Indianapolis Colts_Jacksonville Jaguars": {
+                "date": "Jan 9, 2022",
+                "away_score": "11",
+                "home_score": "26"
+            },
+            "New England Patriots_Miami Dolphins": {
+                "date": "Jan 9, 2022",
+                "away_score": "24",
+                "home_score": "33"
+            },
+            "Chicago Bears_Minnesota Vikings": {
+                "date": "Jan 9, 2022",
+                "away_score": "17",
+                "home_score": "31"
+            },
+            "Washington Football Team_New York Giants": {
+                "date": "Jan 9, 2022",
+                "away_score": "22",
+                "home_score": "7"
+            },
+            "Pittsburgh Steelers_Baltimore Ravens": {
+                "date": "Jan 9, 2022",
+                "away_score": "16",
+                "home_score": "13"
+            },
+            "Carolina Panthers_Tampa Bay Buccaneers": {
+                "date": "Jan 9, 2022",
+                "away_score": "17",
+                "home_score": "41"
+            },
+            "Seattle Seahawks_Arizona Cardinals": {
+                "date": "Jan 9, 2022",
+                "away_score": "38",
+                "home_score": "30"
+            },
+            "San Francisco 49ers_Los Angeles Rams": {
+                "date": "Jan 9, 2022",
+                "away_score": "27",
+                "home_score": "24"
+            },
+            "Los Angeles Chargers_Las Vegas Raiders": {
+                "date": "Jan 9, 2022",
+                "away_score": "32",
+                "home_score": "35"
+            }
+        },
+        "19": {
+            "Las Vegas Raiders_Cincinnati Bengals": {
+                "date": "Jan 15, 2022",
+                "away_score": "19",
+                "home_score": "26"
+            },
+            "New England Patriots_Buffalo Bills": {
+                "date": "Jan 15, 2022",
+                "away_score": "17",
+                "home_score": "47"
+            },
+            "Philadelphia Eagles_Tampa Bay Buccaneers": {
+                "date": "Jan 16, 2022",
+                "away_score": "15",
+                "home_score": "31"
+            },
+            "San Francisco 49ers_Dallas Cowboys": {
+                "date": "Jan 16, 2022",
+                "away_score": "23",
+                "home_score": "17"
+            },
+            "Pittsburgh Steelers_Kansas City Chiefs": {
+                "date": "Jan 16, 2022",
+                "away_score": "21",
+                "home_score": "42"
+            },
+            "Arizona Cardinals_Los Angeles Rams": {
+                "date": "Jan 17, 2022",
+                "away_score": "11",
+                "home_score": "34"
+            }
+        },
+        "20": {
+            "Cincinnati Bengals_Tennessee Titans": {
+                "date": "Jan 22, 2022",
+                "away_score": "19",
+                "home_score": "16"
+            },
+            "San Francisco 49ers_Green Bay Packers": {
+                "date": "Jan 22, 2022",
+                "away_score": "13",
+                "home_score": "10"
+            },
+            "Los Angeles Rams_Tampa Bay Buccaneers": {
+                "date": "Jan 23, 2022",
+                "away_score": "30",
+                "home_score": "27"
+            },
+            "Buffalo Bills_Kansas City Chiefs": {
+                "date": "Jan 23, 2022",
+                "away_score": "36",
+                "home_score": "42"
+            }
+        },
+        "21": {
+            "Cincinnati Bengals_Kansas City Chiefs": {
+                "date": "Jan 30, 2022",
+                "away_score": "27",
+                "home_score": "24"
+            },
+            "San Francisco 49ers_Los Angeles Rams": {
+                "date": "Jan 30, 2022",
+                "away_score": "17",
+                "home_score": "20"
+            }
+        },
+        "22": {
+            "Los Angeles Rams_Cincinnati Bengals": {
+                "date": "Feb 13, 2022",
+                "away_score": "23",
+                "home_score": "20"
+            }
+        }
+    },
+    "2022": {
+        "1": {
+            "Buffalo Bills_Los Angeles Rams": {
+                "date": "Sep 8, 2022",
+                "away_score": "31",
+                "home_score": "10"
+            },
+            "New Orleans Saints_Atlanta Falcons": {
+                "date": "Sep 11, 2022",
+                "away_score": "27",
+                "home_score": "26"
+            },
+            "Cleveland Browns_Carolina Panthers": {
+                "date": "Sep 11, 2022",
+                "away_score": "26",
+                "home_score": "24"
+            },
+            "San Francisco 49ers_Chicago Bears": {
+                "date": "Sep 11, 2022",
+                "away_score": "10",
+                "home_score": "19"
+            },
+            "Pittsburgh Steelers_Cincinnati Bengals": {
+                "date": "Sep 11, 2022",
+                "away_score": "23",
+                "home_score": "20"
+            },
+            "Philadelphia Eagles_Detroit Lions": {
+                "date": "Sep 11, 2022",
+                "away_score": "38",
+                "home_score": "35"
+            },
+            "Indianapolis Colts_Houston Texans": {
+                "date": "Sep 11, 2022",
+                "away_score": "20",
+                "home_score": "20"
+            },
+            "New England Patriots_Miami Dolphins": {
+                "date": "Sep 11, 2022",
+                "away_score": "7",
+                "home_score": "20"
+            },
+            "Baltimore Ravens_New York Jets": {
+                "date": "Sep 11, 2022",
+                "away_score": "24",
+                "home_score": "9"
+            },
+            "Jacksonville Jaguars_Washington Commanders": {
+                "date": "Sep 11, 2022",
+                "away_score": "22",
+                "home_score": "28"
+            },
+            "Kansas City Chiefs_Arizona Cardinals": {
+                "date": "Sep 11, 2022",
+                "away_score": "44",
+                "home_score": "21"
+            },
+            "Green Bay Packers_Minnesota Vikings": {
+                "date": "Sep 11, 2022",
+                "away_score": "7",
+                "home_score": "23"
+            },
+            "New York Giants_Tennessee Titans": {
+                "date": "Sep 11, 2022",
+                "away_score": "21",
+                "home_score": "20"
+            },
+            "Las Vegas Raiders_Los Angeles Chargers": {
+                "date": "Sep 11, 2022",
+                "away_score": "19",
+                "home_score": "24"
+            },
+            "Tampa Bay Buccaneers_Dallas Cowboys": {
+                "date": "Sep 11, 2022",
+                "away_score": "19",
+                "home_score": "3"
+            },
+            "Denver Broncos_Seattle Seahawks": {
+                "date": "Sep 12, 2022",
+                "away_score": "16",
+                "home_score": "17"
+            }
+        },
+        "2": {
+            "Los Angeles Chargers_Kansas City Chiefs": {
+                "date": "Sep 15, 2022",
+                "away_score": "24",
+                "home_score": "27"
+            },
+            "New York Jets_Cleveland Browns": {
+                "date": "Sep 18, 2022",
+                "away_score": "31",
+                "home_score": "30"
+            },
+            "Washington Commanders_Detroit Lions": {
+                "date": "Sep 18, 2022",
+                "away_score": "27",
+                "home_score": "36"
+            },
+            "Indianapolis Colts_Jacksonville Jaguars": {
+                "date": "Sep 18, 2022",
+                "away_score": "0",
+                "home_score": "24"
+            },
+            "Tampa Bay Buccaneers_New Orleans Saints": {
+                "date": "Sep 18, 2022",
+                "away_score": "20",
+                "home_score": "10"
+            },
+            "Carolina Panthers_New York Giants": {
+                "date": "Sep 18, 2022",
+                "away_score": "16",
+                "home_score": "19"
+            },
+            "New England Patriots_Pittsburgh Steelers": {
+                "date": "Sep 18, 2022",
+                "away_score": "17",
+                "home_score": "14"
+            },
+            "Miami Dolphins_Baltimore Ravens": {
+                "date": "Sep 18, 2022",
+                "away_score": "42",
+                "home_score": "38"
+            },
+            "Atlanta Falcons_Los Angeles Rams": {
+                "date": "Sep 18, 2022",
+                "away_score": "27",
+                "home_score": "31"
+            },
+            "Seattle Seahawks_San Francisco 49ers": {
+                "date": "Sep 18, 2022",
+                "away_score": "7",
+                "home_score": "27"
+            },
+            "Cincinnati Bengals_Dallas Cowboys": {
+                "date": "Sep 18, 2022",
+                "away_score": "17",
+                "home_score": "20"
+            },
+            "Houston Texans_Denver Broncos": {
+                "date": "Sep 18, 2022",
+                "away_score": "9",
+                "home_score": "16"
+            },
+            "Arizona Cardinals_Las Vegas Raiders": {
+                "date": "Sep 18, 2022",
+                "away_score": "29",
+                "home_score": "23"
+            },
+            "Chicago Bears_Green Bay Packers": {
+                "date": "Sep 18, 2022",
+                "away_score": "10",
+                "home_score": "27"
+            },
+            "Tennessee Titans_Buffalo Bills": {
+                "date": "Sep 19, 2022",
+                "away_score": "7",
+                "home_score": "41"
+            },
+            "Minnesota Vikings_Philadelphia Eagles": {
+                "date": "Sep 19, 2022",
+                "away_score": "7",
+                "home_score": "24"
+            }
+        },
+        "3": {
+            "Pittsburgh Steelers_Cleveland Browns": {
+                "date": "Sep 22, 2022",
+                "away_score": "17",
+                "home_score": "29"
+            },
+            "New Orleans Saints_Carolina Panthers": {
+                "date": "Sep 25, 2022",
+                "away_score": "14",
+                "home_score": "22"
+            },
+            "Houston Texans_Chicago Bears": {
+                "date": "Sep 25, 2022",
+                "away_score": "20",
+                "home_score": "23"
+            },
+            "Kansas City Chiefs_Indianapolis Colts": {
+                "date": "Sep 25, 2022",
+                "away_score": "17",
+                "home_score": "20"
+            },
+            "Buffalo Bills_Miami Dolphins": {
+                "date": "Sep 25, 2022",
+                "away_score": "19",
+                "home_score": "21"
+            },
+            "Detroit Lions_Minnesota Vikings": {
+                "date": "Sep 25, 2022",
+                "away_score": "24",
+                "home_score": "28"
+            },
+            "Baltimore Ravens_New England Patriots": {
+                "date": "Sep 25, 2022",
+                "away_score": "37",
+                "home_score": "26"
+            },
+            "Cincinnati Bengals_New York Jets": {
+                "date": "Sep 25, 2022",
+                "away_score": "27",
+                "home_score": "12"
+            },
+            "Las Vegas Raiders_Tennessee Titans": {
+                "date": "Sep 25, 2022",
+                "away_score": "22",
+                "home_score": "24"
+            },
+            "Philadelphia Eagles_Washington Commanders": {
+                "date": "Sep 25, 2022",
+                "away_score": "24",
+                "home_score": "8"
+            },
+            "Jacksonville Jaguars_Los Angeles Chargers": {
+                "date": "Sep 25, 2022",
+                "away_score": "38",
+                "home_score": "10"
+            },
+            "Los Angeles Rams_Arizona Cardinals": {
+                "date": "Sep 25, 2022",
+                "away_score": "20",
+                "home_score": "12"
+            },
+            "Atlanta Falcons_Seattle Seahawks": {
+                "date": "Sep 25, 2022",
+                "away_score": "27",
+                "home_score": "23"
+            },
+            "Green Bay Packers_Tampa Bay Buccaneers": {
+                "date": "Sep 25, 2022",
+                "away_score": "14",
+                "home_score": "12"
+            },
+            "San Francisco 49ers_Denver Broncos": {
+                "date": "Sep 25, 2022",
+                "away_score": "10",
+                "home_score": "11"
+            },
+            "Dallas Cowboys_New York Giants": {
+                "date": "Sep 26, 2022",
+                "away_score": "23",
+                "home_score": "16"
+            }
+        },
+        "4": {
+            "Miami Dolphins_Cincinnati Bengals": {
+                "date": "Sep 29, 2022",
+                "away_score": "15",
+                "home_score": "27"
+            },
+            "Minnesota Vikings_New Orleans Saints": {
+                "date": "Oct 2, 2022",
+                "away_score": "28",
+                "home_score": "25"
+            },
+            "Cleveland Browns_Atlanta Falcons": {
+                "date": "Oct 2, 2022",
+                "away_score": "20",
+                "home_score": "23"
+            },
+            "Tennessee Titans_Indianapolis Colts": {
+                "date": "Oct 2, 2022",
+                "away_score": "24",
+                "home_score": "17"
+            },
+            "Washington Commanders_Dallas Cowboys": {
+                "date": "Oct 2, 2022",
+                "away_score": "10",
+                "home_score": "25"
+            },
+            "Seattle Seahawks_Detroit Lions": {
+                "date": "Oct 2, 2022",
+                "away_score": "48",
+                "home_score": "45"
+            },
+            "Los Angeles Chargers_Houston Texans": {
+                "date": "Oct 2, 2022",
+                "away_score": "34",
+                "home_score": "24"
+            },
+            "Chicago Bears_New York Giants": {
+                "date": "Oct 2, 2022",
+                "away_score": "12",
+                "home_score": "20"
+            },
+            "Jacksonville Jaguars_Philadelphia Eagles": {
+                "date": "Oct 2, 2022",
+                "away_score": "21",
+                "home_score": "29"
+            },
+            "New York Jets_Pittsburgh Steelers": {
+                "date": "Oct 2, 2022",
+                "away_score": "24",
+                "home_score": "20"
+            },
+            "Buffalo Bills_Baltimore Ravens": {
+                "date": "Oct 2, 2022",
+                "away_score": "23",
+                "home_score": "20"
+            },
+            "Arizona Cardinals_Carolina Panthers": {
+                "date": "Oct 2, 2022",
+                "away_score": "26",
+                "home_score": "16"
+            },
+            "New England Patriots_Green Bay Packers": {
+                "date": "Oct 2, 2022",
+                "away_score": "24",
+                "home_score": "27"
+            },
+            "Denver Broncos_Las Vegas Raiders": {
+                "date": "Oct 2, 2022",
+                "away_score": "23",
+                "home_score": "32"
+            },
+            "Kansas City Chiefs_Tampa Bay Buccaneers": {
+                "date": "Oct 2, 2022",
+                "away_score": "41",
+                "home_score": "31"
+            },
+            "Los Angeles Rams_San Francisco 49ers": {
+                "date": "Oct 3, 2022",
+                "away_score": "9",
+                "home_score": "24"
+            }
+        },
+        "5": {
+            "Indianapolis Colts_Denver Broncos": {
+                "date": "Oct 6, 2022",
+                "away_score": "12",
+                "home_score": "9"
+            },
+            "New York Giants_Green Bay Packers": {
+                "date": "Oct 9, 2022",
+                "away_score": "27",
+                "home_score": "22"
+            },
+            "Pittsburgh Steelers_Buffalo Bills": {
+                "date": "Oct 9, 2022",
+                "away_score": "3",
+                "home_score": "38"
+            },
+            "Los Angeles Chargers_Cleveland Browns": {
+                "date": "Oct 9, 2022",
+                "away_score": "30",
+                "home_score": "28"
+            },
+            "Houston Texans_Jacksonville Jaguars": {
+                "date": "Oct 9, 2022",
+                "away_score": "13",
+                "home_score": "6"
+            },
+            "Chicago Bears_Minnesota Vikings": {
+                "date": "Oct 9, 2022",
+                "away_score": "22",
+                "home_score": "29"
+            },
+            "Seattle Seahawks_New Orleans Saints": {
+                "date": "Oct 9, 2022",
+                "away_score": "32",
+                "home_score": "39"
+            },
+            "Detroit Lions_New England Patriots": {
+                "date": "Oct 9, 2022",
+                "away_score": "0",
+                "home_score": "29"
+            },
+            "Miami Dolphins_New York Jets": {
+                "date": "Oct 9, 2022",
+                "away_score": "17",
+                "home_score": "40"
+            },
+            "Atlanta Falcons_Tampa Bay Buccaneers": {
+                "date": "Oct 9, 2022",
+                "away_score": "15",
+                "home_score": "21"
+            },
+            "Tennessee Titans_Washington Commanders": {
+                "date": "Oct 9, 2022",
+                "away_score": "21",
+                "home_score": "17"
+            },
+            "San Francisco 49ers_Carolina Panthers": {
+                "date": "Oct 9, 2022",
+                "away_score": "37",
+                "home_score": "15"
+            },
+            "Philadelphia Eagles_Arizona Cardinals": {
+                "date": "Oct 9, 2022",
+                "away_score": "20",
+                "home_score": "17"
+            },
+            "Dallas Cowboys_Los Angeles Rams": {
+                "date": "Oct 9, 2022",
+                "away_score": "22",
+                "home_score": "10"
+            },
+            "Cincinnati Bengals_Baltimore Ravens": {
+                "date": "Oct 9, 2022",
+                "away_score": "17",
+                "home_score": "19"
+            },
+            "Las Vegas Raiders_Kansas City Chiefs": {
+                "date": "Oct 10, 2022",
+                "away_score": "29",
+                "home_score": "30"
+            }
+        },
+        "6": {
+            "Washington Commanders_Chicago Bears": {
+                "date": "Oct 13, 2022",
+                "away_score": "12",
+                "home_score": "7"
+            },
+            "San Francisco 49ers_Atlanta Falcons": {
+                "date": "Oct 16, 2022",
+                "away_score": "14",
+                "home_score": "28"
+            },
+            "New England Patriots_Cleveland Browns": {
+                "date": "Oct 16, 2022",
+                "away_score": "38",
+                "home_score": "15"
+            },
+            "Jacksonville Jaguars_Indianapolis Colts": {
+                "date": "Oct 16, 2022",
+                "away_score": "27",
+                "home_score": "34"
+            },
+            "New York Jets_Green Bay Packers": {
+                "date": "Oct 16, 2022",
+                "away_score": "27",
+                "home_score": "10"
+            },
+            "Minnesota Vikings_Miami Dolphins": {
+                "date": "Oct 16, 2022",
+                "away_score": "24",
+                "home_score": "16"
+            },
+            "Cincinnati Bengals_New Orleans Saints": {
+                "date": "Oct 16, 2022",
+                "away_score": "30",
+                "home_score": "26"
+            },
+            "Baltimore Ravens_New York Giants": {
+                "date": "Oct 16, 2022",
+                "away_score": "20",
+                "home_score": "24"
+            },
+            "Tampa Bay Buccaneers_Pittsburgh Steelers": {
+                "date": "Oct 16, 2022",
+                "away_score": "18",
+                "home_score": "20"
+            },
+            "Carolina Panthers_Los Angeles Rams": {
+                "date": "Oct 16, 2022",
+                "away_score": "10",
+                "home_score": "24"
+            },
+            "Arizona Cardinals_Seattle Seahawks": {
+                "date": "Oct 16, 2022",
+                "away_score": "9",
+                "home_score": "19"
+            },
+            "Buffalo Bills_Kansas City Chiefs": {
+                "date": "Oct 16, 2022",
+                "away_score": "24",
+                "home_score": "20"
+            },
+            "Dallas Cowboys_Philadelphia Eagles": {
+                "date": "Oct 16, 2022",
+                "away_score": "17",
+                "home_score": "26"
+            },
+            "Denver Broncos_Los Angeles Chargers": {
+                "date": "Oct 17, 2022",
+                "away_score": "16",
+                "home_score": "19"
+            }
+        },
+        "7": {
+            "New Orleans Saints_Arizona Cardinals": {
+                "date": "Oct 20, 2022",
+                "away_score": "34",
+                "home_score": "42"
+            },
+            "Tampa Bay Buccaneers_Carolina Panthers": {
+                "date": "Oct 23, 2022",
+                "away_score": "3",
+                "home_score": "21"
+            },
+            "Atlanta Falcons_Cincinnati Bengals": {
+                "date": "Oct 23, 2022",
+                "away_score": "17",
+                "home_score": "35"
+            },
+            "Detroit Lions_Dallas Cowboys": {
+                "date": "Oct 23, 2022",
+                "away_score": "6",
+                "home_score": "24"
+            },
+            "New York Giants_Jacksonville Jaguars": {
+                "date": "Oct 23, 2022",
+                "away_score": "23",
+                "home_score": "17"
+            },
+            "Indianapolis Colts_Tennessee Titans": {
+                "date": "Oct 23, 2022",
+                "away_score": "10",
+                "home_score": "19"
+            },
+            "Cleveland Browns_Baltimore Ravens": {
+                "date": "Oct 23, 2022",
+                "away_score": "20",
+                "home_score": "23"
+            },
+            "Green Bay Packers_Washington Commanders": {
+                "date": "Oct 23, 2022",
+                "away_score": "21",
+                "home_score": "23"
+            },
+            "New York Jets_Denver Broncos": {
+                "date": "Oct 23, 2022",
+                "away_score": "16",
+                "home_score": "9"
+            },
+            "Houston Texans_Las Vegas Raiders": {
+                "date": "Oct 23, 2022",
+                "away_score": "20",
+                "home_score": "38"
+            },
+            "Seattle Seahawks_Los Angeles Chargers": {
+                "date": "Oct 23, 2022",
+                "away_score": "37",
+                "home_score": "23"
+            },
+            "Kansas City Chiefs_San Francisco 49ers": {
+                "date": "Oct 23, 2022",
+                "away_score": "44",
+                "home_score": "23"
+            },
+            "Pittsburgh Steelers_Miami Dolphins": {
+                "date": "Oct 23, 2022",
+                "away_score": "10",
+                "home_score": "16"
+            },
+            "Chicago Bears_New England Patriots": {
+                "date": "Oct 24, 2022",
+                "away_score": "33",
+                "home_score": "14"
+            }
+        },
+        "8": {
+            "Baltimore Ravens_Tampa Bay Buccaneers": {
+                "date": "Oct 27, 2022",
+                "away_score": "27",
+                "home_score": "22"
+            },
+            "Denver Broncos_Jacksonville Jaguars": {
+                "date": "Oct 30, 2022",
+                "away_score": "21",
+                "home_score": "17"
+            },
+            "Carolina Panthers_Atlanta Falcons": {
+                "date": "Oct 30, 2022",
+                "away_score": "34",
+                "home_score": "37"
+            },
+            "Chicago Bears_Dallas Cowboys": {
+                "date": "Oct 30, 2022",
+                "away_score": "29",
+                "home_score": "49"
+            },
+            "Miami Dolphins_Detroit Lions": {
+                "date": "Oct 30, 2022",
+                "away_score": "31",
+                "home_score": "27"
+            },
+            "Arizona Cardinals_Minnesota Vikings": {
+                "date": "Oct 30, 2022",
+                "away_score": "26",
+                "home_score": "34"
+            },
+            "Las Vegas Raiders_New Orleans Saints": {
+                "date": "Oct 30, 2022",
+                "away_score": "0",
+                "home_score": "24"
+            },
+            "New England Patriots_New York Jets": {
+                "date": "Oct 30, 2022",
+                "away_score": "22",
+                "home_score": "17"
+            },
+            "Pittsburgh Steelers_Philadelphia Eagles": {
+                "date": "Oct 30, 2022",
+                "away_score": "13",
+                "home_score": "35"
+            },
+            "Tennessee Titans_Houston Texans": {
+                "date": "Oct 30, 2022",
+                "away_score": "17",
+                "home_score": "10"
+            },
+            "Washington Commanders_Indianapolis Colts": {
+                "date": "Oct 30, 2022",
+                "away_score": "17",
+                "home_score": "16"
+            },
+            "San Francisco 49ers_Los Angeles Rams": {
+                "date": "Oct 30, 2022",
+                "away_score": "31",
+                "home_score": "14"
+            },
+            "New York Giants_Seattle Seahawks": {
+                "date": "Oct 30, 2022",
+                "away_score": "13",
+                "home_score": "27"
+            },
+            "Green Bay Packers_Buffalo Bills": {
+                "date": "Oct 30, 2022",
+                "away_score": "17",
+                "home_score": "27"
+            },
+            "Cincinnati Bengals_Cleveland Browns": {
+                "date": "Oct 31, 2022",
+                "away_score": "13",
+                "home_score": "32"
+            }
+        },
+        "9": {
+            "Philadelphia Eagles_Houston Texans": {
+                "date": "Nov 3, 2022",
+                "away_score": "29",
+                "home_score": "17"
+            },
+            "Los Angeles Chargers_Atlanta Falcons": {
+                "date": "Nov 6, 2022",
+                "away_score": "20",
+                "home_score": "17"
+            },
+            "Miami Dolphins_Chicago Bears": {
+                "date": "Nov 6, 2022",
+                "away_score": "35",
+                "home_score": "32"
+            },
+            "Carolina Panthers_Cincinnati Bengals": {
+                "date": "Nov 6, 2022",
+                "away_score": "21",
+                "home_score": "42"
+            },
+            "Green Bay Packers_Detroit Lions": {
+                "date": "Nov 6, 2022",
+                "away_score": "9",
+                "home_score": "15"
+            },
+            "Las Vegas Raiders_Jacksonville Jaguars": {
+                "date": "Nov 6, 2022",
+                "away_score": "20",
+                "home_score": "27"
+            },
+            "Indianapolis Colts_New England Patriots": {
+                "date": "Nov 6, 2022",
+                "away_score": "3",
+                "home_score": "26"
+            },
+            "Buffalo Bills_New York Jets": {
+                "date": "Nov 6, 2022",
+                "away_score": "17",
+                "home_score": "20"
+            },
+            "Minnesota Vikings_Washington Commanders": {
+                "date": "Nov 6, 2022",
+                "away_score": "20",
+                "home_score": "17"
+            },
+            "Seattle Seahawks_Arizona Cardinals": {
+                "date": "Nov 6, 2022",
+                "away_score": "31",
+                "home_score": "21"
+            },
+            "Los Angeles Rams_Tampa Bay Buccaneers": {
+                "date": "Nov 6, 2022",
+                "away_score": "13",
+                "home_score": "16"
+            },
+            "Tennessee Titans_Kansas City Chiefs": {
+                "date": "Nov 6, 2022",
+                "away_score": "17",
+                "home_score": "20"
+            },
+            "Baltimore Ravens_New Orleans Saints": {
+                "date": "Nov 7, 2022",
+                "away_score": "27",
+                "home_score": "13"
+            }
+        },
+        "10": {
+            "Atlanta Falcons_Carolina Panthers": {
+                "date": "Nov 10, 2022",
+                "away_score": "15",
+                "home_score": "25"
+            },
+            "Seattle Seahawks_Tampa Bay Buccaneers": {
+                "date": "Nov 13, 2022",
+                "away_score": "16",
+                "home_score": "21"
+            },
+            "Minnesota Vikings_Buffalo Bills": {
+                "date": "Nov 13, 2022",
+                "away_score": "33",
+                "home_score": "30"
+            },
+            "Detroit Lions_Chicago Bears": {
+                "date": "Nov 13, 2022",
+                "away_score": "31",
+                "home_score": "30"
+            },
+            "Jacksonville Jaguars_Kansas City Chiefs": {
+                "date": "Nov 13, 2022",
+                "away_score": "17",
+                "home_score": "27"
+            },
+            "Cleveland Browns_Miami Dolphins": {
+                "date": "Nov 13, 2022",
+                "away_score": "17",
+                "home_score": "39"
+            },
+            "Houston Texans_New York Giants": {
+                "date": "Nov 13, 2022",
+                "away_score": "16",
+                "home_score": "24"
+            },
+            "Denver Broncos_Tennessee Titans": {
+                "date": "Nov 13, 2022",
+                "away_score": "10",
+                "home_score": "17"
+            },
+            "New Orleans Saints_Pittsburgh Steelers": {
+                "date": "Nov 13, 2022",
+                "away_score": "10",
+                "home_score": "20"
+            },
+            "Indianapolis Colts_Las Vegas Raiders": {
+                "date": "Nov 13, 2022",
+                "away_score": "25",
+                "home_score": "20"
+            },
+            "Dallas Cowboys_Green Bay Packers": {
+                "date": "Nov 13, 2022",
+                "away_score": "28",
+                "home_score": "31"
+            },
+            "Arizona Cardinals_Los Angeles Rams": {
+                "date": "Nov 13, 2022",
+                "away_score": "27",
+                "home_score": "17"
+            },
+            "Los Angeles Chargers_San Francisco 49ers": {
+                "date": "Nov 13, 2022",
+                "away_score": "16",
+                "home_score": "22"
+            },
+            "Washington Commanders_Philadelphia Eagles": {
+                "date": "Nov 14, 2022",
+                "away_score": "32",
+                "home_score": "21"
+            }
+        },
+        "11": {
+            "Tennessee Titans_Green Bay Packers": {
+                "date": "Nov 17, 2022",
+                "away_score": "27",
+                "home_score": "17"
+            },
+            "Chicago Bears_Atlanta Falcons": {
+                "date": "Nov 20, 2022",
+                "away_score": "24",
+                "home_score": "27"
+            },
+            "Cleveland Browns_Buffalo Bills": {
+                "date": "Nov 20, 2022",
+                "away_score": "23",
+                "home_score": "31"
+            },
+            "Philadelphia Eagles_Indianapolis Colts": {
+                "date": "Nov 20, 2022",
+                "away_score": "17",
+                "home_score": "16"
+            },
+            "Washington Commanders_Houston Texans": {
+                "date": "Nov 20, 2022",
+                "away_score": "23",
+                "home_score": "10"
+            },
+            "Los Angeles Rams_New Orleans Saints": {
+                "date": "Nov 20, 2022",
+                "away_score": "20",
+                "home_score": "27"
+            },
+            "New York Jets_New England Patriots": {
+                "date": "Nov 20, 2022",
+                "away_score": "3",
+                "home_score": "10"
+            },
+            "Detroit Lions_New York Giants": {
+                "date": "Nov 20, 2022",
+                "away_score": "31",
+                "home_score": "18"
+            },
+            "Carolina Panthers_Baltimore Ravens": {
+                "date": "Nov 20, 2022",
+                "away_score": "3",
+                "home_score": "13"
+            },
+            "Las Vegas Raiders_Denver Broncos": {
+                "date": "Nov 20, 2022",
+                "away_score": "22",
+                "home_score": "16"
+            },
+            "Dallas Cowboys_Minnesota Vikings": {
+                "date": "Nov 20, 2022",
+                "away_score": "40",
+                "home_score": "3"
+            },
+            "Cincinnati Bengals_Pittsburgh Steelers": {
+                "date": "Nov 20, 2022",
+                "away_score": "37",
+                "home_score": "30"
+            },
+            "Kansas City Chiefs_Los Angeles Chargers": {
+                "date": "Nov 20, 2022",
+                "away_score": "30",
+                "home_score": "27"
+            },
+            "San Francisco 49ers_Arizona Cardinals": {
+                "date": "Nov 21, 2022",
+                "away_score": "38",
+                "home_score": "10"
+            }
+        },
+        "12": {
+            "Buffalo Bills_Detroit Lions": {
+                "date": "Nov 24, 2022",
+                "away_score": "28",
+                "home_score": "25"
+            },
+            "New York Giants_Dallas Cowboys": {
+                "date": "Nov 24, 2022",
+                "away_score": "20",
+                "home_score": "28"
+            },
+            "New England Patriots_Minnesota Vikings": {
+                "date": "Nov 24, 2022",
+                "away_score": "26",
+                "home_score": "33"
+            },
+            "Denver Broncos_Carolina Panthers": {
+                "date": "Nov 27, 2022",
+                "away_score": "10",
+                "home_score": "23"
+            },
+            "Tampa Bay Buccaneers_Cleveland Browns": {
+                "date": "Nov 27, 2022",
+                "away_score": "17",
+                "home_score": "23"
+            },
+            "Baltimore Ravens_Jacksonville Jaguars": {
+                "date": "Nov 27, 2022",
+                "away_score": "27",
+                "home_score": "28"
+            },
+            "Houston Texans_Miami Dolphins": {
+                "date": "Nov 27, 2022",
+                "away_score": "15",
+                "home_score": "30"
+            },
+            "Chicago Bears_New York Jets": {
+                "date": "Nov 27, 2022",
+                "away_score": "10",
+                "home_score": "31"
+            },
+            "Cincinnati Bengals_Tennessee Titans": {
+                "date": "Nov 27, 2022",
+                "away_score": "20",
+                "home_score": "16"
+            },
+            "Atlanta Falcons_Washington Commanders": {
+                "date": "Nov 27, 2022",
+                "away_score": "13",
+                "home_score": "19"
+            },
+            "Los Angeles Chargers_Arizona Cardinals": {
+                "date": "Nov 27, 2022",
+                "away_score": "25",
+                "home_score": "24"
+            },
+            "Las Vegas Raiders_Seattle Seahawks": {
+                "date": "Nov 27, 2022",
+                "away_score": "40",
+                "home_score": "34"
+            },
+            "Los Angeles Rams_Kansas City Chiefs": {
+                "date": "Nov 27, 2022",
+                "away_score": "10",
+                "home_score": "26"
+            },
+            "New Orleans Saints_San Francisco 49ers": {
+                "date": "Nov 27, 2022",
+                "away_score": "0",
+                "home_score": "13"
+            },
+            "Green Bay Packers_Philadelphia Eagles": {
+                "date": "Nov 27, 2022",
+                "away_score": "33",
+                "home_score": "40"
+            },
+            "Pittsburgh Steelers_Indianapolis Colts": {
+                "date": "Nov 28, 2022",
+                "away_score": "24",
+                "home_score": "17"
+            }
+        },
+        "13": {
+            "Buffalo Bills_New England Patriots": {
+                "date": "Dec 1, 2022",
+                "away_score": "24",
+                "home_score": "10"
+            },
+            "Pittsburgh Steelers_Atlanta Falcons": {
+                "date": "Dec 4, 2022",
+                "away_score": "19",
+                "home_score": "16"
+            },
+            "Green Bay Packers_Chicago Bears": {
+                "date": "Dec 4, 2022",
+                "away_score": "28",
+                "home_score": "19"
+            },
+            "Jacksonville Jaguars_Detroit Lions": {
+                "date": "Dec 4, 2022",
+                "away_score": "14",
+                "home_score": "40"
+            },
+            "Cleveland Browns_Houston Texans": {
+                "date": "Dec 4, 2022",
+                "away_score": "27",
+                "home_score": "14"
+            },
+            "New York Jets_Minnesota Vikings": {
+                "date": "Dec 4, 2022",
+                "away_score": "22",
+                "home_score": "27"
+            },
+            "Washington Commanders_New York Giants": {
+                "date": "Dec 4, 2022",
+                "away_score": "20",
+                "home_score": "20"
+            },
+            "Tennessee Titans_Philadelphia Eagles": {
+                "date": "Dec 4, 2022",
+                "away_score": "10",
+                "home_score": "35"
+            },
+            "Denver Broncos_Baltimore Ravens": {
+                "date": "Dec 4, 2022",
+                "away_score": "9",
+                "home_score": "10"
+            },
+            "Seattle Seahawks_Los Angeles Rams": {
+                "date": "Dec 4, 2022",
+                "away_score": "27",
+                "home_score": "23"
+            },
+            "Miami Dolphins_San Francisco 49ers": {
+                "date": "Dec 4, 2022",
+                "away_score": "17",
+                "home_score": "33"
+            },
+            "Kansas City Chiefs_Cincinnati Bengals": {
+                "date": "Dec 4, 2022",
+                "away_score": "24",
+                "home_score": "27"
+            },
+            "Los Angeles Chargers_Las Vegas Raiders": {
+                "date": "Dec 4, 2022",
+                "away_score": "20",
+                "home_score": "27"
+            },
+            "Indianapolis Colts_Dallas Cowboys": {
+                "date": "Dec 4, 2022",
+                "away_score": "19",
+                "home_score": "54"
+            },
+            "New Orleans Saints_Tampa Bay Buccaneers": {
+                "date": "Dec 5, 2022",
+                "away_score": "16",
+                "home_score": "17"
+            }
+        },
+        "14": {
+            "Las Vegas Raiders_Los Angeles Rams": {
+                "date": "Dec 8, 2022",
+                "away_score": "16",
+                "home_score": "17"
+            },
+            "New York Jets_Buffalo Bills": {
+                "date": "Dec 11, 2022",
+                "away_score": "12",
+                "home_score": "20"
+            },
+            "Cleveland Browns_Cincinnati Bengals": {
+                "date": "Dec 11, 2022",
+                "away_score": "10",
+                "home_score": "23"
+            },
+            "Houston Texans_Dallas Cowboys": {
+                "date": "Dec 11, 2022",
+                "away_score": "23",
+                "home_score": "27"
+            },
+            "Minnesota Vikings_Detroit Lions": {
+                "date": "Dec 11, 2022",
+                "away_score": "23",
+                "home_score": "34"
+            },
+            "Philadelphia Eagles_New York Giants": {
+                "date": "Dec 11, 2022",
+                "away_score": "48",
+                "home_score": "22"
+            },
+            "Jacksonville Jaguars_Tennessee Titans": {
+                "date": "Dec 11, 2022",
+                "away_score": "36",
+                "home_score": "22"
+            },
+            "Baltimore Ravens_Pittsburgh Steelers": {
+                "date": "Dec 11, 2022",
+                "away_score": "16",
+                "home_score": "14"
+            },
+            "Kansas City Chiefs_Denver Broncos": {
+                "date": "Dec 11, 2022",
+                "away_score": "34",
+                "home_score": "28"
+            },
+            "Carolina Panthers_Seattle Seahawks": {
+                "date": "Dec 11, 2022",
+                "away_score": "30",
+                "home_score": "24"
+            },
+            "Tampa Bay Buccaneers_San Francisco 49ers": {
+                "date": "Dec 11, 2022",
+                "away_score": "7",
+                "home_score": "35"
+            },
+            "Miami Dolphins_Los Angeles Chargers": {
+                "date": "Dec 11, 2022",
+                "away_score": "17",
+                "home_score": "23"
+            },
+            "New England Patriots_Arizona Cardinals": {
+                "date": "Dec 12, 2022",
+                "away_score": "27",
+                "home_score": "13"
+            }
+        },
+        "15": {
+            "San Francisco 49ers_Seattle Seahawks": {
+                "date": "Dec 15, 2022",
+                "away_score": "21",
+                "home_score": "13"
+            },
+            "Indianapolis Colts_Minnesota Vikings": {
+                "date": "Dec 17, 2022",
+                "away_score": "36",
+                "home_score": "39"
+            },
+            "Baltimore Ravens_Cleveland Browns": {
+                "date": "Dec 17, 2022",
+                "away_score": "3",
+                "home_score": "13"
+            },
+            "Miami Dolphins_Buffalo Bills": {
+                "date": "Dec 17, 2022",
+                "away_score": "29",
+                "home_score": "32"
+            },
+            "Pittsburgh Steelers_Carolina Panthers": {
+                "date": "Dec 18, 2022",
+                "away_score": "24",
+                "home_score": "16"
+            },
+            "Philadelphia Eagles_Chicago Bears": {
+                "date": "Dec 18, 2022",
+                "away_score": "25",
+                "home_score": "20"
+            },
+            "Kansas City Chiefs_Houston Texans": {
+                "date": "Dec 18, 2022",
+                "away_score": "30",
+                "home_score": "24"
+            },
+            "Dallas Cowboys_Jacksonville Jaguars": {
+                "date": "Dec 18, 2022",
+                "away_score": "34",
+                "home_score": "40"
+            },
+            "Atlanta Falcons_New Orleans Saints": {
+                "date": "Dec 18, 2022",
+                "away_score": "18",
+                "home_score": "21"
+            },
+            "Detroit Lions_New York Jets": {
+                "date": "Dec 18, 2022",
+                "away_score": "20",
+                "home_score": "17"
+            },
+            "Arizona Cardinals_Denver Broncos": {
+                "date": "Dec 18, 2022",
+                "away_score": "15",
+                "home_score": "24"
+            },
+            "Tennessee Titans_Los Angeles Chargers": {
+                "date": "Dec 18, 2022",
+                "away_score": "14",
+                "home_score": "17"
+            },
+            "Cincinnati Bengals_Tampa Bay Buccaneers": {
+                "date": "Dec 18, 2022",
+                "away_score": "34",
+                "home_score": "23"
+            },
+            "New York Giants_Washington Commanders": {
+                "date": "Dec 18, 2022",
+                "away_score": "20",
+                "home_score": "12"
+            },
+            "New England Patriots_Las Vegas Raiders": {
+                "date": "Dec 18, 2022",
+                "away_score": "24",
+                "home_score": "30"
+            },
+            "Los Angeles Rams_Green Bay Packers": {
+                "date": "Dec 19, 2022",
+                "away_score": "12",
+                "home_score": "24"
+            }
+        },
+        "16": {
+            "Jacksonville Jaguars_New York Jets": {
+                "date": "Dec 22, 2022",
+                "away_score": "19",
+                "home_score": "3"
+            },
+            "Detroit Lions_Carolina Panthers": {
+                "date": "Dec 24, 2022",
+                "away_score": "23",
+                "home_score": "37"
+            },
+            "Buffalo Bills_Chicago Bears": {
+                "date": "Dec 24, 2022",
+                "away_score": "35",
+                "home_score": "13"
+            },
+            "New Orleans Saints_Cleveland Browns": {
+                "date": "Dec 24, 2022",
+                "away_score": "17",
+                "home_score": "10"
+            },
+            "Seattle Seahawks_Kansas City Chiefs": {
+                "date": "Dec 24, 2022",
+                "away_score": "10",
+                "home_score": "24"
+            },
+            "New York Giants_Minnesota Vikings": {
+                "date": "Dec 24, 2022",
+                "away_score": "24",
+                "home_score": "27"
+            },
+            "Cincinnati Bengals_New England Patriots": {
+                "date": "Dec 24, 2022",
+                "away_score": "22",
+                "home_score": "18"
+            },
+            "Houston Texans_Tennessee Titans": {
+                "date": "Dec 24, 2022",
+                "away_score": "19",
+                "home_score": "14"
+            },
+            "Atlanta Falcons_Baltimore Ravens": {
+                "date": "Dec 24, 2022",
+                "away_score": "9",
+                "home_score": "17"
+            },
+            "Washington Commanders_San Francisco 49ers": {
+                "date": "Dec 24, 2022",
+                "away_score": "20",
+                "home_score": "37"
+            },
+            "Philadelphia Eagles_Dallas Cowboys": {
+                "date": "Dec 24, 2022",
+                "away_score": "34",
+                "home_score": "40"
+            },
+            "Las Vegas Raiders_Pittsburgh Steelers": {
+                "date": "Dec 24, 2022",
+                "away_score": "10",
+                "home_score": "13"
+            },
+            "Green Bay Packers_Miami Dolphins": {
+                "date": "Dec 25, 2022",
+                "away_score": "26",
+                "home_score": "20"
+            },
+            "Denver Broncos_Los Angeles Rams": {
+                "date": "Dec 25, 2022",
+                "away_score": "14",
+                "home_score": "51"
+            },
+            "Tampa Bay Buccaneers_Arizona Cardinals": {
+                "date": "Dec 25, 2022",
+                "away_score": "19",
+                "home_score": "16"
+            },
+            "Los Angeles Chargers_Indianapolis Colts": {
+                "date": "Dec 26, 2022",
+                "away_score": "20",
+                "home_score": "3"
+            }
+        },
+        "17": {
+            "Dallas Cowboys_Tennessee Titans": {
+                "date": "Dec 29, 2022",
+                "away_score": "27",
+                "home_score": "13"
+            },
+            "Arizona Cardinals_Atlanta Falcons": {
+                "date": "Jan 1, 2023",
+                "away_score": "19",
+                "home_score": "20"
+            },
+            "Chicago Bears_Detroit Lions": {
+                "date": "Jan 1, 2023",
+                "away_score": "10",
+                "home_score": "41"
+            },
+            "Jacksonville Jaguars_Houston Texans": {
+                "date": "Jan 1, 2023",
+                "away_score": "31",
+                "home_score": "3"
+            },
+            "Denver Broncos_Kansas City Chiefs": {
+                "date": "Jan 1, 2023",
+                "away_score": "24",
+                "home_score": "27"
+            },
+            "Miami Dolphins_New England Patriots": {
+                "date": "Jan 1, 2023",
+                "away_score": "21",
+                "home_score": "23"
+            },
+            "Indianapolis Colts_New York Giants": {
+                "date": "Jan 1, 2023",
+                "away_score": "10",
+                "home_score": "38"
+            },
+            "New Orleans Saints_Philadelphia Eagles": {
+                "date": "Jan 1, 2023",
+                "away_score": "20",
+                "home_score": "10"
+            },
+            "Pittsburgh Steelers_Baltimore Ravens": {
+                "date": "Jan 1, 2023",
+                "away_score": "16",
+                "home_score": "13"
+            },
+            "Carolina Panthers_Tampa Bay Buccaneers": {
+                "date": "Jan 1, 2023",
+                "away_score": "24",
+                "home_score": "30"
+            },
+            "Cleveland Browns_Washington Commanders": {
+                "date": "Jan 1, 2023",
+                "away_score": "24",
+                "home_score": "10"
+            },
+            "San Francisco 49ers_Las Vegas Raiders": {
+                "date": "Jan 1, 2023",
+                "away_score": "37",
+                "home_score": "34"
+            },
+            "New York Jets_Seattle Seahawks": {
+                "date": "Jan 1, 2023",
+                "away_score": "6",
+                "home_score": "23"
+            },
+            "Minnesota Vikings_Green Bay Packers": {
+                "date": "Jan 1, 2023",
+                "away_score": "17",
+                "home_score": "41"
+            },
+            "Los Angeles Rams_Los Angeles Chargers": {
+                "date": "Jan 1, 2023",
+                "away_score": "10",
+                "home_score": "31"
+            }
+        },
+        "18": {
+            "Kansas City Chiefs_Las Vegas Raiders": {
+                "date": "Jan 7, 2023",
+                "away_score": "31",
+                "home_score": "13"
+            },
+            "Tennessee Titans_Jacksonville Jaguars": {
+                "date": "Jan 7, 2023",
+                "away_score": "16",
+                "home_score": "20"
+            },
+            "Tampa Bay Buccaneers_Atlanta Falcons": {
+                "date": "Jan 8, 2023",
+                "away_score": "17",
+                "home_score": "30"
+            },
+            "New England Patriots_Buffalo Bills": {
+                "date": "Jan 8, 2023",
+                "away_score": "23",
+                "home_score": "35"
+            },
+            "Minnesota Vikings_Chicago Bears": {
+                "date": "Jan 8, 2023",
+                "away_score": "29",
+                "home_score": "13"
+            },
+            "Baltimore Ravens_Cincinnati Bengals": {
+                "date": "Jan 8, 2023",
+                "away_score": "16",
+                "home_score": "27"
+            },
+            "Houston Texans_Indianapolis Colts": {
+                "date": "Jan 8, 2023",
+                "away_score": "32",
+                "home_score": "31"
+            },
+            "New York Jets_Miami Dolphins": {
+                "date": "Jan 8, 2023",
+                "away_score": "6",
+                "home_score": "11"
+            },
+            "Carolina Panthers_New Orleans Saints": {
+                "date": "Jan 8, 2023",
+                "away_score": "10",
+                "home_score": "7"
+            },
+            "Cleveland Browns_Pittsburgh Steelers": {
+                "date": "Jan 8, 2023",
+                "away_score": "14",
+                "home_score": "28"
+            },
+            "Los Angeles Chargers_Denver Broncos": {
+                "date": "Jan 8, 2023",
+                "away_score": "28",
+                "home_score": "31"
+            },
+            "New York Giants_Philadelphia Eagles": {
+                "date": "Jan 8, 2023",
+                "away_score": "16",
+                "home_score": "22"
+            },
+            "Los Angeles Rams_Seattle Seahawks": {
+                "date": "Jan 8, 2023",
+                "away_score": "16",
+                "home_score": "19"
+            },
+            "Arizona Cardinals_San Francisco 49ers": {
+                "date": "Jan 8, 2023",
+                "away_score": "13",
+                "home_score": "38"
+            },
+            "Dallas Cowboys_Washington Commanders": {
+                "date": "Jan 8, 2023",
+                "away_score": "6",
+                "home_score": "26"
+            },
+            "Detroit Lions_Green Bay Packers": {
+                "date": "Jan 8, 2023",
+                "away_score": "20",
+                "home_score": "16"
+            }
+        },
+        "19": {
+            "Seattle Seahawks_San Francisco 49ers": {
+                "date": "Jan 14, 2023",
+                "away_score": "23",
+                "home_score": "41"
+            },
+            "Los Angeles Chargers_Jacksonville Jaguars": {
+                "date": "Jan 14, 2023",
+                "away_score": "30",
+                "home_score": "31"
+            },
+            "Miami Dolphins_Buffalo Bills": {
+                "date": "Jan 15, 2023",
+                "away_score": "31",
+                "home_score": "34"
+            },
+            "New York Giants_Minnesota Vikings": {
+                "date": "Jan 15, 2023",
+                "away_score": "31",
+                "home_score": "24"
+            },
+            "Baltimore Ravens_Cincinnati Bengals": {
+                "date": "Jan 15, 2023",
+                "away_score": "17",
+                "home_score": "24"
+            },
+            "Dallas Cowboys_Tampa Bay Buccaneers": {
+                "date": "Jan 16, 2023",
+                "away_score": "31",
+                "home_score": "14"
+            }
+        },
+        "20": {
+            "Jacksonville Jaguars_Kansas City Chiefs": {
+                "date": "Jan 21, 2023",
+                "away_score": "20",
+                "home_score": "27"
+            },
+            "New York Giants_Philadelphia Eagles": {
+                "date": "Jan 21, 2023",
+                "away_score": "7",
+                "home_score": "38"
+            },
+            "Cincinnati Bengals_Buffalo Bills": {
+                "date": "Jan 22, 2023",
+                "away_score": "27",
+                "home_score": "10"
+            },
+            "Dallas Cowboys_San Francisco 49ers": {
+                "date": "Jan 22, 2023",
+                "away_score": "12",
+                "home_score": "19"
+            }
+        },
+        "21": {
+            "San Francisco 49ers_Philadelphia Eagles": {
+                "date": "Jan 29, 2023",
+                "away_score": "7",
+                "home_score": "31"
+            },
+            "Cincinnati Bengals_Kansas City Chiefs": {
+                "date": "Jan 29, 2023",
+                "away_score": "20",
+                "home_score": "23"
+            }
+        },
+        "22": {
+            "Kansas City Chiefs_Philadelphia Eagles": {
+                "date": "Sunday",
+                "away_score": "",
+                "home_score": ""
+            }
+        }
+    }
+}

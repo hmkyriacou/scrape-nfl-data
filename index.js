@@ -90,6 +90,7 @@ async function main() {
         if (year == yearToStart) {
             if (weekToStart !== 'DONE') {
                 startWeek = weekToStart
+                year_data = curDataObj[yearToStart]
             }
         }
 
