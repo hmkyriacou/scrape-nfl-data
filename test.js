@@ -3,7 +3,7 @@ const fs = require('fs/promises')
 const years = [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010]
 
 async function main() {
-    let curData = await fs.readFile("./data_updated.json", { encoding: 'utf8' })
+    let curData = await fs.readFile("./data.json", { encoding: 'utf8' })
 
     let curDataObj = JSON.parse(curData)
 
@@ -24,7 +24,7 @@ async function main() {
                     //console.log(year, i, Object.keys(curDataObj[year][i]).length)
                     continue
                 } else {
-                    weekToStart = i
+                    weekToStart = i + 1
                     break
                 }
             }
