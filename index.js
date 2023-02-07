@@ -48,7 +48,7 @@ async function main() {
                     //console.log(year, i, Object.keys(curDataObj[year][i]).length)
                     continue
                 } else {
-                    weekToStart = i
+                    weekToStart = i + 1
                     break
                 }
             }
