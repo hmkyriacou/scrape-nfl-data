@@ -1,7 +1,8 @@
-const cheerio = require('cheerio')
-const fs = require('fs/promises')
+import cheerio from 'cheerio'
+import fs from 'fs/promises'
+import fetch from 'node-fetch'
 
-years = [2022] //, 2021, 2020, 2019, 2018, 2017, 2016]
+let years = [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010]
 
 // ** data structure
 // *  JSON -
@@ -83,7 +84,9 @@ async function main() {
         data[year] = year_data
     }
 
-    console.log(data)
+    fs.writeFile('data.json', JSON.stringify(data), 'utf8')
+    //console.log(data)
 }
 
 main()
+
