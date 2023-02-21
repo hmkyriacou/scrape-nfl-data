@@ -1,5 +1,5 @@
 {
-    "USW00013874": [
+    "Atlanta": [
         {
             "STATION": "USW00013874",
             "MONTH": 1,
@@ -121,7 +121,7 @@
             "MLY-SNOW-NORMAL": 0.3
         }
     ],
-    "USW00093721": [
+    "Baltimore": [
         {
             "STATION": "USW00093721",
             "MONTH": 1,
@@ -243,7 +243,7 @@
             "MLY-SNOW-NORMAL": 2.5
         }
     ],
-    "USW00014739": [
+    "New England": [
         {
             "STATION": "USW00014739",
             "MONTH": 1,
@@ -365,7 +365,7 @@
             "MLY-SNOW-NORMAL": 9.5
         }
     ],
-    "USW00014733": [
+    "Buffalo": [
         {
             "STATION": "USW00014733",
             "MONTH": 1,
@@ -487,7 +487,7 @@
             "MLY-SNOW-NORMAL": 21.7
         }
     ],
-    "USW00013881": [
+    "Carolina": [
         {
             "STATION": "USW00013881",
             "MONTH": 1,
@@ -609,7 +609,7 @@
             "MLY-SNOW-NORMAL": 0.4
         }
     ],
-    "USC00111577": [
+    "Chicago": [
         {
             "STATION": "USC00111577",
             "MONTH": 1,
@@ -731,7 +731,7 @@
             "MLY-SNOW-NORMAL": 8
         }
     ],
-    "USW00093814": [
+    "Cincinnati": [
         {
             "STATION": "USW00093814",
             "MONTH": 1,
@@ -853,7 +853,7 @@
             "MLY-SNOW-NORMAL": 3.9
         }
     ],
-    "USW00014820": [
+    "Cleveland": [
         {
             "STATION": "USW00014820",
             "MONTH": 1,
@@ -975,7 +975,7 @@
             "MLY-SNOW-NORMAL": 8.8
         }
     ],
-    "USW00003927": [
+    "Dallas": [
         {
             "STATION": "USW00003927",
             "MONTH": 1,
@@ -1097,7 +1097,7 @@
             "MLY-SNOW-NORMAL": 0.4
         }
     ],
-    "USW00023062": [
+    "Denver": [
         {
             "STATION": "USW00023062",
             "MONTH": 1,
@@ -1219,7 +1219,7 @@
             "MLY-SNOW-NORMAL": 8.9
         }
     ],
-    "USW00094847": [
+    "Detroit": [
         {
             "STATION": "USW00094847",
             "MONTH": 1,
@@ -1341,7 +1341,7 @@
             "MLY-SNOW-NORMAL": 9.3
         }
     ],
-    "USW00014898": [
+    "Green Bay": [
         {
             "STATION": "USW00014898",
             "MONTH": 1,
@@ -1463,7 +1463,7 @@
             "MLY-SNOW-NORMAL": 16.7
         }
     ],
-    "USC00283704": [
+    "New York": [
         {
             "STATION": "USC00283704",
             "MONTH": 1,
@@ -1585,7 +1585,7 @@
             "MLY-SNOW-NORMAL": 6
         }
     ],
-    "USW00012960": [
+    "Houston": [
         {
             "STATION": "USW00012960",
             "MONTH": 1,
@@ -1707,7 +1707,7 @@
             "MLY-SNOW-NORMAL": 0.2
         }
     ],
-    "USW00093819": [
+    "Indianapolis": [
         {
             "STATION": "USW00093819",
             "MONTH": 1,
@@ -1829,7 +1829,7 @@
             "MLY-SNOW-NORMAL": 5.6
         }
     ],
-    "USW00013889": [
+    "Jacksonville": [
         {
             "STATION": "USW00013889",
             "MONTH": 1,
@@ -1951,7 +1951,7 @@
             "MLY-SNOW-NORMAL": null
         }
     ],
-    "USW00003947": [
+    "Kansas City": [
         {
             "STATION": "USW00003947",
             "MONTH": 1,
@@ -2073,7 +2073,7 @@
             "MLY-SNOW-NORMAL": 4.1
         }
     ],
-    "USC00264439": [
+    "Las Vegas": [
         {
             "STATION": "USC00264439",
             "MONTH": 1,
@@ -2195,7 +2195,7 @@
             "MLY-SNOW-NORMAL": 0.2
         }
     ],
-    "USW00092811": [
+    "Miami": [
         {
             "STATION": "USW00092811",
             "MONTH": 1,
@@ -2317,7 +2317,7 @@
             "MLY-SNOW-NORMAL": null
         }
     ],
-    "USW00014922": [
+    "Minneapolis": [
         {
             "STATION": "USW00014922",
             "MONTH": 1,
@@ -2439,7 +2439,7 @@
             "MLY-SNOW-NORMAL": 13.4
         }
     ],
-    "USW00013897": [
+    "Tennessee": [
         {
             "STATION": "USW00013897",
             "MONTH": 1,
@@ -2561,7 +2561,7 @@
             "MLY-SNOW-NORMAL": 0.5
         }
     ],
-    "USW00012916": [
+    "New Orleans": [
         {
             "STATION": "USW00012916",
             "MONTH": 1,
@@ -2683,7 +2683,7 @@
             "MLY-SNOW-NORMAL": null
         }
     ],
-    "USW00013739": [
+    "Philadelphia": [
         {
             "STATION": "USW00013739",
             "MONTH": 1,
@@ -2805,7 +2805,7 @@
             "MLY-SNOW-NORMAL": 4.3
         }
     ],
-    "USW00014762": [
+    "Pittsburgh": [
         {
             "STATION": "USW00014762",
             "MONTH": 1,
@@ -2927,7 +2927,7 @@
             "MLY-SNOW-NORMAL": null
         }
     ],
-    "USW00023234": [
+    "San Francisco": [
         {
             "STATION": "USW00023234",
             "MONTH": 1,
@@ -3049,7 +3049,7 @@
             "MLY-SNOW-NORMAL": null
         }
     ],
-    "USW00094290": [
+    "Seattle": [
         {
             "STATION": "USW00094290",
             "MONTH": 1,
@@ -3171,7 +3171,7 @@
             "MLY-SNOW-NORMAL": 1.1
         }
     ],
-    "USW00012842": [
+    "Tampa Bay": [
         {
             "STATION": "USW00012842",
             "MONTH": 1,
@@ -3293,7 +3293,7 @@
             "MLY-SNOW-NORMAL": 0
         }
     ],
-    "USC00028499": [
+    "Arizona": [
         {
             "STATION": "USC00028499",
             "MONTH": 1,
@@ -3415,7 +3415,7 @@
             "MLY-SNOW-NORMAL": 0
         }
     ],
-    "USC00049152": [
+    "Los Angeles": [
         {
             "STATION": "USC00049152",
             "MONTH": 1,
@@ -3537,7 +3537,7 @@
             "MLY-SNOW-NORMAL": 0
         }
     ],
-    "USW00013743": [
+    "Washington": [
         {
             "STATION": "USW00013743",
             "MONTH": 1,
