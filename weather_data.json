@@ -1,32 +1,3662 @@
 {
-    "Pittsburgh": 51.8,
-    "Las Vegas": 70.1,
-    "Kansas City": 53,
-    "Dallas": 66.6,
-    "Carolina": 64.4,
-    "New Orleans": 68.5,
-    "Denver": 48,
-    "Washington": 60,
-    "Cleveland": 50,
-    "Detroit": 50,
-    "New England": 51,
-    "Miami": 70,
-    "Buffalo": 47,
-    "Green Bay": 49.5,
-    "San Francisco": 64,
-    "Philadelphia": 51.3,
-    "Indianapolis": 56,
-    "Seattle": 57,
-    "Baltimore": 59,
-    "Atlanta": 67,
-    "New York": 53,
-    "Tennessee": 56,
-    "Houston": 66,
-    "Cincinnati": 49,
-    "Tampa Bay": 68,
-    "Los Angeles": 65,
-    "Chicago": 53,
-    "Arizona": 71,
-    "Jacksonville": 69.5,
-    "Minnesota": 46
+    "USW00013874": [
+        {
+            "STATION": "USW00013874",
+            "MONTH": 1,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 44.8,
+            "MLY-TMIN-NORMAL": 35.5,
+            "MLY-TMAX-NORMAL": 54.1,
+            "MLY-PRCP-NORMAL": 4.76,
+            "MLY-SNOW-NORMAL": 0.8
+        },
+        {
+            "STATION": "USW00013874",
+            "MONTH": 2,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 48.6,
+            "MLY-TMIN-NORMAL": 38.9,
+            "MLY-TMAX-NORMAL": 58.3,
+            "MLY-PRCP-NORMAL": 4.84,
+            "MLY-SNOW-NORMAL": 0.5
+        },
+        {
+            "STATION": "USW00013874",
+            "MONTH": 3,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 56.3,
+            "MLY-TMIN-NORMAL": 46.2,
+            "MLY-TMAX-NORMAL": 66.4,
+            "MLY-PRCP-NORMAL": 4.23,
+            "MLY-SNOW-NORMAL": 0.4
+        },
+        {
+            "STATION": "USW00013874",
+            "MONTH": 4,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 63.8,
+            "MLY-TMIN-NORMAL": 53.3,
+            "MLY-TMAX-NORMAL": 74.2,
+            "MLY-PRCP-NORMAL": 4.46,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013874",
+            "MONTH": 5,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 71.7,
+            "MLY-TMIN-NORMAL": 62,
+            "MLY-TMAX-NORMAL": 81.4,
+            "MLY-PRCP-NORMAL": 3.62,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013874",
+            "MONTH": 6,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 79.1,
+            "MLY-TMIN-NORMAL": 69.6,
+            "MLY-TMAX-NORMAL": 88.6,
+            "MLY-PRCP-NORMAL": 4.51,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013874",
+            "MONTH": 7,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 81,
+            "MLY-TMIN-NORMAL": 71.9,
+            "MLY-TMAX-NORMAL": 90.1,
+            "MLY-PRCP-NORMAL": 4.21,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013874",
+            "MONTH": 8,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 80.8,
+            "MLY-TMIN-NORMAL": 71.9,
+            "MLY-TMAX-NORMAL": 89.7,
+            "MLY-PRCP-NORMAL": 4.84,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013874",
+            "MONTH": 9,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 75.8,
+            "MLY-TMIN-NORMAL": 66.8,
+            "MLY-TMAX-NORMAL": 84.7,
+            "MLY-PRCP-NORMAL": 2.95,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013874",
+            "MONTH": 10,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 65.1,
+            "MLY-TMIN-NORMAL": 55.2,
+            "MLY-TMAX-NORMAL": 75,
+            "MLY-PRCP-NORMAL": 3.59,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013874",
+            "MONTH": 11,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 54,
+            "MLY-TMIN-NORMAL": 43.8,
+            "MLY-TMAX-NORMAL": 64.2,
+            "MLY-PRCP-NORMAL": 3.6,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013874",
+            "MONTH": 12,
+            "NAME": "ATLANTA HARTSFIELD INTL AP, GA US",
+            "MLY-AVG-TEMP": 48.7,
+            "MLY-TMIN-NORMAL": 40,
+            "MLY-TMAX-NORMAL": 57.4,
+            "MLY-PRCP-NORMAL": 5.72,
+            "MLY-SNOW-NORMAL": 0.3
+        }
+    ],
+    "USW00093721": [
+        {
+            "STATION": "USW00093721",
+            "MONTH": 1,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 34.7,
+            "MLY-TMIN-NORMAL": 25.9,
+            "MLY-TMAX-NORMAL": 43.5,
+            "MLY-PRCP-NORMAL": 2.76,
+            "MLY-SNOW-NORMAL": 5.7
+        },
+        {
+            "STATION": "USW00093721",
+            "MONTH": 2,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 36.6,
+            "MLY-TMIN-NORMAL": 27.3,
+            "MLY-TMAX-NORMAL": 46,
+            "MLY-PRCP-NORMAL": 3.06,
+            "MLY-SNOW-NORMAL": 7.8
+        },
+        {
+            "STATION": "USW00093721",
+            "MONTH": 3,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 44.9,
+            "MLY-TMIN-NORMAL": 34.7,
+            "MLY-TMAX-NORMAL": 55.2,
+            "MLY-PRCP-NORMAL": 3.21,
+            "MLY-SNOW-NORMAL": 3
+        },
+        {
+            "STATION": "USW00093721",
+            "MONTH": 4,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 55.5,
+            "MLY-TMIN-NORMAL": 44.4,
+            "MLY-TMAX-NORMAL": 66.7,
+            "MLY-PRCP-NORMAL": 3.77,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093721",
+            "MONTH": 5,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 65.2,
+            "MLY-TMIN-NORMAL": 54.7,
+            "MLY-TMAX-NORMAL": 75.8,
+            "MLY-PRCP-NORMAL": 4.12,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093721",
+            "MONTH": 6,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 74.1,
+            "MLY-TMIN-NORMAL": 63.6,
+            "MLY-TMAX-NORMAL": 84.7,
+            "MLY-PRCP-NORMAL": 4.64,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093721",
+            "MONTH": 7,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 79,
+            "MLY-TMIN-NORMAL": 68.6,
+            "MLY-TMAX-NORMAL": 89.4,
+            "MLY-PRCP-NORMAL": 4.71,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093721",
+            "MONTH": 8,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 76.5,
+            "MLY-TMIN-NORMAL": 66.5,
+            "MLY-TMAX-NORMAL": 86.5,
+            "MLY-PRCP-NORMAL": 4.66,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093721",
+            "MONTH": 9,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 69.8,
+            "MLY-TMIN-NORMAL": 59.8,
+            "MLY-TMAX-NORMAL": 79.8,
+            "MLY-PRCP-NORMAL": 4.71,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093721",
+            "MONTH": 10,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 58.5,
+            "MLY-TMIN-NORMAL": 48.2,
+            "MLY-TMAX-NORMAL": 68.7,
+            "MLY-PRCP-NORMAL": 4.43,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093721",
+            "MONTH": 11,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 47,
+            "MLY-TMIN-NORMAL": 37.1,
+            "MLY-TMAX-NORMAL": 57,
+            "MLY-PRCP-NORMAL": 3.23,
+            "MLY-SNOW-NORMAL": 0.1
+        },
+        {
+            "STATION": "USW00093721",
+            "MONTH": 12,
+            "NAME": "BALTIMORE WASH INTL AP, MD US",
+            "MLY-AVG-TEMP": 39.5,
+            "MLY-TMIN-NORMAL": 30.9,
+            "MLY-TMAX-NORMAL": 48.2,
+            "MLY-PRCP-NORMAL": 3.99,
+            "MLY-SNOW-NORMAL": 2.5
+        }
+    ],
+    "USW00014739": [
+        {
+            "STATION": "USW00014739",
+            "MONTH": 1,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 31.1,
+            "MLY-TMIN-NORMAL": 24.3,
+            "MLY-TMAX-NORMAL": 37.9,
+            "MLY-PRCP-NORMAL": 3.25,
+            "MLY-SNOW-NORMAL": 13.5
+        },
+        {
+            "STATION": "USW00014739",
+            "MONTH": 2,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 32.1,
+            "MLY-TMIN-NORMAL": 24.9,
+            "MLY-TMAX-NORMAL": 39.4,
+            "MLY-PRCP-NORMAL": 3.62,
+            "MLY-SNOW-NORMAL": 16.7
+        },
+        {
+            "STATION": "USW00014739",
+            "MONTH": 3,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 38.6,
+            "MLY-TMIN-NORMAL": 31.3,
+            "MLY-TMAX-NORMAL": 46,
+            "MLY-PRCP-NORMAL": 4.01,
+            "MLY-SNOW-NORMAL": 7.1
+        },
+        {
+            "STATION": "USW00014739",
+            "MONTH": 4,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 49.1,
+            "MLY-TMIN-NORMAL": 41.3,
+            "MLY-TMAX-NORMAL": 56.9,
+            "MLY-PRCP-NORMAL": 3.71,
+            "MLY-SNOW-NORMAL": 0.8
+        },
+        {
+            "STATION": "USW00014739",
+            "MONTH": 5,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 59.3,
+            "MLY-TMIN-NORMAL": 51.2,
+            "MLY-TMAX-NORMAL": 67.4,
+            "MLY-PRCP-NORMAL": 3.48,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014739",
+            "MONTH": 6,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 68,
+            "MLY-TMIN-NORMAL": 60.1,
+            "MLY-TMAX-NORMAL": 75.9,
+            "MLY-PRCP-NORMAL": 4.44,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014739",
+            "MONTH": 7,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 75.1,
+            "MLY-TMIN-NORMAL": 67.1,
+            "MLY-TMAX-NORMAL": 83.2,
+            "MLY-PRCP-NORMAL": 3.86,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014739",
+            "MONTH": 8,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 73.2,
+            "MLY-TMIN-NORMAL": 65.7,
+            "MLY-TMAX-NORMAL": 80.7,
+            "MLY-PRCP-NORMAL": 3.18,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014739",
+            "MONTH": 9,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 66.3,
+            "MLY-TMIN-NORMAL": 58.9,
+            "MLY-TMAX-NORMAL": 73.8,
+            "MLY-PRCP-NORMAL": 2.91,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014739",
+            "MONTH": 10,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 55.9,
+            "MLY-TMIN-NORMAL": 48.8,
+            "MLY-TMAX-NORMAL": 62.9,
+            "MLY-PRCP-NORMAL": 3.83,
+            "MLY-SNOW-NORMAL": 0.4
+        },
+        {
+            "STATION": "USW00014739",
+            "MONTH": 11,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 45.2,
+            "MLY-TMIN-NORMAL": 38.1,
+            "MLY-TMAX-NORMAL": 52.3,
+            "MLY-PRCP-NORMAL": 3.74,
+            "MLY-SNOW-NORMAL": 0.2
+        },
+        {
+            "STATION": "USW00014739",
+            "MONTH": 12,
+            "NAME": "BOSTON LOGAN INTL AP, MA US",
+            "MLY-AVG-TEMP": 36.3,
+            "MLY-TMIN-NORMAL": 29.7,
+            "MLY-TMAX-NORMAL": 42.8,
+            "MLY-PRCP-NORMAL": 4.49,
+            "MLY-SNOW-NORMAL": 9.5
+        }
+    ],
+    "USW00014733": [
+        {
+            "STATION": "USW00014733",
+            "MONTH": 1,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 26.4,
+            "MLY-TMIN-NORMAL": 19.7,
+            "MLY-TMAX-NORMAL": 33.1,
+            "MLY-PRCP-NORMAL": 3.19,
+            "MLY-SNOW-NORMAL": 25
+        },
+        {
+            "STATION": "USW00014733",
+            "MONTH": 2,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 26,
+            "MLY-TMIN-NORMAL": 19.4,
+            "MLY-TMAX-NORMAL": 32.7,
+            "MLY-PRCP-NORMAL": 2.82,
+            "MLY-SNOW-NORMAL": 21.5
+        },
+        {
+            "STATION": "USW00014733",
+            "MONTH": 3,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 34.7,
+            "MLY-TMIN-NORMAL": 27,
+            "MLY-TMAX-NORMAL": 42.4,
+            "MLY-PRCP-NORMAL": 2.77,
+            "MLY-SNOW-NORMAL": 10.9
+        },
+        {
+            "STATION": "USW00014733",
+            "MONTH": 4,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 45.9,
+            "MLY-TMIN-NORMAL": 36.6,
+            "MLY-TMAX-NORMAL": 55.2,
+            "MLY-PRCP-NORMAL": 3.44,
+            "MLY-SNOW-NORMAL": 2
+        },
+        {
+            "STATION": "USW00014733",
+            "MONTH": 5,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 59,
+            "MLY-TMIN-NORMAL": 49.5,
+            "MLY-TMAX-NORMAL": 68.6,
+            "MLY-PRCP-NORMAL": 3.13,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014733",
+            "MONTH": 6,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 67.1,
+            "MLY-TMIN-NORMAL": 58.4,
+            "MLY-TMAX-NORMAL": 75.8,
+            "MLY-PRCP-NORMAL": 3.85,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014733",
+            "MONTH": 7,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 72.6,
+            "MLY-TMIN-NORMAL": 64,
+            "MLY-TMAX-NORMAL": 81.1,
+            "MLY-PRCP-NORMAL": 3.1,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014733",
+            "MONTH": 8,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 70.9,
+            "MLY-TMIN-NORMAL": 62.3,
+            "MLY-TMAX-NORMAL": 79.6,
+            "MLY-PRCP-NORMAL": 3.32,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014733",
+            "MONTH": 9,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 64.4,
+            "MLY-TMIN-NORMAL": 55.5,
+            "MLY-TMAX-NORMAL": 73.2,
+            "MLY-PRCP-NORMAL": 4.16,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014733",
+            "MONTH": 10,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 52.4,
+            "MLY-TMIN-NORMAL": 44.6,
+            "MLY-TMAX-NORMAL": 60.2,
+            "MLY-PRCP-NORMAL": 4.94,
+            "MLY-SNOW-NORMAL": 1.5
+        },
+        {
+            "STATION": "USW00014733",
+            "MONTH": 11,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 41.3,
+            "MLY-TMIN-NORMAL": 34.3,
+            "MLY-TMAX-NORMAL": 48.3,
+            "MLY-PRCP-NORMAL": 3.1,
+            "MLY-SNOW-NORMAL": 5
+        },
+        {
+            "STATION": "USW00014733",
+            "MONTH": 12,
+            "NAME": "BUFFALO, NY US",
+            "MLY-AVG-TEMP": 32.2,
+            "MLY-TMIN-NORMAL": 26.5,
+            "MLY-TMAX-NORMAL": 37.9,
+            "MLY-PRCP-NORMAL": 4,
+            "MLY-SNOW-NORMAL": 21.7
+        }
+    ],
+    "USW00013881": [
+        {
+            "STATION": "USW00013881",
+            "MONTH": 1,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 42.1,
+            "MLY-TMIN-NORMAL": 31.7,
+            "MLY-TMAX-NORMAL": 52.6,
+            "MLY-PRCP-NORMAL": 3.3,
+            "MLY-SNOW-NORMAL": 1.2
+        },
+        {
+            "STATION": "USW00013881",
+            "MONTH": 2,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 46,
+            "MLY-TMIN-NORMAL": 35.2,
+            "MLY-TMAX-NORMAL": 56.9,
+            "MLY-PRCP-NORMAL": 3.23,
+            "MLY-SNOW-NORMAL": 1.2
+        },
+        {
+            "STATION": "USW00013881",
+            "MONTH": 3,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 53.2,
+            "MLY-TMIN-NORMAL": 41.6,
+            "MLY-TMAX-NORMAL": 64.7,
+            "MLY-PRCP-NORMAL": 3.55,
+            "MLY-SNOW-NORMAL": 0.4
+        },
+        {
+            "STATION": "USW00013881",
+            "MONTH": 4,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 61.7,
+            "MLY-TMIN-NORMAL": 49.6,
+            "MLY-TMAX-NORMAL": 73.7,
+            "MLY-PRCP-NORMAL": 4.13,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013881",
+            "MONTH": 5,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 69.7,
+            "MLY-TMIN-NORMAL": 58.7,
+            "MLY-TMAX-NORMAL": 80.7,
+            "MLY-PRCP-NORMAL": 3.77,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013881",
+            "MONTH": 6,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 77.5,
+            "MLY-TMIN-NORMAL": 66.9,
+            "MLY-TMAX-NORMAL": 88.2,
+            "MLY-PRCP-NORMAL": 3.66,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013881",
+            "MONTH": 7,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 80.4,
+            "MLY-TMIN-NORMAL": 70,
+            "MLY-TMAX-NORMAL": 90.8,
+            "MLY-PRCP-NORMAL": 3.72,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013881",
+            "MONTH": 8,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 79.4,
+            "MLY-TMIN-NORMAL": 69.4,
+            "MLY-TMAX-NORMAL": 89.4,
+            "MLY-PRCP-NORMAL": 4.42,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013881",
+            "MONTH": 9,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 73.7,
+            "MLY-TMIN-NORMAL": 63.7,
+            "MLY-TMAX-NORMAL": 83.8,
+            "MLY-PRCP-NORMAL": 3.85,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013881",
+            "MONTH": 10,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 62.4,
+            "MLY-TMIN-NORMAL": 50.8,
+            "MLY-TMAX-NORMAL": 74,
+            "MLY-PRCP-NORMAL": 3.25,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013881",
+            "MONTH": 11,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 51,
+            "MLY-TMIN-NORMAL": 39.1,
+            "MLY-TMAX-NORMAL": 62.9,
+            "MLY-PRCP-NORMAL": 3.68,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013881",
+            "MONTH": 12,
+            "NAME": "CHARLOTTE DOUGLAS AP, NC US",
+            "MLY-AVG-TEMP": 46.1,
+            "MLY-TMIN-NORMAL": 36,
+            "MLY-TMAX-NORMAL": 56.3,
+            "MLY-PRCP-NORMAL": 4.31,
+            "MLY-SNOW-NORMAL": 0.4
+        }
+    ],
+    "USC00111577": [
+        {
+            "STATION": "USC00111577",
+            "MONTH": 1,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 26.4,
+            "MLY-TMIN-NORMAL": 19.5,
+            "MLY-TMAX-NORMAL": 33.3,
+            "MLY-PRCP-NORMAL": 2.24,
+            "MLY-SNOW-NORMAL": 11
+        },
+        {
+            "STATION": "USC00111577",
+            "MONTH": 2,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 28,
+            "MLY-TMIN-NORMAL": 20.8,
+            "MLY-TMAX-NORMAL": 35.3,
+            "MLY-PRCP-NORMAL": 2.45,
+            "MLY-SNOW-NORMAL": 14.3
+        },
+        {
+            "STATION": "USC00111577",
+            "MONTH": 3,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 40.3,
+            "MLY-TMIN-NORMAL": 32.4,
+            "MLY-TMAX-NORMAL": 48.2,
+            "MLY-PRCP-NORMAL": 2.88,
+            "MLY-SNOW-NORMAL": 4.5
+        },
+        {
+            "STATION": "USC00111577",
+            "MONTH": 4,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 50.6,
+            "MLY-TMIN-NORMAL": 41.3,
+            "MLY-TMAX-NORMAL": 59.9,
+            "MLY-PRCP-NORMAL": 4.57,
+            "MLY-SNOW-NORMAL": 1.4
+        },
+        {
+            "STATION": "USC00111577",
+            "MONTH": 5,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 62.2,
+            "MLY-TMIN-NORMAL": 52.7,
+            "MLY-TMAX-NORMAL": 71.8,
+            "MLY-PRCP-NORMAL": 5.43,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00111577",
+            "MONTH": 6,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 72.1,
+            "MLY-TMIN-NORMAL": 62.9,
+            "MLY-TMAX-NORMAL": 81.3,
+            "MLY-PRCP-NORMAL": 5.1,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00111577",
+            "MONTH": 7,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 77,
+            "MLY-TMIN-NORMAL": 68.4,
+            "MLY-TMAX-NORMAL": 85.6,
+            "MLY-PRCP-NORMAL": 4.56,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00111577",
+            "MONTH": 8,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 75.3,
+            "MLY-TMIN-NORMAL": 67,
+            "MLY-TMAX-NORMAL": 83.5,
+            "MLY-PRCP-NORMAL": 4.44,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00111577",
+            "MONTH": 9,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 68.2,
+            "MLY-TMIN-NORMAL": 59.8,
+            "MLY-TMAX-NORMAL": 76.7,
+            "MLY-PRCP-NORMAL": 3.51,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00111577",
+            "MONTH": 10,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 55.1,
+            "MLY-TMIN-NORMAL": 46.7,
+            "MLY-TMAX-NORMAL": 63.4,
+            "MLY-PRCP-NORMAL": 4.71,
+            "MLY-SNOW-NORMAL": 0.2
+        },
+        {
+            "STATION": "USC00111577",
+            "MONTH": 11,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 42.5,
+            "MLY-TMIN-NORMAL": 35.1,
+            "MLY-TMAX-NORMAL": 49.9,
+            "MLY-PRCP-NORMAL": 2.36,
+            "MLY-SNOW-NORMAL": 1.4
+        },
+        {
+            "STATION": "USC00111577",
+            "MONTH": 12,
+            "NAME": "CHICAGO MIDWAY AP 3SW, IL US",
+            "MLY-AVG-TEMP": 31.9,
+            "MLY-TMIN-NORMAL": 25.6,
+            "MLY-TMAX-NORMAL": 38.3,
+            "MLY-PRCP-NORMAL": 2.76,
+            "MLY-SNOW-NORMAL": 8
+        }
+    ],
+    "USW00093814": [
+        {
+            "STATION": "USW00093814",
+            "MONTH": 1,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 31.6,
+            "MLY-TMIN-NORMAL": 23.6,
+            "MLY-TMAX-NORMAL": 39.6,
+            "MLY-PRCP-NORMAL": 3.1,
+            "MLY-SNOW-NORMAL": 6.9
+        },
+        {
+            "STATION": "USW00093814",
+            "MONTH": 2,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 33.8,
+            "MLY-TMIN-NORMAL": 25.1,
+            "MLY-TMAX-NORMAL": 42.6,
+            "MLY-PRCP-NORMAL": 3.76,
+            "MLY-SNOW-NORMAL": 7.7
+        },
+        {
+            "STATION": "USW00093814",
+            "MONTH": 3,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 44.7,
+            "MLY-TMIN-NORMAL": 35.1,
+            "MLY-TMAX-NORMAL": 54.3,
+            "MLY-PRCP-NORMAL": 4.68,
+            "MLY-SNOW-NORMAL": 3.6
+        },
+        {
+            "STATION": "USW00093814",
+            "MONTH": 4,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 55.2,
+            "MLY-TMIN-NORMAL": 44.4,
+            "MLY-TMAX-NORMAL": 66.1,
+            "MLY-PRCP-NORMAL": 4.73,
+            "MLY-SNOW-NORMAL": 0.2
+        },
+        {
+            "STATION": "USW00093814",
+            "MONTH": 5,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 65.1,
+            "MLY-TMIN-NORMAL": 55,
+            "MLY-TMAX-NORMAL": 75.2,
+            "MLY-PRCP-NORMAL": 4.25,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093814",
+            "MONTH": 6,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 73,
+            "MLY-TMIN-NORMAL": 62.8,
+            "MLY-TMAX-NORMAL": 83.2,
+            "MLY-PRCP-NORMAL": 5.16,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093814",
+            "MONTH": 7,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 76.3,
+            "MLY-TMIN-NORMAL": 66.4,
+            "MLY-TMAX-NORMAL": 86.1,
+            "MLY-PRCP-NORMAL": 3.88,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093814",
+            "MONTH": 8,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 75.6,
+            "MLY-TMIN-NORMAL": 65.4,
+            "MLY-TMAX-NORMAL": 85.8,
+            "MLY-PRCP-NORMAL": 3.05,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093814",
+            "MONTH": 9,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 69.2,
+            "MLY-TMIN-NORMAL": 58.8,
+            "MLY-TMAX-NORMAL": 79.7,
+            "MLY-PRCP-NORMAL": 3.52,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093814",
+            "MONTH": 10,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 56.7,
+            "MLY-TMIN-NORMAL": 46.5,
+            "MLY-TMAX-NORMAL": 66.9,
+            "MLY-PRCP-NORMAL": 3.85,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093814",
+            "MONTH": 11,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 44.5,
+            "MLY-TMIN-NORMAL": 35,
+            "MLY-TMAX-NORMAL": 54,
+            "MLY-PRCP-NORMAL": 3.34,
+            "MLY-SNOW-NORMAL": 0.9
+        },
+        {
+            "STATION": "USW00093814",
+            "MONTH": 12,
+            "NAME": "CINCINNATI NORTHERN KY AP, KY US",
+            "MLY-AVG-TEMP": 36.7,
+            "MLY-TMIN-NORMAL": 29,
+            "MLY-TMAX-NORMAL": 44.3,
+            "MLY-PRCP-NORMAL": 4.2,
+            "MLY-SNOW-NORMAL": 3.9
+        }
+    ],
+    "USW00014820": [
+        {
+            "STATION": "USW00014820",
+            "MONTH": 1,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 29.6,
+            "MLY-TMIN-NORMAL": 22.6,
+            "MLY-TMAX-NORMAL": 36.5,
+            "MLY-PRCP-NORMAL": 2.82,
+            "MLY-SNOW-NORMAL": 16.1
+        },
+        {
+            "STATION": "USW00014820",
+            "MONTH": 2,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 30.1,
+            "MLY-TMIN-NORMAL": 22.6,
+            "MLY-TMAX-NORMAL": 37.7,
+            "MLY-PRCP-NORMAL": 2.93,
+            "MLY-SNOW-NORMAL": 16.6
+        },
+        {
+            "STATION": "USW00014820",
+            "MONTH": 3,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 39.4,
+            "MLY-TMIN-NORMAL": 31.1,
+            "MLY-TMAX-NORMAL": 47.8,
+            "MLY-PRCP-NORMAL": 3.36,
+            "MLY-SNOW-NORMAL": 8.1
+        },
+        {
+            "STATION": "USW00014820",
+            "MONTH": 4,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 51,
+            "MLY-TMIN-NORMAL": 41,
+            "MLY-TMAX-NORMAL": 60.9,
+            "MLY-PRCP-NORMAL": 3.59,
+            "MLY-SNOW-NORMAL": 2.4
+        },
+        {
+            "STATION": "USW00014820",
+            "MONTH": 5,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 62.3,
+            "MLY-TMIN-NORMAL": 52.4,
+            "MLY-TMAX-NORMAL": 72.2,
+            "MLY-PRCP-NORMAL": 4.11,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014820",
+            "MONTH": 6,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 70.7,
+            "MLY-TMIN-NORMAL": 61.4,
+            "MLY-TMAX-NORMAL": 80.1,
+            "MLY-PRCP-NORMAL": 4.58,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014820",
+            "MONTH": 7,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 75.1,
+            "MLY-TMIN-NORMAL": 65.8,
+            "MLY-TMAX-NORMAL": 84.3,
+            "MLY-PRCP-NORMAL": 3.97,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014820",
+            "MONTH": 8,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 73.4,
+            "MLY-TMIN-NORMAL": 64.2,
+            "MLY-TMAX-NORMAL": 82.6,
+            "MLY-PRCP-NORMAL": 3.83,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014820",
+            "MONTH": 9,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 67.2,
+            "MLY-TMIN-NORMAL": 58,
+            "MLY-TMAX-NORMAL": 76.5,
+            "MLY-PRCP-NORMAL": 4.05,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014820",
+            "MONTH": 10,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 55.6,
+            "MLY-TMIN-NORMAL": 47.1,
+            "MLY-TMAX-NORMAL": 64.2,
+            "MLY-PRCP-NORMAL": 4.29,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014820",
+            "MONTH": 11,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 43.9,
+            "MLY-TMIN-NORMAL": 36.2,
+            "MLY-TMAX-NORMAL": 51.6,
+            "MLY-PRCP-NORMAL": 3.36,
+            "MLY-SNOW-NORMAL": 3.4
+        },
+        {
+            "STATION": "USW00014820",
+            "MONTH": 12,
+            "NAME": "CLEVELAND, OH US",
+            "MLY-AVG-TEMP": 35.2,
+            "MLY-TMIN-NORMAL": 29,
+            "MLY-TMAX-NORMAL": 41.4,
+            "MLY-PRCP-NORMAL": 3.12,
+            "MLY-SNOW-NORMAL": 8.8
+        }
+    ],
+    "USW00003927": [
+        {
+            "STATION": "USW00003927",
+            "MONTH": 1,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 46.8,
+            "MLY-TMIN-NORMAL": 36.3,
+            "MLY-TMAX-NORMAL": 57.3,
+            "MLY-PRCP-NORMAL": 2.69,
+            "MLY-SNOW-NORMAL": 0.1
+        },
+        {
+            "STATION": "USW00003927",
+            "MONTH": 2,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 50.4,
+            "MLY-TMIN-NORMAL": 40,
+            "MLY-TMAX-NORMAL": 60.8,
+            "MLY-PRCP-NORMAL": 2.6,
+            "MLY-SNOW-NORMAL": 1.3
+        },
+        {
+            "STATION": "USW00003927",
+            "MONTH": 3,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 59.7,
+            "MLY-TMIN-NORMAL": 49.4,
+            "MLY-TMAX-NORMAL": 70.1,
+            "MLY-PRCP-NORMAL": 3.39,
+            "MLY-SNOW-NORMAL": 0.5
+        },
+        {
+            "STATION": "USW00003927",
+            "MONTH": 4,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 66.1,
+            "MLY-TMIN-NORMAL": 55.7,
+            "MLY-TMAX-NORMAL": 76.6,
+            "MLY-PRCP-NORMAL": 3.17,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003927",
+            "MONTH": 5,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 74.3,
+            "MLY-TMIN-NORMAL": 64.6,
+            "MLY-TMAX-NORMAL": 84,
+            "MLY-PRCP-NORMAL": 5.04,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003927",
+            "MONTH": 6,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 83,
+            "MLY-TMIN-NORMAL": 73.3,
+            "MLY-TMAX-NORMAL": 92.7,
+            "MLY-PRCP-NORMAL": 3.74,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003927",
+            "MONTH": 7,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 86.2,
+            "MLY-TMIN-NORMAL": 76.6,
+            "MLY-TMAX-NORMAL": 95.8,
+            "MLY-PRCP-NORMAL": 1.97,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003927",
+            "MONTH": 8,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 86.7,
+            "MLY-TMIN-NORMAL": 76.7,
+            "MLY-TMAX-NORMAL": 96.7,
+            "MLY-PRCP-NORMAL": 2.09,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003927",
+            "MONTH": 9,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 79.3,
+            "MLY-TMIN-NORMAL": 69.3,
+            "MLY-TMAX-NORMAL": 89.2,
+            "MLY-PRCP-NORMAL": 3.29,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003927",
+            "MONTH": 10,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 68.1,
+            "MLY-TMIN-NORMAL": 57.4,
+            "MLY-TMAX-NORMAL": 78.8,
+            "MLY-PRCP-NORMAL": 4.3,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003927",
+            "MONTH": 11,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 57.4,
+            "MLY-TMIN-NORMAL": 46.8,
+            "MLY-TMAX-NORMAL": 68,
+            "MLY-PRCP-NORMAL": 2.29,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003927",
+            "MONTH": 12,
+            "NAME": "DALLAS FT WORTH AP, TX US",
+            "MLY-AVG-TEMP": 48.4,
+            "MLY-TMIN-NORMAL": 38.5,
+            "MLY-TMAX-NORMAL": 58.2,
+            "MLY-PRCP-NORMAL": 2.52,
+            "MLY-SNOW-NORMAL": 0.4
+        }
+    ],
+    "USW00023062": [
+        {
+            "STATION": "USW00023062",
+            "MONTH": 1,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 32.1,
+            "MLY-TMIN-NORMAL": 18,
+            "MLY-TMAX-NORMAL": 46.3,
+            "MLY-PRCP-NORMAL": 0.42,
+            "MLY-SNOW-NORMAL": 5.5
+        },
+        {
+            "STATION": "USW00023062",
+            "MONTH": 2,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 32.1,
+            "MLY-TMIN-NORMAL": 18.3,
+            "MLY-TMAX-NORMAL": 45.9,
+            "MLY-PRCP-NORMAL": 0.63,
+            "MLY-SNOW-NORMAL": 9.5
+        },
+        {
+            "STATION": "USW00023062",
+            "MONTH": 3,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 42.4,
+            "MLY-TMIN-NORMAL": 27.9,
+            "MLY-TMAX-NORMAL": 56.8,
+            "MLY-PRCP-NORMAL": 1.01,
+            "MLY-SNOW-NORMAL": 7.5
+        },
+        {
+            "STATION": "USW00023062",
+            "MONTH": 4,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 48.2,
+            "MLY-TMIN-NORMAL": 33.8,
+            "MLY-TMAX-NORMAL": 62.5,
+            "MLY-PRCP-NORMAL": 1.42,
+            "MLY-SNOW-NORMAL": 4.5
+        },
+        {
+            "STATION": "USW00023062",
+            "MONTH": 5,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 56.9,
+            "MLY-TMIN-NORMAL": 43.1,
+            "MLY-TMAX-NORMAL": 70.6,
+            "MLY-PRCP-NORMAL": 2.58,
+            "MLY-SNOW-NORMAL": 1.4
+        },
+        {
+            "STATION": "USW00023062",
+            "MONTH": 6,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 69.6,
+            "MLY-TMIN-NORMAL": 53.9,
+            "MLY-TMAX-NORMAL": 85.3,
+            "MLY-PRCP-NORMAL": 1.57,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00023062",
+            "MONTH": 7,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 75.1,
+            "MLY-TMIN-NORMAL": 59.9,
+            "MLY-TMAX-NORMAL": 90.3,
+            "MLY-PRCP-NORMAL": 1.93,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00023062",
+            "MONTH": 8,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 73.1,
+            "MLY-TMIN-NORMAL": 57.7,
+            "MLY-TMAX-NORMAL": 88.5,
+            "MLY-PRCP-NORMAL": 1.32,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00023062",
+            "MONTH": 9,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 65,
+            "MLY-TMIN-NORMAL": 49.3,
+            "MLY-TMAX-NORMAL": 80.8,
+            "MLY-PRCP-NORMAL": 1.85,
+            "MLY-SNOW-NORMAL": 0.1
+        },
+        {
+            "STATION": "USW00023062",
+            "MONTH": 10,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 51.1,
+            "MLY-TMIN-NORMAL": 36,
+            "MLY-TMAX-NORMAL": 66.2,
+            "MLY-PRCP-NORMAL": 1,
+            "MLY-SNOW-NORMAL": 3.9
+        },
+        {
+            "STATION": "USW00023062",
+            "MONTH": 11,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 41.7,
+            "MLY-TMIN-NORMAL": 26.9,
+            "MLY-TMAX-NORMAL": 56.5,
+            "MLY-PRCP-NORMAL": 0.54,
+            "MLY-SNOW-NORMAL": 4.8
+        },
+        {
+            "STATION": "USW00023062",
+            "MONTH": 12,
+            "NAME": "DENVER-STAPLETON, CO US",
+            "MLY-AVG-TEMP": 31,
+            "MLY-TMIN-NORMAL": 17.3,
+            "MLY-TMAX-NORMAL": 44.7,
+            "MLY-PRCP-NORMAL": 0.62,
+            "MLY-SNOW-NORMAL": 8.9
+        }
+    ],
+    "USW00094847": [
+        {
+            "STATION": "USW00094847",
+            "MONTH": 1,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 26.5,
+            "MLY-TMIN-NORMAL": 19.8,
+            "MLY-TMAX-NORMAL": 33.2,
+            "MLY-PRCP-NORMAL": 2.28,
+            "MLY-SNOW-NORMAL": 13.6
+        },
+        {
+            "STATION": "USW00094847",
+            "MONTH": 2,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 27.2,
+            "MLY-TMIN-NORMAL": 19.9,
+            "MLY-TMAX-NORMAL": 34.5,
+            "MLY-PRCP-NORMAL": 2.35,
+            "MLY-SNOW-NORMAL": 16.6
+        },
+        {
+            "STATION": "USW00094847",
+            "MONTH": 3,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 37.8,
+            "MLY-TMIN-NORMAL": 29.1,
+            "MLY-TMAX-NORMAL": 46.6,
+            "MLY-PRCP-NORMAL": 2.83,
+            "MLY-SNOW-NORMAL": 5.5
+        },
+        {
+            "STATION": "USW00094847",
+            "MONTH": 4,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 49.1,
+            "MLY-TMIN-NORMAL": 39,
+            "MLY-TMAX-NORMAL": 59.2,
+            "MLY-PRCP-NORMAL": 3.31,
+            "MLY-SNOW-NORMAL": 1.5
+        },
+        {
+            "STATION": "USW00094847",
+            "MONTH": 5,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 61.3,
+            "MLY-TMIN-NORMAL": 51.2,
+            "MLY-TMAX-NORMAL": 71.5,
+            "MLY-PRCP-NORMAL": 3.84,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094847",
+            "MONTH": 6,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 70.3,
+            "MLY-TMIN-NORMAL": 60.4,
+            "MLY-TMAX-NORMAL": 80.3,
+            "MLY-PRCP-NORMAL": 3.44,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094847",
+            "MONTH": 7,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 74.9,
+            "MLY-TMIN-NORMAL": 65.1,
+            "MLY-TMAX-NORMAL": 84.6,
+            "MLY-PRCP-NORMAL": 3.59,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094847",
+            "MONTH": 8,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 73.1,
+            "MLY-TMIN-NORMAL": 63.7,
+            "MLY-TMAX-NORMAL": 82.5,
+            "MLY-PRCP-NORMAL": 3.47,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094847",
+            "MONTH": 9,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 65.8,
+            "MLY-TMIN-NORMAL": 56.4,
+            "MLY-TMAX-NORMAL": 75.2,
+            "MLY-PRCP-NORMAL": 3.4,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094847",
+            "MONTH": 10,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 53.5,
+            "MLY-TMIN-NORMAL": 44.6,
+            "MLY-TMAX-NORMAL": 62.4,
+            "MLY-PRCP-NORMAL": 2.67,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094847",
+            "MONTH": 11,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 41.4,
+            "MLY-TMIN-NORMAL": 33.7,
+            "MLY-TMAX-NORMAL": 49.1,
+            "MLY-PRCP-NORMAL": 2.61,
+            "MLY-SNOW-NORMAL": 2.3
+        },
+        {
+            "STATION": "USW00094847",
+            "MONTH": 12,
+            "NAME": "DETROIT METRO AP, MI US",
+            "MLY-AVG-TEMP": 32.1,
+            "MLY-TMIN-NORMAL": 26.1,
+            "MLY-TMAX-NORMAL": 38,
+            "MLY-PRCP-NORMAL": 2.51,
+            "MLY-SNOW-NORMAL": 9.3
+        }
+    ],
+    "USW00014898": [
+        {
+            "STATION": "USW00014898",
+            "MONTH": 1,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 19.3,
+            "MLY-TMIN-NORMAL": 12.2,
+            "MLY-TMAX-NORMAL": 26.3,
+            "MLY-PRCP-NORMAL": 1.5,
+            "MLY-SNOW-NORMAL": 12.9
+        },
+        {
+            "STATION": "USW00014898",
+            "MONTH": 2,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 19.9,
+            "MLY-TMIN-NORMAL": 11.9,
+            "MLY-TMAX-NORMAL": 28,
+            "MLY-PRCP-NORMAL": 1.46,
+            "MLY-SNOW-NORMAL": 15.3
+        },
+        {
+            "STATION": "USW00014898",
+            "MONTH": 3,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 32.7,
+            "MLY-TMIN-NORMAL": 24.4,
+            "MLY-TMAX-NORMAL": 41.1,
+            "MLY-PRCP-NORMAL": 2.13,
+            "MLY-SNOW-NORMAL": 7.5
+        },
+        {
+            "STATION": "USW00014898",
+            "MONTH": 4,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 44.5,
+            "MLY-TMIN-NORMAL": 35.5,
+            "MLY-TMAX-NORMAL": 53.6,
+            "MLY-PRCP-NORMAL": 3.23,
+            "MLY-SNOW-NORMAL": 5.8
+        },
+        {
+            "STATION": "USW00014898",
+            "MONTH": 5,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 57.5,
+            "MLY-TMIN-NORMAL": 46.9,
+            "MLY-TMAX-NORMAL": 68,
+            "MLY-PRCP-NORMAL": 3.45,
+            "MLY-SNOW-NORMAL": 0.1
+        },
+        {
+            "STATION": "USW00014898",
+            "MONTH": 6,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 66.9,
+            "MLY-TMIN-NORMAL": 56.8,
+            "MLY-TMAX-NORMAL": 76.9,
+            "MLY-PRCP-NORMAL": 4.04,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014898",
+            "MONTH": 7,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 71.7,
+            "MLY-TMIN-NORMAL": 61.1,
+            "MLY-TMAX-NORMAL": 82.2,
+            "MLY-PRCP-NORMAL": 3.76,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014898",
+            "MONTH": 8,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 69,
+            "MLY-TMIN-NORMAL": 58.6,
+            "MLY-TMAX-NORMAL": 79.5,
+            "MLY-PRCP-NORMAL": 3.44,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014898",
+            "MONTH": 9,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 61.5,
+            "MLY-TMIN-NORMAL": 50.7,
+            "MLY-TMAX-NORMAL": 72.2,
+            "MLY-PRCP-NORMAL": 3.68,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014898",
+            "MONTH": 10,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 49,
+            "MLY-TMIN-NORMAL": 40.1,
+            "MLY-TMAX-NORMAL": 58,
+            "MLY-PRCP-NORMAL": 3.32,
+            "MLY-SNOW-NORMAL": 0.4
+        },
+        {
+            "STATION": "USW00014898",
+            "MONTH": 11,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 37.1,
+            "MLY-TMIN-NORMAL": 29.9,
+            "MLY-TMAX-NORMAL": 44.3,
+            "MLY-PRCP-NORMAL": 1.91,
+            "MLY-SNOW-NORMAL": 2.5
+        },
+        {
+            "STATION": "USW00014898",
+            "MONTH": 12,
+            "NAME": "GREEN BAY, WI US",
+            "MLY-AVG-TEMP": 24.8,
+            "MLY-TMIN-NORMAL": 18.4,
+            "MLY-TMAX-NORMAL": 31.1,
+            "MLY-PRCP-NORMAL": 2.34,
+            "MLY-SNOW-NORMAL": 16.7
+        }
+    ],
+    "USC00283704": [
+        {
+            "STATION": "USC00283704",
+            "MONTH": 1,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 32.6,
+            "MLY-TMIN-NORMAL": 25.4,
+            "MLY-TMAX-NORMAL": 39.8,
+            "MLY-PRCP-NORMAL": 3.61,
+            "MLY-SNOW-NORMAL": 9.2
+        },
+        {
+            "STATION": "USC00283704",
+            "MONTH": 2,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 34.1,
+            "MLY-TMIN-NORMAL": 26.2,
+            "MLY-TMAX-NORMAL": 42,
+            "MLY-PRCP-NORMAL": 3.68,
+            "MLY-SNOW-NORMAL": 9.4
+        },
+        {
+            "STATION": "USC00283704",
+            "MONTH": 3,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 41.8,
+            "MLY-TMIN-NORMAL": 33.5,
+            "MLY-TMAX-NORMAL": 50.2,
+            "MLY-PRCP-NORMAL": 4.03,
+            "MLY-SNOW-NORMAL": 5.3
+        },
+        {
+            "STATION": "USC00283704",
+            "MONTH": 4,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 52.8,
+            "MLY-TMIN-NORMAL": 43.4,
+            "MLY-TMAX-NORMAL": 62.1,
+            "MLY-PRCP-NORMAL": 4.45,
+            "MLY-SNOW-NORMAL": 0.5
+        },
+        {
+            "STATION": "USC00283704",
+            "MONTH": 5,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 63.4,
+            "MLY-TMIN-NORMAL": 54.1,
+            "MLY-TMAX-NORMAL": 72.7,
+            "MLY-PRCP-NORMAL": 4.89,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00283704",
+            "MONTH": 6,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 72.4,
+            "MLY-TMIN-NORMAL": 63.4,
+            "MLY-TMAX-NORMAL": 81.4,
+            "MLY-PRCP-NORMAL": 5.14,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00283704",
+            "MONTH": 7,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 78.9,
+            "MLY-TMIN-NORMAL": 70,
+            "MLY-TMAX-NORMAL": 87.8,
+            "MLY-PRCP-NORMAL": 4.99,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00283704",
+            "MONTH": 8,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 76.2,
+            "MLY-TMIN-NORMAL": 67.4,
+            "MLY-TMAX-NORMAL": 85,
+            "MLY-PRCP-NORMAL": 5.05,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00283704",
+            "MONTH": 9,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 69.4,
+            "MLY-TMIN-NORMAL": 60.6,
+            "MLY-TMAX-NORMAL": 78.2,
+            "MLY-PRCP-NORMAL": 3.62,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00283704",
+            "MONTH": 10,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 57.7,
+            "MLY-TMIN-NORMAL": 49.2,
+            "MLY-TMAX-NORMAL": 66.2,
+            "MLY-PRCP-NORMAL": 4.57,
+            "MLY-SNOW-NORMAL": 0.4
+        },
+        {
+            "STATION": "USC00283704",
+            "MONTH": 11,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 46.3,
+            "MLY-TMIN-NORMAL": 38.4,
+            "MLY-TMAX-NORMAL": 54.2,
+            "MLY-PRCP-NORMAL": 3.51,
+            "MLY-SNOW-NORMAL": 0.5
+        },
+        {
+            "STATION": "USC00283704",
+            "MONTH": 12,
+            "NAME": "HARRISON, NJ US",
+            "MLY-AVG-TEMP": 38,
+            "MLY-TMIN-NORMAL": 31.2,
+            "MLY-TMAX-NORMAL": 44.7,
+            "MLY-PRCP-NORMAL": 5.14,
+            "MLY-SNOW-NORMAL": 6
+        }
+    ],
+    "USW00012960": [
+        {
+            "STATION": "USW00012960",
+            "MONTH": 1,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 53.5,
+            "MLY-TMIN-NORMAL": 43.1,
+            "MLY-TMAX-NORMAL": 63.8,
+            "MLY-PRCP-NORMAL": 3.51,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012960",
+            "MONTH": 2,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 57.7,
+            "MLY-TMIN-NORMAL": 47.5,
+            "MLY-TMAX-NORMAL": 68,
+            "MLY-PRCP-NORMAL": 2.41,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012960",
+            "MONTH": 3,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 64.6,
+            "MLY-TMIN-NORMAL": 54.3,
+            "MLY-TMAX-NORMAL": 74.8,
+            "MLY-PRCP-NORMAL": 3.29,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012960",
+            "MONTH": 4,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 70.1,
+            "MLY-TMIN-NORMAL": 60,
+            "MLY-TMAX-NORMAL": 80.3,
+            "MLY-PRCP-NORMAL": 4.2,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012960",
+            "MONTH": 5,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 77.3,
+            "MLY-TMIN-NORMAL": 67.7,
+            "MLY-TMAX-NORMAL": 86.8,
+            "MLY-PRCP-NORMAL": 5.3,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012960",
+            "MONTH": 6,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 83.4,
+            "MLY-TMIN-NORMAL": 73.9,
+            "MLY-TMAX-NORMAL": 92.9,
+            "MLY-PRCP-NORMAL": 5.29,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012960",
+            "MONTH": 7,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 85.1,
+            "MLY-TMIN-NORMAL": 76.1,
+            "MLY-TMAX-NORMAL": 94.1,
+            "MLY-PRCP-NORMAL": 4.78,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012960",
+            "MONTH": 8,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 85.8,
+            "MLY-TMIN-NORMAL": 76.1,
+            "MLY-TMAX-NORMAL": 95.4,
+            "MLY-PRCP-NORMAL": 5.91,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012960",
+            "MONTH": 9,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 80.8,
+            "MLY-TMIN-NORMAL": 71.4,
+            "MLY-TMAX-NORMAL": 90.3,
+            "MLY-PRCP-NORMAL": 5.18,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012960",
+            "MONTH": 10,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 72,
+            "MLY-TMIN-NORMAL": 60.9,
+            "MLY-TMAX-NORMAL": 83.1,
+            "MLY-PRCP-NORMAL": 5.85,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012960",
+            "MONTH": 11,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 62.4,
+            "MLY-TMIN-NORMAL": 51.5,
+            "MLY-TMAX-NORMAL": 73.2,
+            "MLY-PRCP-NORMAL": 2.62,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012960",
+            "MONTH": 12,
+            "NAME": "HOUSTON INTERCONT AP, TX US",
+            "MLY-AVG-TEMP": 55.8,
+            "MLY-TMIN-NORMAL": 45.9,
+            "MLY-TMAX-NORMAL": 65.7,
+            "MLY-PRCP-NORMAL": 3.63,
+            "MLY-SNOW-NORMAL": 0.2
+        }
+    ],
+    "USW00093819": [
+        {
+            "STATION": "USW00093819",
+            "MONTH": 1,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 28.7,
+            "MLY-TMIN-NORMAL": 20.8,
+            "MLY-TMAX-NORMAL": 36.6,
+            "MLY-PRCP-NORMAL": 2.94,
+            "MLY-SNOW-NORMAL": 7.3
+        },
+        {
+            "STATION": "USW00093819",
+            "MONTH": 2,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 31.1,
+            "MLY-TMIN-NORMAL": 22.7,
+            "MLY-TMAX-NORMAL": 39.5,
+            "MLY-PRCP-NORMAL": 2.8,
+            "MLY-SNOW-NORMAL": 7.3
+        },
+        {
+            "STATION": "USW00093819",
+            "MONTH": 3,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 43.2,
+            "MLY-TMIN-NORMAL": 33.8,
+            "MLY-TMAX-NORMAL": 52.6,
+            "MLY-PRCP-NORMAL": 4.2,
+            "MLY-SNOW-NORMAL": 3.4
+        },
+        {
+            "STATION": "USW00093819",
+            "MONTH": 4,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 53.8,
+            "MLY-TMIN-NORMAL": 43.4,
+            "MLY-TMAX-NORMAL": 64.3,
+            "MLY-PRCP-NORMAL": 4.77,
+            "MLY-SNOW-NORMAL": 0.2
+        },
+        {
+            "STATION": "USW00093819",
+            "MONTH": 5,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 64.3,
+            "MLY-TMIN-NORMAL": 54.6,
+            "MLY-TMAX-NORMAL": 74.1,
+            "MLY-PRCP-NORMAL": 4.43,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093819",
+            "MONTH": 6,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 73.1,
+            "MLY-TMIN-NORMAL": 63.4,
+            "MLY-TMAX-NORMAL": 82.7,
+            "MLY-PRCP-NORMAL": 5.61,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093819",
+            "MONTH": 7,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 76.2,
+            "MLY-TMIN-NORMAL": 66.9,
+            "MLY-TMAX-NORMAL": 85.5,
+            "MLY-PRCP-NORMAL": 4.29,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093819",
+            "MONTH": 8,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 75.1,
+            "MLY-TMIN-NORMAL": 65.5,
+            "MLY-TMAX-NORMAL": 84.7,
+            "MLY-PRCP-NORMAL": 3.06,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093819",
+            "MONTH": 9,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 68.8,
+            "MLY-TMIN-NORMAL": 58.7,
+            "MLY-TMAX-NORMAL": 78.8,
+            "MLY-PRCP-NORMAL": 2.74,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093819",
+            "MONTH": 10,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 55.8,
+            "MLY-TMIN-NORMAL": 46,
+            "MLY-TMAX-NORMAL": 65.6,
+            "MLY-PRCP-NORMAL": 3.43,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00093819",
+            "MONTH": 11,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 43.2,
+            "MLY-TMIN-NORMAL": 34.5,
+            "MLY-TMAX-NORMAL": 51.9,
+            "MLY-PRCP-NORMAL": 3.02,
+            "MLY-SNOW-NORMAL": 0.5
+        },
+        {
+            "STATION": "USW00093819",
+            "MONTH": 12,
+            "NAME": "INDIANAPOLIS, IN US",
+            "MLY-AVG-TEMP": 33.9,
+            "MLY-TMIN-NORMAL": 26.7,
+            "MLY-TMAX-NORMAL": 41.1,
+            "MLY-PRCP-NORMAL": 3.53,
+            "MLY-SNOW-NORMAL": 5.6
+        }
+    ],
+    "USW00013889": [
+        {
+            "STATION": "USW00013889",
+            "MONTH": 1,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 54.3,
+            "MLY-TMIN-NORMAL": 43,
+            "MLY-TMAX-NORMAL": 65.7,
+            "MLY-PRCP-NORMAL": 3.08,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00013889",
+            "MONTH": 2,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 57.7,
+            "MLY-TMIN-NORMAL": 45.9,
+            "MLY-TMAX-NORMAL": 69.5,
+            "MLY-PRCP-NORMAL": 3.01,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00013889",
+            "MONTH": 3,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 62.6,
+            "MLY-TMIN-NORMAL": 50.3,
+            "MLY-TMAX-NORMAL": 74.9,
+            "MLY-PRCP-NORMAL": 2.43,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00013889",
+            "MONTH": 4,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 68.9,
+            "MLY-TMIN-NORMAL": 57.1,
+            "MLY-TMAX-NORMAL": 80.7,
+            "MLY-PRCP-NORMAL": 2.88,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00013889",
+            "MONTH": 5,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 75,
+            "MLY-TMIN-NORMAL": 64,
+            "MLY-TMAX-NORMAL": 86,
+            "MLY-PRCP-NORMAL": 4.2,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00013889",
+            "MONTH": 6,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 80.7,
+            "MLY-TMIN-NORMAL": 70.8,
+            "MLY-TMAX-NORMAL": 90.5,
+            "MLY-PRCP-NORMAL": 7.08,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00013889",
+            "MONTH": 7,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 82.4,
+            "MLY-TMIN-NORMAL": 73.1,
+            "MLY-TMAX-NORMAL": 91.7,
+            "MLY-PRCP-NORMAL": 6.04,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00013889",
+            "MONTH": 8,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 82.6,
+            "MLY-TMIN-NORMAL": 73.9,
+            "MLY-TMAX-NORMAL": 91.3,
+            "MLY-PRCP-NORMAL": 7.4,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00013889",
+            "MONTH": 9,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 79.3,
+            "MLY-TMIN-NORMAL": 70.8,
+            "MLY-TMAX-NORMAL": 87.7,
+            "MLY-PRCP-NORMAL": 6.36,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00013889",
+            "MONTH": 10,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 71.7,
+            "MLY-TMIN-NORMAL": 61.7,
+            "MLY-TMAX-NORMAL": 81.7,
+            "MLY-PRCP-NORMAL": 3.12,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00013889",
+            "MONTH": 11,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 62.1,
+            "MLY-TMIN-NORMAL": 51,
+            "MLY-TMAX-NORMAL": 73.2,
+            "MLY-PRCP-NORMAL": 1.98,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00013889",
+            "MONTH": 12,
+            "NAME": "JACKSONVILLE, FL US",
+            "MLY-AVG-TEMP": 58.5,
+            "MLY-TMIN-NORMAL": 47.5,
+            "MLY-TMAX-NORMAL": 69.4,
+            "MLY-PRCP-NORMAL": 2.58,
+            "MLY-SNOW-NORMAL": null
+        }
+    ],
+    "USW00003947": [
+        {
+            "STATION": "USW00003947",
+            "MONTH": 1,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 29.7,
+            "MLY-TMIN-NORMAL": 19.9,
+            "MLY-TMAX-NORMAL": 39.5,
+            "MLY-PRCP-NORMAL": 1.01,
+            "MLY-SNOW-NORMAL": 4.8
+        },
+        {
+            "STATION": "USW00003947",
+            "MONTH": 2,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 32.1,
+            "MLY-TMIN-NORMAL": 21.9,
+            "MLY-TMAX-NORMAL": 42.3,
+            "MLY-PRCP-NORMAL": 1.39,
+            "MLY-SNOW-NORMAL": 6.8
+        },
+        {
+            "STATION": "USW00003947",
+            "MONTH": 3,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 45.8,
+            "MLY-TMIN-NORMAL": 35.3,
+            "MLY-TMAX-NORMAL": 56.4,
+            "MLY-PRCP-NORMAL": 2.68,
+            "MLY-SNOW-NORMAL": 1.8
+        },
+        {
+            "STATION": "USW00003947",
+            "MONTH": 4,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 54.9,
+            "MLY-TMIN-NORMAL": 44,
+            "MLY-TMAX-NORMAL": 65.9,
+            "MLY-PRCP-NORMAL": 4.11,
+            "MLY-SNOW-NORMAL": 0.1
+        },
+        {
+            "STATION": "USW00003947",
+            "MONTH": 5,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 65,
+            "MLY-TMIN-NORMAL": 54.9,
+            "MLY-TMAX-NORMAL": 75.1,
+            "MLY-PRCP-NORMAL": 5.42,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003947",
+            "MONTH": 6,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 75.4,
+            "MLY-TMIN-NORMAL": 65.3,
+            "MLY-TMAX-NORMAL": 85.5,
+            "MLY-PRCP-NORMAL": 4.51,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003947",
+            "MONTH": 7,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 78.5,
+            "MLY-TMIN-NORMAL": 68.6,
+            "MLY-TMAX-NORMAL": 88.5,
+            "MLY-PRCP-NORMAL": 4.59,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003947",
+            "MONTH": 8,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 76.8,
+            "MLY-TMIN-NORMAL": 66.5,
+            "MLY-TMAX-NORMAL": 87.1,
+            "MLY-PRCP-NORMAL": 5.07,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003947",
+            "MONTH": 9,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 69.1,
+            "MLY-TMIN-NORMAL": 58.6,
+            "MLY-TMAX-NORMAL": 79.5,
+            "MLY-PRCP-NORMAL": 3.89,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00003947",
+            "MONTH": 10,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 56.2,
+            "MLY-TMIN-NORMAL": 45.4,
+            "MLY-TMAX-NORMAL": 67,
+            "MLY-PRCP-NORMAL": 3.72,
+            "MLY-SNOW-NORMAL": 0.2
+        },
+        {
+            "STATION": "USW00003947",
+            "MONTH": 11,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 44.5,
+            "MLY-TMIN-NORMAL": 34.1,
+            "MLY-TMAX-NORMAL": 55,
+            "MLY-PRCP-NORMAL": 1.76,
+            "MLY-SNOW-NORMAL": 0.8
+        },
+        {
+            "STATION": "USW00003947",
+            "MONTH": 12,
+            "NAME": "KANSAS CITY INTL AP, MO US",
+            "MLY-AVG-TEMP": 33.3,
+            "MLY-TMIN-NORMAL": 23.8,
+            "MLY-TMAX-NORMAL": 42.7,
+            "MLY-PRCP-NORMAL": 1.76,
+            "MLY-SNOW-NORMAL": 4.1
+        }
+    ],
+    "USC00264439": [
+        {
+            "STATION": "USC00264439",
+            "MONTH": 1,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 48.3,
+            "MLY-TMIN-NORMAL": 37.6,
+            "MLY-TMAX-NORMAL": 59,
+            "MLY-PRCP-NORMAL": 0.58,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00264439",
+            "MONTH": 2,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 52.5,
+            "MLY-TMIN-NORMAL": 41.1,
+            "MLY-TMAX-NORMAL": 63.9,
+            "MLY-PRCP-NORMAL": 0.48,
+            "MLY-SNOW-NORMAL": 0.1
+        },
+        {
+            "STATION": "USC00264439",
+            "MONTH": 3,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 60.5,
+            "MLY-TMIN-NORMAL": 48.6,
+            "MLY-TMAX-NORMAL": 72.3,
+            "MLY-PRCP-NORMAL": 0.27,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00264439",
+            "MONTH": 4,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 67.7,
+            "MLY-TMIN-NORMAL": 54.8,
+            "MLY-TMAX-NORMAL": 80.6,
+            "MLY-PRCP-NORMAL": 0.26,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00264439",
+            "MONTH": 5,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 76.5,
+            "MLY-TMIN-NORMAL": 63.7,
+            "MLY-TMAX-NORMAL": 89.3,
+            "MLY-PRCP-NORMAL": 0.11,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00264439",
+            "MONTH": 6,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 88.9,
+            "MLY-TMIN-NORMAL": 75.3,
+            "MLY-TMAX-NORMAL": 102.4,
+            "MLY-PRCP-NORMAL": 0.09,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00264439",
+            "MONTH": 7,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 94.2,
+            "MLY-TMIN-NORMAL": 81.6,
+            "MLY-TMAX-NORMAL": 106.7,
+            "MLY-PRCP-NORMAL": 0.31,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00264439",
+            "MONTH": 8,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 92,
+            "MLY-TMIN-NORMAL": 79.2,
+            "MLY-TMAX-NORMAL": 104.8,
+            "MLY-PRCP-NORMAL": 0.42,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00264439",
+            "MONTH": 9,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 83.6,
+            "MLY-TMIN-NORMAL": 70.4,
+            "MLY-TMAX-NORMAL": 96.7,
+            "MLY-PRCP-NORMAL": 0.3,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00264439",
+            "MONTH": 10,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 69.4,
+            "MLY-TMIN-NORMAL": 56.8,
+            "MLY-TMAX-NORMAL": 82.1,
+            "MLY-PRCP-NORMAL": 0.4,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00264439",
+            "MONTH": 11,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 57.1,
+            "MLY-TMIN-NORMAL": 45.3,
+            "MLY-TMAX-NORMAL": 68.9,
+            "MLY-PRCP-NORMAL": 0.3,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00264439",
+            "MONTH": 12,
+            "NAME": "LAS VEGAS WFO, NV US",
+            "MLY-AVG-TEMP": 46.8,
+            "MLY-TMIN-NORMAL": 36.9,
+            "MLY-TMAX-NORMAL": 56.7,
+            "MLY-PRCP-NORMAL": 0.47,
+            "MLY-SNOW-NORMAL": 0.2
+        }
+    ],
+    "USW00092811": [
+        {
+            "STATION": "USW00092811",
+            "MONTH": 1,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 68.6,
+            "MLY-TMIN-NORMAL": 61.9,
+            "MLY-TMAX-NORMAL": 75.3,
+            "MLY-PRCP-NORMAL": 2.05,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00092811",
+            "MONTH": 2,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 70.2,
+            "MLY-TMIN-NORMAL": 64.2,
+            "MLY-TMAX-NORMAL": 76.2,
+            "MLY-PRCP-NORMAL": 2.7,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00092811",
+            "MONTH": 3,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 71.6,
+            "MLY-TMIN-NORMAL": 65.9,
+            "MLY-TMAX-NORMAL": 77.3,
+            "MLY-PRCP-NORMAL": 2.18,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00092811",
+            "MONTH": 4,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 76.1,
+            "MLY-TMIN-NORMAL": 71.1,
+            "MLY-TMAX-NORMAL": 81.1,
+            "MLY-PRCP-NORMAL": 3.93,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00092811",
+            "MONTH": 5,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 79,
+            "MLY-TMIN-NORMAL": 74.4,
+            "MLY-TMAX-NORMAL": 83.6,
+            "MLY-PRCP-NORMAL": 6.38,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00092811",
+            "MONTH": 6,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 81.7,
+            "MLY-TMIN-NORMAL": 76.7,
+            "MLY-TMAX-NORMAL": 86.7,
+            "MLY-PRCP-NORMAL": 6.91,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00092811",
+            "MONTH": 7,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 83.3,
+            "MLY-TMIN-NORMAL": 78.2,
+            "MLY-TMAX-NORMAL": 88.5,
+            "MLY-PRCP-NORMAL": 7.46,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00092811",
+            "MONTH": 8,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 83.6,
+            "MLY-TMIN-NORMAL": 78.7,
+            "MLY-TMAX-NORMAL": 88.6,
+            "MLY-PRCP-NORMAL": 8.19,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00092811",
+            "MONTH": 9,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 82.6,
+            "MLY-TMIN-NORMAL": 77.7,
+            "MLY-TMAX-NORMAL": 87.5,
+            "MLY-PRCP-NORMAL": 8.04,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00092811",
+            "MONTH": 10,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 79.9,
+            "MLY-TMIN-NORMAL": 75.1,
+            "MLY-TMAX-NORMAL": 84.8,
+            "MLY-PRCP-NORMAL": 7.53,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00092811",
+            "MONTH": 11,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 74.5,
+            "MLY-TMIN-NORMAL": 68.9,
+            "MLY-TMAX-NORMAL": 80.1,
+            "MLY-PRCP-NORMAL": 3.65,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00092811",
+            "MONTH": 12,
+            "NAME": "MIAMI BEACH, FL US",
+            "MLY-AVG-TEMP": 71.9,
+            "MLY-TMIN-NORMAL": 66.3,
+            "MLY-TMAX-NORMAL": 77.4,
+            "MLY-PRCP-NORMAL": 2.7,
+            "MLY-SNOW-NORMAL": null
+        }
+    ],
+    "USW00014922": [
+        {
+            "STATION": "USW00014922",
+            "MONTH": 1,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 16.9,
+            "MLY-TMIN-NORMAL": 9.5,
+            "MLY-TMAX-NORMAL": 24.2,
+            "MLY-PRCP-NORMAL": 0.7,
+            "MLY-SNOW-NORMAL": 8.4
+        },
+        {
+            "STATION": "USW00014922",
+            "MONTH": 2,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 18.8,
+            "MLY-TMIN-NORMAL": 10.6,
+            "MLY-TMAX-NORMAL": 26.9,
+            "MLY-PRCP-NORMAL": 1.06,
+            "MLY-SNOW-NORMAL": 12
+        },
+        {
+            "STATION": "USW00014922",
+            "MONTH": 3,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 34.3,
+            "MLY-TMIN-NORMAL": 26,
+            "MLY-TMAX-NORMAL": 42.6,
+            "MLY-PRCP-NORMAL": 1.69,
+            "MLY-SNOW-NORMAL": 7.8
+        },
+        {
+            "STATION": "USW00014922",
+            "MONTH": 4,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 47,
+            "MLY-TMIN-NORMAL": 37.6,
+            "MLY-TMAX-NORMAL": 56.4,
+            "MLY-PRCP-NORMAL": 3.27,
+            "MLY-SNOW-NORMAL": 5.2
+        },
+        {
+            "STATION": "USW00014922",
+            "MONTH": 5,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 60.3,
+            "MLY-TMIN-NORMAL": 50.6,
+            "MLY-TMAX-NORMAL": 70,
+            "MLY-PRCP-NORMAL": 3.92,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014922",
+            "MONTH": 6,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 70.5,
+            "MLY-TMIN-NORMAL": 61.3,
+            "MLY-TMAX-NORMAL": 79.7,
+            "MLY-PRCP-NORMAL": 4.56,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014922",
+            "MONTH": 7,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 75.5,
+            "MLY-TMIN-NORMAL": 66.2,
+            "MLY-TMAX-NORMAL": 84.8,
+            "MLY-PRCP-NORMAL": 3.83,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014922",
+            "MONTH": 8,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 72.5,
+            "MLY-TMIN-NORMAL": 63.6,
+            "MLY-TMAX-NORMAL": 81.4,
+            "MLY-PRCP-NORMAL": 4.73,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014922",
+            "MONTH": 9,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 64.4,
+            "MLY-TMIN-NORMAL": 55.2,
+            "MLY-TMAX-NORMAL": 73.6,
+            "MLY-PRCP-NORMAL": 2.8,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00014922",
+            "MONTH": 10,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 49.4,
+            "MLY-TMIN-NORMAL": 41.1,
+            "MLY-TMAX-NORMAL": 57.7,
+            "MLY-PRCP-NORMAL": 2.69,
+            "MLY-SNOW-NORMAL": 0.8
+        },
+        {
+            "STATION": "USW00014922",
+            "MONTH": 11,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 35.8,
+            "MLY-TMIN-NORMAL": 28.3,
+            "MLY-TMAX-NORMAL": 43.3,
+            "MLY-PRCP-NORMAL": 1.32,
+            "MLY-SNOW-NORMAL": 4.3
+        },
+        {
+            "STATION": "USW00014922",
+            "MONTH": 12,
+            "NAME": "MINNEAPOLIS/ST PAUL AP, MN US",
+            "MLY-AVG-TEMP": 21.7,
+            "MLY-TMIN-NORMAL": 15.1,
+            "MLY-TMAX-NORMAL": 28.4,
+            "MLY-PRCP-NORMAL": 1.58,
+            "MLY-SNOW-NORMAL": 13.4
+        }
+    ],
+    "USW00013897": [
+        {
+            "STATION": "USW00013897",
+            "MONTH": 1,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 39.6,
+            "MLY-TMIN-NORMAL": 30.1,
+            "MLY-TMAX-NORMAL": 49.2,
+            "MLY-PRCP-NORMAL": 3.97,
+            "MLY-SNOW-NORMAL": 1.7
+        },
+        {
+            "STATION": "USW00013897",
+            "MONTH": 2,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 43.1,
+            "MLY-TMIN-NORMAL": 33,
+            "MLY-TMAX-NORMAL": 53.2,
+            "MLY-PRCP-NORMAL": 4.69,
+            "MLY-SNOW-NORMAL": 1.1
+        },
+        {
+            "STATION": "USW00013897",
+            "MONTH": 3,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 52.3,
+            "MLY-TMIN-NORMAL": 41.1,
+            "MLY-TMAX-NORMAL": 63.5,
+            "MLY-PRCP-NORMAL": 4.08,
+            "MLY-SNOW-NORMAL": 0.5
+        },
+        {
+            "STATION": "USW00013897",
+            "MONTH": 4,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 61.1,
+            "MLY-TMIN-NORMAL": 49.2,
+            "MLY-TMAX-NORMAL": 73.1,
+            "MLY-PRCP-NORMAL": 5.23,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013897",
+            "MONTH": 5,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 69.8,
+            "MLY-TMIN-NORMAL": 58.6,
+            "MLY-TMAX-NORMAL": 80.9,
+            "MLY-PRCP-NORMAL": 4.79,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013897",
+            "MONTH": 6,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 78.1,
+            "MLY-TMIN-NORMAL": 67.1,
+            "MLY-TMAX-NORMAL": 89.2,
+            "MLY-PRCP-NORMAL": 3.94,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013897",
+            "MONTH": 7,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 80.8,
+            "MLY-TMIN-NORMAL": 70.4,
+            "MLY-TMAX-NORMAL": 91.3,
+            "MLY-PRCP-NORMAL": 4.68,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013897",
+            "MONTH": 8,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 80,
+            "MLY-TMIN-NORMAL": 69.4,
+            "MLY-TMAX-NORMAL": 90.7,
+            "MLY-PRCP-NORMAL": 4.24,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013897",
+            "MONTH": 9,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 73.8,
+            "MLY-TMIN-NORMAL": 62.7,
+            "MLY-TMAX-NORMAL": 84.9,
+            "MLY-PRCP-NORMAL": 3.61,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013897",
+            "MONTH": 10,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 61.7,
+            "MLY-TMIN-NORMAL": 49.8,
+            "MLY-TMAX-NORMAL": 73.7,
+            "MLY-PRCP-NORMAL": 3.91,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013897",
+            "MONTH": 11,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 50.2,
+            "MLY-TMIN-NORMAL": 38.8,
+            "MLY-TMAX-NORMAL": 61.6,
+            "MLY-PRCP-NORMAL": 3.59,
+            "MLY-SNOW-NORMAL": 0.1
+        },
+        {
+            "STATION": "USW00013897",
+            "MONTH": 12,
+            "NAME": "NASHVILLE INTL AP, TN US",
+            "MLY-AVG-TEMP": 43.7,
+            "MLY-TMIN-NORMAL": 34.3,
+            "MLY-TMAX-NORMAL": 53.2,
+            "MLY-PRCP-NORMAL": 4.72,
+            "MLY-SNOW-NORMAL": 0.5
+        }
+    ],
+    "USW00012916": [
+        {
+            "STATION": "USW00012916",
+            "MONTH": 1,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 54.5,
+            "MLY-TMIN-NORMAL": 45.9,
+            "MLY-TMAX-NORMAL": 63.2,
+            "MLY-PRCP-NORMAL": 4.22,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00012916",
+            "MONTH": 2,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 58.6,
+            "MLY-TMIN-NORMAL": 50.2,
+            "MLY-TMAX-NORMAL": 66.9,
+            "MLY-PRCP-NORMAL": 4.06,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00012916",
+            "MONTH": 3,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 65.1,
+            "MLY-TMIN-NORMAL": 56.4,
+            "MLY-TMAX-NORMAL": 73.7,
+            "MLY-PRCP-NORMAL": 3.94,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00012916",
+            "MONTH": 4,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 70.8,
+            "MLY-TMIN-NORMAL": 62.2,
+            "MLY-TMAX-NORMAL": 79.3,
+            "MLY-PRCP-NORMAL": 5.55,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00012916",
+            "MONTH": 5,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 77.3,
+            "MLY-TMIN-NORMAL": 69.1,
+            "MLY-TMAX-NORMAL": 85.4,
+            "MLY-PRCP-NORMAL": 5.68,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00012916",
+            "MONTH": 6,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 83.3,
+            "MLY-TMIN-NORMAL": 75.4,
+            "MLY-TMAX-NORMAL": 91.2,
+            "MLY-PRCP-NORMAL": 6.57,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00012916",
+            "MONTH": 7,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 84.2,
+            "MLY-TMIN-NORMAL": 76.8,
+            "MLY-TMAX-NORMAL": 91.6,
+            "MLY-PRCP-NORMAL": 6.99,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00012916",
+            "MONTH": 8,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 84.4,
+            "MLY-TMIN-NORMAL": 76.9,
+            "MLY-TMAX-NORMAL": 91.8,
+            "MLY-PRCP-NORMAL": 8.21,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00012916",
+            "MONTH": 9,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 81.5,
+            "MLY-TMIN-NORMAL": 74.3,
+            "MLY-TMAX-NORMAL": 88.7,
+            "MLY-PRCP-NORMAL": 4.65,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00012916",
+            "MONTH": 10,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 73.1,
+            "MLY-TMIN-NORMAL": 64.6,
+            "MLY-TMAX-NORMAL": 81.6,
+            "MLY-PRCP-NORMAL": 4.06,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00012916",
+            "MONTH": 11,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 62.6,
+            "MLY-TMIN-NORMAL": 53.7,
+            "MLY-TMAX-NORMAL": 71.6,
+            "MLY-PRCP-NORMAL": 2.79,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00012916",
+            "MONTH": 12,
+            "NAME": "NEW ORLEANS INTL AP, LA US",
+            "MLY-AVG-TEMP": 57.5,
+            "MLY-TMIN-NORMAL": 49.5,
+            "MLY-TMAX-NORMAL": 65.6,
+            "MLY-PRCP-NORMAL": 6.02,
+            "MLY-SNOW-NORMAL": null
+        }
+    ],
+    "USW00013739": [
+        {
+            "STATION": "USW00013739",
+            "MONTH": 1,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 34.3,
+            "MLY-TMIN-NORMAL": 26.6,
+            "MLY-TMAX-NORMAL": 42,
+            "MLY-PRCP-NORMAL": 3.12,
+            "MLY-SNOW-NORMAL": 7.2
+        },
+        {
+            "STATION": "USW00013739",
+            "MONTH": 2,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 36,
+            "MLY-TMIN-NORMAL": 27.9,
+            "MLY-TMAX-NORMAL": 44.2,
+            "MLY-PRCP-NORMAL": 3.02,
+            "MLY-SNOW-NORMAL": 9.2
+        },
+        {
+            "STATION": "USW00013739",
+            "MONTH": 3,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 44.2,
+            "MLY-TMIN-NORMAL": 35.1,
+            "MLY-TMAX-NORMAL": 53.3,
+            "MLY-PRCP-NORMAL": 3.56,
+            "MLY-SNOW-NORMAL": 4.2
+        },
+        {
+            "STATION": "USW00013739",
+            "MONTH": 4,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 55.1,
+            "MLY-TMIN-NORMAL": 45,
+            "MLY-TMAX-NORMAL": 65.2,
+            "MLY-PRCP-NORMAL": 3.84,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013739",
+            "MONTH": 5,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 65.3,
+            "MLY-TMIN-NORMAL": 55.5,
+            "MLY-TMAX-NORMAL": 75,
+            "MLY-PRCP-NORMAL": 3.61,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013739",
+            "MONTH": 6,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 74.2,
+            "MLY-TMIN-NORMAL": 64.8,
+            "MLY-TMAX-NORMAL": 83.5,
+            "MLY-PRCP-NORMAL": 4.69,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013739",
+            "MONTH": 7,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 79.7,
+            "MLY-TMIN-NORMAL": 70.6,
+            "MLY-TMAX-NORMAL": 88.7,
+            "MLY-PRCP-NORMAL": 4.64,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013739",
+            "MONTH": 8,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 77.2,
+            "MLY-TMIN-NORMAL": 68.6,
+            "MLY-TMAX-NORMAL": 85.8,
+            "MLY-PRCP-NORMAL": 5.34,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013739",
+            "MONTH": 9,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 70.7,
+            "MLY-TMIN-NORMAL": 62,
+            "MLY-TMAX-NORMAL": 79.5,
+            "MLY-PRCP-NORMAL": 4.5,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013739",
+            "MONTH": 10,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 59.3,
+            "MLY-TMIN-NORMAL": 50.8,
+            "MLY-TMAX-NORMAL": 67.9,
+            "MLY-PRCP-NORMAL": 3.77,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013739",
+            "MONTH": 11,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 47.6,
+            "MLY-TMIN-NORMAL": 39.3,
+            "MLY-TMAX-NORMAL": 56,
+            "MLY-PRCP-NORMAL": 3.09,
+            "MLY-SNOW-NORMAL": 0.3
+        },
+        {
+            "STATION": "USW00013739",
+            "MONTH": 12,
+            "NAME": "PHILADELPHIA INTL AP, PA US",
+            "MLY-AVG-TEMP": 39.7,
+            "MLY-TMIN-NORMAL": 32.5,
+            "MLY-TMAX-NORMAL": 46.9,
+            "MLY-PRCP-NORMAL": 4.44,
+            "MLY-SNOW-NORMAL": 4.3
+        }
+    ],
+    "USW00014762": [
+        {
+            "STATION": "USW00014762",
+            "MONTH": 1,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 29.9,
+            "MLY-TMIN-NORMAL": 22.6,
+            "MLY-TMAX-NORMAL": 37.1,
+            "MLY-PRCP-NORMAL": 2.78,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00014762",
+            "MONTH": 2,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 31.4,
+            "MLY-TMIN-NORMAL": 23.6,
+            "MLY-TMAX-NORMAL": 39.2,
+            "MLY-PRCP-NORMAL": 2.76,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00014762",
+            "MONTH": 3,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 41.2,
+            "MLY-TMIN-NORMAL": 32,
+            "MLY-TMAX-NORMAL": 50.3,
+            "MLY-PRCP-NORMAL": 3.28,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00014762",
+            "MONTH": 4,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 52.6,
+            "MLY-TMIN-NORMAL": 42.2,
+            "MLY-TMAX-NORMAL": 62.9,
+            "MLY-PRCP-NORMAL": 3.52,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00014762",
+            "MONTH": 5,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 63,
+            "MLY-TMIN-NORMAL": 53,
+            "MLY-TMAX-NORMAL": 72.9,
+            "MLY-PRCP-NORMAL": 4.05,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00014762",
+            "MONTH": 6,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 70,
+            "MLY-TMIN-NORMAL": 60.6,
+            "MLY-TMAX-NORMAL": 79.3,
+            "MLY-PRCP-NORMAL": 5.35,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00014762",
+            "MONTH": 7,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 74.1,
+            "MLY-TMIN-NORMAL": 64.9,
+            "MLY-TMAX-NORMAL": 83.4,
+            "MLY-PRCP-NORMAL": 4.6,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00014762",
+            "MONTH": 8,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 72.5,
+            "MLY-TMIN-NORMAL": 63.3,
+            "MLY-TMAX-NORMAL": 81.6,
+            "MLY-PRCP-NORMAL": 3.78,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00014762",
+            "MONTH": 9,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 66.4,
+            "MLY-TMIN-NORMAL": 57,
+            "MLY-TMAX-NORMAL": 75.7,
+            "MLY-PRCP-NORMAL": 3.35,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00014762",
+            "MONTH": 10,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 54.9,
+            "MLY-TMIN-NORMAL": 46.1,
+            "MLY-TMAX-NORMAL": 63.6,
+            "MLY-PRCP-NORMAL": 3.69,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00014762",
+            "MONTH": 11,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 43.5,
+            "MLY-TMIN-NORMAL": 35.3,
+            "MLY-TMAX-NORMAL": 51.6,
+            "MLY-PRCP-NORMAL": 2.69,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00014762",
+            "MONTH": 12,
+            "NAME": "PITTSBURGH ALLEGHENY CO AP, PA US",
+            "MLY-AVG-TEMP": 35.4,
+            "MLY-TMIN-NORMAL": 28.8,
+            "MLY-TMAX-NORMAL": 42.1,
+            "MLY-PRCP-NORMAL": 3.61,
+            "MLY-SNOW-NORMAL": null
+        }
+    ],
+    "USW00023234": [
+        {
+            "STATION": "USW00023234",
+            "MONTH": 1,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 51.7,
+            "MLY-TMIN-NORMAL": 44.7,
+            "MLY-TMAX-NORMAL": 58.8,
+            "MLY-PRCP-NORMAL": 3.1,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00023234",
+            "MONTH": 2,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 53.6,
+            "MLY-TMIN-NORMAL": 45.8,
+            "MLY-TMAX-NORMAL": 61.4,
+            "MLY-PRCP-NORMAL": 3.02,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00023234",
+            "MONTH": 3,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 55.4,
+            "MLY-TMIN-NORMAL": 47.5,
+            "MLY-TMAX-NORMAL": 63.4,
+            "MLY-PRCP-NORMAL": 2.8,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00023234",
+            "MONTH": 4,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 57.6,
+            "MLY-TMIN-NORMAL": 49.3,
+            "MLY-TMAX-NORMAL": 66,
+            "MLY-PRCP-NORMAL": 1.44,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00023234",
+            "MONTH": 5,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 59.9,
+            "MLY-TMIN-NORMAL": 51.5,
+            "MLY-TMAX-NORMAL": 68.3,
+            "MLY-PRCP-NORMAL": 0.29,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00023234",
+            "MONTH": 6,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 63,
+            "MLY-TMIN-NORMAL": 53.9,
+            "MLY-TMAX-NORMAL": 72.1,
+            "MLY-PRCP-NORMAL": 0.13,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00023234",
+            "MONTH": 7,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 64.1,
+            "MLY-TMIN-NORMAL": 55.5,
+            "MLY-TMAX-NORMAL": 72.8,
+            "MLY-PRCP-NORMAL": 0,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00023234",
+            "MONTH": 8,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 65,
+            "MLY-TMIN-NORMAL": 56.6,
+            "MLY-TMAX-NORMAL": 73.5,
+            "MLY-PRCP-NORMAL": 0,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00023234",
+            "MONTH": 9,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 65.9,
+            "MLY-TMIN-NORMAL": 56.4,
+            "MLY-TMAX-NORMAL": 75.4,
+            "MLY-PRCP-NORMAL": 0.09,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00023234",
+            "MONTH": 10,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 63.5,
+            "MLY-TMIN-NORMAL": 54.1,
+            "MLY-TMAX-NORMAL": 72.9,
+            "MLY-PRCP-NORMAL": 0.78,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00023234",
+            "MONTH": 11,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 56.8,
+            "MLY-TMIN-NORMAL": 48.8,
+            "MLY-TMAX-NORMAL": 64.8,
+            "MLY-PRCP-NORMAL": 1.71,
+            "MLY-SNOW-NORMAL": null
+        },
+        {
+            "STATION": "USW00023234",
+            "MONTH": 12,
+            "NAME": "SAN FRANCISCO INTL AP, CA US",
+            "MLY-AVG-TEMP": 51.5,
+            "MLY-TMIN-NORMAL": 44.6,
+            "MLY-TMAX-NORMAL": 58.4,
+            "MLY-PRCP-NORMAL": 3.31,
+            "MLY-SNOW-NORMAL": null
+        }
+    ],
+    "USW00094290": [
+        {
+            "STATION": "USW00094290",
+            "MONTH": 1,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 42.3,
+            "MLY-TMIN-NORMAL": 37.2,
+            "MLY-TMAX-NORMAL": 47.4,
+            "MLY-PRCP-NORMAL": 5.3,
+            "MLY-SNOW-NORMAL": 1.3
+        },
+        {
+            "STATION": "USW00094290",
+            "MONTH": 2,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 43.1,
+            "MLY-TMIN-NORMAL": 37.1,
+            "MLY-TMAX-NORMAL": 49.1,
+            "MLY-PRCP-NORMAL": 3.59,
+            "MLY-SNOW-NORMAL": 1.4
+        },
+        {
+            "STATION": "USW00094290",
+            "MONTH": 3,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 46.6,
+            "MLY-TMIN-NORMAL": 39.2,
+            "MLY-TMAX-NORMAL": 53.9,
+            "MLY-PRCP-NORMAL": 4.17,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094290",
+            "MONTH": 4,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 50.8,
+            "MLY-TMIN-NORMAL": 42.7,
+            "MLY-TMAX-NORMAL": 58.9,
+            "MLY-PRCP-NORMAL": 2.82,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094290",
+            "MONTH": 5,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 57.2,
+            "MLY-TMIN-NORMAL": 48.5,
+            "MLY-TMAX-NORMAL": 65.9,
+            "MLY-PRCP-NORMAL": 2.23,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094290",
+            "MONTH": 6,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 61.8,
+            "MLY-TMIN-NORMAL": 52.9,
+            "MLY-TMAX-NORMAL": 70.6,
+            "MLY-PRCP-NORMAL": 1.6,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094290",
+            "MONTH": 7,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 66.9,
+            "MLY-TMIN-NORMAL": 56.9,
+            "MLY-TMAX-NORMAL": 77,
+            "MLY-PRCP-NORMAL": 0.62,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094290",
+            "MONTH": 8,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 67.6,
+            "MLY-TMIN-NORMAL": 57.5,
+            "MLY-TMAX-NORMAL": 77.6,
+            "MLY-PRCP-NORMAL": 0.9,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094290",
+            "MONTH": 9,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 62.7,
+            "MLY-TMIN-NORMAL": 53.9,
+            "MLY-TMAX-NORMAL": 71.5,
+            "MLY-PRCP-NORMAL": 2.21,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094290",
+            "MONTH": 10,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 53.7,
+            "MLY-TMIN-NORMAL": 46.8,
+            "MLY-TMAX-NORMAL": 60.6,
+            "MLY-PRCP-NORMAL": 3.99,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00094290",
+            "MONTH": 11,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 46.6,
+            "MLY-TMIN-NORMAL": 41.1,
+            "MLY-TMAX-NORMAL": 52.1,
+            "MLY-PRCP-NORMAL": 6.01,
+            "MLY-SNOW-NORMAL": 0.3
+        },
+        {
+            "STATION": "USW00094290",
+            "MONTH": 12,
+            "NAME": "SEATTLE SAND PT WSFO, WA US",
+            "MLY-AVG-TEMP": 41.6,
+            "MLY-TMIN-NORMAL": 36.9,
+            "MLY-TMAX-NORMAL": 46.2,
+            "MLY-PRCP-NORMAL": 5.61,
+            "MLY-SNOW-NORMAL": 1.1
+        }
+    ],
+    "USW00012842": [
+        {
+            "STATION": "USW00012842",
+            "MONTH": 1,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 62.2,
+            "MLY-TMIN-NORMAL": 53.1,
+            "MLY-TMAX-NORMAL": 71.4,
+            "MLY-PRCP-NORMAL": 2.72,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012842",
+            "MONTH": 2,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 65.1,
+            "MLY-TMIN-NORMAL": 55.9,
+            "MLY-TMAX-NORMAL": 74.3,
+            "MLY-PRCP-NORMAL": 2.78,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012842",
+            "MONTH": 3,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 69.2,
+            "MLY-TMIN-NORMAL": 59.9,
+            "MLY-TMAX-NORMAL": 78.4,
+            "MLY-PRCP-NORMAL": 2.35,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012842",
+            "MONTH": 4,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 74.9,
+            "MLY-TMIN-NORMAL": 66,
+            "MLY-TMAX-NORMAL": 83.9,
+            "MLY-PRCP-NORMAL": 2.56,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012842",
+            "MONTH": 5,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 79.8,
+            "MLY-TMIN-NORMAL": 71,
+            "MLY-TMAX-NORMAL": 88.5,
+            "MLY-PRCP-NORMAL": 3.49,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012842",
+            "MONTH": 6,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 83.4,
+            "MLY-TMIN-NORMAL": 75.9,
+            "MLY-TMAX-NORMAL": 90.8,
+            "MLY-PRCP-NORMAL": 7.74,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012842",
+            "MONTH": 7,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 84,
+            "MLY-TMIN-NORMAL": 77,
+            "MLY-TMAX-NORMAL": 91,
+            "MLY-PRCP-NORMAL": 8.71,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012842",
+            "MONTH": 8,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 84.5,
+            "MLY-TMIN-NORMAL": 77.4,
+            "MLY-TMAX-NORMAL": 91.6,
+            "MLY-PRCP-NORMAL": 9.84,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012842",
+            "MONTH": 9,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 83.1,
+            "MLY-TMIN-NORMAL": 75.7,
+            "MLY-TMAX-NORMAL": 90.6,
+            "MLY-PRCP-NORMAL": 5.8,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012842",
+            "MONTH": 10,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 78.2,
+            "MLY-TMIN-NORMAL": 70.1,
+            "MLY-TMAX-NORMAL": 86.3,
+            "MLY-PRCP-NORMAL": 2.22,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012842",
+            "MONTH": 11,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 70,
+            "MLY-TMIN-NORMAL": 60.9,
+            "MLY-TMAX-NORMAL": 79.2,
+            "MLY-PRCP-NORMAL": 1.58,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00012842",
+            "MONTH": 12,
+            "NAME": "TAMPA INTL AP, FL US",
+            "MLY-AVG-TEMP": 66.5,
+            "MLY-TMIN-NORMAL": 57.8,
+            "MLY-TMAX-NORMAL": 75.3,
+            "MLY-PRCP-NORMAL": 2.07,
+            "MLY-SNOW-NORMAL": 0
+        }
+    ],
+    "USC00028499": [
+        {
+            "STATION": "USC00028499",
+            "MONTH": 1,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 54.7,
+            "MLY-TMIN-NORMAL": 38.6,
+            "MLY-TMAX-NORMAL": 70.7,
+            "MLY-PRCP-NORMAL": 0.88,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00028499",
+            "MONTH": 2,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 57.4,
+            "MLY-TMIN-NORMAL": 40.5,
+            "MLY-TMAX-NORMAL": 74.3,
+            "MLY-PRCP-NORMAL": 0.76,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00028499",
+            "MONTH": 3,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 63.9,
+            "MLY-TMIN-NORMAL": 46.4,
+            "MLY-TMAX-NORMAL": 81.4,
+            "MLY-PRCP-NORMAL": 0.69,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00028499",
+            "MONTH": 4,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 69.9,
+            "MLY-TMIN-NORMAL": 51.8,
+            "MLY-TMAX-NORMAL": 87.9,
+            "MLY-PRCP-NORMAL": 0.18,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00028499",
+            "MONTH": 5,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 77,
+            "MLY-TMIN-NORMAL": 59.2,
+            "MLY-TMAX-NORMAL": 94.8,
+            "MLY-PRCP-NORMAL": 0.22,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00028499",
+            "MONTH": 6,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 86.3,
+            "MLY-TMIN-NORMAL": 67.9,
+            "MLY-TMAX-NORMAL": 104.7,
+            "MLY-PRCP-NORMAL": 0.08,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00028499",
+            "MONTH": 7,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 91.6,
+            "MLY-TMIN-NORMAL": 77,
+            "MLY-TMAX-NORMAL": 106.1,
+            "MLY-PRCP-NORMAL": 1.15,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00028499",
+            "MONTH": 8,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 90.5,
+            "MLY-TMIN-NORMAL": 76,
+            "MLY-TMAX-NORMAL": 105,
+            "MLY-PRCP-NORMAL": 1.42,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00028499",
+            "MONTH": 9,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 85,
+            "MLY-TMIN-NORMAL": 69.3,
+            "MLY-TMAX-NORMAL": 100.7,
+            "MLY-PRCP-NORMAL": 0.87,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00028499",
+            "MONTH": 10,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 73.9,
+            "MLY-TMIN-NORMAL": 56.6,
+            "MLY-TMAX-NORMAL": 91.2,
+            "MLY-PRCP-NORMAL": 0.54,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00028499",
+            "MONTH": 11,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 63.2,
+            "MLY-TMIN-NORMAL": 46.2,
+            "MLY-TMAX-NORMAL": 80.2,
+            "MLY-PRCP-NORMAL": 0.57,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00028499",
+            "MONTH": 12,
+            "NAME": "TEMPE ASU, AZ US",
+            "MLY-AVG-TEMP": 53.7,
+            "MLY-TMIN-NORMAL": 38.2,
+            "MLY-TMAX-NORMAL": 69.2,
+            "MLY-PRCP-NORMAL": 0.87,
+            "MLY-SNOW-NORMAL": 0
+        }
+    ],
+    "USC00049152": [
+        {
+            "STATION": "USC00049152",
+            "MONTH": 1,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 60.7,
+            "MLY-TMIN-NORMAL": 52.5,
+            "MLY-TMAX-NORMAL": 69,
+            "MLY-PRCP-NORMAL": 3.13,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00049152",
+            "MONTH": 2,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 59.4,
+            "MLY-TMIN-NORMAL": 51.1,
+            "MLY-TMAX-NORMAL": 67.7,
+            "MLY-PRCP-NORMAL": 2.56,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00049152",
+            "MONTH": 3,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 60.6,
+            "MLY-TMIN-NORMAL": 52.5,
+            "MLY-TMAX-NORMAL": 68.8,
+            "MLY-PRCP-NORMAL": 2.14,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00049152",
+            "MONTH": 4,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 62.2,
+            "MLY-TMIN-NORMAL": 54.1,
+            "MLY-TMAX-NORMAL": 70.3,
+            "MLY-PRCP-NORMAL": 0.71,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00049152",
+            "MONTH": 5,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 63.5,
+            "MLY-TMIN-NORMAL": 56.4,
+            "MLY-TMAX-NORMAL": 70.5,
+            "MLY-PRCP-NORMAL": 0.39,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00049152",
+            "MONTH": 6,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 66.7,
+            "MLY-TMIN-NORMAL": 59.7,
+            "MLY-TMAX-NORMAL": 73.6,
+            "MLY-PRCP-NORMAL": 0.02,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00049152",
+            "MONTH": 7,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 70.4,
+            "MLY-TMIN-NORMAL": 63.1,
+            "MLY-TMAX-NORMAL": 77.6,
+            "MLY-PRCP-NORMAL": 0.04,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00049152",
+            "MONTH": 8,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 71.3,
+            "MLY-TMIN-NORMAL": 63.6,
+            "MLY-TMAX-NORMAL": 78.9,
+            "MLY-PRCP-NORMAL": 0,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00049152",
+            "MONTH": 9,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 71.6,
+            "MLY-TMIN-NORMAL": 63.3,
+            "MLY-TMAX-NORMAL": 79.8,
+            "MLY-PRCP-NORMAL": 0.25,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00049152",
+            "MONTH": 10,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 69.4,
+            "MLY-TMIN-NORMAL": 60.9,
+            "MLY-TMAX-NORMAL": 77.9,
+            "MLY-PRCP-NORMAL": 0.61,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00049152",
+            "MONTH": 11,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 64.8,
+            "MLY-TMIN-NORMAL": 56.3,
+            "MLY-TMAX-NORMAL": 73.4,
+            "MLY-PRCP-NORMAL": 0.91,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USC00049152",
+            "MONTH": 12,
+            "NAME": "U C L A, CA US",
+            "MLY-AVG-TEMP": 59.5,
+            "MLY-TMIN-NORMAL": 51.6,
+            "MLY-TMAX-NORMAL": 67.4,
+            "MLY-PRCP-NORMAL": 3.01,
+            "MLY-SNOW-NORMAL": 0
+        }
+    ],
+    "USW00013743": [
+        {
+            "STATION": "USW00013743",
+            "MONTH": 1,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 37.9,
+            "MLY-TMIN-NORMAL": 30.2,
+            "MLY-TMAX-NORMAL": 45.6,
+            "MLY-PRCP-NORMAL": 2.47,
+            "MLY-SNOW-NORMAL": 4.3
+        },
+        {
+            "STATION": "USW00013743",
+            "MONTH": 2,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 39.8,
+            "MLY-TMIN-NORMAL": 31.6,
+            "MLY-TMAX-NORMAL": 48,
+            "MLY-PRCP-NORMAL": 2.65,
+            "MLY-SNOW-NORMAL": 5.1
+        },
+        {
+            "STATION": "USW00013743",
+            "MONTH": 3,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 48.2,
+            "MLY-TMIN-NORMAL": 38.9,
+            "MLY-TMAX-NORMAL": 57.6,
+            "MLY-PRCP-NORMAL": 2.71,
+            "MLY-SNOW-NORMAL": 2.3
+        },
+        {
+            "STATION": "USW00013743",
+            "MONTH": 4,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 58.6,
+            "MLY-TMIN-NORMAL": 48.9,
+            "MLY-TMAX-NORMAL": 68.3,
+            "MLY-PRCP-NORMAL": 3.5,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013743",
+            "MONTH": 5,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 67.7,
+            "MLY-TMIN-NORMAL": 58.8,
+            "MLY-TMAX-NORMAL": 76.6,
+            "MLY-PRCP-NORMAL": 4.48,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013743",
+            "MONTH": 6,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 77,
+            "MLY-TMIN-NORMAL": 68.2,
+            "MLY-TMAX-NORMAL": 85.7,
+            "MLY-PRCP-NORMAL": 5,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013743",
+            "MONTH": 7,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 81.6,
+            "MLY-TMIN-NORMAL": 73.1,
+            "MLY-TMAX-NORMAL": 90.2,
+            "MLY-PRCP-NORMAL": 4.72,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013743",
+            "MONTH": 8,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 79.3,
+            "MLY-TMIN-NORMAL": 71.4,
+            "MLY-TMAX-NORMAL": 87.2,
+            "MLY-PRCP-NORMAL": 3.45,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013743",
+            "MONTH": 9,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 73.2,
+            "MLY-TMIN-NORMAL": 65,
+            "MLY-TMAX-NORMAL": 81.3,
+            "MLY-PRCP-NORMAL": 3.98,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013743",
+            "MONTH": 10,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 61.6,
+            "MLY-TMIN-NORMAL": 53.2,
+            "MLY-TMAX-NORMAL": 70,
+            "MLY-PRCP-NORMAL": 4.13,
+            "MLY-SNOW-NORMAL": 0
+        },
+        {
+            "STATION": "USW00013743",
+            "MONTH": 11,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 49.7,
+            "MLY-TMIN-NORMAL": 41.6,
+            "MLY-TMAX-NORMAL": 57.8,
+            "MLY-PRCP-NORMAL": 2.92,
+            "MLY-SNOW-NORMAL": 0.1
+        },
+        {
+            "STATION": "USW00013743",
+            "MONTH": 12,
+            "NAME": "WASHINGTON REAGAN AP, VA US",
+            "MLY-AVG-TEMP": 42.4,
+            "MLY-TMIN-NORMAL": 35.2,
+            "MLY-TMAX-NORMAL": 49.5,
+            "MLY-PRCP-NORMAL": 3.69,
+            "MLY-SNOW-NORMAL": 1.7
+        }
+    ]
 }
