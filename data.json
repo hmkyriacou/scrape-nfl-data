@@ -1,7 +1,1379 @@
 {
     "2010": {},
     "2011": {},
-    "2012": {},
+    "2012": {
+        "1": {
+            "Dallas Cowboys_New York Giants": {
+                "date": "Sep 5, 2012",
+                "away_score": "24",
+                "home_score": "17"
+            },
+            "Indianapolis Colts_Chicago Bears": {
+                "date": "Sep 9, 2012",
+                "away_score": "21",
+                "home_score": "41"
+            },
+            "Philadelphia Eagles_Cleveland Browns": {
+                "date": "Sep 9, 2012",
+                "away_score": "17",
+                "home_score": "16"
+            },
+            "St. Louis Rams_Detroit Lions": {
+                "date": "Sep 9, 2012",
+                "away_score": "23",
+                "home_score": "27"
+            },
+            "Miami Dolphins_Houston Texans": {
+                "date": "Sep 9, 2012",
+                "away_score": "10",
+                "home_score": "30"
+            },
+            "Atlanta Falcons_Kansas City Chiefs": {
+                "date": "Sep 9, 2012",
+                "away_score": "40",
+                "home_score": "24"
+            },
+            "Washington Redskins_New Orleans Saints": {
+                "date": "Sep 9, 2012",
+                "away_score": "40",
+                "home_score": "32"
+            },
+            "Buffalo Bills_New York Jets": {
+                "date": "Sep 9, 2012",
+                "away_score": "28",
+                "home_score": "48"
+            },
+            "New England Patriots_Tennessee Titans": {
+                "date": "Sep 9, 2012",
+                "away_score": "34",
+                "home_score": "13"
+            },
+            "Jacksonville Jaguars_Minnesota Vikings": {
+                "date": "Sep 9, 2012",
+                "away_score": "23",
+                "home_score": "26"
+            },
+            "Seattle Seahawks_Arizona Cardinals": {
+                "date": "Sep 9, 2012",
+                "away_score": "16",
+                "home_score": "20"
+            },
+            "San Francisco 49ers_Green Bay Packers": {
+                "date": "Sep 9, 2012",
+                "away_score": "30",
+                "home_score": "22"
+            },
+            "Carolina Panthers_Tampa Bay Buccaneers": {
+                "date": "Sep 9, 2012",
+                "away_score": "10",
+                "home_score": "16"
+            },
+            "Pittsburgh Steelers_Denver Broncos": {
+                "date": "Sep 9, 2012",
+                "away_score": "19",
+                "home_score": "31"
+            },
+            "Cincinnati Bengals_Baltimore Ravens": {
+                "date": "Sep 10, 2012",
+                "away_score": "13",
+                "home_score": "44"
+            },
+            "San Diego Chargers_Oakland Raiders": {
+                "date": "Sep 10, 2012",
+                "away_score": "22",
+                "home_score": "14"
+            }
+        },
+        "2": {
+            "Chicago Bears_Green Bay Packers": {
+                "date": "Sep 13, 2012",
+                "away_score": "10",
+                "home_score": "23"
+            },
+            "Kansas City Chiefs_Buffalo Bills": {
+                "date": "Sep 16, 2012",
+                "away_score": "17",
+                "home_score": "35"
+            },
+            "Cleveland Browns_Cincinnati Bengals": {
+                "date": "Sep 16, 2012",
+                "away_score": "27",
+                "home_score": "34"
+            },
+            "Oakland Raiders_Miami Dolphins": {
+                "date": "Sep 16, 2012",
+                "away_score": "13",
+                "home_score": "35"
+            },
+            "Arizona Cardinals_New England Patriots": {
+                "date": "Sep 16, 2012",
+                "away_score": "20",
+                "home_score": "18"
+            },
+            "New Orleans Saints_Carolina Panthers": {
+                "date": "Sep 16, 2012",
+                "away_score": "27",
+                "home_score": "35"
+            },
+            "Minnesota Vikings_Indianapolis Colts": {
+                "date": "Sep 16, 2012",
+                "away_score": "20",
+                "home_score": "23"
+            },
+            "Houston Texans_Jacksonville Jaguars": {
+                "date": "Sep 16, 2012",
+                "away_score": "27",
+                "home_score": "7"
+            },
+            "Tampa Bay Buccaneers_New York Giants": {
+                "date": "Sep 16, 2012",
+                "away_score": "34",
+                "home_score": "41"
+            },
+            "Baltimore Ravens_Philadelphia Eagles": {
+                "date": "Sep 16, 2012",
+                "away_score": "23",
+                "home_score": "24"
+            },
+            "Washington Redskins_St. Louis Rams": {
+                "date": "Sep 16, 2012",
+                "away_score": "28",
+                "home_score": "31"
+            },
+            "Dallas Cowboys_Seattle Seahawks": {
+                "date": "Sep 16, 2012",
+                "away_score": "7",
+                "home_score": "27"
+            },
+            "New York Jets_Pittsburgh Steelers": {
+                "date": "Sep 16, 2012",
+                "away_score": "10",
+                "home_score": "27"
+            },
+            "Tennessee Titans_San Diego Chargers": {
+                "date": "Sep 16, 2012",
+                "away_score": "10",
+                "home_score": "38"
+            },
+            "Detroit Lions_San Francisco 49ers": {
+                "date": "Sep 16, 2012",
+                "away_score": "19",
+                "home_score": "27"
+            },
+            "Denver Broncos_Atlanta Falcons": {
+                "date": "Sep 17, 2012",
+                "away_score": "21",
+                "home_score": "27"
+            }
+        },
+        "3": {
+            "New York Giants_Carolina Panthers": {
+                "date": "Sep 20, 2012",
+                "away_score": "36",
+                "home_score": "7"
+            },
+            "Buffalo Bills_Cleveland Browns": {
+                "date": "Sep 23, 2012",
+                "away_score": "24",
+                "home_score": "14"
+            },
+            "Kansas City Chiefs_New Orleans Saints": {
+                "date": "Sep 23, 2012",
+                "away_score": "27",
+                "home_score": "24"
+            },
+            "Jacksonville Jaguars_Indianapolis Colts": {
+                "date": "Sep 23, 2012",
+                "away_score": "22",
+                "home_score": "17"
+            },
+            "New York Jets_Miami Dolphins": {
+                "date": "Sep 23, 2012",
+                "away_score": "23",
+                "home_score": "20"
+            },
+            "Detroit Lions_Tennessee Titans": {
+                "date": "Sep 23, 2012",
+                "away_score": "41",
+                "home_score": "44"
+            },
+            "Cincinnati Bengals_Washington Redskins": {
+                "date": "Sep 23, 2012",
+                "away_score": "38",
+                "home_score": "31"
+            },
+            "St. Louis Rams_Chicago Bears": {
+                "date": "Sep 23, 2012",
+                "away_score": "6",
+                "home_score": "23"
+            },
+            "Tampa Bay Buccaneers_Dallas Cowboys": {
+                "date": "Sep 23, 2012",
+                "away_score": "10",
+                "home_score": "16"
+            },
+            "San Francisco 49ers_Minnesota Vikings": {
+                "date": "Sep 23, 2012",
+                "away_score": "13",
+                "home_score": "24"
+            },
+            "Philadelphia Eagles_Arizona Cardinals": {
+                "date": "Sep 23, 2012",
+                "away_score": "6",
+                "home_score": "27"
+            },
+            "Atlanta Falcons_San Diego Chargers": {
+                "date": "Sep 23, 2012",
+                "away_score": "27",
+                "home_score": "3"
+            },
+            "Houston Texans_Denver Broncos": {
+                "date": "Sep 23, 2012",
+                "away_score": "31",
+                "home_score": "25"
+            },
+            "Pittsburgh Steelers_Oakland Raiders": {
+                "date": "Sep 23, 2012",
+                "away_score": "31",
+                "home_score": "34"
+            },
+            "New England Patriots_Baltimore Ravens": {
+                "date": "Sep 23, 2012",
+                "away_score": "30",
+                "home_score": "31"
+            },
+            "Green Bay Packers_Seattle Seahawks": {
+                "date": "Sep 24, 2012",
+                "away_score": "12",
+                "home_score": "14"
+            }
+        },
+        "4": {
+            "Cleveland Browns_Baltimore Ravens": {
+                "date": "Sep 27, 2012",
+                "away_score": "16",
+                "home_score": "23"
+            },
+            "Seattle Seahawks_St. Louis Rams": {
+                "date": "Sep 30, 2012",
+                "away_score": "13",
+                "home_score": "19"
+            },
+            "New England Patriots_Buffalo Bills": {
+                "date": "Sep 30, 2012",
+                "away_score": "52",
+                "home_score": "28"
+            },
+            "Carolina Panthers_Atlanta Falcons": {
+                "date": "Sep 30, 2012",
+                "away_score": "28",
+                "home_score": "30"
+            },
+            "Minnesota Vikings_Detroit Lions": {
+                "date": "Sep 30, 2012",
+                "away_score": "20",
+                "home_score": "13"
+            },
+            "Tennessee Titans_Houston Texans": {
+                "date": "Sep 30, 2012",
+                "away_score": "14",
+                "home_score": "38"
+            },
+            "San Diego Chargers_Kansas City Chiefs": {
+                "date": "Sep 30, 2012",
+                "away_score": "37",
+                "home_score": "20"
+            },
+            "San Francisco 49ers_New York Jets": {
+                "date": "Sep 30, 2012",
+                "away_score": "34",
+                "home_score": "0"
+            },
+            "Miami Dolphins_Arizona Cardinals": {
+                "date": "Sep 30, 2012",
+                "away_score": "21",
+                "home_score": "24"
+            },
+            "Oakland Raiders_Denver Broncos": {
+                "date": "Sep 30, 2012",
+                "away_score": "6",
+                "home_score": "37"
+            },
+            "Cincinnati Bengals_Jacksonville Jaguars": {
+                "date": "Sep 30, 2012",
+                "away_score": "27",
+                "home_score": "10"
+            },
+            "New Orleans Saints_Green Bay Packers": {
+                "date": "Sep 30, 2012",
+                "away_score": "27",
+                "home_score": "28"
+            },
+            "Washington Redskins_Tampa Bay Buccaneers": {
+                "date": "Sep 30, 2012",
+                "away_score": "24",
+                "home_score": "22"
+            },
+            "New York Giants_Philadelphia Eagles": {
+                "date": "Sep 30, 2012",
+                "away_score": "17",
+                "home_score": "19"
+            },
+            "Chicago Bears_Dallas Cowboys": {
+                "date": "Oct 1, 2012",
+                "away_score": "34",
+                "home_score": "18"
+            }
+        },
+        "5": {
+            "Arizona Cardinals_St. Louis Rams": {
+                "date": "Oct 4, 2012",
+                "away_score": "3",
+                "home_score": "17"
+            },
+            "Baltimore Ravens_Kansas City Chiefs": {
+                "date": "Oct 7, 2012",
+                "away_score": "9",
+                "home_score": "6"
+            },
+            "Cleveland Browns_New York Giants": {
+                "date": "Oct 7, 2012",
+                "away_score": "27",
+                "home_score": "41"
+            },
+            "Philadelphia Eagles_Pittsburgh Steelers": {
+                "date": "Oct 7, 2012",
+                "away_score": "14",
+                "home_score": "16"
+            },
+            "Miami Dolphins_Cincinnati Bengals": {
+                "date": "Oct 7, 2012",
+                "away_score": "17",
+                "home_score": "13"
+            },
+            "Green Bay Packers_Indianapolis Colts": {
+                "date": "Oct 7, 2012",
+                "away_score": "27",
+                "home_score": "30"
+            },
+            "Atlanta Falcons_Washington Redskins": {
+                "date": "Oct 7, 2012",
+                "away_score": "24",
+                "home_score": "17"
+            },
+            "Seattle Seahawks_Carolina Panthers": {
+                "date": "Oct 7, 2012",
+                "away_score": "16",
+                "home_score": "12"
+            },
+            "Chicago Bears_Jacksonville Jaguars": {
+                "date": "Oct 7, 2012",
+                "away_score": "41",
+                "home_score": "3"
+            },
+            "Tennessee Titans_Minnesota Vikings": {
+                "date": "Oct 7, 2012",
+                "away_score": "7",
+                "home_score": "30"
+            },
+            "Denver Broncos_New England Patriots": {
+                "date": "Oct 7, 2012",
+                "away_score": "21",
+                "home_score": "31"
+            },
+            "Buffalo Bills_San Francisco 49ers": {
+                "date": "Oct 7, 2012",
+                "away_score": "3",
+                "home_score": "45"
+            },
+            "San Diego Chargers_New Orleans Saints": {
+                "date": "Oct 7, 2012",
+                "away_score": "24",
+                "home_score": "31"
+            },
+            "Houston Texans_New York Jets": {
+                "date": "Oct 8, 2012",
+                "away_score": "23",
+                "home_score": "17"
+            }
+        },
+        "6": {
+            "Pittsburgh Steelers_Tennessee Titans": {
+                "date": "Oct 11, 2012",
+                "away_score": "23",
+                "home_score": "26"
+            },
+            "St. Louis Rams_Miami Dolphins": {
+                "date": "Oct 14, 2012",
+                "away_score": "14",
+                "home_score": "17"
+            },
+            "Kansas City Chiefs_Tampa Bay Buccaneers": {
+                "date": "Oct 14, 2012",
+                "away_score": "10",
+                "home_score": "38"
+            },
+            "Oakland Raiders_Atlanta Falcons": {
+                "date": "Oct 14, 2012",
+                "away_score": "20",
+                "home_score": "23"
+            },
+            "Cincinnati Bengals_Cleveland Browns": {
+                "date": "Oct 14, 2012",
+                "away_score": "24",
+                "home_score": "34"
+            },
+            "Indianapolis Colts_New York Jets": {
+                "date": "Oct 14, 2012",
+                "away_score": "9",
+                "home_score": "35"
+            },
+            "Dallas Cowboys_Baltimore Ravens": {
+                "date": "Oct 14, 2012",
+                "away_score": "29",
+                "home_score": "31"
+            },
+            "Detroit Lions_Philadelphia Eagles": {
+                "date": "Oct 14, 2012",
+                "away_score": "26",
+                "home_score": "23"
+            },
+            "New England Patriots_Seattle Seahawks": {
+                "date": "Oct 14, 2012",
+                "away_score": "23",
+                "home_score": "24"
+            },
+            "Buffalo Bills_Arizona Cardinals": {
+                "date": "Oct 14, 2012",
+                "away_score": "19",
+                "home_score": "16"
+            },
+            "New York Giants_San Francisco 49ers": {
+                "date": "Oct 14, 2012",
+                "away_score": "26",
+                "home_score": "3"
+            },
+            "Minnesota Vikings_Washington Redskins": {
+                "date": "Oct 14, 2012",
+                "away_score": "26",
+                "home_score": "38"
+            },
+            "Green Bay Packers_Houston Texans": {
+                "date": "Oct 14, 2012",
+                "away_score": "42",
+                "home_score": "24"
+            },
+            "Denver Broncos_San Diego Chargers": {
+                "date": "Oct 15, 2012",
+                "away_score": "35",
+                "home_score": "24"
+            }
+        },
+        "7": {
+            "Seattle Seahawks_San Francisco 49ers": {
+                "date": "Oct 18, 2012",
+                "away_score": "6",
+                "home_score": "13"
+            },
+            "Green Bay Packers_St. Louis Rams": {
+                "date": "Oct 21, 2012",
+                "away_score": "30",
+                "home_score": "20"
+            },
+            "Tennessee Titans_Buffalo Bills": {
+                "date": "Oct 21, 2012",
+                "away_score": "35",
+                "home_score": "34"
+            },
+            "Cleveland Browns_Indianapolis Colts": {
+                "date": "Oct 21, 2012",
+                "away_score": "13",
+                "home_score": "17"
+            },
+            "Baltimore Ravens_Houston Texans": {
+                "date": "Oct 21, 2012",
+                "away_score": "13",
+                "home_score": "43"
+            },
+            "New Orleans Saints_Tampa Bay Buccaneers": {
+                "date": "Oct 21, 2012",
+                "away_score": "35",
+                "home_score": "28"
+            },
+            "Dallas Cowboys_Carolina Panthers": {
+                "date": "Oct 21, 2012",
+                "away_score": "19",
+                "home_score": "14"
+            },
+            "Washington Redskins_New York Giants": {
+                "date": "Oct 21, 2012",
+                "away_score": "23",
+                "home_score": "27"
+            },
+            "Arizona Cardinals_Minnesota Vikings": {
+                "date": "Oct 21, 2012",
+                "away_score": "14",
+                "home_score": "21"
+            },
+            "New York Jets_New England Patriots": {
+                "date": "Oct 21, 2012",
+                "away_score": "26",
+                "home_score": "29"
+            },
+            "Jacksonville Jaguars_Oakland Raiders": {
+                "date": "Oct 21, 2012",
+                "away_score": "23",
+                "home_score": "26"
+            },
+            "Pittsburgh Steelers_Cincinnati Bengals": {
+                "date": "Oct 21, 2012",
+                "away_score": "24",
+                "home_score": "17"
+            },
+            "Detroit Lions_Chicago Bears": {
+                "date": "Oct 22, 2012",
+                "away_score": "7",
+                "home_score": "13"
+            }
+        },
+        "8": {
+            "Tampa Bay Buccaneers_Minnesota Vikings": {
+                "date": "Oct 25, 2012",
+                "away_score": "36",
+                "home_score": "17"
+            },
+            "Washington Redskins_Pittsburgh Steelers": {
+                "date": "Oct 28, 2012",
+                "away_score": "12",
+                "home_score": "27"
+            },
+            "Carolina Panthers_Chicago Bears": {
+                "date": "Oct 28, 2012",
+                "away_score": "22",
+                "home_score": "23"
+            },
+            "Seattle Seahawks_Detroit Lions": {
+                "date": "Oct 28, 2012",
+                "away_score": "24",
+                "home_score": "28"
+            },
+            "Atlanta Falcons_Philadelphia Eagles": {
+                "date": "Oct 28, 2012",
+                "away_score": "30",
+                "home_score": "17"
+            },
+            "Jacksonville Jaguars_Green Bay Packers": {
+                "date": "Oct 28, 2012",
+                "away_score": "15",
+                "home_score": "24"
+            },
+            "San Diego Chargers_Cleveland Browns": {
+                "date": "Oct 28, 2012",
+                "away_score": "6",
+                "home_score": "7"
+            },
+            "Miami Dolphins_New York Jets": {
+                "date": "Oct 28, 2012",
+                "away_score": "30",
+                "home_score": "9"
+            },
+            "Indianapolis Colts_Tennessee Titans": {
+                "date": "Oct 28, 2012",
+                "away_score": "19",
+                "home_score": "13"
+            },
+            "New England Patriots_St. Louis Rams": {
+                "date": "Oct 28, 2012",
+                "away_score": "45",
+                "home_score": "7"
+            },
+            "Oakland Raiders_Kansas City Chiefs": {
+                "date": "Oct 28, 2012",
+                "away_score": "26",
+                "home_score": "16"
+            },
+            "New York Giants_Dallas Cowboys": {
+                "date": "Oct 28, 2012",
+                "away_score": "29",
+                "home_score": "24"
+            },
+            "New Orleans Saints_Denver Broncos": {
+                "date": "Oct 28, 2012",
+                "away_score": "14",
+                "home_score": "34"
+            },
+            "San Francisco 49ers_Arizona Cardinals": {
+                "date": "Oct 29, 2012",
+                "away_score": "24",
+                "home_score": "3"
+            }
+        },
+        "9": {
+            "Kansas City Chiefs_San Diego Chargers": {
+                "date": "Nov 1, 2012",
+                "away_score": "13",
+                "home_score": "31"
+            },
+            "Denver Broncos_Cincinnati Bengals": {
+                "date": "Nov 4, 2012",
+                "away_score": "31",
+                "home_score": "23"
+            },
+            "Miami Dolphins_Indianapolis Colts": {
+                "date": "Nov 4, 2012",
+                "away_score": "20",
+                "home_score": "23"
+            },
+            "Arizona Cardinals_Green Bay Packers": {
+                "date": "Nov 4, 2012",
+                "away_score": "17",
+                "home_score": "31"
+            },
+            "Buffalo Bills_Houston Texans": {
+                "date": "Nov 4, 2012",
+                "away_score": "9",
+                "home_score": "21"
+            },
+            "Baltimore Ravens_Cleveland Browns": {
+                "date": "Nov 4, 2012",
+                "away_score": "25",
+                "home_score": "15"
+            },
+            "Detroit Lions_Jacksonville Jaguars": {
+                "date": "Nov 4, 2012",
+                "away_score": "31",
+                "home_score": "14"
+            },
+            "Chicago Bears_Tennessee Titans": {
+                "date": "Nov 4, 2012",
+                "away_score": "51",
+                "home_score": "20"
+            },
+            "Carolina Panthers_Washington Redskins": {
+                "date": "Nov 4, 2012",
+                "away_score": "21",
+                "home_score": "13"
+            },
+            "Tampa Bay Buccaneers_Oakland Raiders": {
+                "date": "Nov 4, 2012",
+                "away_score": "42",
+                "home_score": "32"
+            },
+            "Minnesota Vikings_Seattle Seahawks": {
+                "date": "Nov 4, 2012",
+                "away_score": "20",
+                "home_score": "30"
+            },
+            "Pittsburgh Steelers_New York Giants": {
+                "date": "Nov 4, 2012",
+                "away_score": "24",
+                "home_score": "20"
+            },
+            "Dallas Cowboys_Atlanta Falcons": {
+                "date": "Nov 4, 2012",
+                "away_score": "13",
+                "home_score": "19"
+            },
+            "Philadelphia Eagles_New Orleans Saints": {
+                "date": "Nov 5, 2012",
+                "away_score": "13",
+                "home_score": "28"
+            }
+        },
+        "10": {
+            "Indianapolis Colts_Jacksonville Jaguars": {
+                "date": "Nov 8, 2012",
+                "away_score": "27",
+                "home_score": "10"
+            },
+            "Denver Broncos_Carolina Panthers": {
+                "date": "Nov 11, 2012",
+                "away_score": "36",
+                "home_score": "14"
+            },
+            "Atlanta Falcons_New Orleans Saints": {
+                "date": "Nov 11, 2012",
+                "away_score": "27",
+                "home_score": "31"
+            },
+            "Buffalo Bills_New England Patriots": {
+                "date": "Nov 11, 2012",
+                "away_score": "31",
+                "home_score": "37"
+            },
+            "Oakland Raiders_Baltimore Ravens": {
+                "date": "Nov 11, 2012",
+                "away_score": "20",
+                "home_score": "55"
+            },
+            "New York Giants_Cincinnati Bengals": {
+                "date": "Nov 11, 2012",
+                "away_score": "13",
+                "home_score": "31"
+            },
+            "Tennessee Titans_Miami Dolphins": {
+                "date": "Nov 11, 2012",
+                "away_score": "37",
+                "home_score": "3"
+            },
+            "San Diego Chargers_Tampa Bay Buccaneers": {
+                "date": "Nov 11, 2012",
+                "away_score": "24",
+                "home_score": "34"
+            },
+            "Detroit Lions_Minnesota Vikings": {
+                "date": "Nov 11, 2012",
+                "away_score": "24",
+                "home_score": "34"
+            },
+            "New York Jets_Seattle Seahawks": {
+                "date": "Nov 11, 2012",
+                "away_score": "7",
+                "home_score": "28"
+            },
+            "Dallas Cowboys_Philadelphia Eagles": {
+                "date": "Nov 11, 2012",
+                "away_score": "38",
+                "home_score": "23"
+            },
+            "St. Louis Rams_San Francisco 49ers": {
+                "date": "Nov 11, 2012",
+                "away_score": "24",
+                "home_score": "24"
+            },
+            "Houston Texans_Chicago Bears": {
+                "date": "Nov 11, 2012",
+                "away_score": "13",
+                "home_score": "6"
+            },
+            "Kansas City Chiefs_Pittsburgh Steelers": {
+                "date": "Nov 12, 2012",
+                "away_score": "13",
+                "home_score": "16"
+            }
+        },
+        "11": {
+            "Miami Dolphins_Buffalo Bills": {
+                "date": "Nov 15, 2012",
+                "away_score": "14",
+                "home_score": "19"
+            },
+            "New York Jets_St. Louis Rams": {
+                "date": "Nov 18, 2012",
+                "away_score": "27",
+                "home_score": "13"
+            },
+            "Green Bay Packers_Detroit Lions": {
+                "date": "Nov 18, 2012",
+                "away_score": "24",
+                "home_score": "20"
+            },
+            "Arizona Cardinals_Atlanta Falcons": {
+                "date": "Nov 18, 2012",
+                "away_score": "19",
+                "home_score": "23"
+            },
+            "Jacksonville Jaguars_Houston Texans": {
+                "date": "Nov 18, 2012",
+                "away_score": "37",
+                "home_score": "43"
+            },
+            "Cincinnati Bengals_Kansas City Chiefs": {
+                "date": "Nov 18, 2012",
+                "away_score": "28",
+                "home_score": "6"
+            },
+            "Philadelphia Eagles_Washington Redskins": {
+                "date": "Nov 18, 2012",
+                "away_score": "6",
+                "home_score": "31"
+            },
+            "Tampa Bay Buccaneers_Carolina Panthers": {
+                "date": "Nov 18, 2012",
+                "away_score": "27",
+                "home_score": "21"
+            },
+            "Cleveland Browns_Dallas Cowboys": {
+                "date": "Nov 18, 2012",
+                "away_score": "20",
+                "home_score": "23"
+            },
+            "New Orleans Saints_Oakland Raiders": {
+                "date": "Nov 18, 2012",
+                "away_score": "38",
+                "home_score": "17"
+            },
+            "San Diego Chargers_Denver Broncos": {
+                "date": "Nov 18, 2012",
+                "away_score": "23",
+                "home_score": "30"
+            },
+            "Indianapolis Colts_New England Patriots": {
+                "date": "Nov 18, 2012",
+                "away_score": "24",
+                "home_score": "59"
+            },
+            "Baltimore Ravens_Pittsburgh Steelers": {
+                "date": "Nov 18, 2012",
+                "away_score": "13",
+                "home_score": "10"
+            },
+            "Chicago Bears_San Francisco 49ers": {
+                "date": "Nov 19, 2012",
+                "away_score": "7",
+                "home_score": "32"
+            }
+        },
+        "12": {
+            "Houston Texans_Detroit Lions": {
+                "date": "Nov 22, 2012",
+                "away_score": "34",
+                "home_score": "31"
+            },
+            "Washington Redskins_Dallas Cowboys": {
+                "date": "Nov 22, 2012",
+                "away_score": "38",
+                "home_score": "31"
+            },
+            "New England Patriots_New York Jets": {
+                "date": "Nov 22, 2012",
+                "away_score": "49",
+                "home_score": "19"
+            },
+            "Minnesota Vikings_Chicago Bears": {
+                "date": "Nov 25, 2012",
+                "away_score": "10",
+                "home_score": "28"
+            },
+            "Oakland Raiders_Cincinnati Bengals": {
+                "date": "Nov 25, 2012",
+                "away_score": "10",
+                "home_score": "34"
+            },
+            "Pittsburgh Steelers_Cleveland Browns": {
+                "date": "Nov 25, 2012",
+                "away_score": "14",
+                "home_score": "20"
+            },
+            "Atlanta Falcons_Tampa Bay Buccaneers": {
+                "date": "Nov 25, 2012",
+                "away_score": "24",
+                "home_score": "23"
+            },
+            "Buffalo Bills_Indianapolis Colts": {
+                "date": "Nov 25, 2012",
+                "away_score": "13",
+                "home_score": "20"
+            },
+            "Tennessee Titans_Jacksonville Jaguars": {
+                "date": "Nov 25, 2012",
+                "away_score": "19",
+                "home_score": "24"
+            },
+            "Denver Broncos_Kansas City Chiefs": {
+                "date": "Nov 25, 2012",
+                "away_score": "17",
+                "home_score": "9"
+            },
+            "Seattle Seahawks_Miami Dolphins": {
+                "date": "Nov 25, 2012",
+                "away_score": "21",
+                "home_score": "24"
+            },
+            "Baltimore Ravens_San Diego Chargers": {
+                "date": "Nov 25, 2012",
+                "away_score": "16",
+                "home_score": "13"
+            },
+            "St. Louis Rams_Arizona Cardinals": {
+                "date": "Nov 25, 2012",
+                "away_score": "31",
+                "home_score": "17"
+            },
+            "San Francisco 49ers_New Orleans Saints": {
+                "date": "Nov 25, 2012",
+                "away_score": "31",
+                "home_score": "21"
+            },
+            "Green Bay Packers_New York Giants": {
+                "date": "Nov 25, 2012",
+                "away_score": "10",
+                "home_score": "38"
+            },
+            "Carolina Panthers_Philadelphia Eagles": {
+                "date": "Nov 26, 2012",
+                "away_score": "30",
+                "home_score": "22"
+            }
+        },
+        "13": {
+            "New Orleans Saints_Atlanta Falcons": {
+                "date": "Nov 29, 2012",
+                "away_score": "13",
+                "home_score": "23"
+            },
+            "San Francisco 49ers_St. Louis Rams": {
+                "date": "Dec 2, 2012",
+                "away_score": "13",
+                "home_score": "16"
+            },
+            "Jacksonville Jaguars_Buffalo Bills": {
+                "date": "Dec 2, 2012",
+                "away_score": "18",
+                "home_score": "34"
+            },
+            "Minnesota Vikings_Green Bay Packers": {
+                "date": "Dec 2, 2012",
+                "away_score": "14",
+                "home_score": "23"
+            },
+            "New England Patriots_Miami Dolphins": {
+                "date": "Dec 2, 2012",
+                "away_score": "23",
+                "home_score": "16"
+            },
+            "Houston Texans_Tennessee Titans": {
+                "date": "Dec 2, 2012",
+                "away_score": "24",
+                "home_score": "10"
+            },
+            "Seattle Seahawks_Chicago Bears": {
+                "date": "Dec 2, 2012",
+                "away_score": "23",
+                "home_score": "17"
+            },
+            "Indianapolis Colts_Detroit Lions": {
+                "date": "Dec 2, 2012",
+                "away_score": "35",
+                "home_score": "33"
+            },
+            "Carolina Panthers_Kansas City Chiefs": {
+                "date": "Dec 2, 2012",
+                "away_score": "21",
+                "home_score": "27"
+            },
+            "Arizona Cardinals_New York Jets": {
+                "date": "Dec 2, 2012",
+                "away_score": "6",
+                "home_score": "7"
+            },
+            "Tampa Bay Buccaneers_Denver Broncos": {
+                "date": "Dec 2, 2012",
+                "away_score": "23",
+                "home_score": "31"
+            },
+            "Cleveland Browns_Oakland Raiders": {
+                "date": "Dec 2, 2012",
+                "away_score": "20",
+                "home_score": "17"
+            },
+            "Pittsburgh Steelers_Baltimore Ravens": {
+                "date": "Dec 2, 2012",
+                "away_score": "23",
+                "home_score": "20"
+            },
+            "Cincinnati Bengals_San Diego Chargers": {
+                "date": "Dec 2, 2012",
+                "away_score": "20",
+                "home_score": "13"
+            },
+            "Philadelphia Eagles_Dallas Cowboys": {
+                "date": "Dec 2, 2012",
+                "away_score": "33",
+                "home_score": "38"
+            },
+            "New York Giants_Washington Redskins": {
+                "date": "Dec 3, 2012",
+                "away_score": "16",
+                "home_score": "17"
+            }
+        },
+        "14": {
+            "Denver Broncos_Oakland Raiders": {
+                "date": "Dec 6, 2012",
+                "away_score": "26",
+                "home_score": "13"
+            },
+            "St. Louis Rams_Buffalo Bills": {
+                "date": "Dec 9, 2012",
+                "away_score": "15",
+                "home_score": "12"
+            },
+            "Kansas City Chiefs_Cleveland Browns": {
+                "date": "Dec 9, 2012",
+                "away_score": "7",
+                "home_score": "30"
+            },
+            "Tennessee Titans_Indianapolis Colts": {
+                "date": "Dec 9, 2012",
+                "away_score": "23",
+                "home_score": "27"
+            },
+            "New York Jets_Jacksonville Jaguars": {
+                "date": "Dec 9, 2012",
+                "away_score": "17",
+                "home_score": "10"
+            },
+            "San Diego Chargers_Pittsburgh Steelers": {
+                "date": "Dec 9, 2012",
+                "away_score": "34",
+                "home_score": "24"
+            },
+            "Dallas Cowboys_Cincinnati Bengals": {
+                "date": "Dec 9, 2012",
+                "away_score": "20",
+                "home_score": "19"
+            },
+            "Philadelphia Eagles_Tampa Bay Buccaneers": {
+                "date": "Dec 9, 2012",
+                "away_score": "23",
+                "home_score": "21"
+            },
+            "Baltimore Ravens_Washington Redskins": {
+                "date": "Dec 9, 2012",
+                "away_score": "28",
+                "home_score": "31"
+            },
+            "Atlanta Falcons_Carolina Panthers": {
+                "date": "Dec 9, 2012",
+                "away_score": "20",
+                "home_score": "30"
+            },
+            "Chicago Bears_Minnesota Vikings": {
+                "date": "Dec 9, 2012",
+                "away_score": "14",
+                "home_score": "21"
+            },
+            "Miami Dolphins_San Francisco 49ers": {
+                "date": "Dec 9, 2012",
+                "away_score": "13",
+                "home_score": "27"
+            },
+            "New Orleans Saints_New York Giants": {
+                "date": "Dec 9, 2012",
+                "away_score": "27",
+                "home_score": "52"
+            },
+            "Arizona Cardinals_Seattle Seahawks": {
+                "date": "Dec 9, 2012",
+                "away_score": "0",
+                "home_score": "58"
+            },
+            "Detroit Lions_Green Bay Packers": {
+                "date": "Dec 9, 2012",
+                "away_score": "20",
+                "home_score": "27"
+            },
+            "Houston Texans_New England Patriots": {
+                "date": "Dec 10, 2012",
+                "away_score": "14",
+                "home_score": "42"
+            }
+        },
+        "15": {
+            "Cincinnati Bengals_Philadelphia Eagles": {
+                "date": "Dec 13, 2012",
+                "away_score": "34",
+                "home_score": "13"
+            },
+            "Minnesota Vikings_St. Louis Rams": {
+                "date": "Dec 16, 2012",
+                "away_score": "36",
+                "home_score": "22"
+            },
+            "Indianapolis Colts_Houston Texans": {
+                "date": "Dec 16, 2012",
+                "away_score": "17",
+                "home_score": "29"
+            },
+            "Denver Broncos_Baltimore Ravens": {
+                "date": "Dec 16, 2012",
+                "away_score": "34",
+                "home_score": "17"
+            },
+            "New York Giants_Atlanta Falcons": {
+                "date": "Dec 16, 2012",
+                "away_score": "0",
+                "home_score": "34"
+            },
+            "Green Bay Packers_Chicago Bears": {
+                "date": "Dec 16, 2012",
+                "away_score": "21",
+                "home_score": "13"
+            },
+            "Washington Redskins_Cleveland Browns": {
+                "date": "Dec 16, 2012",
+                "away_score": "38",
+                "home_score": "21"
+            },
+            "Jacksonville Jaguars_Miami Dolphins": {
+                "date": "Dec 16, 2012",
+                "away_score": "3",
+                "home_score": "24"
+            },
+            "Tampa Bay Buccaneers_New Orleans Saints": {
+                "date": "Dec 16, 2012",
+                "away_score": "0",
+                "home_score": "41"
+            },
+            "Seattle Seahawks_Buffalo Bills": {
+                "date": "Dec 16, 2012",
+                "away_score": "50",
+                "home_score": "17"
+            },
+            "Detroit Lions_Arizona Cardinals": {
+                "date": "Dec 16, 2012",
+                "away_score": "10",
+                "home_score": "38"
+            },
+            "Carolina Panthers_San Diego Chargers": {
+                "date": "Dec 16, 2012",
+                "away_score": "31",
+                "home_score": "7"
+            },
+            "Pittsburgh Steelers_Dallas Cowboys": {
+                "date": "Dec 16, 2012",
+                "away_score": "24",
+                "home_score": "27"
+            },
+            "Kansas City Chiefs_Oakland Raiders": {
+                "date": "Dec 16, 2012",
+                "away_score": "0",
+                "home_score": "15"
+            },
+            "San Francisco 49ers_New England Patriots": {
+                "date": "Dec 16, 2012",
+                "away_score": "41",
+                "home_score": "34"
+            },
+            "New York Jets_Tennessee Titans": {
+                "date": "Dec 17, 2012",
+                "away_score": "10",
+                "home_score": "14"
+            }
+        },
+        "16": {
+            "Atlanta Falcons_Detroit Lions": {
+                "date": "Dec 22, 2012",
+                "away_score": "31",
+                "home_score": "18"
+            },
+            "New Orleans Saints_Dallas Cowboys": {
+                "date": "Dec 23, 2012",
+                "away_score": "34",
+                "home_score": "31"
+            },
+            "Tennessee Titans_Green Bay Packers": {
+                "date": "Dec 23, 2012",
+                "away_score": "7",
+                "home_score": "55"
+            },
+            "New England Patriots_Jacksonville Jaguars": {
+                "date": "Dec 23, 2012",
+                "away_score": "23",
+                "home_score": "16"
+            },
+            "Buffalo Bills_Miami Dolphins": {
+                "date": "Dec 23, 2012",
+                "away_score": "10",
+                "home_score": "24"
+            },
+            "Cincinnati Bengals_Pittsburgh Steelers": {
+                "date": "Dec 23, 2012",
+                "away_score": "13",
+                "home_score": "10"
+            },
+            "Minnesota Vikings_Houston Texans": {
+                "date": "Dec 23, 2012",
+                "away_score": "23",
+                "home_score": "6"
+            },
+            "Indianapolis Colts_Kansas City Chiefs": {
+                "date": "Dec 23, 2012",
+                "away_score": "20",
+                "home_score": "13"
+            },
+            "San Diego Chargers_New York Jets": {
+                "date": "Dec 23, 2012",
+                "away_score": "27",
+                "home_score": "17"
+            },
+            "Washington Redskins_Philadelphia Eagles": {
+                "date": "Dec 23, 2012",
+                "away_score": "27",
+                "home_score": "20"
+            },
+            "St. Louis Rams_Tampa Bay Buccaneers": {
+                "date": "Dec 23, 2012",
+                "away_score": "28",
+                "home_score": "13"
+            },
+            "Oakland Raiders_Carolina Panthers": {
+                "date": "Dec 23, 2012",
+                "away_score": "6",
+                "home_score": "17"
+            },
+            "Cleveland Browns_Denver Broncos": {
+                "date": "Dec 23, 2012",
+                "away_score": "12",
+                "home_score": "34"
+            },
+            "Chicago Bears_Arizona Cardinals": {
+                "date": "Dec 23, 2012",
+                "away_score": "28",
+                "home_score": "13"
+            },
+            "New York Giants_Baltimore Ravens": {
+                "date": "Dec 23, 2012",
+                "away_score": "14",
+                "home_score": "33"
+            },
+            "San Francisco 49ers_Seattle Seahawks": {
+                "date": "Dec 23, 2012",
+                "away_score": "13",
+                "home_score": "42"
+            }
+        },
+        "17": {
+            "Tampa Bay Buccaneers_Atlanta Falcons": {
+                "date": "Dec 30, 2012",
+                "away_score": "22",
+                "home_score": "17"
+            },
+            "New York Jets_Buffalo Bills": {
+                "date": "Dec 30, 2012",
+                "away_score": "9",
+                "home_score": "28"
+            },
+            "Houston Texans_Indianapolis Colts": {
+                "date": "Dec 30, 2012",
+                "away_score": "16",
+                "home_score": "28"
+            },
+            "Jacksonville Jaguars_Tennessee Titans": {
+                "date": "Dec 30, 2012",
+                "away_score": "20",
+                "home_score": "38"
+            },
+            "Cleveland Browns_Pittsburgh Steelers": {
+                "date": "Dec 30, 2012",
+                "away_score": "10",
+                "home_score": "24"
+            },
+            "Baltimore Ravens_Cincinnati Bengals": {
+                "date": "Dec 30, 2012",
+                "away_score": "17",
+                "home_score": "23"
+            },
+            "Chicago Bears_Detroit Lions": {
+                "date": "Dec 30, 2012",
+                "away_score": "26",
+                "home_score": "24"
+            },
+            "Carolina Panthers_New Orleans Saints": {
+                "date": "Dec 30, 2012",
+                "away_score": "44",
+                "home_score": "38"
+            },
+            "Philadelphia Eagles_New York Giants": {
+                "date": "Dec 30, 2012",
+                "away_score": "7",
+                "home_score": "42"
+            },
+            "Oakland Raiders_San Diego Chargers": {
+                "date": "Dec 30, 2012",
+                "away_score": "21",
+                "home_score": "24"
+            },
+            "Kansas City Chiefs_Denver Broncos": {
+                "date": "Dec 30, 2012",
+                "away_score": "3",
+                "home_score": "38"
+            },
+            "Green Bay Packers_Minnesota Vikings": {
+                "date": "Dec 30, 2012",
+                "away_score": "34",
+                "home_score": "37"
+            },
+            "Miami Dolphins_New England Patriots": {
+                "date": "Dec 30, 2012",
+                "away_score": "0",
+                "home_score": "28"
+            },
+            "Arizona Cardinals_San Francisco 49ers": {
+                "date": "Dec 30, 2012",
+                "away_score": "13",
+                "home_score": "27"
+            },
+            "St. Louis Rams_Seattle Seahawks": {
+                "date": "Dec 30, 2012",
+                "away_score": "13",
+                "home_score": "20"
+            },
+            "Dallas Cowboys_Washington Redskins": {
+                "date": "Dec 30, 2012",
+                "away_score": "18",
+                "home_score": "28"
+            }
+        },
+        "18": {
+            "Cincinnati Bengals_Houston Texans": {
+                "date": "Jan 5, 2013",
+                "away_score": "13",
+                "home_score": "19"
+            },
+            "Minnesota Vikings_Green Bay Packers": {
+                "date": "Jan 5, 2013",
+                "away_score": "10",
+                "home_score": "24"
+            },
+            "Indianapolis Colts_Baltimore Ravens": {
+                "date": "Jan 6, 2013",
+                "away_score": "9",
+                "home_score": "24"
+            },
+            "Seattle Seahawks_Washington Redskins": {
+                "date": "Jan 6, 2013",
+                "away_score": "24",
+                "home_score": "14"
+            }
+        },
+        "19": {
+            "Baltimore Ravens_Denver Broncos": {
+                "date": "Jan 12, 2013",
+                "away_score": "38",
+                "home_score": "35"
+            },
+            "Green Bay Packers_San Francisco 49ers": {
+                "date": "Jan 12, 2013",
+                "away_score": "31",
+                "home_score": "45"
+            },
+            "Seattle Seahawks_Atlanta Falcons": {
+                "date": "Jan 13, 2013",
+                "away_score": "28",
+                "home_score": "30"
+            },
+            "Houston Texans_New England Patriots": {
+                "date": "Jan 13, 2013",
+                "away_score": "28",
+                "home_score": "41"
+            }
+        },
+        "20": {
+            "San Francisco 49ers_Atlanta Falcons": {
+                "date": "Jan 20, 2013",
+                "away_score": "28",
+                "home_score": "24"
+            },
+            "Baltimore Ravens_New England Patriots": {
+                "date": "Jan 20, 2013",
+                "away_score": "28",
+                "home_score": "13"
+            }
+        },
+        "21": {}
+    },
     "2013": {
         "1": {
             "Baltimore Ravens_Denver Broncos": {
@@ -1153,12 +2525,233 @@
                 "home_score": "16"
             }
         },
-        "16": {},
-        "17": {},
-        "18": {},
-        "19": {},
-        "20": {},
-        "21": {}
+        "16": {
+            "Tampa Bay Buccaneers_St. Louis Rams": {
+                "date": "Dec 22, 2013",
+                "away_score": "13",
+                "home_score": "23"
+            },
+            "Miami Dolphins_Buffalo Bills": {
+                "date": "Dec 22, 2013",
+                "away_score": "0",
+                "home_score": "19"
+            },
+            "Minnesota Vikings_Cincinnati Bengals": {
+                "date": "Dec 22, 2013",
+                "away_score": "14",
+                "home_score": "42"
+            },
+            "Denver Broncos_Houston Texans": {
+                "date": "Dec 22, 2013",
+                "away_score": "37",
+                "home_score": "13"
+            },
+            "Tennessee Titans_Jacksonville Jaguars": {
+                "date": "Dec 22, 2013",
+                "away_score": "20",
+                "home_score": "16"
+            },
+            "Indianapolis Colts_Kansas City Chiefs": {
+                "date": "Dec 22, 2013",
+                "away_score": "23",
+                "home_score": "7"
+            },
+            "Cleveland Browns_New York Jets": {
+                "date": "Dec 22, 2013",
+                "away_score": "13",
+                "home_score": "24"
+            },
+            "Dallas Cowboys_Washington Redskins": {
+                "date": "Dec 22, 2013",
+                "away_score": "24",
+                "home_score": "23"
+            },
+            "New Orleans Saints_Carolina Panthers": {
+                "date": "Dec 22, 2013",
+                "away_score": "13",
+                "home_score": "17"
+            },
+            "New York Giants_Detroit Lions": {
+                "date": "Dec 22, 2013",
+                "away_score": "23",
+                "home_score": "20"
+            },
+            "Arizona Cardinals_Seattle Seahawks": {
+                "date": "Dec 22, 2013",
+                "away_score": "17",
+                "home_score": "10"
+            },
+            "Pittsburgh Steelers_Green Bay Packers": {
+                "date": "Dec 22, 2013",
+                "away_score": "38",
+                "home_score": "31"
+            },
+            "New England Patriots_Baltimore Ravens": {
+                "date": "Dec 22, 2013",
+                "away_score": "41",
+                "home_score": "7"
+            },
+            "Oakland Raiders_San Diego Chargers": {
+                "date": "Dec 22, 2013",
+                "away_score": "13",
+                "home_score": "26"
+            },
+            "Chicago Bears_Philadelphia Eagles": {
+                "date": "Dec 22, 2013",
+                "away_score": "11",
+                "home_score": "54"
+            },
+            "Atlanta Falcons_San Francisco 49ers": {
+                "date": "Dec 23, 2013",
+                "away_score": "24",
+                "home_score": "34"
+            }
+        },
+        "17": {
+            "Baltimore Ravens_Cincinnati Bengals": {
+                "date": "Dec 29, 2013",
+                "away_score": "17",
+                "home_score": "34"
+            },
+            "Jacksonville Jaguars_Indianapolis Colts": {
+                "date": "Dec 29, 2013",
+                "away_score": "10",
+                "home_score": "30"
+            },
+            "New York Jets_Miami Dolphins": {
+                "date": "Dec 29, 2013",
+                "away_score": "20",
+                "home_score": "7"
+            },
+            "Houston Texans_Tennessee Titans": {
+                "date": "Dec 29, 2013",
+                "away_score": "10",
+                "home_score": "16"
+            },
+            "Cleveland Browns_Pittsburgh Steelers": {
+                "date": "Dec 29, 2013",
+                "away_score": "7",
+                "home_score": "20"
+            },
+            "Washington Redskins_New York Giants": {
+                "date": "Dec 29, 2013",
+                "away_score": "6",
+                "home_score": "20"
+            },
+            "Carolina Panthers_Atlanta Falcons": {
+                "date": "Dec 29, 2013",
+                "away_score": "21",
+                "home_score": "20"
+            },
+            "Detroit Lions_Minnesota Vikings": {
+                "date": "Dec 29, 2013",
+                "away_score": "13",
+                "home_score": "14"
+            },
+            "Green Bay Packers_Chicago Bears": {
+                "date": "Dec 29, 2013",
+                "away_score": "33",
+                "home_score": "28"
+            },
+            "San Francisco 49ers_Arizona Cardinals": {
+                "date": "Dec 29, 2013",
+                "away_score": "23",
+                "home_score": "20"
+            },
+            "Tampa Bay Buccaneers_New Orleans Saints": {
+                "date": "Dec 29, 2013",
+                "away_score": "17",
+                "home_score": "42"
+            },
+            "Buffalo Bills_New England Patriots": {
+                "date": "Dec 29, 2013",
+                "away_score": "20",
+                "home_score": "34"
+            },
+            "Denver Broncos_Oakland Raiders": {
+                "date": "Dec 29, 2013",
+                "away_score": "34",
+                "home_score": "14"
+            },
+            "Kansas City Chiefs_San Diego Chargers": {
+                "date": "Dec 29, 2013",
+                "away_score": "24",
+                "home_score": "27"
+            },
+            "St. Louis Rams_Seattle Seahawks": {
+                "date": "Dec 29, 2013",
+                "away_score": "9",
+                "home_score": "27"
+            },
+            "Philadelphia Eagles_Dallas Cowboys": {
+                "date": "Dec 29, 2013",
+                "away_score": "24",
+                "home_score": "22"
+            }
+        },
+        "18": {
+            "Kansas City Chiefs_Indianapolis Colts": {
+                "date": "Jan 4, 2014",
+                "away_score": "44",
+                "home_score": "45"
+            },
+            "New Orleans Saints_Philadelphia Eagles": {
+                "date": "Jan 4, 2014",
+                "away_score": "26",
+                "home_score": "24"
+            },
+            "San Diego Chargers_Cincinnati Bengals": {
+                "date": "Jan 5, 2014",
+                "away_score": "27",
+                "home_score": "10"
+            },
+            "San Francisco 49ers_Green Bay Packers": {
+                "date": "Jan 5, 2014",
+                "away_score": "23",
+                "home_score": "20"
+            }
+        },
+        "19": {
+            "New Orleans Saints_Seattle Seahawks": {
+                "date": "Jan 11, 2014",
+                "away_score": "15",
+                "home_score": "23"
+            },
+            "Indianapolis Colts_New England Patriots": {
+                "date": "Jan 11, 2014",
+                "away_score": "22",
+                "home_score": "43"
+            },
+            "San Francisco 49ers_Carolina Panthers": {
+                "date": "Jan 12, 2014",
+                "away_score": "23",
+                "home_score": "10"
+            },
+            "San Diego Chargers_Denver Broncos": {
+                "date": "Jan 12, 2014",
+                "away_score": "17",
+                "home_score": "24"
+            }
+        },
+        "20": {
+            "New England Patriots_Denver Broncos": {
+                "date": "Jan 19, 2014",
+                "away_score": "16",
+                "home_score": "26"
+            },
+            "San Francisco 49ers_Seattle Seahawks": {
+                "date": "Jan 19, 2014",
+                "away_score": "17",
+                "home_score": "23"
+            }
+        },
+        "21": {
+            "Seattle Seahawks_Denver Broncos": {
+                "date": "Feb 2, 2014",
+                "away_score": "43",
+                "home_score": "8"
+            }
+        }
     },
     "2014": {
         "1": {
