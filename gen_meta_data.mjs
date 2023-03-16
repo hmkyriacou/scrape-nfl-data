@@ -14,7 +14,7 @@ async function main() {
         newObj[key] = {}
         newObj[key].img = imageObj[key]
 
-        let coords = await fetch(`https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(key)}&key=AIzaSyAflS3z5O4jDI8jKrgt-JLzIO1EYawkZ6g`).then(res => res.json())
+        let coords = await fetch(`https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(key)}&key=***********`).then(res => res.json())
         let coordsObj 
         console.log(key)
         try {
