@@ -1,13 +1,13 @@
 {
     "Pittsburgh": {
-        "img": "https://www.clipartmax.com/png/middle/437-4378474_pittsburgh-steelers-logo-png-transparent-svg-vector-logo-pittsburgh-steelers-football.png",
+        "img": "https://cdn.freebiesupply.com/images/large/2x/pittsburgh-steelers-logo-transparent.png",
         "location": {
             "lat": 40.44062479999999,
             "lng": -79.9958864
         }
     },
     "Las Vegas": {
-        "img": "https://i.pinimg.com/originals/a7/28/43/a72843045273fe5a3f308f77629bab01.png",
+        "img": "https://cdn.freebiesupply.com/images/large/2x/oakland-raiders-logo-transparent.png",
         "location": {
             "lat": 36.171563,
             "lng": -115.1391009
@@ -70,7 +70,7 @@
         }
     },
     "New England": {
-        "img": "https://loodibee.com/wp-content/uploads/nfl-new-england-patriots-team-logo.png",
+        "img": "https://cdn.freebiesupply.com/images/large/2x/new-england-patriots-logo-transparent.png",
         "location": {
             "lat": 42.063012,
             "lng": -70.8226541
@@ -119,7 +119,7 @@
         }
     },
     "Seattle": {
-        "img": "https://toppng.com/uploads/preview/19-beautiful-nfl-teams-logos-seattle-seahawks-logo-transparent-11563199254zonapfkvjz.png",
+        "img": "https://cdn.freebiesupply.com/images/large/2x/seattle-seahawks-logo-transparent.png",
         "location": {
             "lat": 47.6062095,
             "lng": -122.3320708
@@ -133,7 +133,7 @@
         }
     },
     "Atlanta": {
-        "img": "https://logos-world.net/wp-content/uploads/2020/05/Atlanta-Falcons-logo.png",
+        "img": "https://cdn.freebiesupply.com/images/large/2x/atlanta-falcons-logo-transparent.png",
         "location": {
             "lat": 33.748752,
             "lng": -84.38768449999999
@@ -154,14 +154,14 @@
         }
     },
     "Tennessee": {
-        "img": "https://1000logos.net/wp-content/uploads/2018/07/Tennessee-Titans-Logo.png",
+        "img": "https://cdn.freebiesupply.com/images/large/2x/tennessee-titans-logo-transparent.png",
         "location": {
             "lat": 35.5174913,
             "lng": -86.5804473
         }
     },
     "Houston": {
-        "img": "https://logos-world.net/wp-content/uploads/2020/05/Houston-Texans-logo.png",
+        "img": "https://cdn.freebiesupply.com/images/large/2x/houston-texans-logo-transparent.png",
         "location": {
             "lat": 29.7604267,
             "lng": -95.3698028
@@ -217,7 +217,7 @@
         }
     },
     "Minnesota": {
-        "img": "https://1000logos.net/wp-content/uploads/2017/06/Minnesota-Vikings-Logo-1965.png",
+        "img": "https://cdn.freebiesupply.com/images/large/2x/minnesota-vikings-logo-transparent.png",
         "location": {
             "lat": 46.729553,
             "lng": -94.6858998
