@@ -3,32 +3,20 @@ import fetch from 'node-fetch'
 import { parse } from "csv-parse/sync"
 
 async function main() {
-    let newObj = {}
     
-    let image_data = await fs.readFile("./image-data.json", {encoding: 'utf8'})
+    let cur_meta_data = await fs.readFile("./meta-data.json", {encoding: 'utf8'})
 
-    let imageObj = JSON.parse(image_data)
+    cur_meta_data = JSON.parse(cur_meta_data)
 
-    for (let key in imageObj) {
+    console.log(cur_meta_data)
 
-        newObj[key] = {}
-        newObj[key].img = imageObj[key]
+    for (let key in cur_meta_data) {
 
-        let coords = await fetch(`https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(key)}&key=***********`).then(res => res.json())
-        let coordsObj 
-        console.log(key)
-        try {
-            coordsObj = coords.results[0].geometry.location
-        } catch (e) {
-            coords = await fetch(`https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(key.substring(0, key.lastIndexOf(" ")))}&key=AIzaSyAflS3z5O4jDI8jKrgt-JLzIO1EYawkZ6g`).then(res => res.json())
-            coordsObj = coords.results[0].geometry.location
-        }
-        console.log(coordsObj)
-
-        newObj[key].location = coordsObj
+        
+        
     }
 
-    fs.writeFile('meta-data.json', JSON.stringify(newObj), 'utf8')
+    //fs.writeFile('meta-data.json', JSON.stringify(newObj), 'utf8')
 }
 
 main()
