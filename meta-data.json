@@ -5,7 +5,7 @@
   },
   "Las Vegas Raiders": {
     "img": "https://cdn.freebiesupply.com/images/large/2x/oakland-raiders-logo-transparent.png",
-    "location": { "lat": "37.751411", "lng": "-122.200889" }
+    "location": { "lat": "36.0909", "lng": "-115.1833" }
   },
   "Kansas City Chiefs": {
     "img": "https://logos-world.net/wp-content/uploads/2020/05/Kansas-City-Chiefs-logo.png",
@@ -105,7 +105,7 @@
   },
   "Los Angeles Rams": {
     "img": "https://www.freepnglogos.com/uploads/rams-logo-png/los-angeles-rams-logo-png-2.png",
-    "location": { "lat": "38.632975", "lng": "-90.188547" }
+    "location": { "lat": "32.783117", "lng": "-117.119525" }
   },
   "Los Angeles Chargers": {
     "img": "https://cdn.freebiesupply.com/images/large/2x/los-angeles-chargers-logo-transparent.png",
