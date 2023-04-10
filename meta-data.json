@@ -1,226 +1,130 @@
 {
-    "Pittsburgh": {
-        "img": "https://cdn.freebiesupply.com/images/large/2x/pittsburgh-steelers-logo-transparent.png",
-        "location": {
-            "lat": 40.44062479999999,
-            "lng": -79.9958864
-        }
-    },
-    "Las Vegas": {
-        "img": "https://cdn.freebiesupply.com/images/large/2x/oakland-raiders-logo-transparent.png",
-        "location": {
-            "lat": 36.171563,
-            "lng": -115.1391009
-        }
-    },
-    "Kansas City": {
-        "img": "https://logos-world.net/wp-content/uploads/2020/05/Kansas-City-Chiefs-logo.png",
-        "location": {
-            "lat": 39.0997265,
-            "lng": -94.5785667
-        }
-    },
-    "Dallas": {
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dallas_Cowboys.svg/1076px-Dallas_Cowboys.svg.png",
-        "location": {
-            "lat": 32.7766642,
-            "lng": -96.79698789999999
-        }
-    },
-    "Carolina": {
-        "img": "https://static.www.nfl.com/t_q-best/league/api/clubs/logos/CAR",
-        "location": {
-            "lat": 35.7595731,
-            "lng": -79.01929969999999
-        }
-    },
-    "New Orleans": {
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/New_Orleans_Saints_logo.svg/630px-New_Orleans_Saints_logo.svg.png",
-        "location": {
-            "lat": 29.95106579999999,
-            "lng": -90.0715323
-        }
-    },
-    "Denver": {
-        "img": "https://logos-world.net/wp-content/uploads/2020/05/Denver-Broncos-logo.png",
-        "location": {
-            "lat": 39.7392358,
-            "lng": -104.990251
-        }
-    },
-    "Washington": {
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Washington_Commanders_logo.svg/2560px-Washington_Commanders_logo.svg.png",
-        "location": {
-            "lat": 38.907163,
-            "lng": -76.864883
-        }
-    },
-    "Cleveland": {
-        "img": "https://1000logos.net/wp-content/uploads/2016/10/Cleveland-Browns-Logo-1986.png",
-        "location": {
-            "lat": 41.49932,
-            "lng": -81.6943605
-        }
-    },
-    "Detroit": {
-        "img": "https://logos-world.net/wp-content/uploads/2020/05/Detroit-Lions-logo.png",
-        "location": {
-            "lat": 42.346930,
-            "lng": -83.044975
-        }
-    },
-    "New England": {
-        "img": "https://cdn.freebiesupply.com/images/large/2x/new-england-patriots-logo-transparent.png",
-        "location": {
-            "lat": 42.063012,
-            "lng": -70.8226541
-        }
-    },
-    "Miami": {
-        "img": "https://1000logos.net/wp-content/uploads/2021/04/Miami-Dolphins-logo.png",
-        "location": {
-            "lat": 25.7616798,
-            "lng": -80.1917902
-        }
-    },
-    "Buffalo": {
-        "img": "https://loodibee.com/wp-content/uploads/nfl-buffalo-bills-team-logo.png",
-        "location": {
-            "lat": 42.88644679999999,
-            "lng": -78.8783689
-        }
-    },
-    "Green Bay": {
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Green_Bay_Packers_logo.svg/2560px-Green_Bay_Packers_logo.svg.png",
-        "location": {
-            "lat": 44.5133188,
-            "lng": -88.0132958
-        }
-    },
-    "San Francisco": {
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/San_Francisco_49ers_logo.svg/2560px-San_Francisco_49ers_logo.svg.png",
-        "location": {
-            "lat": 37.7749295,
-            "lng": -122.4194155
-        }
-    },
-    "Philadelphia": {
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Philadelphia_Eagles_wordmark.svg/2560px-Philadelphia_Eagles_wordmark.svg.png",
-        "location": {
-            "lat": 39.9525839,
-            "lng": -75.1652215
-        }
-    },
-    "Indianapolis": {
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Indianapolis_Colts_logo.svg/974px-Indianapolis_Colts_logo.svg.png",
-        "location": {
-            "lat": 39.768403,
-            "lng": -86.158068
-        }
-    },
-    "Seattle": {
-        "img": "https://cdn.freebiesupply.com/images/large/2x/seattle-seahawks-logo-transparent.png",
-        "location": {
-            "lat": 47.6062095,
-            "lng": -122.3320708
-        }
-    },
-    "Baltimore": {
-        "img": "https://logos-world.net/wp-content/uploads/2020/05/Baltimore-Ravens-logo.png",
-        "location": {
-            "lat": 39.2903848,
-            "lng": -76.6121893
-        }
-    },
-    "Atlanta": {
-        "img": "https://cdn.freebiesupply.com/images/large/2x/atlanta-falcons-logo-transparent.png",
-        "location": {
-            "lat": 33.748752,
-            "lng": -84.38768449999999
-        }
-    },
-    "New York Giants": {
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/2560px-New_York_Giants_logo.svg.png",
-        "location": {
-            "lat": 39.7127753,
-            "lng": -75.0059728
-        }
-    },
-    "New York Jets": {
-        "img": "https://1000logos.net/wp-content/uploads/2017/03/New-York-Jets-Logo.png",
-        "location": {
-            "lat": 41.7127753,
-            "lng": -73.0059728
-        }
-    },
-    "Tennessee": {
-        "img": "https://cdn.freebiesupply.com/images/large/2x/tennessee-titans-logo-transparent.png",
-        "location": {
-            "lat": 35.5174913,
-            "lng": -86.5804473
-        }
-    },
-    "Houston": {
-        "img": "https://cdn.freebiesupply.com/images/large/2x/houston-texans-logo-transparent.png",
-        "location": {
-            "lat": 29.7604267,
-            "lng": -95.3698028
-        }
-    },
-    "Cincinnati": {
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cincinnati_Bengals_logo.svg/2560px-Cincinnati_Bengals_logo.svg.png",
-        "location": {
-            "lat": 39.1031182,
-            "lng": -84.5120196
-        }
-    },
-    "Tampa Bay": {
-        "img": "https://1000logos.net/wp-content/uploads/2016/10/Tampa-Bay-Buccaneers-logo.jpg",
-        "location": {
-            "lat": 27.763383,
-            "lng": -82.5436722
-        }
-    },
-    "Los Angeles Rams": {
-        "img": "https://www.freepnglogos.com/uploads/rams-logo-png/los-angeles-rams-logo-png-2.png",
-        "location": {
-            "lat": 33.0522342,
-            "lng": -119.2436849
-        }
-    },
-    "Los Angeles Chargers": {
-        "img": "https://cdn.freebiesupply.com/images/large/2x/los-angeles-chargers-logo-transparent.png",
-        "location": {
-            "lat": 35.0522342,
-            "lng": -117.2436849
-        }
-    },
-    "Chicago": {
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chicago_Bears_logo.svg/2560px-Chicago_Bears_logo.svg.png",
-        "location": {
-            "lat": 41.8781136,
-            "lng": -87.6297982
-        }
-    },
-    "Arizona": {
-        "img": "https://1000logos.net/wp-content/uploads/2016/10/Arizona-Cardinals-Logo.png",
-        "location": {
-            "lat": 34.0489281,
-            "lng": -111.0937311
-        }
-    },
-    "Jacksonville": {
-        "img": "https://www.gannett-cdn.com/media/USATODAY/gameon/2013/02/05/0ap1000000136416-16_9.jpg?width=618&height=350&fit=crop&format=pjpg&auto=webp",
-        "location": {
-            "lat": 30.3321838,
-            "lng": -81.65565099999999
-        }
-    },
-    "Minnesota": {
-        "img": "https://cdn.freebiesupply.com/images/large/2x/minnesota-vikings-logo-transparent.png",
-        "location": {
-            "lat": 46.729553,
-            "lng": -94.6858998
-        }
-    }
+  "Pittsburgh Steelers": {
+    "img": "https://cdn.freebiesupply.com/images/large/2x/pittsburgh-steelers-logo-transparent.png",
+    "location": { "lat": "40.446786", "lng": "-80.015761" }
+  },
+  "Las Vegas Raiders": {
+    "img": "https://cdn.freebiesupply.com/images/large/2x/oakland-raiders-logo-transparent.png",
+    "location": { "lat": "37.751411", "lng": "-122.200889" }
+  },
+  "Kansas City Chiefs": {
+    "img": "https://logos-world.net/wp-content/uploads/2020/05/Kansas-City-Chiefs-logo.png",
+    "location": { "lat": "39.048914", "lng": "-94.484039" }
+  },
+  "Dallas Cowboys": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dallas_Cowboys.svg/1076px-Dallas_Cowboys.svg.png",
+    "location": { "lat": "32.747778", "lng": "-97.092778" }
+  },
+  "Carolina Panthers": {
+    "img": "https://static.www.nfl.com/t_q-best/league/api/clubs/logos/CAR",
+    "location": { "lat": "35.225808", "lng": "-80.852861" }
+  },
+  "New Orleans Saints": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/New_Orleans_Saints_logo.svg/630px-New_Orleans_Saints_logo.svg.png",
+    "location": { "lat": "29.950931", "lng": "-90.081364" }
+  },
+  "Denver Broncos": {
+    "img": "https://logos-world.net/wp-content/uploads/2020/05/Denver-Broncos-logo.png",
+    "location": { "lat": "39.743936", "lng": "-105.020097" }
+  },
+  "Washington Commanders": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Washington_Commanders_logo.svg/2560px-Washington_Commanders_logo.svg.png",
+    "location": { "lat": "38.907697", "lng": "-76.864517" }
+  },
+  "Cleveland Browns": {
+    "img": "https://1000logos.net/wp-content/uploads/2016/10/Cleveland-Browns-Logo-1986.png",
+    "location": { "lat": "41.506022", "lng": "-81.699564" }
+  },
+  "Detroit Lions": {
+    "img": "https://logos-world.net/wp-content/uploads/2020/05/Detroit-Lions-logo.png",
+    "location": { "lat": "42.340156", "lng": "-83.045808" }
+  },
+  "New England Patriots": {
+    "img": "https://cdn.freebiesupply.com/images/large/2x/new-england-patriots-logo-transparent.png",
+    "location": { "lat": "42.090925", "lng": "-71.26435" }
+  },
+  "Miami Dolphins": {
+    "img": "https://1000logos.net/wp-content/uploads/2021/04/Miami-Dolphins-logo.png",
+    "location": { "lat": "25.957919", "lng": "-80.238842" }
+  },
+  "Buffalo Bills": {
+    "img": "https://loodibee.com/wp-content/uploads/nfl-buffalo-bills-team-logo.png",
+    "location": { "lat": "42.773739", "lng": "-78.786978" }
+  },
+  "Green Bay Packers": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Green_Bay_Packers_logo.svg/2560px-Green_Bay_Packers_logo.svg.png",
+    "location": { "lat": "44.501306", "lng": "-88.062167" }
+  },
+  "San Francisco 49ers": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/San_Francisco_49ers_logo.svg/2560px-San_Francisco_49ers_logo.svg.png",
+    "location": { "lat": "37.713486", "lng": "-122.386256" }
+  },
+  "Philadelphia Eagles": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Philadelphia_Eagles_wordmark.svg/2560px-Philadelphia_Eagles_wordmark.svg.png",
+    "location": { "lat": "39.900775", "lng": "-75.167453" }
+  },
+  "Indianapolis Colts": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Indianapolis_Colts_logo.svg/974px-Indianapolis_Colts_logo.svg.png",
+    "location": { "lat": "39.760056", "lng": "-86.163806" }
+  },
+  "Seattle Seahawks": {
+    "img": "https://cdn.freebiesupply.com/images/large/2x/seattle-seahawks-logo-transparent.png",
+    "location": { "lat": "47.595153", "lng": "-122.331625" }
+  },
+  "Baltimore Ravens": {
+    "img": "https://logos-world.net/wp-content/uploads/2020/05/Baltimore-Ravens-logo.png",
+    "location": { "lat": "39.277969", "lng": "-76.622767" }
+  },
+  "Atlanta Falcons": {
+    "img": "https://cdn.freebiesupply.com/images/large/2x/atlanta-falcons-logo-transparent.png",
+    "location": { "lat": "33.757614", "lng": "-84.400972" }
+  },
+  "New York Giants": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/2560px-New_York_Giants_logo.svg.png",
+    "location": { "lat": "40.812194", "lng": "-74.076983" }
+  },
+  "New York Jets": {
+    "img": "https://1000logos.net/wp-content/uploads/2017/03/New-York-Jets-Logo.png",
+    "location": { "lat": "40.812194", "lng": "-74.076983" }
+  },
+  "Tennessee Titans": {
+    "img": "https://cdn.freebiesupply.com/images/large/2x/tennessee-titans-logo-transparent.png",
+    "location": { "lat": "36.166461", "lng": "-86.771289" }
+  },
+  "Houston Texans": {
+    "img": "https://cdn.freebiesupply.com/images/large/2x/houston-texans-logo-transparent.png",
+    "location": { "lat": "29.684781", "lng": "-95.410956" }
+  },
+  "Cincinnati Bengals": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cincinnati_Bengals_logo.svg/2560px-Cincinnati_Bengals_logo.svg.png",
+    "location": { "lat": "39.095442", "lng": "-84.516039" }
+  },
+  "Tampa Bay Buccaneers": {
+    "img": "https://1000logos.net/wp-content/uploads/2016/10/Tampa-Bay-Buccaneers-logo.jpg",
+    "location": { "lat": "27.975967", "lng": "-82.50335" }
+  },
+  "Los Angeles Rams": {
+    "img": "https://www.freepnglogos.com/uploads/rams-logo-png/los-angeles-rams-logo-png-2.png",
+    "location": { "lat": "38.632975", "lng": "-90.188547" }
+  },
+  "Los Angeles Chargers": {
+    "img": "https://cdn.freebiesupply.com/images/large/2x/los-angeles-chargers-logo-transparent.png",
+    "location": { "lat": "32.783117", "lng": "-117.119525" }
+  },
+  "Chicago Bears": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chicago_Bears_logo.svg/2560px-Chicago_Bears_logo.svg.png",
+    "location": { "lat": "41.862306", "lng": "-87.616672" }
+  },
+  "Arizona Cardinals": {
+    "img": "https://1000logos.net/wp-content/uploads/2016/10/Arizona-Cardinals-Logo.png",
+    "location": { "lat": "33.5277", "lng": "-112.262608" }
+  },
+  "Jacksonville Jaguars": {
+    "img": "https://www.gannett-cdn.com/media/USATODAY/gameon/2013/02/05/0ap1000000136416-16_9.jpg?width=618&height=350&fit=crop&format=pjpg&auto=webp",
+    "location": { "lat": "30.323925", "lng": "-81.637356" }
+  },
+  "Minnesota Vikings": {
+    "img": "https://cdn.freebiesupply.com/images/large/2x/minnesota-vikings-logo-transparent.png",
+    "location": { "lat": "44.973881", "lng": "-93.258094" }
+  }
 }
