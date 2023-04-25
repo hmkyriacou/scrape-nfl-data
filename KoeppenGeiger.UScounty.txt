@@ -1,0 +1,3970 @@
+STATE	COUNTY	FIPS	CLS	PROP
+Alabama	Autauga	01001	Cfa	1.000
+Alabama	Baldwin	01003	Cfa	1.000
+Alabama	Barbour	01005	Cfa	1.000
+Alabama	Bibb	01007	Cfa	1.000
+Alabama	Blount	01009	Cfa	1.000
+Alabama	Bullock	01011	Cfa	1.000
+Alabama	Butler	01013	Cfa	1.000
+Alabama	Calhoun	01015	Cfa	1.000
+Alabama	Chambers	01017	Cfa	1.000
+Alabama	Cherokee	01019	Cfa	1.000
+Alabama	Chilton	01021	Cfa	1.000
+Alabama	Choctaw	01023	Cfa	1.000
+Alabama	Clarke	01025	Cfa	1.000
+Alabama	Clay	01027	Cfa	1.000
+Alabama	Cleburne	01029	Cfa	1.000
+Alabama	Coffee	01031	Cfa	1.000
+Alabama	Colbert	01033	Cfa	1.000
+Alabama	Conecuh	01035	Cfa	1.000
+Alabama	Coosa	01037	Cfa	1.000
+Alabama	Covington	01039	Cfa	1.000
+Alabama	Crenshaw	01041	Cfa	1.000
+Alabama	Cullman	01043	Cfa	1.000
+Alabama	Dale	01045	Cfa	1.000
+Alabama	Dallas	01047	Cfa	1.000
+Alabama	De Kalb	01049	Cfa	1.000
+Alabama	Elmore	01051	Cfa	1.000
+Alabama	Escambia	01053	Cfa	1.000
+Alabama	Etowah	01055	Cfa	1.000
+Alabama	Fayette	01057	Cfa	1.000
+Alabama	Franklin	01059	Cfa	1.000
+Alabama	Geneva	01061	Cfa	1.000
+Alabama	Greene	01063	Cfa	1.000
+Alabama	Hale	01065	Cfa	1.000
+Alabama	Henry	01067	Cfa	1.000
+Alabama	Houston	01069	Cfa	1.000
+Alabama	Jackson	01071	Cfa	1.000
+Alabama	Jefferson	01073	Cfa	1.000
+Alabama	Lamar	01075	Cfa	1.000
+Alabama	Lauderdale	01077	Cfa	1.000
+Alabama	Lawrence	01079	Cfa	1.000
+Alabama	Lee	01081	Cfa	1.000
+Alabama	Limestone	01083	Cfa	1.000
+Alabama	Lowndes	01085	Cfa	1.000
+Alabama	Macon	01087	Cfa	1.000
+Alabama	Madison	01089	Cfa	1.000
+Alabama	Marengo	01091	Cfa	1.000
+Alabama	Marion	01093	Cfa	1.000
+Alabama	Marshall	01095	Cfa	1.000
+Alabama	Mobile	01097	Cfa	1.000
+Alabama	Monroe	01099	Cfa	1.000
+Alabama	Montgomery	01101	Cfa	1.000
+Alabama	Morgan	01103	Cfa	1.000
+Alabama	Perry	01105	Cfa	1.000
+Alabama	Pickens	01107	Cfa	1.000
+Alabama	Pike	01109	Cfa	1.000
+Alabama	Randolph	01111	Cfa	1.000
+Alabama	Russell	01113	Cfa	1.000
+Alabama	Saint Clair	01115	Cfa	1.000
+Alabama	Shelby	01117	Cfa	1.000
+Alabama	Sumter	01119	Cfa	1.000
+Alabama	Talladega	01121	Cfa	1.000
+Alabama	Tallapoosa	01123	Cfa	1.000
+Alabama	Tuscaloosa	01125	Cfa	1.000
+Alabama	Walker	01127	Cfa	1.000
+Alabama	Washington	01129	Cfa	1.000
+Alabama	Wilcox	01131	Cfa	1.000
+Alabama	Winston	01133	Cfa	1.000
+Alaska	Aleutians East	02013	Dfc	0.586
+Alaska	Aleutians East	02014	Cfc	0.183
+Alaska	Aleutians East	02015	ET	0.167
+Alaska	Aleutians West	02016	ET	0.356
+Alaska	Aleutians West	02016	Cfc	0.432
+Alaska	Anchorage	02020	Dsc	0.010
+Alaska	Anchorage	02020	Dfc	0.961
+Alaska	Anchorage	02020	ET	0.029
+Alaska	Bethel	02050	Dfc	0.888
+Alaska	Bethel	02050	ET	0.109
+Alaska	Bristol Bay	02060	Dfc	1.000
+Alaska	Denali	02068	Dfc	0.797
+Alaska	Denali	02068	ET	0.203
+Alaska	Dillingham	02070	Dfc	0.970
+Alaska	Dillingham	02070	ET	0.030
+Alaska	Fairbanks North Star	02090	Dfc	1.000
+Alaska	Haines	02100	ET	0.246
+Alaska	Haines	02100	Dfc	0.400
+Alaska	Haines	02100	Dsc	0.354
+Alaska	Juneau	02110	Dfc	0.923
+Alaska	Juneau	02111	ET	0.077
+Alaska	Kenai Peninsula	02122	ET	0.271
+Alaska	Kenai Peninsula	02122	Dsc	0.143
+Alaska	Kenai Peninsula	02122	Dfc	0.585
+Alaska	Ketchikan Gateway	02130	Cfb	0.553
+Alaska	Ketchikan Gateway	02130	Dfc	0.447
+Alaska	Kodiak Island	02150	Dfc	0.732
+Alaska	Kodiak Island	02150	ET	0.092
+Alaska	Kodiak Island	02150	Cfc	0.149
+Alaska	Lake and Peninsula	02164	Dfc	0.942
+Alaska	Lake and Peninsula	02164	ET	0.057
+Alaska	Matanuska-Susitna	02170	ET	0.289
+Alaska	Matanuska-Susitna	02170	Dfc	0.678
+Alaska	Matanuska-Susitna	02170	Dsc	0.033
+Alaska	Nome	02180	Dfc	0.678
+Alaska	Nome	02180	ET	0.316
+Alaska	North Slope	02185	ET	0.793
+Alaska	North Slope	02186	Dfc	0.136
+Alaska	North Slope	02187	Dsc	0.069
+Alaska	Northwest Arctic	02188	ET	0.465
+Alaska	Northwest Arctic	02189	Dfc	0.534
+Alaska	Prince of Wales-Outer Ketchi	02201	Cfb	0.654
+Alaska	Prince of Wales-Outer Ketchi	02201	Dfc	0.342
+Alaska	Prince of Wales-Outer Ketchi	02201	Cfc	0.004
+Alaska	Sitka	02220	Dfc	0.512
+Alaska	Sitka	02221	Cfc	0.488
+Alaska	Skagway-Yakutat-Angoon	02232	ET	0.369
+Alaska	Skagway-Yakutat-Angoon	02232	Dfc	0.599
+Alaska	Skagway-Yakutat-Angoon	02232	Dsc	0.020
+Alaska	Skagway-Yakutat-Angoon	02232	Cfc	0.007
+Alaska	Skagway-Yakutat-Angoon	02232	Dfb	0.004
+Alaska	Southeast Fairbanks	02240	Dfc	0.682
+Alaska	Southeast Fairbanks	02240	ET	0.193
+Alaska	Southeast Fairbanks	02240	Dsc	0.089
+Alaska	Southeast Fairbanks	02240	Dwc	0.036
+Alaska	Valdez-Cordova	02261	ET	0.424
+Alaska	Valdez-Cordova	02261	Dsc	0.024
+Alaska	Valdez-Cordova	02261	Dfc	0.547
+Alaska	Valdez-Cordova	02261	Dwc	0.003
+Alaska	Wade Hampton	02270	Dfc	0.997
+Alaska	Wrangell-Petersburg	02280	Dfc	0.389
+Alaska	Wrangell-Petersburg	02281	Dfb	0.274
+Alaska	Wrangell-Petersburg	02282	ET	0.036
+Alaska	Wrangell-Petersburg	02283	Cfb	0.300
+Alaska	Yukon-Koyukuk	02290	ET	0.103
+Alaska	Yukon-Koyukuk	02290	Dfc	0.840
+Alaska	Yukon-Koyukuk	02290	Dsc	0.058
+Arizona	Apache	04001	BSk	0.767
+Arizona	Apache	04001	Cfb	0.061
+Arizona	Apache	04001	Csb	0.172
+Arizona	Cochise	04003	BSk	1.000
+Arizona	Coconino	04005	BSk	0.687
+Arizona	Coconino	04005	Csa	0.164
+Arizona	Coconino	04005	Csb	0.150
+Arizona	Gila	04007	Csa	0.838
+Arizona	Gila	04007	BSk	0.160
+Arizona	Gila	04007	BSh	0.002
+Arizona	Graham	04009	Csb	0.030
+Arizona	Graham	04009	BSk	0.970
+Arizona	Greenlee	04011	Csb	0.742
+Arizona	Greenlee	04011	BSk	0.258
+Arizona	La Paz	04012	BWh	0.960
+Arizona	La Paz	04012	BSh	0.040
+Arizona	Maricopa	04013	BSk	0.046
+Arizona	Maricopa	04013	Csa	0.001
+Arizona	Maricopa	04013	BWh	0.639
+Arizona	Maricopa	04013	BSh	0.314
+Arizona	Mohave	04015	BWk	0.182
+Arizona	Mohave	04015	BSk	0.637
+Arizona	Mohave	04015	BWh	0.172
+Arizona	Mohave	04015	BSh	0.009
+Arizona	Navajo	04017	BSk	0.754
+Arizona	Navajo	04017	Csa	0.196
+Arizona	Navajo	04017	Cfb	0.029
+Arizona	Navajo	04017	Csb	0.021
+Arizona	Pima	04019	BWh	0.330
+Arizona	Pima	04019	BSh	0.497
+Arizona	Pima	04019	BSk	0.173
+Arizona	Pinal	04021	BWh	0.385
+Arizona	Pinal	04021	BSh	0.352
+Arizona	Pinal	04021	Csa	0.052
+Arizona	Pinal	04021	BSk	0.211
+Arizona	Santa Cruz	04023	BSk	1.000
+Arizona	Yavapai	04025	BSk	0.707
+Arizona	Yavapai	04025	Csb	0.013
+Arizona	Yavapai	04025	Csa	0.181
+Arizona	Yavapai	04025	BSh	0.099
+Arizona	Yuma	04027	BWh	1.000
+Arkansas	Arkansas	05001	Cfa	1.000
+Arkansas	Ashley	05003	Cfa	1.000
+Arkansas	Baxter	05005	Cfa	1.000
+Arkansas	Benton	05007	Cfa	1.000
+Arkansas	Boone	05009	Cfa	1.000
+Arkansas	Bradley	05011	Cfa	1.000
+Arkansas	Calhoun	05013	Cfa	1.000
+Arkansas	Carroll	05015	Cfa	1.000
+Arkansas	Chicot	05017	Cfa	1.000
+Arkansas	Clark	05019	Cfa	1.000
+Arkansas	Clay	05021	Cfa	1.000
+Arkansas	Cleburne	05023	Cfa	1.000
+Arkansas	Cleveland	05025	Cfa	1.000
+Arkansas	Columbia	05027	Cfa	1.000
+Arkansas	Conway	05029	Cfa	1.000
+Arkansas	Craighead	05031	Cfa	1.000
+Arkansas	Crawford	05033	Cfa	1.000
+Arkansas	Crittenden	05035	Cfa	1.000
+Arkansas	Cross	05037	Cfa	1.000
+Arkansas	Dallas	05039	Cfa	1.000
+Arkansas	Desha	05041	Cfa	1.000
+Arkansas	Drew	05043	Cfa	1.000
+Arkansas	Faulkner	05045	Cfa	1.000
+Arkansas	Franklin	05047	Cfa	1.000
+Arkansas	Fulton	05049	Cfa	1.000
+Arkansas	Garland	05051	Cfa	1.000
+Arkansas	Grant	05053	Cfa	1.000
+Arkansas	Greene	05055	Cfa	1.000
+Arkansas	Hempstead	05057	Cfa	1.000
+Arkansas	Hot Spring	05059	Cfa	1.000
+Arkansas	Howard	05061	Cfa	1.000
+Arkansas	Independence	05063	Cfa	1.000
+Arkansas	Izard	05065	Cfa	1.000
+Arkansas	Jackson	05067	Cfa	1.000
+Arkansas	Jefferson	05069	Cfa	1.000
+Arkansas	Johnson	05071	Cfa	1.000
+Arkansas	Lafayette	05073	Cfa	1.000
+Arkansas	Lawrence	05075	Cfa	1.000
+Arkansas	Lee	05077	Cfa	1.000
+Arkansas	Lincoln	05079	Cfa	1.000
+Arkansas	Little River	05081	Cfa	1.000
+Arkansas	Logan	05083	Cfa	1.000
+Arkansas	Lonoke	05085	Cfa	1.000
+Arkansas	Madison	05087	Cfa	1.000
+Arkansas	Marion	05089	Cfa	1.000
+Arkansas	Miller	05091	Cfa	1.000
+Arkansas	Mississippi	05093	Cfa	1.000
+Arkansas	Monroe	05095	Cfa	1.000
+Arkansas	Montgomery	05097	Cfa	1.000
+Arkansas	Nevada	05099	Cfa	1.000
+Arkansas	Newton	05101	Cfa	1.000
+Arkansas	Ouachita	05103	Cfa	1.000
+Arkansas	Perry	05105	Cfa	1.000
+Arkansas	Phillips	05107	Cfa	1.000
+Arkansas	Pike	05109	Cfa	1.000
+Arkansas	Poinsett	05111	Cfa	1.000
+Arkansas	Polk	05113	Cfa	1.000
+Arkansas	Pope	05115	Cfa	1.000
+Arkansas	Prairie	05117	Cfa	1.000
+Arkansas	Pulaski	05119	Cfa	1.000
+Arkansas	Randolph	05121	Cfa	1.000
+Arkansas	Saint Francis	05123	Cfa	1.000
+Arkansas	Saline	05125	Cfa	1.000
+Arkansas	Scott	05127	Cfa	1.000
+Arkansas	Searcy	05129	Cfa	1.000
+Arkansas	Sebastian	05131	Cfa	1.000
+Arkansas	Sevier	05133	Cfa	1.000
+Arkansas	Sharp	05135	Cfa	1.000
+Arkansas	Stone	05137	Cfa	1.000
+Arkansas	Union	05139	Cfa	1.000
+Arkansas	Van Buren	05141	Cfa	1.000
+Arkansas	Washington	05143	Cfa	1.000
+Arkansas	White	05145	Cfa	1.000
+Arkansas	Woodruff	05147	Cfa	1.000
+Arkansas	Yell	05149	Cfa	1.000
+California	Alameda	06001	Csb	1.000
+California	Alpine	06003	Csb	1.000
+California	Amador	06005	Csa	0.683
+California	Amador	06005	Csb	0.317
+California	Butte	06007	Csb	0.316
+California	Butte	06007	Csa	0.684
+California	Calaveras	06009	Csa	0.596
+California	Calaveras	06009	Csb	0.404
+California	Colusa	06011	Csb	0.250
+California	Colusa	06011	Csa	0.750
+California	Contra Costa	06013	Csb	0.829
+California	Contra Costa	06013	Csa	0.171
+California	Del Norte	06015	Csb	1.000
+California	El Dorado	06017	Csb	0.477
+California	El Dorado	06017	Csa	0.523
+California	Fresno	06019	Csb	0.263
+California	Fresno	06019	Csa	0.129
+California	Fresno	06019	Dsc	0.107
+California	Fresno	06019	BSk	0.502
+California	Glenn	06021	Csb	0.373
+California	Glenn	06021	Csa	0.627
+California	Humboldt	06023	Csb	1.000
+California	Imperial	06025	BSh	0.039
+California	Imperial	06025	BWh	0.927
+California	Imperial	06025	Csa	0.034
+California	Inyo	06027	Dsc	0.026
+California	Inyo	06027	Csb	0.169
+California	Inyo	06027	BWk	0.540
+California	Inyo	06027	BSk	0.095
+California	Inyo	06027	BWh	0.170
+California	Kern	06029	Csb	0.151
+California	Kern	06029	BSk	0.601
+California	Kern	06029	BWk	0.133
+California	Kern	06029	BSh	0.115
+California	Kings	06031	BSk	0.846
+California	Kings	06031	Csb	0.154
+California	Lake	06033	Csb	0.993
+California	Lake	06033	Csa	0.007
+California	Lassen	06035	Csb	1.000
+California	Los Angeles	06037	Csb	0.756
+California	Los Angeles	06037	BSk	0.235
+California	Los Angeles	06037	Csa	0.010
+California	Madera	06039	Csb	0.322
+California	Madera	06039	BSk	0.229
+California	Madera	06039	Csa	0.449
+California	Marin	06041	Csb	1.000
+California	Mariposa	06043	Csa	0.567
+California	Mariposa	06043	Csb	0.433
+California	Mendocino	06045	Csb	1.000
+California	Merced	06047	Csa	0.267
+California	Merced	06047	Csb	0.170
+California	Merced	06047	BSk	0.563
+California	Modoc	06049	Csb	1.000
+California	Mono	06051	Csb	0.806
+California	Mono	06051	BSk	0.161
+California	Mono	06051	BWk	0.015
+California	Mono	06051	Dsc	0.018
+California	Monterey	06053	Csb	1.000
+California	Napa	06055	Csb	1.000
+California	Nevada	06057	Csa	0.351
+California	Nevada	06057	Csb	0.649
+California	Orange	06059	BSk	0.139
+California	Orange	06059	Csa	0.861
+California	Placer	06061	Csa	0.348
+California	Placer	06061	Csb	0.652
+California	Plumas	06063	Csb	1.000
+California	Riverside	06065	Csb	0.014
+California	Riverside	06065	Csa	0.314
+California	Riverside	06065	BWk	0.027
+California	Riverside	06065	BWh	0.631
+California	Riverside	06065	BSh	0.014
+California	Sacramento	06067	Csa	1.000
+California	San Benito	06069	Csb	0.841
+California	San Benito	06069	BSk	0.159
+California	San Bernardino	06071	BWk	0.364
+California	San Bernardino	06071	BWh	0.411
+California	San Bernardino	06071	BSk	0.113
+California	San Bernardino	06071	Csb	0.061
+California	San Bernardino	06071	Csa	0.051
+California	San Diego	06073	BSk	0.095
+California	San Diego	06073	Csa	0.738
+California	San Diego	06073	BSh	0.167
+California	San Francisco	06075	Csb	1.000
+California	San Joaquin	06077	Csa	0.927
+California	San Joaquin	06077	Csb	0.073
+California	San Luis Obispo	06079	Csb	0.840
+California	San Luis Obispo	06079	BSk	0.154
+California	San Luis Obispo	06079	BSh	0.006
+California	San Mateo	06081	Csb	1.000
+California	Santa Barbara	06083	Csb	0.989
+California	Santa Barbara	06083	BSk	0.011
+California	Santa Clara	06085	Csb	1.000
+California	Santa Cruz	06087	Csb	1.000
+California	Shasta	06089	Csb	0.654
+California	Shasta	06089	Csa	0.346
+California	Sierra	06091	Csb	0.990
+California	Sierra	06091	Csa	0.010
+California	Siskiyou	06093	Csb	1.000
+California	Solano	06095	Csa	0.667
+California	Solano	06095	Csb	0.333
+California	Sonoma	06097	Csb	1.000
+California	Stanislaus	06099	Csa	0.634
+California	Stanislaus	06099	Csb	0.323
+California	Stanislaus	06099	BSk	0.043
+California	Sutter	06101	Csa	1.000
+California	Tehama	06103	Csb	0.404
+California	Tehama	06103	Csa	0.596
+California	Trinity	06105	Csb	0.980
+California	Trinity	06105	Csa	0.020
+California	Tulare	06107	BSk	0.460
+California	Tulare	06107	Csa	0.048
+California	Tulare	06107	Csb	0.492
+California	Tuolumne	06109	Csb	0.755
+California	Tuolumne	06109	Csa	0.245
+California	Ventura	06111	Csb	0.984
+California	Yolo	06113	Csb	0.352
+California	Yolo	06113	Csa	0.648
+California	Yuba	06115	Csb	0.091
+California	Yuba	06115	Csa	0.909
+Colorado	Adams	08001	Dfb	0.017
+Colorado	Adams	08001	BSk	0.983
+Colorado	Alamosa	08003	Dfb	0.114
+Colorado	Alamosa	08003	BSk	0.886
+Colorado	Arapahoe	08005	Dfb	0.020
+Colorado	Arapahoe	08005	BSk	0.980
+Colorado	Archuleta	08007	Dfb	0.567
+Colorado	Archuleta	08007	Dfc	0.433
+Colorado	Baca	08009	BSk	1.000
+Colorado	Bent	08011	BSk	1.000
+Colorado	Boulder	08013	Dfc	0.244
+Colorado	Boulder	08013	BSk	0.577
+Colorado	Boulder	08013	Dfb	0.179
+Colorado	Broomfield	08014	BSk	0.200
+Colorado	Broomfield	08014	Dfb	0.800
+Colorado	Chaffee	08015	Dfc	0.991
+Colorado	Chaffee	08015	BSk	0.009
+Colorado	Cheyenne	08017	BSk	1.000
+Colorado	Clear Creek	08019	Dfc	0.826
+Colorado	Clear Creek	08019	Dfb	0.174
+Colorado	Conejos	08021	Dfc	0.143
+Colorado	Conejos	08021	Dfb	0.594
+Colorado	Conejos	08021	BSk	0.263
+Colorado	Costilla	08023	BSk	0.877
+Colorado	Costilla	08023	Dfb	0.123
+Colorado	Crowley	08025	BSk	1.000
+Colorado	Custer	08027	BSk	0.842
+Colorado	Custer	08027	Dfb	0.158
+Colorado	Delta	08029	Dfb	0.685
+Colorado	Delta	08029	BSk	0.315
+Colorado	Denver	08031	Dfb	0.200
+Colorado	Denver	08031	BSk	0.800
+Colorado	Dolores	08033	BSk	0.070
+Colorado	Dolores	08033	Dsb	0.465
+Colorado	Dolores	08033	Dfb	0.395
+Colorado	Dolores	08033	Dfc	0.070
+Colorado	Douglas	08035	Dfb	0.341
+Colorado	Douglas	08035	BSk	0.659
+Colorado	Eagle	08037	Dfc	1.000
+Colorado	El Paso	08041	Dfb	0.028
+Colorado	El Paso	08041	BSk	0.972
+Colorado	Elbert	08039	BSk	1.000
+Colorado	Fremont	08043	Dfc	0.196
+Colorado	Fremont	08043	Dfb	0.208
+Colorado	Fremont	08043	BSk	0.595
+Colorado	Garfield	08045	Dfc	0.314
+Colorado	Garfield	08045	BSk	0.106
+Colorado	Garfield	08045	Dfb	0.581
+Colorado	Gilpin	08047	Dfc	0.579
+Colorado	Gilpin	08047	Dfb	0.421
+Colorado	Grand	08049	Dfc	1.000
+Colorado	Gunnison	08051	Dfc	0.986
+Colorado	Gunnison	08051	Dfb	0.014
+Colorado	Hinsdale	08053	Dfb	0.147
+Colorado	Hinsdale	08053	Dfc	0.264
+Colorado	Hinsdale	08053	ET	0.589
+Colorado	Huerfano	08055	Dfb	0.388
+Colorado	Huerfano	08055	BSk	0.612
+Colorado	Jackson	08057	Dfc	1.000
+Colorado	Jefferson	08059	Dfb	1.000
+Colorado	Kiowa	08061	BSk	1.000
+Colorado	Kit Carson	08063	BSk	1.000
+Colorado	La Plata	08067	Dfb	0.571
+Colorado	La Plata	08067	Dfc	0.169
+Colorado	La Plata	08067	Dsb	0.260
+Colorado	Lake	08065	Dfc	1.000
+Colorado	Larimer	08069	Dfc	0.452
+Colorado	Larimer	08069	BSk	0.548
+Colorado	Las Animas	08071	BSk	1.000
+Colorado	Lincoln	08073	BSk	1.000
+Colorado	Logan	08075	BSk	1.000
+Colorado	Mesa	08077	BSk	0.642
+Colorado	Mesa	08077	Dfb	0.350
+Colorado	Mesa	08077	Dfc	0.009
+Colorado	Mineral	08079	ET	0.256
+Colorado	Mineral	08079	Dfc	0.700
+Colorado	Mineral	08079	Dfb	0.044
+Colorado	Moffat	08081	BSk	0.141
+Colorado	Moffat	08081	Dfb	0.848
+Colorado	Moffat	08081	Dfc	0.011
+Colorado	Montezuma	08083	Dsb	0.368
+Colorado	Montezuma	08083	Dfb	0.132
+Colorado	Montezuma	08083	BSk	0.500
+Colorado	Montrose	08085	BSk	0.437
+Colorado	Montrose	08085	Dfb	0.563
+Colorado	Morgan	08087	BSk	1.000
+Colorado	Otero	08089	BSk	1.000
+Colorado	Ouray	08091	Dfb	0.905
+Colorado	Ouray	08091	Dfc	0.095
+Colorado	Park	08093	Dfc	0.815
+Colorado	Park	08093	Dfb	0.185
+Colorado	Phillips	08095	BSk	1.000
+Colorado	Pitkin	08097	Dfc	1.000
+Colorado	Prowers	08099	BSk	1.000
+Colorado	Pueblo	08101	BSk	0.992
+Colorado	Pueblo	08101	Dfb	0.008
+Colorado	Rio Blanco	08103	BSk	0.155
+Colorado	Rio Blanco	08103	Dfb	0.738
+Colorado	Rio Blanco	08103	Dfc	0.107
+Colorado	Rio Grande	08105	Dfc	0.337
+Colorado	Rio Grande	08105	Dfb	0.663
+Colorado	Routt	08107	Dfb	0.241
+Colorado	Routt	08107	Dfc	0.759
+Colorado	Saguache	08109	Dfc	0.569
+Colorado	Saguache	08109	BSk	0.269
+Colorado	Saguache	08109	Dfb	0.162
+Colorado	San Juan	08111	Dfc	0.972
+Colorado	San Juan	08111	ET	0.028
+Colorado	San Miguel	08113	BSk	0.265
+Colorado	San Miguel	08113	Dfb	0.455
+Colorado	San Miguel	08113	Dsb	0.152
+Colorado	San Miguel	08113	Dfc	0.129
+Colorado	Sedgwick	08115	BSk	1.000
+Colorado	Summit	08117	Dfc	1.000
+Colorado	Teller	08119	Dfb	0.953
+Colorado	Teller	08119	BSk	0.047
+Colorado	Washington	08121	BSk	1.000
+Colorado	Weld	08123	BSk	1.000
+Colorado	Yuma	08125	BSk	1.000
+Connecticut	Fairfield	09001	Dfa	0.027
+Connecticut	Fairfield	09001	Dfb	0.027
+Connecticut	Fairfield	09001	Cfa	0.947
+Connecticut	Hartford	09003	Dfb	0.169
+Connecticut	Hartford	09003	Dfa	0.831
+Connecticut	Litchfield	09005	Dfb	0.953
+Connecticut	Litchfield	09005	Dfa	0.037
+Connecticut	Litchfield	09005	Cfa	0.009
+Connecticut	Middlesex	09007	Dfa	0.304
+Connecticut	Middlesex	09007	Dfb	0.109
+Connecticut	Middlesex	09007	Cfa	0.283
+Connecticut	Middlesex	09007	Cfb	0.304
+Connecticut	New Haven	09009	Dfb	0.074
+Connecticut	New Haven	09009	Dfa	0.118
+Connecticut	New Haven	09009	Cfa	0.809
+Connecticut	New London	09011	Dfb	0.311
+Connecticut	New London	09011	Cfb	0.689
+Connecticut	Tolland	09013	Dfb	1.000
+Connecticut	Windham	09015	Dfb	0.517
+Connecticut	Windham	09015	Cfb	0.483
+Delaware	Kent	10001	Cfa	1.000
+Delaware	New Castle	10003	Cfa	1.000
+Delaware	Sussex	10005	Cfa	1.000
+District of Columbia	District of Columbia	11001	Cfa	1.000
+Florida	Alachua	12001	Cfa	1.000
+Florida	Baker	12003	Cfa	1.000
+Florida	Bay	12005	Cfa	1.000
+Florida	Bradford	12007	Cfa	1.000
+Florida	Brevard	12009	Cfa	1.000
+Florida	Broward	12011	Am	0.967
+Florida	Broward	12011	Aw	0.033
+Florida	Calhoun	12013	Cfa	1.000
+Florida	Charlotte	12015	Cfa	1.000
+Florida	Citrus	12017	Cfa	1.000
+Florida	Clay	12019	Cfa	1.000
+Florida	Collier	12021	Aw	0.942
+Florida	Collier	12021	Am	0.058
+Florida	Columbia	12023	Cfa	1.000
+Florida	Desoto	12027	Cfa	1.000
+Florida	Dixie	12029	Cfa	1.000
+Florida	Duval	12031	Cfa	1.000
+Florida	Escambia	12033	Cfa	1.000
+Florida	Flagler	12035	Cfa	1.000
+Florida	Franklin	12037	Cfa	1.000
+Florida	Gadsden	12039	Cfa	1.000
+Florida	Gilchrist	12041	Cfa	1.000
+Florida	Glades	12043	Cfa	0.915
+Florida	Glades	12043	Am	0.085
+Florida	Gulf	12045	Cfa	1.000
+Florida	Hamilton	12047	Cfa	1.000
+Florida	Hardee	12049	Cfa	1.000
+Florida	Hendry	12051	Cfa	0.539
+Florida	Hendry	12051	Am	0.216
+Florida	Hendry	12051	Aw	0.245
+Florida	Hernando	12053	Cfa	1.000
+Florida	Highlands	12055	Cfa	1.000
+Florida	Hillsborough	12057	Cfa	1.000
+Florida	Holmes	12059	Cfa	1.000
+Florida	Indian River	12061	Cfa	1.000
+Florida	Jackson	12063	Cfa	1.000
+Florida	Jefferson	12065	Cfa	1.000
+Florida	Lafayette	12067	Cfa	1.000
+Florida	Lake	12069	Cfa	1.000
+Florida	Lee	12071	Cfa	0.709
+Florida	Lee	12071	Aw	0.291
+Florida	Leon	12073	Cfa	1.000
+Florida	Levy	12075	Cfa	1.000
+Florida	Liberty	12077	Cfa	1.000
+Florida	Madison	12079	Cfa	1.000
+Florida	Manatee	12081	Cfa	1.000
+Florida	Marion	12083	Cfa	1.000
+Florida	Martin	12085	Cfa	0.769
+Florida	Martin	12085	Am	0.108
+Florida	Martin	12085	Af	0.123
+Florida	Miami-Dade	12086	Aw	0.707
+Florida	Miami-Dade	12086	Am	0.293
+Florida	Monroe	12087	Aw	0.990
+Florida	Nassau	12089	Cfa	1.000
+Florida	Okaloosa	12091	Cfa	1.000
+Florida	Okeechobee	12093	Cfa	0.988
+Florida	Okeechobee	12093	Am	0.012
+Florida	Orange	12095	Cfa	1.000
+Florida	Osceola	12097	Cfa	1.000
+Florida	Palm Beach	12099	Am	0.605
+Florida	Palm Beach	12099	Af	0.395
+Florida	Pasco	12101	Cfa	1.000
+Florida	Pinellas	12103	Cfa	1.000
+Florida	Polk	12105	Cfa	1.000
+Florida	Putnam	12107	Cfa	1.000
+Florida	Saint Johns	12109	Cfa	1.000
+Florida	Saint Lucie	12111	Cfa	1.000
+Florida	Santa Rosa	12113	Cfa	1.000
+Florida	Sarasota	12115	Cfa	1.000
+Florida	Seminole	12117	Cfa	1.000
+Florida	Sumter	12119	Cfa	1.000
+Florida	Suwannee	12121	Cfa	1.000
+Florida	Taylor	12123	Cfa	1.000
+Florida	Union	12125	Cfa	1.000
+Florida	Volusia	12127	Cfa	1.000
+Florida	Wakulla	12129	Cfa	1.000
+Florida	Walton	12131	Cfa	1.000
+Florida	Washington	12133	Cfa	1.000
+Georgia	Appling	13001	Cfa	1.000
+Georgia	Atkinson	13003	Cfa	1.000
+Georgia	Bacon	13005	Cfa	1.000
+Georgia	Baker	13007	Cfa	1.000
+Georgia	Baldwin	13009	Cfa	1.000
+Georgia	Banks	13011	Cfa	1.000
+Georgia	Barrow	13013	Cfa	1.000
+Georgia	Bartow	13015	Cfa	1.000
+Georgia	Ben Hill	13017	Cfa	1.000
+Georgia	Berrien	13019	Cfa	1.000
+Georgia	Bibb	13021	Cfa	1.000
+Georgia	Bleckley	13023	Cfa	1.000
+Georgia	Brantley	13025	Cfa	1.000
+Georgia	Brooks	13027	Cfa	1.000
+Georgia	Bryan	13029	Cfa	1.000
+Georgia	Bulloch	13031	Cfa	1.000
+Georgia	Burke	13033	Cfa	1.000
+Georgia	Butts	13035	Cfa	1.000
+Georgia	Calhoun	13037	Cfa	1.000
+Georgia	Camden	13039	Cfa	1.000
+Georgia	Candler	13043	Cfa	1.000
+Georgia	Carroll	13045	Cfa	1.000
+Georgia	Catoosa	13047	Cfa	1.000
+Georgia	Charlton	13049	Cfa	1.000
+Georgia	Chatham	13051	Cfa	0.957
+Georgia	Chattahoochee	13053	Cfa	1.000
+Georgia	Chattooga	13055	Cfa	1.000
+Georgia	Cherokee	13057	Cfa	1.000
+Georgia	Clarke	13059	Cfa	1.000
+Georgia	Clay	13061	Cfa	1.000
+Georgia	Clayton	13063	Cfa	1.000
+Georgia	Clinch	13065	Cfa	1.000
+Georgia	Cobb	13067	Cfa	1.000
+Georgia	Coffee	13069	Cfa	1.000
+Georgia	Colquitt	13071	Cfa	1.000
+Georgia	Columbia	13073	Cfa	1.000
+Georgia	Cook	13075	Cfa	1.000
+Georgia	Coweta	13077	Cfa	1.000
+Georgia	Crawford	13079	Cfa	1.000
+Georgia	Crisp	13081	Cfa	1.000
+Georgia	Dade	13083	Cfa	1.000
+Georgia	Dawson	13085	Cfa	1.000
+Georgia	Decatur	13087	Cfa	1.000
+Georgia	DeKalb	13089	Cfa	1.000
+Georgia	Dodge	13091	Cfa	1.000
+Georgia	Dooly	13093	Cfa	1.000
+Georgia	Dougherty	13095	Cfa	1.000
+Georgia	Douglas	13097	Cfa	1.000
+Georgia	Early	13099	Cfa	1.000
+Georgia	Echols	13101	Cfa	1.000
+Georgia	Effingham	13103	Cfa	1.000
+Georgia	Elbert	13105	Cfa	1.000
+Georgia	Emanuel	13107	Cfa	1.000
+Georgia	Evans	13109	Cfa	1.000
+Georgia	Fannin	13111	Cfa	1.000
+Georgia	Fayette	13113	Cfa	1.000
+Georgia	Floyd	13115	Cfa	1.000
+Georgia	Forsyth	13117	Cfa	1.000
+Georgia	Franklin	13119	Cfa	1.000
+Georgia	Fulton	13121	Cfa	1.000
+Georgia	Gilmer	13123	Cfa	1.000
+Georgia	Glascock	13125	Cfa	1.000
+Georgia	Glynn	13127	Cfa	1.000
+Georgia	Gordon	13129	Cfa	1.000
+Georgia	Grady	13131	Cfa	1.000
+Georgia	Greene	13133	Cfa	1.000
+Georgia	Gwinnett	13135	Cfa	1.000
+Georgia	Habersham	13137	Cfa	1.000
+Georgia	Hall	13139	Cfa	1.000
+Georgia	Hancock	13141	Cfa	1.000
+Georgia	Haralson	13143	Cfa	1.000
+Georgia	Harris	13145	Cfa	1.000
+Georgia	Hart	13147	Cfa	1.000
+Georgia	Heard	13149	Cfa	1.000
+Georgia	Henry	13151	Cfa	1.000
+Georgia	Houston	13153	Cfa	1.000
+Georgia	Irwin	13155	Cfa	1.000
+Georgia	Jackson	13157	Cfa	1.000
+Georgia	Jasper	13159	Cfa	1.000
+Georgia	Jeff Davis	13161	Cfa	1.000
+Georgia	Jefferson	13163	Cfa	1.000
+Georgia	Jenkins	13165	Cfa	1.000
+Georgia	Johnson	13167	Cfa	1.000
+Georgia	Jones	13169	Cfa	1.000
+Georgia	Lamar	13171	Cfa	1.000
+Georgia	Lanier	13173	Cfa	1.000
+Georgia	Laurens	13175	Cfa	1.000
+Georgia	Lee	13177	Cfa	1.000
+Georgia	Liberty	13179	Cfa	1.000
+Georgia	Lincoln	13181	Cfa	1.000
+Georgia	Long	13183	Cfa	1.000
+Georgia	Lowndes	13185	Cfa	1.000
+Georgia	Lumpkin	13187	Cfa	1.000
+Georgia	Macon	13193	Cfa	1.000
+Georgia	Madison	13195	Cfa	1.000
+Georgia	Marion	13197	Cfa	1.000
+Georgia	McDuffie	13189	Cfa	1.000
+Georgia	McIntosh	13191	Cfa	1.000
+Georgia	Meriwether	13199	Cfa	1.000
+Georgia	Miller	13201	Cfa	1.000
+Georgia	Mitchell	13205	Cfa	1.000
+Georgia	Monroe	13207	Cfa	1.000
+Georgia	Montgomery	13209	Cfa	1.000
+Georgia	Morgan	13211	Cfa	1.000
+Georgia	Murray	13213	Cfa	1.000
+Georgia	Muscogee	13215	Cfa	1.000
+Georgia	Newton	13217	Cfa	1.000
+Georgia	Oconee	13219	Cfa	1.000
+Georgia	Oglethorpe	13221	Cfa	1.000
+Georgia	Paulding	13223	Cfa	1.000
+Georgia	Peach	13225	Cfa	1.000
+Georgia	Pickens	13227	Cfa	1.000
+Georgia	Pierce	13229	Cfa	1.000
+Georgia	Pike	13231	Cfa	1.000
+Georgia	Polk	13233	Cfa	1.000
+Georgia	Pulaski	13235	Cfa	1.000
+Georgia	Putnam	13237	Cfa	1.000
+Georgia	Quitman	13239	Cfa	1.000
+Georgia	Rabun	13241	Cfa	1.000
+Georgia	Randolph	13243	Cfa	1.000
+Georgia	Richmond	13245	Cfa	1.000
+Georgia	Rockdale	13247	Cfa	1.000
+Georgia	Schley	13249	Cfa	1.000
+Georgia	Screven	13251	Cfa	1.000
+Georgia	Seminole	13253	Cfa	1.000
+Georgia	Spalding	13255	Cfa	1.000
+Georgia	Stephens	13257	Cfa	1.000
+Georgia	Stewart	13259	Cfa	1.000
+Georgia	Sumter	13261	Cfa	1.000
+Georgia	Talbot	13263	Cfa	1.000
+Georgia	Taliaferro	13265	Cfa	1.000
+Georgia	Tattnall	13267	Cfa	1.000
+Georgia	Taylor	13269	Cfa	1.000
+Georgia	Telfair	13271	Cfa	1.000
+Georgia	Terrell	13273	Cfa	1.000
+Georgia	Thomas	13275	Cfa	1.000
+Georgia	Tift	13277	Cfa	1.000
+Georgia	Toombs	13279	Cfa	1.000
+Georgia	Towns	13281	Cfa	1.000
+Georgia	Treutlen	13283	Cfa	1.000
+Georgia	Troup	13285	Cfa	1.000
+Georgia	Turner	13287	Cfa	1.000
+Georgia	Twiggs	13289	Cfa	1.000
+Georgia	Union	13291	Cfa	1.000
+Georgia	Upson	13293	Cfa	1.000
+Georgia	Walker	13295	Cfa	1.000
+Georgia	Walton	13297	Cfa	1.000
+Georgia	Ware	13299	Cfa	1.000
+Georgia	Warren	13301	Cfa	1.000
+Georgia	Washington	13303	Cfa	1.000
+Georgia	Wayne	13305	Cfa	1.000
+Georgia	Webster	13307	Cfa	1.000
+Georgia	Wheeler	13309	Cfa	1.000
+Georgia	White	13311	Cfa	1.000
+Georgia	Whitfield	13313	Cfa	1.000
+Georgia	Wilcox	13315	Cfa	1.000
+Georgia	Wilkes	13317	Cfa	1.000
+Georgia	Wilkinson	13319	Cfa	1.000
+Georgia	Worth	13321	Cfa	1.000
+Hawaii	Hawaii	15001	Af	0.294
+Hawaii	Hawaii	15001	Cfb	0.706
+Hawaii	Honolulu	15003	As	0.857
+Hawaii	Honolulu	15003	Af	0.143
+Hawaii	Kalawao	15005	As	1.000
+Hawaii	Kauai	15007	Am	0.339
+Hawaii	Kauai	15007	Af	0.286
+Hawaii	Kauai	15007	As	0.250
+Hawaii	Maui	15009	As	0.505
+Hawaii	Maui	15009	Af	0.495
+Idaho	Ada	16001	Csb	0.390
+Idaho	Ada	16001	Dsb	0.008
+Idaho	Ada	16001	BSk	0.576
+Idaho	Ada	16001	Csa	0.025
+Idaho	Adams	16003	Csb	0.387
+Idaho	Adams	16003	Dsb	0.612
+Idaho	Bannock	16005	BSk	0.079
+Idaho	Bannock	16005	Dfb	0.921
+Idaho	Bear Lake	16007	Dfb	1.000
+Idaho	Benewah	16009	Csb	0.717
+Idaho	Benewah	16009	Dsb	0.283
+Idaho	Bingham	16011	BSk	0.795
+Idaho	Bingham	16011	Dfb	0.205
+Idaho	Blaine	16013	Dsc	0.359
+Idaho	Blaine	16013	Dfb	0.056
+Idaho	Blaine	16013	Dsb	0.353
+Idaho	Blaine	16013	BSk	0.232
+Idaho	Boise	16015	Dsb	0.644
+Idaho	Boise	16015	Dsc	0.213
+Idaho	Boise	16015	Csb	0.142
+Idaho	Bonner	16017	Dfb	0.029
+Idaho	Bonner	16017	Dfc	0.117
+Idaho	Bonner	16017	Dsb	0.854
+Idaho	Bonneville	16019	BSk	0.198
+Idaho	Bonneville	16019	Dfb	0.802
+Idaho	Boundary	16021	Dfb	0.564
+Idaho	Boundary	16021	Dfc	0.436
+Idaho	Butte	16023	Dfc	0.161
+Idaho	Butte	16023	Dfb	0.063
+Idaho	Butte	16023	BSk	0.745
+Idaho	Butte	16023	Dsb	0.031
+Idaho	Camas	16025	Dsb	0.659
+Idaho	Camas	16025	Dsc	0.341
+Idaho	Canyon	16027	BSk	0.960
+Idaho	Canyon	16027	Csb	0.040
+Idaho	Caribou	16029	Dfb	1.000
+Idaho	Cassia	16031	BSk	1.000
+Idaho	Clark	16033	Dfb	0.940
+Idaho	Clark	16033	Dfc	0.033
+Idaho	Clark	16033	BSk	0.028
+Idaho	Clearwater	16035	Csb	0.310
+Idaho	Clearwater	16035	Dsb	0.556
+Idaho	Clearwater	16035	Dfb	0.083
+Idaho	Clearwater	16035	Cfb	0.051
+Idaho	Custer	16037	Dsc	0.344
+Idaho	Custer	16037	Dfb	0.450
+Idaho	Custer	16037	Dfc	0.196
+Idaho	Custer	16037	BSk	0.010
+Idaho	Elmore	16039	Dsc	0.009
+Idaho	Elmore	16039	Dsb	0.560
+Idaho	Elmore	16039	BSk	0.156
+Idaho	Elmore	16039	Csa	0.276
+Idaho	Franklin	16041	Dfb	1.000
+Idaho	Fremont	16043	Dfc	0.123
+Idaho	Fremont	16043	Dfb	0.863
+Idaho	Fremont	16043	BSk	0.014
+Idaho	Gem	16045	Csa	0.014
+Idaho	Gem	16045	Dsb	0.478
+Idaho	Gem	16045	BSk	0.232
+Idaho	Gem	16045	Csb	0.275
+Idaho	Gooding	16047	Dsb	0.455
+Idaho	Gooding	16047	BSk	0.545
+Idaho	Idaho	16049	Dsb	0.380
+Idaho	Idaho	16049	Dfb	0.375
+Idaho	Idaho	16049	Cfb	0.163
+Idaho	Idaho	16049	Csb	0.082
+Idaho	Jefferson	16051	Dfb	0.165
+Idaho	Jefferson	16051	BSk	0.835
+Idaho	Jerome	16053	BSk	1.000
+Idaho	Kootenai	16055	Csb	0.777
+Idaho	Kootenai	16055	Dsb	0.223
+Idaho	Latah	16057	Csb	0.992
+Idaho	Latah	16057	Dsb	0.008
+Idaho	Lemhi	16059	Dfb	0.807
+Idaho	Lemhi	16059	BSk	0.108
+Idaho	Lemhi	16059	Dfc	0.086
+Idaho	Lewis	16061	Cfb	1.000
+Idaho	Lincoln	16063	Dsb	0.500
+Idaho	Lincoln	16063	BSk	0.500
+Idaho	Madison	16065	Dfb	1.000
+Idaho	Minidoka	16067	Dsb	0.182
+Idaho	Minidoka	16067	BSk	0.818
+Idaho	Nez Perce	16069	Csb	0.229
+Idaho	Nez Perce	16069	Cfb	0.771
+Idaho	Oneida	16071	Dfb	1.000
+Idaho	Owyhee	16073	BSk	1.000
+Idaho	Payette	16075	Csa	0.543
+Idaho	Payette	16075	Dsb	0.043
+Idaho	Payette	16075	BSk	0.413
+Idaho	Power	16077	BSk	0.778
+Idaho	Power	16077	Dfb	0.222
+Idaho	Shoshone	16079	Dsb	0.977
+Idaho	Shoshone	16079	Csb	0.023
+Idaho	Teton	16081	Dfb	1.000
+Idaho	Twin Falls	16083	BSk	1.000
+Idaho	Valley	16085	Dsb	0.677
+Idaho	Valley	16085	Dfb	0.097
+Idaho	Valley	16085	Dsc	0.226
+Idaho	Washington	16087	Csb	0.373
+Idaho	Washington	16087	BSk	0.118
+Idaho	Washington	16087	Csa	0.396
+Idaho	Washington	16087	Dsb	0.112
+Illinois	Adams	17001	Dfa	1.000
+Illinois	Alexander	17003	Cfa	1.000
+Illinois	Bond	17005	Cfa	1.000
+Illinois	Boone	17007	Dfa	1.000
+Illinois	Brown	17009	Dfa	1.000
+Illinois	Bureau	17011	Dfa	1.000
+Illinois	Calhoun	17013	Dfa	0.800
+Illinois	Calhoun	17013	Cfa	0.200
+Illinois	Carroll	17015	Dfa	1.000
+Illinois	Cass	17017	Dfa	1.000
+Illinois	Champaign	17019	Dfa	0.980
+Illinois	Champaign	17019	Cfa	0.020
+Illinois	Christian	17021	Dfa	0.612
+Illinois	Christian	17021	Cfa	0.388
+Illinois	Clark	17023	Cfa	1.000
+Illinois	Clay	17025	Cfa	1.000
+Illinois	Clinton	17027	Cfa	1.000
+Illinois	Coles	17029	Dfa	0.528
+Illinois	Coles	17029	Cfa	0.472
+Illinois	Cook	17031	Dfa	1.000
+Illinois	Crawford	17033	Cfa	1.000
+Illinois	Cumberland	17035	Cfa	1.000
+Illinois	De Kalb	17037	Dfa	1.000
+Illinois	De Witt	17039	Dfa	1.000
+Illinois	Douglas	17041	Dfa	0.917
+Illinois	Douglas	17041	Cfa	0.083
+Illinois	Dupage	17043	Dfa	1.000
+Illinois	Edgar	17045	Cfa	1.000
+Illinois	Edwards	17047	Cfa	1.000
+Illinois	Effingham	17049	Cfa	1.000
+Illinois	Fayette	17051	Cfa	1.000
+Illinois	Ford	17053	Dfa	1.000
+Illinois	Franklin	17055	Cfa	1.000
+Illinois	Fulton	17057	Dfa	1.000
+Illinois	Gallatin	17059	Cfa	1.000
+Illinois	Greene	17061	Dfa	0.226
+Illinois	Greene	17061	Cfa	0.774
+Illinois	Grundy	17063	Dfa	1.000
+Illinois	Hamilton	17065	Cfa	1.000
+Illinois	Hancock	17067	Dfa	1.000
+Illinois	Hardin	17069	Cfa	1.000
+Illinois	Henderson	17071	Dfa	1.000
+Illinois	Henry	17073	Dfa	1.000
+Illinois	Iroquois	17075	Dfa	1.000
+Illinois	Jackson	17077	Cfa	1.000
+Illinois	Jasper	17079	Cfa	1.000
+Illinois	Jefferson	17081	Cfa	1.000
+Illinois	Jersey	17083	Dfa	0.171
+Illinois	Jersey	17083	Cfa	0.829
+Illinois	Jo Daviess	17085	Dfa	1.000
+Illinois	Johnson	17087	Cfa	1.000
+Illinois	Kane	17089	Dfa	1.000
+Illinois	Kankakee	17091	Dfa	1.000
+Illinois	Kendall	17093	Dfa	1.000
+Illinois	Knox	17095	Dfa	1.000
+Illinois	La Salle	17099	Dfa	1.000
+Illinois	Lake	17097	Dfa	1.000
+Illinois	Lawrence	17101	Cfa	1.000
+Illinois	Lee	17103	Dfa	1.000
+Illinois	Livingston	17105	Dfa	1.000
+Illinois	Logan	17107	Dfa	1.000
+Illinois	Macon	17115	Dfa	1.000
+Illinois	Macoupin	17117	Cfa	1.000
+Illinois	Madison	17119	Cfa	1.000
+Illinois	Marion	17121	Cfa	1.000
+Illinois	Marshall	17123	Dfa	1.000
+Illinois	Mason	17125	Dfa	1.000
+Illinois	Massac	17127	Cfa	1.000
+Illinois	McDonough	17109	Dfa	1.000
+Illinois	McHenry	17111	Dfa	1.000
+Illinois	McLean	17113	Dfa	1.000
+Illinois	Menard	17129	Dfa	1.000
+Illinois	Mercer	17131	Dfa	1.000
+Illinois	Monroe	17133	Cfa	1.000
+Illinois	Montgomery	17135	Cfa	1.000
+Illinois	Morgan	17137	Dfa	1.000
+Illinois	Moultrie	17139	Dfa	0.925
+Illinois	Moultrie	17139	Cfa	0.075
+Illinois	Ogle	17141	Dfa	1.000
+Illinois	Peoria	17143	Dfa	1.000
+Illinois	Perry	17145	Cfa	1.000
+Illinois	Piatt	17147	Dfa	1.000
+Illinois	Pike	17149	Dfa	1.000
+Illinois	Pope	17151	Cfa	1.000
+Illinois	Pulaski	17153	Cfa	1.000
+Illinois	Putnam	17155	Dfa	1.000
+Illinois	Randolph	17157	Cfa	1.000
+Illinois	Richland	17159	Cfa	1.000
+Illinois	Rock Island	17161	Dfa	1.000
+Illinois	Saint Clair	17163	Cfa	1.000
+Illinois	Saline	17165	Cfa	1.000
+Illinois	Sangamon	17167	Dfa	1.000
+Illinois	Schuyler	17169	Dfa	1.000
+Illinois	Scott	17171	Dfa	1.000
+Illinois	Shelby	17173	Dfa	0.178
+Illinois	Shelby	17173	Cfa	0.822
+Illinois	Stark	17175	Dfa	1.000
+Illinois	Stephenson	17177	Dfa	1.000
+Illinois	Tazewell	17179	Dfa	1.000
+Illinois	Union	17181	Cfa	1.000
+Illinois	Vermilion	17183	Dfa	0.825
+Illinois	Vermilion	17183	Cfa	0.175
+Illinois	Wabash	17185	Cfa	1.000
+Illinois	Warren	17187	Dfa	1.000
+Illinois	Washington	17189	Cfa	1.000
+Illinois	Wayne	17191	Cfa	1.000
+Illinois	White	17193	Cfa	1.000
+Illinois	Whiteside	17195	Dfa	1.000
+Illinois	Will	17197	Dfa	1.000
+Illinois	Williamson	17199	Cfa	1.000
+Illinois	Winnebago	17201	Dfa	1.000
+Illinois	Woodford	17203	Dfa	1.000
+Indiana	Adams	18001	Dfa	1.000
+Indiana	Allen	18003	Dfa	1.000
+Indiana	Bartholomew	18005	Cfa	1.000
+Indiana	Benton	18007	Dfa	1.000
+Indiana	Blackford	18009	Dfa	1.000
+Indiana	Boone	18011	Dfa	0.830
+Indiana	Boone	18011	Cfa	0.170
+Indiana	Brown	18013	Cfa	1.000
+Indiana	Carroll	18015	Dfa	1.000
+Indiana	Cass	18017	Dfa	1.000
+Indiana	Clark	18019	Cfa	1.000
+Indiana	Clay	18021	Cfa	1.000
+Indiana	Clinton	18023	Dfa	1.000
+Indiana	Crawford	18025	Cfa	1.000
+Indiana	Daviess	18027	Cfa	1.000
+Indiana	De Kalb	18033	Dfa	0.917
+Indiana	De Kalb	18033	Dfb	0.083
+Indiana	Dearborn	18029	Cfa	1.000
+Indiana	Decatur	18031	Cfa	1.000
+Indiana	Delaware	18035	Dfa	1.000
+Indiana	Dubois	18037	Cfa	1.000
+Indiana	Elkhart	18039	Dfa	1.000
+Indiana	Fayette	18041	Dfa	1.000
+Indiana	Floyd	18043	Cfa	1.000
+Indiana	Fountain	18045	Dfa	0.841
+Indiana	Fountain	18045	Cfa	0.159
+Indiana	Franklin	18047	Dfa	0.130
+Indiana	Franklin	18047	Cfa	0.870
+Indiana	Fulton	18049	Dfa	1.000
+Indiana	Gibson	18051	Cfa	1.000
+Indiana	Grant	18053	Dfa	1.000
+Indiana	Greene	18055	Cfa	1.000
+Indiana	Hamilton	18057	Dfa	0.875
+Indiana	Hamilton	18057	Cfa	0.125
+Indiana	Hancock	18059	Dfa	1.000
+Indiana	Harrison	18061	Cfa	1.000
+Indiana	Hendricks	18063	Dfa	0.590
+Indiana	Hendricks	18063	Cfa	0.410
+Indiana	Henry	18065	Dfa	1.000
+Indiana	Howard	18067	Dfa	1.000
+Indiana	Huntington	18069	Dfa	1.000
+Indiana	Jackson	18071	Cfa	1.000
+Indiana	Jasper	18073	Dfa	1.000
+Indiana	Jay	18075	Dfa	1.000
+Indiana	Jefferson	18077	Cfa	1.000
+Indiana	Jennings	18079	Cfa	1.000
+Indiana	Johnson	18081	Cfa	0.917
+Indiana	Johnson	18081	Dfa	0.083
+Indiana	Knox	18083	Cfa	1.000
+Indiana	Kosciusko	18085	Dfa	1.000
+Indiana	LaGrange	18087	Dfa	1.000
+Indiana	Lake	18089	Dfa	1.000
+Indiana	LaPorte	18091	Dfa	1.000
+Indiana	Lawrence	18093	Cfa	1.000
+Indiana	Madison	18095	Dfa	1.000
+Indiana	Marion	18097	Cfa	0.872
+Indiana	Marion	18097	Dfa	0.128
+Indiana	Marshall	18099	Dfa	1.000
+Indiana	Martin	18101	Cfa	1.000
+Indiana	Miami	18103	Dfa	1.000
+Indiana	Monroe	18105	Cfa	1.000
+Indiana	Montgomery	18107	Dfa	0.893
+Indiana	Montgomery	18107	Cfa	0.107
+Indiana	Morgan	18109	Dfa	0.152
+Indiana	Morgan	18109	Cfa	0.848
+Indiana	Newton	18111	Dfa	1.000
+Indiana	Noble	18113	Dfa	1.000
+Indiana	Ohio	18115	Cfa	1.000
+Indiana	Orange	18117	Cfa	1.000
+Indiana	Owen	18119	Cfa	1.000
+Indiana	Parke	18121	Cfa	1.000
+Indiana	Perry	18123	Cfa	1.000
+Indiana	Pike	18125	Cfa	1.000
+Indiana	Porter	18127	Dfa	1.000
+Indiana	Posey	18129	Cfa	1.000
+Indiana	Pulaski	18131	Dfa	1.000
+Indiana	Putnam	18133	Dfa	0.880
+Indiana	Putnam	18133	Cfa	0.120
+Indiana	Randolph	18135	Dfa	1.000
+Indiana	Ripley	18137	Cfa	1.000
+Indiana	Rush	18139	Dfa	0.857
+Indiana	Rush	18139	Cfa	0.143
+Indiana	Saint Joseph	18141	Dfa	1.000
+Indiana	Scott	18143	Cfa	1.000
+Indiana	Shelby	18145	Dfa	0.571
+Indiana	Shelby	18145	Cfa	0.429
+Indiana	Spencer	18147	Cfa	1.000
+Indiana	Starke	18149	Dfa	1.000
+Indiana	Steuben	18151	Dfa	0.500
+Indiana	Steuben	18151	Dfb	0.500
+Indiana	Sullivan	18153	Cfa	1.000
+Indiana	Switzerland	18155	Cfa	1.000
+Indiana	Tippecanoe	18157	Dfa	1.000
+Indiana	Tipton	18159	Dfa	1.000
+Indiana	Union	18161	Dfa	1.000
+Indiana	Vanderburgh	18163	Cfa	1.000
+Indiana	Vermillion	18165	Dfa	0.258
+Indiana	Vermillion	18165	Cfa	0.742
+Indiana	Vigo	18167	Cfa	1.000
+Indiana	Wabash	18169	Dfa	1.000
+Indiana	Warren	18171	Dfa	1.000
+Indiana	Warrick	18173	Cfa	1.000
+Indiana	Washington	18175	Cfa	1.000
+Indiana	Wayne	18177	Dfa	1.000
+Indiana	Wells	18179	Dfa	1.000
+Indiana	White	18181	Dfa	1.000
+Indiana	Whitley	18183	Dfa	1.000
+Iowa	Adair	19001	Dfa	1.000
+Iowa	Adams	19003	Dfa	1.000
+Iowa	Allamakee	19005	Dfa	1.000
+Iowa	Appanoose	19007	Dfa	1.000
+Iowa	Audubon	19009	Dfa	1.000
+Iowa	Benton	19011	Dfa	1.000
+Iowa	Black Hawk	19013	Dfa	1.000
+Iowa	Boone	19015	Dfa	1.000
+Iowa	Bremer	19017	Dfa	1.000
+Iowa	Buchanan	19019	Dfa	1.000
+Iowa	Buena Vista	19021	Dfa	1.000
+Iowa	Butler	19023	Dfa	1.000
+Iowa	Calhoun	19025	Dfa	1.000
+Iowa	Carroll	19027	Dfa	1.000
+Iowa	Cass	19029	Dfa	1.000
+Iowa	Cedar	19031	Dfa	1.000
+Iowa	Cerro Gordo	19033	Dfa	1.000
+Iowa	Cherokee	19035	Dfa	1.000
+Iowa	Chickasaw	19037	Dfa	1.000
+Iowa	Clarke	19039	Dfa	1.000
+Iowa	Clay	19041	Dfa	1.000
+Iowa	Clayton	19043	Dfa	1.000
+Iowa	Clinton	19045	Dfa	1.000
+Iowa	Crawford	19047	Dfa	1.000
+Iowa	Dallas	19049	Dfa	1.000
+Iowa	Davis	19051	Dfa	1.000
+Iowa	Decatur	19053	Dfa	1.000
+Iowa	Delaware	19055	Dfa	1.000
+Iowa	Des Moines	19057	Dfa	1.000
+Iowa	Dickinson	19059	Dfa	1.000
+Iowa	Dubuque	19061	Dfa	1.000
+Iowa	Emmet	19063	Dfa	1.000
+Iowa	Fayette	19065	Dfa	1.000
+Iowa	Floyd	19067	Dfa	1.000
+Iowa	Franklin	19069	Dfa	1.000
+Iowa	Fremont	19071	Dfa	1.000
+Iowa	Greene	19073	Dfa	1.000
+Iowa	Grundy	19075	Dfa	1.000
+Iowa	Guthrie	19077	Dfa	1.000
+Iowa	Hamilton	19079	Dfa	1.000
+Iowa	Hancock	19081	Dfa	1.000
+Iowa	Hardin	19083	Dfa	1.000
+Iowa	Harrison	19085	Dfa	1.000
+Iowa	Henry	19087	Dfa	1.000
+Iowa	Howard	19089	Dfa	1.000
+Iowa	Humboldt	19091	Dfa	1.000
+Iowa	Ida	19093	Dfa	1.000
+Iowa	Iowa	19095	Dfa	1.000
+Iowa	Jackson	19097	Dfa	1.000
+Iowa	Jasper	19099	Dfa	1.000
+Iowa	Jefferson	19101	Dfa	1.000
+Iowa	Johnson	19103	Dfa	1.000
+Iowa	Jones	19105	Dfa	1.000
+Iowa	Keokuk	19107	Dfa	1.000
+Iowa	Kossuth	19109	Dfa	1.000
+Iowa	Lee	19111	Dfa	1.000
+Iowa	Linn	19113	Dfa	1.000
+Iowa	Louisa	19115	Dfa	1.000
+Iowa	Lucas	19117	Dfa	1.000
+Iowa	Lyon	19119	Dfa	1.000
+Iowa	Madison	19121	Dfa	1.000
+Iowa	Mahaska	19123	Dfa	1.000
+Iowa	Marion	19125	Dfa	1.000
+Iowa	Marshall	19127	Dfa	1.000
+Iowa	Mills	19129	Dfa	1.000
+Iowa	Mitchell	19131	Dfa	1.000
+Iowa	Monona	19133	Dfa	1.000
+Iowa	Monroe	19135	Dfa	1.000
+Iowa	Montgomery	19137	Dfa	1.000
+Iowa	Muscatine	19139	Dfa	1.000
+Iowa	O'Brien	19141	Dfa	1.000
+Iowa	Osceola	19143	Dfa	1.000
+Iowa	Page	19145	Dfa	1.000
+Iowa	Palo Alto	19147	Dfa	1.000
+Iowa	Plymouth	19149	Dfa	1.000
+Iowa	Pocahontas	19151	Dfa	1.000
+Iowa	Polk	19153	Dfa	1.000
+Iowa	Pottawattamie	19155	Dfa	1.000
+Iowa	Poweshiek	19157	Dfa	1.000
+Iowa	Ringgold	19159	Dfa	1.000
+Iowa	Sac	19161	Dfa	1.000
+Iowa	Scott	19163	Dfa	1.000
+Iowa	Shelby	19165	Dfa	1.000
+Iowa	Sioux	19167	Dfa	1.000
+Iowa	Story	19169	Dfa	1.000
+Iowa	Tama	19171	Dfa	1.000
+Iowa	Taylor	19173	Dfa	1.000
+Iowa	Union	19175	Dfa	1.000
+Iowa	Van Buren	19177	Dfa	1.000
+Iowa	Wapello	19179	Dfa	1.000
+Iowa	Warren	19181	Dfa	1.000
+Iowa	Washington	19183	Dfa	1.000
+Iowa	Wayne	19185	Dfa	1.000
+Iowa	Webster	19187	Dfa	1.000
+Iowa	Winnebago	19189	Dfa	1.000
+Iowa	Winneshiek	19191	Dfa	1.000
+Iowa	Woodbury	19193	Dfa	1.000
+Iowa	Worth	19195	Dfa	1.000
+Iowa	Wright	19197	Dfa	1.000
+Kansas	Allen	20001	Cfa	1.000
+Kansas	Anderson	20003	Cfa	1.000
+Kansas	Atchison	20005	Dfa	0.563
+Kansas	Atchison	20005	Cfa	0.438
+Kansas	Barber	20007	Cfa	1.000
+Kansas	Barton	20009	Cfa	1.000
+Kansas	Bourbon	20011	Cfa	1.000
+Kansas	Brown	20013	Dfa	1.000
+Kansas	Butler	20015	Cfa	1.000
+Kansas	Chase	20017	Cfa	1.000
+Kansas	Chautauqua	20019	Cfa	1.000
+Kansas	Cherokee	20021	Cfa	1.000
+Kansas	Cheyenne	20023	BSk	1.000
+Kansas	Clark	20025	BSk	0.182
+Kansas	Clark	20025	Cfa	0.818
+Kansas	Clay	20027	Dfa	0.125
+Kansas	Clay	20027	Cfa	0.875
+Kansas	Cloud	20029	Dfa	0.429
+Kansas	Cloud	20029	Cfa	0.571
+Kansas	Coffey	20031	Cfa	1.000
+Kansas	Comanche	20033	Cfa	1.000
+Kansas	Cowley	20035	Cfa	1.000
+Kansas	Crawford	20037	Cfa	1.000
+Kansas	Decatur	20039	Cfa	0.455
+Kansas	Decatur	20039	Dfa	0.545
+Kansas	Dickinson	20041	Cfa	1.000
+Kansas	Doniphan	20043	Dfa	1.000
+Kansas	Douglas	20045	Cfa	1.000
+Kansas	Edwards	20047	Cfa	1.000
+Kansas	Elk	20049	Cfa	1.000
+Kansas	Ellis	20051	Cfa	0.727
+Kansas	Ellis	20051	Dfa	0.273
+Kansas	Ellsworth	20053	Cfa	1.000
+Kansas	Finney	20055	BSk	0.808
+Kansas	Finney	20055	Cfa	0.192
+Kansas	Ford	20057	BSk	0.302
+Kansas	Ford	20057	Cfa	0.698
+Kansas	Franklin	20059	Cfa	1.000
+Kansas	Geary	20061	Cfa	1.000
+Kansas	Gove	20063	Cfa	0.692
+Kansas	Gove	20063	BSk	0.308
+Kansas	Graham	20065	Dfa	0.125
+Kansas	Graham	20065	Cfa	0.875
+Kansas	Grant	20067	BSk	1.000
+Kansas	Gray	20069	BSk	1.000
+Kansas	Greeley	20071	BSk	1.000
+Kansas	Greenwood	20073	Cfa	1.000
+Kansas	Hamilton	20075	BSk	1.000
+Kansas	Harper	20077	Cfa	1.000
+Kansas	Harvey	20079	Cfa	1.000
+Kansas	Haskell	20081	BSk	1.000
+Kansas	Hodgeman	20083	Cfa	0.898
+Kansas	Hodgeman	20083	BSk	0.102
+Kansas	Jackson	20085	Dfa	0.263
+Kansas	Jackson	20085	Cfa	0.737
+Kansas	Jefferson	20087	Cfa	1.000
+Kansas	Jewell	20089	Dfa	1.000
+Kansas	Johnson	20091	Cfa	1.000
+Kansas	Kearny	20093	BSk	1.000
+Kansas	Kingman	20095	Cfa	1.000
+Kansas	Kiowa	20097	Cfa	1.000
+Kansas	Labette	20099	Cfa	1.000
+Kansas	Lane	20101	BSk	0.444
+Kansas	Lane	20101	Cfa	0.556
+Kansas	Leavenworth	20103	Cfa	1.000
+Kansas	Lincoln	20105	Cfa	1.000
+Kansas	Linn	20107	Cfa	1.000
+Kansas	Logan	20109	BSk	0.905
+Kansas	Logan	20109	Cfa	0.095
+Kansas	Lyon	20111	Cfa	1.000
+Kansas	Marion	20115	Cfa	1.000
+Kansas	Marshall	20117	Dfa	1.000
+Kansas	McPherson	20113	Cfa	1.000
+Kansas	Meade	20119	BSk	1.000
+Kansas	Miami	20121	Cfa	1.000
+Kansas	Mitchell	20123	Dfa	0.143
+Kansas	Mitchell	20123	Cfa	0.857
+Kansas	Montgomery	20125	Cfa	1.000
+Kansas	Morris	20127	Cfa	1.000
+Kansas	Morton	20129	BSk	1.000
+Kansas	Nemaha	20131	Dfa	1.000
+Kansas	Neosho	20133	Cfa	1.000
+Kansas	Ness	20135	Cfa	1.000
+Kansas	Norton	20137	Dfa	1.000
+Kansas	Osage	20139	Cfa	1.000
+Kansas	Osborne	20141	Dfa	0.205
+Kansas	Osborne	20141	Cfa	0.795
+Kansas	Ottawa	20143	Cfa	1.000
+Kansas	Pawnee	20145	Cfa	1.000
+Kansas	Phillips	20147	Dfa	1.000
+Kansas	Pottawatomie	20149	Dfa	0.140
+Kansas	Pottawatomie	20149	Cfa	0.860
+Kansas	Pratt	20151	Cfa	1.000
+Kansas	Rawlins	20153	BSk	0.615
+Kansas	Rawlins	20153	Cfa	0.385
+Kansas	Reno	20155	Cfa	1.000
+Kansas	Republic	20157	Dfa	1.000
+Kansas	Rice	20159	Cfa	1.000
+Kansas	Riley	20161	Dfa	0.092
+Kansas	Riley	20161	Cfa	0.908
+Kansas	Rooks	20163	Dfa	0.841
+Kansas	Rooks	20163	Cfa	0.159
+Kansas	Rush	20165	Cfa	1.000
+Kansas	Russell	20167	Dfa	0.030
+Kansas	Russell	20167	Cfa	0.970
+Kansas	Saline	20169	Cfa	1.000
+Kansas	Scott	20171	BSk	1.000
+Kansas	Sedgwick	20173	Cfa	1.000
+Kansas	Seward	20175	BSk	1.000
+Kansas	Shawnee	20177	Cfa	1.000
+Kansas	Sheridan	20179	Cfa	0.920
+Kansas	Sheridan	20179	Dfa	0.080
+Kansas	Sherman	20181	BSk	1.000
+Kansas	Smith	20183	Dfa	1.000
+Kansas	Stafford	20185	Cfa	1.000
+Kansas	Stanton	20187	BSk	1.000
+Kansas	Stevens	20189	BSk	1.000
+Kansas	Sumner	20191	Cfa	1.000
+Kansas	Thomas	20193	BSk	0.571
+Kansas	Thomas	20193	Cfa	0.429
+Kansas	Trego	20195	Cfa	1.000
+Kansas	Wabaunsee	20197	Cfa	1.000
+Kansas	Wallace	20199	BSk	1.000
+Kansas	Washington	20201	Dfa	1.000
+Kansas	Wichita	20203	BSk	1.000
+Kansas	Wilson	20205	Cfa	1.000
+Kansas	Woodson	20207	Cfa	1.000
+Kansas	Wyandotte	20209	Cfa	1.000
+Kentucky	Adair	21001	Cfa	1.000
+Kentucky	Allen	21003	Cfa	1.000
+Kentucky	Anderson	21005	Cfa	1.000
+Kentucky	Ballard	21007	Cfa	1.000
+Kentucky	Barren	21009	Cfa	1.000
+Kentucky	Bath	21011	Cfa	1.000
+Kentucky	Bell	21013	Cfa	1.000
+Kentucky	Boone	21015	Cfa	1.000
+Kentucky	Bourbon	21017	Cfa	1.000
+Kentucky	Boyd	21019	Cfa	1.000
+Kentucky	Boyle	21021	Cfa	1.000
+Kentucky	Bracken	21023	Cfa	1.000
+Kentucky	Breathitt	21025	Cfa	1.000
+Kentucky	Breckinridge	21027	Cfa	1.000
+Kentucky	Bullitt	21029	Cfa	1.000
+Kentucky	Butler	21031	Cfa	1.000
+Kentucky	Caldwell	21033	Cfa	1.000
+Kentucky	Calloway	21035	Cfa	1.000
+Kentucky	Campbell	21037	Cfa	1.000
+Kentucky	Carlisle	21039	Cfa	1.000
+Kentucky	Carroll	21041	Cfa	1.000
+Kentucky	Carter	21043	Cfa	1.000
+Kentucky	Casey	21045	Cfa	1.000
+Kentucky	Christian	21047	Cfa	1.000
+Kentucky	Clark	21049	Cfa	1.000
+Kentucky	Clay	21051	Cfa	1.000
+Kentucky	Clinton	21053	Cfa	1.000
+Kentucky	Crittenden	21055	Cfa	1.000
+Kentucky	Cumberland	21057	Cfa	1.000
+Kentucky	Daviess	21059	Cfa	1.000
+Kentucky	Edmonson	21061	Cfa	1.000
+Kentucky	Elliott	21063	Cfa	1.000
+Kentucky	Estill	21065	Cfa	1.000
+Kentucky	Fayette	21067	Cfa	1.000
+Kentucky	Fleming	21069	Cfa	1.000
+Kentucky	Floyd	21071	Cfa	1.000
+Kentucky	Franklin	21073	Cfa	1.000
+Kentucky	Fulton	21075	Cfa	1.000
+Kentucky	Gallatin	21077	Cfa	1.000
+Kentucky	Garrard	21079	Cfa	1.000
+Kentucky	Grant	21081	Cfa	1.000
+Kentucky	Graves	21083	Cfa	1.000
+Kentucky	Grayson	21085	Cfa	1.000
+Kentucky	Green	21087	Cfa	1.000
+Kentucky	Greenup	21089	Cfa	1.000
+Kentucky	Hancock	21091	Cfa	1.000
+Kentucky	Hardin	21093	Cfa	1.000
+Kentucky	Harlan	21095	Cfa	1.000
+Kentucky	Harrison	21097	Cfa	1.000
+Kentucky	Hart	21099	Cfa	1.000
+Kentucky	Henderson	21101	Cfa	1.000
+Kentucky	Henry	21103	Cfa	1.000
+Kentucky	Hickman	21105	Cfa	1.000
+Kentucky	Hopkins	21107	Cfa	1.000
+Kentucky	Jackson	21109	Cfa	1.000
+Kentucky	Jefferson	21111	Cfa	1.000
+Kentucky	Jessamine	21113	Cfa	1.000
+Kentucky	Johnson	21115	Cfa	1.000
+Kentucky	Kenton	21117	Cfa	1.000
+Kentucky	Knott	21119	Cfa	1.000
+Kentucky	Knox	21121	Cfa	1.000
+Kentucky	Larue	21123	Cfa	1.000
+Kentucky	Laurel	21125	Cfa	1.000
+Kentucky	Lawrence	21127	Cfa	1.000
+Kentucky	Lee	21129	Cfa	1.000
+Kentucky	Leslie	21131	Cfa	1.000
+Kentucky	Letcher	21133	Cfa	1.000
+Kentucky	Lewis	21135	Cfa	1.000
+Kentucky	Lincoln	21137	Cfa	1.000
+Kentucky	Livingston	21139	Cfa	1.000
+Kentucky	Logan	21141	Cfa	1.000
+Kentucky	Lyon	21143	Cfa	1.000
+Kentucky	Madison	21151	Cfa	1.000
+Kentucky	Magoffin	21153	Cfa	1.000
+Kentucky	Marion	21155	Cfa	1.000
+Kentucky	Marshall	21157	Cfa	1.000
+Kentucky	Martin	21159	Cfa	1.000
+Kentucky	Mason	21161	Cfa	1.000
+Kentucky	McCracken	21145	Cfa	1.000
+Kentucky	McCreary	21147	Cfa	1.000
+Kentucky	McLean	21149	Cfa	1.000
+Kentucky	Meade	21163	Cfa	1.000
+Kentucky	Menifee	21165	Cfa	1.000
+Kentucky	Mercer	21167	Cfa	1.000
+Kentucky	Metcalfe	21169	Cfa	1.000
+Kentucky	Monroe	21171	Cfa	1.000
+Kentucky	Montgomery	21173	Cfa	1.000
+Kentucky	Morgan	21175	Cfa	1.000
+Kentucky	Muhlenberg	21177	Cfa	1.000
+Kentucky	Nelson	21179	Cfa	1.000
+Kentucky	Nicholas	21181	Cfa	1.000
+Kentucky	Ohio	21183	Cfa	1.000
+Kentucky	Oldham	21185	Cfa	1.000
+Kentucky	Owen	21187	Cfa	1.000
+Kentucky	Owsley	21189	Cfa	1.000
+Kentucky	Pendleton	21191	Cfa	1.000
+Kentucky	Perry	21193	Cfa	1.000
+Kentucky	Pike	21195	Cfa	1.000
+Kentucky	Powell	21197	Cfa	1.000
+Kentucky	Pulaski	21199	Cfa	1.000
+Kentucky	Robertson	21201	Cfa	1.000
+Kentucky	Rockcastle	21203	Cfa	1.000
+Kentucky	Rowan	21205	Cfa	1.000
+Kentucky	Russell	21207	Cfa	1.000
+Kentucky	Scott	21209	Cfa	1.000
+Kentucky	Shelby	21211	Cfa	1.000
+Kentucky	Simpson	21213	Cfa	1.000
+Kentucky	Spencer	21215	Cfa	1.000
+Kentucky	Taylor	21217	Cfa	1.000
+Kentucky	Todd	21219	Cfa	1.000
+Kentucky	Trigg	21221	Cfa	1.000
+Kentucky	Trimble	21223	Cfa	1.000
+Kentucky	Union	21225	Cfa	1.000
+Kentucky	Warren	21227	Cfa	1.000
+Kentucky	Washington	21229	Cfa	1.000
+Kentucky	Wayne	21231	Cfa	1.000
+Kentucky	Webster	21233	Cfa	1.000
+Kentucky	Whitley	21235	Cfa	1.000
+Kentucky	Wolfe	21237	Cfa	1.000
+Kentucky	Woodford	21239	Cfa	1.000
+Louisiana	Acadia	22001	Cfa	1.000
+Louisiana	Allen	22003	Cfa	1.000
+Louisiana	Ascension	22005	Cfa	1.000
+Louisiana	Assumption	22007	Cfa	1.000
+Louisiana	Avoyelles	22009	Cfa	1.000
+Louisiana	Beauregard	22011	Cfa	1.000
+Louisiana	Bienville	22013	Cfa	1.000
+Louisiana	Bossier	22015	Cfa	1.000
+Louisiana	Caddo	22017	Cfa	1.000
+Louisiana	Calcasieu	22019	Cfa	1.000
+Louisiana	Caldwell	22021	Cfa	1.000
+Louisiana	Cameron	22023	Cfa	1.000
+Louisiana	Catahoula	22025	Cfa	1.000
+Louisiana	Claiborne	22027	Cfa	1.000
+Louisiana	Concordia	22029	Cfa	1.000
+Louisiana	De Soto	22031	Cfa	1.000
+Louisiana	East Baton Rouge	22033	Cfa	1.000
+Louisiana	East Carroll	22035	Cfa	1.000
+Louisiana	East Feliciana	22037	Cfa	1.000
+Louisiana	Evangeline	22039	Cfa	1.000
+Louisiana	Franklin	22041	Cfa	1.000
+Louisiana	Grant	22043	Cfa	1.000
+Louisiana	Iberia	22045	Cfa	1.000
+Louisiana	Iberville	22047	Cfa	1.000
+Louisiana	Jackson	22049	Cfa	1.000
+Louisiana	Jefferson	22051	Cfa	1.000
+Louisiana	Jefferson Davis	22053	Cfa	1.000
+Louisiana	La Salle	22059	Cfa	1.000
+Louisiana	Lafayette	22055	Cfa	1.000
+Louisiana	Lafourche	22057	Cfa	1.000
+Louisiana	Lincoln	22061	Cfa	1.000
+Louisiana	Livingston	22063	Cfa	1.000
+Louisiana	Madison	22065	Cfa	1.000
+Louisiana	Morehouse	22067	Cfa	1.000
+Louisiana	Natchitoches	22069	Cfa	1.000
+Louisiana	Orleans	22071	Cfa	1.000
+Louisiana	Ouachita	22073	Cfa	1.000
+Louisiana	Plaquemines	22075	Cfa	1.000
+Louisiana	Pointe Coupee	22077	Cfa	1.000
+Louisiana	Rapides	22079	Cfa	1.000
+Louisiana	Red River	22081	Cfa	1.000
+Louisiana	Richland	22083	Cfa	1.000
+Louisiana	Sabine	22085	Cfa	1.000
+Louisiana	Saint Bernard	22087	Cfa	1.000
+Louisiana	Saint Charles	22089	Cfa	1.000
+Louisiana	Saint Helena	22091	Cfa	1.000
+Louisiana	Saint James	22093	Cfa	1.000
+Louisiana	Saint John the Baptist	22095	Cfa	1.000
+Louisiana	Saint Landry	22097	Cfa	1.000
+Louisiana	Saint Martin	22099	Cfa	1.000
+Louisiana	Saint Mary	22101	Cfa	1.000
+Louisiana	Saint Tammany	22103	Cfa	1.000
+Louisiana	Tangipahoa	22105	Cfa	1.000
+Louisiana	Tensas	22107	Cfa	1.000
+Louisiana	Terrebonne	22109	Cfa	1.000
+Louisiana	Union	22111	Cfa	1.000
+Louisiana	Vermilion	22113	Cfa	1.000
+Louisiana	Vernon	22115	Cfa	1.000
+Louisiana	Washington	22117	Cfa	1.000
+Louisiana	Webster	22119	Cfa	1.000
+Louisiana	West Baton Rouge	22121	Cfa	1.000
+Louisiana	West Carroll	22123	Cfa	1.000
+Louisiana	West Feliciana	22125	Cfa	1.000
+Louisiana	Winn	22127	Cfa	1.000
+Maine	Androscoggin	23001	Dfb	1.000
+Maine	Aroostook	23003	Dfb	1.000
+Maine	Cumberland	23005	Dfb	1.000
+Maine	Franklin	23007	Dfb	1.000
+Maine	Hancock	23009	Dfb	1.000
+Maine	Kennebec	23011	Dfb	1.000
+Maine	Knox	23013	Dfb	1.000
+Maine	Lincoln	23015	Dfb	1.000
+Maine	Oxford	23017	Dfb	1.000
+Maine	Penobscot	23019	Dfb	1.000
+Maine	Piscataquis	23021	Dfb	1.000
+Maine	Sagadahoc	23023	Dfb	1.000
+Maine	Somerset	23025	Dfb	1.000
+Maine	Waldo	23027	Dfb	1.000
+Maine	Washington	23029	Dfb	1.000
+Maine	York	23031	Dfb	1.000
+Maryland	Allegany	24001	Cfb	0.050
+Maryland	Allegany	24001	Cfa	0.950
+Maryland	Anne Arundel	24003	Cfa	1.000
+Maryland	Baltimore	24005	Cfa	1.000
+Maryland	Calvert	24009	Cfa	1.000
+Maryland	Caroline	24011	Cfa	1.000
+Maryland	Carroll	24013	Cfa	1.000
+Maryland	Cecil	24015	Cfa	1.000
+Maryland	Charles	24017	Cfa	1.000
+Maryland	Dorchester	24019	Cfa	1.000
+Maryland	Frederick	24021	Cfa	1.000
+Maryland	Garrett	24023	Cfb	0.986
+Maryland	Garrett	24023	Cfa	0.014
+Maryland	Harford	24025	Cfa	1.000
+Maryland	Howard	24027	Cfa	1.000
+Maryland	Kent	24029	Cfa	1.000
+Maryland	Montgomery	24031	Cfa	1.000
+Maryland	Prince George's	24033	Cfa	1.000
+Maryland	Queen Anne's	24035	Cfa	1.000
+Maryland	Saint Mary's	24037	Cfa	1.000
+Maryland	Somerset	24039	Cfa	1.000
+Maryland	Talbot	24041	Cfa	1.000
+Maryland	Washington	24043	Cfa	1.000
+Maryland	Wicomico	24045	Cfa	1.000
+Maryland	Worcester	24047	Cfa	1.000
+Massachusetts	Barnstable	25001	Cfa	1.000
+Massachusetts	Berkshire	25003	Dfb	1.000
+Massachusetts	Bristol	25005	Dfa	0.077
+Massachusetts	Bristol	25005	Cfa	0.923
+Massachusetts	Dukes	25007	Cfa	1.000
+Massachusetts	Essex	25009	Dfb	0.933
+Massachusetts	Essex	25009	Dfa	0.017
+Massachusetts	Essex	25009	Cfa	0.050
+Massachusetts	Franklin	25011	Dfb	1.000
+Massachusetts	Hampden	25013	Dfb	1.000
+Massachusetts	Hampshire	25015	Dfb	1.000
+Massachusetts	Middlesex	25017	Dfb	0.554
+Massachusetts	Middlesex	25017	Dfa	0.446
+Massachusetts	Nantucket	25019	Cfa	1.000
+Massachusetts	Norfolk	25021	Dfa	0.898
+Massachusetts	Norfolk	25021	Cfa	0.102
+Massachusetts	Plymouth	25023	Dfa	0.039
+Massachusetts	Plymouth	25023	Cfa	0.961
+Massachusetts	Suffolk	25025	Dfa	0.714
+Massachusetts	Suffolk	25025	Cfa	0.286
+Massachusetts	Worcester	25027	Dfb	1.000
+Michigan	Alcona	26001	Dfb	1.000
+Michigan	Alger	26003	Dfb	1.000
+Michigan	Allegan	26005	Dfb	0.708
+Michigan	Allegan	26005	Dfa	0.292
+Michigan	Alpena	26007	Dfb	1.000
+Michigan	Antrim	26009	Dfb	1.000
+Michigan	Arenac	26011	Dfb	1.000
+Michigan	Baraga	26013	Dfb	1.000
+Michigan	Barry	26015	Dfb	0.714
+Michigan	Barry	26015	Dfa	0.286
+Michigan	Bay	26017	Dfb	1.000
+Michigan	Benzie	26019	Dfb	1.000
+Michigan	Berrien	26021	Dfa	1.000
+Michigan	Branch	26023	Dfa	0.667
+Michigan	Branch	26023	Dfb	0.333
+Michigan	Calhoun	26025	Dfa	0.500
+Michigan	Calhoun	26025	Dfb	0.500
+Michigan	Cass	26027	Dfa	1.000
+Michigan	Charlevoix	26029	Dfb	1.000
+Michigan	Cheboygan	26031	Dfb	1.000
+Michigan	Chippewa	26033	Dfb	1.000
+Michigan	Clare	26035	Dfb	1.000
+Michigan	Clinton	26037	Dfb	1.000
+Michigan	Crawford	26039	Dfb	1.000
+Michigan	Delta	26041	Dfb	1.000
+Michigan	Dickinson	26043	Dfb	1.000
+Michigan	Eaton	26045	Dfb	0.968
+Michigan	Eaton	26045	Dfa	0.032
+Michigan	Emmet	26047	Dfb	1.000
+Michigan	Genesee	26049	Dfb	1.000
+Michigan	Gladwin	26051	Dfb	1.000
+Michigan	Gogebic	26053	Dfb	1.000
+Michigan	Grand Traverse	26055	Dfb	1.000
+Michigan	Gratiot	26057	Dfb	1.000
+Michigan	Hillsdale	26059	Dfb	1.000
+Michigan	Houghton	26061	Dfb	1.000
+Michigan	Huron	26063	Dfb	0.960
+Michigan	Ingham	26065	Dfb	1.000
+Michigan	Ionia	26067	Dfb	1.000
+Michigan	Iosco	26069	Dfb	1.000
+Michigan	Iron	26071	Dfb	1.000
+Michigan	Isabella	26073	Dfb	1.000
+Michigan	Jackson	26075	Dfb	1.000
+Michigan	Kalamazoo	26077	Dfa	1.000
+Michigan	Kalkaska	26079	Dfb	1.000
+Michigan	Kent	26081	Dfb	1.000
+Michigan	Keweenaw	26083	Dfb	1.000
+Michigan	Lake	26085	Dfb	1.000
+Michigan	Lapeer	26087	Dfb	1.000
+Michigan	Leelanau	26089	Dfb	1.000
+Michigan	Lenawee	26091	Dfb	0.557
+Michigan	Lenawee	26091	Dfa	0.443
+Michigan	Livingston	26093	Dfb	0.871
+Michigan	Livingston	26093	Dfa	0.129
+Michigan	Luce	26095	Dfb	1.000
+Michigan	Mackinac	26097	Dfb	1.000
+Michigan	Macomb	26099	Dfb	0.964
+Michigan	Macomb	26099	Dfa	0.036
+Michigan	Manistee	26101	Dfb	1.000
+Michigan	Marquette	26103	Dfb	1.000
+Michigan	Mason	26105	Dfb	1.000
+Michigan	Mecosta	26107	Dfb	1.000
+Michigan	Menominee	26109	Dfb	1.000
+Michigan	Midland	26111	Dfb	1.000
+Michigan	Missaukee	26113	Dfb	1.000
+Michigan	Monroe	26115	Dfa	1.000
+Michigan	Montcalm	26117	Dfb	1.000
+Michigan	Montmorency	26119	Dfb	1.000
+Michigan	Muskegon	26121	Dfb	1.000
+Michigan	Newaygo	26123	Dfb	1.000
+Michigan	Oakland	26125	Dfb	0.893
+Michigan	Oakland	26125	Dfa	0.107
+Michigan	Oceana	26127	Dfb	1.000
+Michigan	Ogemaw	26129	Dfb	1.000
+Michigan	Ontonagon	26131	Dfb	1.000
+Michigan	Osceola	26133	Dfb	1.000
+Michigan	Oscoda	26135	Dfb	1.000
+Michigan	Otsego	26137	Dfb	1.000
+Michigan	Ottawa	26139	Dfb	1.000
+Michigan	Presque Isle	26141	Dfb	1.000
+Michigan	Roscommon	26143	Dfb	1.000
+Michigan	Saginaw	26145	Dfb	1.000
+Michigan	Saint Clair	26147	Dfb	1.000
+Michigan	Saint Joseph	26149	Dfa	1.000
+Michigan	Sanilac	26151	Dfb	1.000
+Michigan	Schoolcraft	26153	Dfb	1.000
+Michigan	Shiawassee	26155	Dfb	1.000
+Michigan	Tuscola	26157	Dfb	1.000
+Michigan	Van Buren	26159	Dfa	1.000
+Michigan	Washtenaw	26161	Dfb	0.256
+Michigan	Washtenaw	26161	Dfa	0.744
+Michigan	Wayne	26163	Dfa	0.943
+Michigan	Wayne	26163	Dfb	0.057
+Michigan	Wexford	26165	Dfb	1.000
+Minnesota	Aitkin	27001	Dfb	1.000
+Minnesota	Anoka	27003	Dfb	1.000
+Minnesota	Becker	27005	Dfb	1.000
+Minnesota	Beltrami	27007	Dfb	1.000
+Minnesota	Benton	27009	Dfb	1.000
+Minnesota	Big Stone	27011	Dfb	1.000
+Minnesota	Blue Earth	27013	Dfa	1.000
+Minnesota	Brown	27015	Dfa	1.000
+Minnesota	Carlton	27017	Dfb	1.000
+Minnesota	Carver	27019	Dfa	1.000
+Minnesota	Cass	27021	Dfb	1.000
+Minnesota	Chippewa	27023	Dfb	0.636
+Minnesota	Chippewa	27023	Dfa	0.364
+Minnesota	Chisago	27025	Dfb	1.000
+Minnesota	Clay	27027	Dfb	1.000
+Minnesota	Clearwater	27029	Dfb	1.000
+Minnesota	Cook	27031	Dfb	1.000
+Minnesota	Cottonwood	27033	Dfa	0.635
+Minnesota	Cottonwood	27033	Dfb	0.365
+Minnesota	Crow Wing	27035	Dfb	1.000
+Minnesota	Dakota	27037	Dfa	1.000
+Minnesota	Dodge	27039	Dfa	0.143
+Minnesota	Dodge	27039	Dfb	0.857
+Minnesota	Douglas	27041	Dfb	1.000
+Minnesota	Faribault	27043	Dfa	1.000
+Minnesota	Fillmore	27045	Dfb	0.643
+Minnesota	Fillmore	27045	Dfa	0.357
+Minnesota	Freeborn	27047	Dfa	1.000
+Minnesota	Goodhue	27049	Dfa	0.261
+Minnesota	Goodhue	27049	Dfb	0.739
+Minnesota	Grant	27051	Dfb	1.000
+Minnesota	Hennepin	27053	Dfb	0.522
+Minnesota	Hennepin	27053	Dfa	0.478
+Minnesota	Houston	27055	Dfa	1.000
+Minnesota	Hubbard	27057	Dfb	1.000
+Minnesota	Isanti	27059	Dfb	1.000
+Minnesota	Itasca	27061	Dfb	1.000
+Minnesota	Jackson	27063	Dfb	0.750
+Minnesota	Jackson	27063	Dfa	0.250
+Minnesota	Kanabec	27065	Dfb	1.000
+Minnesota	Kandiyohi	27067	Dfb	0.800
+Minnesota	Kandiyohi	27067	Dfa	0.200
+Minnesota	Kittson	27069	Dfb	1.000
+Minnesota	Koochiching	27071	Dfb	1.000
+Minnesota	Lac qui Parle	27073	Dfb	0.440
+Minnesota	Lac qui Parle	27073	Dfa	0.560
+Minnesota	Lake	27075	Dfb	1.000
+Minnesota	Lake of the Woods	27077	Dfb	1.000
+Minnesota	Le Sueur	27079	Dfa	1.000
+Minnesota	Lincoln	27081	Dfa	1.000
+Minnesota	Lyon	27083	Dfa	1.000
+Minnesota	Mahnomen	27087	Dfb	1.000
+Minnesota	Marshall	27089	Dfb	1.000
+Minnesota	Martin	27091	Dfa	1.000
+Minnesota	McLeod	27085	Dfa	1.000
+Minnesota	Meeker	27093	Dfb	0.870
+Minnesota	Meeker	27093	Dfa	0.130
+Minnesota	Mille Lacs	27095	Dfb	1.000
+Minnesota	Morrison	27097	Dfb	1.000
+Minnesota	Mower	27099	Dfa	0.083
+Minnesota	Mower	27099	Dfb	0.917
+Minnesota	Murray	27101	Dfa	0.964
+Minnesota	Murray	27101	Dfb	0.036
+Minnesota	Nicollet	27103	Dfa	1.000
+Minnesota	Nobles	27105	Dfa	0.917
+Minnesota	Nobles	27105	Dfb	0.083
+Minnesota	Norman	27107	Dfb	1.000
+Minnesota	Olmsted	27109	Dfb	1.000
+Minnesota	Otter Tail	27111	Dfb	1.000
+Minnesota	Pennington	27113	Dfb	1.000
+Minnesota	Pine	27115	Dfb	1.000
+Minnesota	Pipestone	27117	Dfa	1.000
+Minnesota	Polk	27119	Dfb	1.000
+Minnesota	Pope	27121	Dfb	1.000
+Minnesota	Ramsey	27123	Dfb	0.636
+Minnesota	Ramsey	27123	Dfa	0.364
+Minnesota	Red Lake	27125	Dfb	1.000
+Minnesota	Redwood	27127	Dfa	1.000
+Minnesota	Renville	27129	Dfa	1.000
+Minnesota	Rice	27131	Dfa	1.000
+Minnesota	Rock	27133	Dfa	1.000
+Minnesota	Roseau	27135	Dfb	1.000
+Minnesota	Saint Louis	27137	Dfb	1.000
+Minnesota	Scott	27139	Dfa	1.000
+Minnesota	Sherburne	27141	Dfb	1.000
+Minnesota	Sibley	27143	Dfa	1.000
+Minnesota	Stearns	27145	Dfb	1.000
+Minnesota	Steele	27147	Dfa	1.000
+Minnesota	Stevens	27149	Dfb	1.000
+Minnesota	Swift	27151	Dfb	1.000
+Minnesota	Todd	27153	Dfb	1.000
+Minnesota	Traverse	27155	Dfb	1.000
+Minnesota	Wabasha	27157	Dfb	0.903
+Minnesota	Wabasha	27157	Dfa	0.097
+Minnesota	Wadena	27159	Dfb	1.000
+Minnesota	Waseca	27161	Dfa	1.000
+Minnesota	Washington	27163	Dfb	0.558
+Minnesota	Washington	27163	Dfa	0.442
+Minnesota	Watonwan	27165	Dfa	1.000
+Minnesota	Wilkin	27167	Dfb	1.000
+Minnesota	Winona	27169	Dfb	0.179
+Minnesota	Winona	27169	Dfa	0.821
+Minnesota	Wright	27171	Dfb	1.000
+Minnesota	Yellow Medicine	27173	Dfa	1.000
+Mississippi	Adams	28001	Cfa	1.000
+Mississippi	Alcorn	28003	Cfa	1.000
+Mississippi	Amite	28005	Cfa	1.000
+Mississippi	Attala	28007	Cfa	1.000
+Mississippi	Benton	28009	Cfa	1.000
+Mississippi	Bolivar	28011	Cfa	1.000
+Mississippi	Calhoun	28013	Cfa	1.000
+Mississippi	Carroll	28015	Cfa	1.000
+Mississippi	Chickasaw	28017	Cfa	1.000
+Mississippi	Choctaw	28019	Cfa	1.000
+Mississippi	Claiborne	28021	Cfa	1.000
+Mississippi	Clarke	28023	Cfa	1.000
+Mississippi	Clay	28025	Cfa	1.000
+Mississippi	Coahoma	28027	Cfa	1.000
+Mississippi	Copiah	28029	Cfa	1.000
+Mississippi	Covington	28031	Cfa	1.000
+Mississippi	Desoto	28033	Cfa	1.000
+Mississippi	Forrest	28035	Cfa	1.000
+Mississippi	Franklin	28037	Cfa	1.000
+Mississippi	George	28039	Cfa	1.000
+Mississippi	Greene	28041	Cfa	1.000
+Mississippi	Grenada	28043	Cfa	1.000
+Mississippi	Hancock	28045	Cfa	1.000
+Mississippi	Harrison	28047	Cfa	1.000
+Mississippi	Hinds	28049	Cfa	1.000
+Mississippi	Holmes	28051	Cfa	1.000
+Mississippi	Humphreys	28053	Cfa	1.000
+Mississippi	Issaquena	28055	Cfa	1.000
+Mississippi	Itawamba	28057	Cfa	1.000
+Mississippi	Jackson	28059	Cfa	1.000
+Mississippi	Jasper	28061	Cfa	1.000
+Mississippi	Jefferson	28063	Cfa	1.000
+Mississippi	Jefferson Davis	28065	Cfa	1.000
+Mississippi	Jones	28067	Cfa	1.000
+Mississippi	Kemper	28069	Cfa	1.000
+Mississippi	Lafayette	28071	Cfa	1.000
+Mississippi	Lamar	28073	Cfa	1.000
+Mississippi	Lauderdale	28075	Cfa	1.000
+Mississippi	Lawrence	28077	Cfa	1.000
+Mississippi	Leake	28079	Cfa	1.000
+Mississippi	Lee	28081	Cfa	1.000
+Mississippi	Leflore	28083	Cfa	1.000
+Mississippi	Lincoln	28085	Cfa	1.000
+Mississippi	Lowndes	28087	Cfa	1.000
+Mississippi	Madison	28089	Cfa	1.000
+Mississippi	Marion	28091	Cfa	1.000
+Mississippi	Marshall	28093	Cfa	1.000
+Mississippi	Monroe	28095	Cfa	1.000
+Mississippi	Montgomery	28097	Cfa	1.000
+Mississippi	Neshoba	28099	Cfa	1.000
+Mississippi	Newton	28101	Cfa	1.000
+Mississippi	Noxubee	28103	Cfa	1.000
+Mississippi	Oktibbeha	28105	Cfa	1.000
+Mississippi	Panola	28107	Cfa	1.000
+Mississippi	Pearl River	28109	Cfa	1.000
+Mississippi	Perry	28111	Cfa	1.000
+Mississippi	Pike	28113	Cfa	1.000
+Mississippi	Pontotoc	28115	Cfa	1.000
+Mississippi	Prentiss	28117	Cfa	1.000
+Mississippi	Quitman	28119	Cfa	1.000
+Mississippi	Rankin	28121	Cfa	1.000
+Mississippi	Scott	28123	Cfa	1.000
+Mississippi	Sharkey	28125	Cfa	1.000
+Mississippi	Simpson	28127	Cfa	1.000
+Mississippi	Smith	28129	Cfa	1.000
+Mississippi	Stone	28131	Cfa	1.000
+Mississippi	Sunflower	28133	Cfa	1.000
+Mississippi	Tallahatchie	28135	Cfa	1.000
+Mississippi	Tate	28137	Cfa	1.000
+Mississippi	Tippah	28139	Cfa	1.000
+Mississippi	Tishomingo	28141	Cfa	1.000
+Mississippi	Tunica	28143	Cfa	1.000
+Mississippi	Union	28145	Cfa	1.000
+Mississippi	Walthall	28147	Cfa	1.000
+Mississippi	Warren	28149	Cfa	1.000
+Mississippi	Washington	28151	Cfa	1.000
+Mississippi	Wayne	28153	Cfa	1.000
+Mississippi	Webster	28155	Cfa	1.000
+Mississippi	Wilkinson	28157	Cfa	1.000
+Mississippi	Winston	28159	Cfa	1.000
+Mississippi	Yalobusha	28161	Cfa	1.000
+Mississippi	Yazoo	28163	Cfa	1.000
+Missouri	Adair	29001	Dfa	1.000
+Missouri	Andrew	29003	Dfa	1.000
+Missouri	Atchison	29005	Dfa	1.000
+Missouri	Audrain	29007	Cfa	0.267
+Missouri	Audrain	29007	Dfa	0.733
+Missouri	Barry	29009	Cfa	1.000
+Missouri	Barton	29011	Cfa	1.000
+Missouri	Bates	29013	Cfa	1.000
+Missouri	Benton	29015	Cfa	1.000
+Missouri	Bollinger	29017	Cfa	1.000
+Missouri	Boone	29019	Cfa	1.000
+Missouri	Buchanan	29021	Dfa	1.000
+Missouri	Butler	29023	Cfa	1.000
+Missouri	Caldwell	29025	Dfa	1.000
+Missouri	Callaway	29027	Cfa	0.920
+Missouri	Callaway	29027	Dfa	0.080
+Missouri	Camden	29029	Cfa	1.000
+Missouri	Cape Girardeau	29031	Cfa	1.000
+Missouri	Carroll	29033	Dfa	0.648
+Missouri	Carroll	29033	Cfa	0.352
+Missouri	Carter	29035	Cfa	1.000
+Missouri	Cass	29037	Cfa	1.000
+Missouri	Cedar	29039	Cfa	1.000
+Missouri	Chariton	29041	Dfa	0.568
+Missouri	Chariton	29041	Cfa	0.432
+Missouri	Christian	29043	Cfa	1.000
+Missouri	Clark	29045	Dfa	1.000
+Missouri	Clay	29047	Cfa	1.000
+Missouri	Clinton	29049	Dfa	0.833
+Missouri	Clinton	29049	Cfa	0.167
+Missouri	Cole	29051	Cfa	1.000
+Missouri	Cooper	29053	Cfa	1.000
+Missouri	Crawford	29055	Cfa	1.000
+Missouri	Dade	29057	Cfa	1.000
+Missouri	Dallas	29059	Cfa	1.000
+Missouri	Daviess	29061	Dfa	1.000
+Missouri	De Kalb	29063	Dfa	1.000
+Missouri	Dent	29065	Cfa	1.000
+Missouri	Douglas	29067	Cfa	1.000
+Missouri	Dunklin	29069	Cfa	1.000
+Missouri	Franklin	29071	Cfa	1.000
+Missouri	Gasconade	29073	Cfa	1.000
+Missouri	Gentry	29075	Dfa	1.000
+Missouri	Greene	29077	Cfa	1.000
+Missouri	Grundy	29079	Dfa	1.000
+Missouri	Harrison	29081	Dfa	1.000
+Missouri	Henry	29083	Cfa	1.000
+Missouri	Hickory	29085	Cfa	1.000
+Missouri	Holt	29087	Dfa	1.000
+Missouri	Howard	29089	Cfa	1.000
+Missouri	Howell	29091	Cfa	1.000
+Missouri	Iron	29093	Cfa	1.000
+Missouri	Jackson	29095	Cfa	1.000
+Missouri	Jasper	29097	Cfa	1.000
+Missouri	Jefferson	29099	Cfa	1.000
+Missouri	Johnson	29101	Cfa	1.000
+Missouri	Knox	29103	Dfa	1.000
+Missouri	Laclede	29105	Cfa	1.000
+Missouri	Lafayette	29107	Cfa	0.364
+Missouri	Lafayette	29107	Dfa	0.636
+Missouri	Lawrence	29109	Cfa	1.000
+Missouri	Lewis	29111	Dfa	1.000
+Missouri	Lincoln	29113	Dfa	0.746
+Missouri	Lincoln	29113	Cfa	0.254
+Missouri	Linn	29115	Dfa	1.000
+Missouri	Livingston	29117	Dfa	1.000
+Missouri	Macon	29121	Dfa	1.000
+Missouri	Madison	29123	Cfa	1.000
+Missouri	Maries	29125	Cfa	1.000
+Missouri	Marion	29127	Dfa	1.000
+Missouri	McDonald	29119	Cfa	1.000
+Missouri	Mercer	29129	Dfa	1.000
+Missouri	Miller	29131	Cfa	1.000
+Missouri	Mississippi	29133	Cfa	1.000
+Missouri	Moniteau	29135	Cfa	1.000
+Missouri	Monroe	29137	Dfa	0.743
+Missouri	Monroe	29137	Cfa	0.257
+Missouri	Montgomery	29139	Dfa	0.381
+Missouri	Montgomery	29139	Cfa	0.619
+Missouri	Morgan	29141	Cfa	1.000
+Missouri	New Madrid	29143	Cfa	1.000
+Missouri	Newton	29145	Cfa	1.000
+Missouri	Nodaway	29147	Dfa	1.000
+Missouri	Oregon	29149	Cfa	1.000
+Missouri	Osage	29151	Cfa	1.000
+Missouri	Ozark	29153	Cfa	1.000
+Missouri	Pemiscot	29155	Cfa	1.000
+Missouri	Perry	29157	Cfa	1.000
+Missouri	Pettis	29159	Cfa	1.000
+Missouri	Phelps	29161	Cfa	1.000
+Missouri	Pike	29163	Dfa	1.000
+Missouri	Platte	29165	Dfa	0.196
+Missouri	Platte	29165	Cfa	0.804
+Missouri	Polk	29167	Cfa	1.000
+Missouri	Pulaski	29169	Cfa	1.000
+Missouri	Putnam	29171	Dfa	1.000
+Missouri	Ralls	29173	Dfa	1.000
+Missouri	Randolph	29175	Dfa	0.302
+Missouri	Randolph	29175	Cfa	0.698
+Missouri	Ray	29177	Dfa	0.587
+Missouri	Ray	29177	Cfa	0.413
+Missouri	Reynolds	29179	Cfa	1.000
+Missouri	Ripley	29181	Cfa	1.000
+Missouri	Saint Charles	29183	Cfa	1.000
+Missouri	Saint Clair	29185	Cfa	1.000
+Missouri	Saint Francois	29187	Cfa	1.000
+Missouri	Saint Louis	29189	Cfa	1.000
+Missouri	Sainte Genevieve	29186	Cfa	1.000
+Missouri	Saline	29195	Cfa	1.000
+Missouri	Schuyler	29197	Dfa	1.000
+Missouri	Scotland	29199	Dfa	1.000
+Missouri	Scott	29201	Cfa	1.000
+Missouri	Shannon	29203	Cfa	1.000
+Missouri	Shelby	29205	Dfa	1.000
+Missouri	Stoddard	29207	Cfa	1.000
+Missouri	Stone	29209	Cfa	1.000
+Missouri	Sullivan	29211	Dfa	1.000
+Missouri	Taney	29213	Cfa	1.000
+Missouri	Texas	29215	Cfa	1.000
+Missouri	Vernon	29217	Cfa	1.000
+Missouri	Warren	29219	Cfa	1.000
+Missouri	Washington	29221	Cfa	1.000
+Missouri	Wayne	29223	Cfa	1.000
+Missouri	Webster	29225	Cfa	1.000
+Missouri	Worth	29227	Dfa	1.000
+Missouri	Wright	29229	Cfa	1.000
+Montana	Beaverhead	30001	Dfb	0.362
+Montana	Beaverhead	30001	BSk	0.578
+Montana	Beaverhead	30001	Dfc	0.060
+Montana	Big Horn	30003	BSk	1.000
+Montana	Blaine	30005	BSk	1.000
+Montana	Broadwater	30007	BSk	0.993
+Montana	Broadwater	30007	Dfb	0.007
+Montana	Carbon	30009	BSk	0.481
+Montana	Carbon	30009	Dfc	0.130
+Montana	Carbon	30009	Dfb	0.389
+Montana	Carter	30011	BSk	1.000
+Montana	Cascade	30013	BSk	1.000
+Montana	Chouteau	30015	BSk	1.000
+Montana	Custer	30017	BSk	1.000
+Montana	Daniels	30019	BSk	1.000
+Montana	Dawson	30021	BSk	1.000
+Montana	Deer Lodge	30023	Dfb	0.976
+Montana	Deer Lodge	30023	BSk	0.024
+Montana	Fallon	30025	BSk	1.000
+Montana	Fergus	30027	BSk	0.512
+Montana	Fergus	30027	Dfb	0.488
+Montana	Flathead	30029	Dfc	0.513
+Montana	Flathead	30029	Dfb	0.487
+Montana	Gallatin	30031	BSk	0.152
+Montana	Gallatin	30031	Dfb	0.687
+Montana	Gallatin	30031	Dfc	0.161
+Montana	Garfield	30033	BSk	1.000
+Montana	Glacier	30035	Dfc	0.238
+Montana	Glacier	30035	Dfb	0.605
+Montana	Glacier	30035	BSk	0.157
+Montana	Golden Valley	30037	Dfb	0.294
+Montana	Golden Valley	30037	BSk	0.706
+Montana	Granite	30039	Dfb	1.000
+Montana	Hill	30041	BSk	1.000
+Montana	Jefferson	30043	Dfb	0.026
+Montana	Jefferson	30043	BSk	0.974
+Montana	Judith Basin	30045	BSk	0.789
+Montana	Judith Basin	30045	Dfb	0.211
+Montana	Lake	30047	Dfb	0.985
+Montana	Lake	30047	Dfc	0.015
+Montana	Lewis and Clark	30049	Dfb	0.587
+Montana	Lewis and Clark	30049	BSk	0.413
+Montana	Liberty	30051	BSk	1.000
+Montana	Lincoln	30053	Dfb	0.696
+Montana	Lincoln	30053	Dfc	0.107
+Montana	Lincoln	30053	Dsb	0.197
+Montana	Madison	30057	BSk	0.495
+Montana	Madison	30057	Dfb	0.351
+Montana	Madison	30057	Dfc	0.153
+Montana	McCone	30055	BSk	1.000
+Montana	Meagher	30059	BSk	0.706
+Montana	Meagher	30059	Dfb	0.294
+Montana	Mineral	30061	Dsb	0.450
+Montana	Mineral	30061	Dfb	0.550
+Montana	Missoula	30063	Dfb	1.000
+Montana	Musselshell	30065	BSk	1.000
+Montana	Park	30067	Dfb	0.750
+Montana	Park	30067	Dfc	0.250
+Montana	Petroleum	30069	BSk	1.000
+Montana	Phillips	30071	BSk	1.000
+Montana	Pondera	30073	Dfc	0.081
+Montana	Pondera	30073	Dfb	0.192
+Montana	Pondera	30073	BSk	0.727
+Montana	Powder River	30075	BSk	1.000
+Montana	Powell	30077	Dfb	0.966
+Montana	Powell	30077	BSk	0.034
+Montana	Prairie	30079	BSk	1.000
+Montana	Ravalli	30081	Dfb	1.000
+Montana	Richland	30083	BSk	1.000
+Montana	Roosevelt	30085	BSk	1.000
+Montana	Rosebud	30087	BSk	1.000
+Montana	Sanders	30089	Dsb	0.578
+Montana	Sanders	30089	Dfb	0.422
+Montana	Sheridan	30091	BSk	1.000
+Montana	Silver Bow	30093	Dfb	0.244
+Montana	Silver Bow	30093	BSk	0.756
+Montana	Stillwater	30095	BSk	0.638
+Montana	Stillwater	30095	Dfb	0.101
+Montana	Stillwater	30095	Dfc	0.261
+Montana	Sweet Grass	30097	Dfb	0.710
+Montana	Sweet Grass	30097	BSk	0.167
+Montana	Sweet Grass	30097	Dfc	0.122
+Montana	Teton	30099	Dfb	0.303
+Montana	Teton	30099	BSk	0.697
+Montana	Toole	30101	BSk	1.000
+Montana	Treasure	30103	BSk	1.000
+Montana	Valley	30105	BSk	1.000
+Montana	Wheatland	30107	BSk	0.522
+Montana	Wheatland	30107	Dfb	0.478
+Montana	Wibaux	30109	BSk	1.000
+Montana	Yellowstone	30111	BSk	1.000
+Nebraska	Adams	31001	Dfa	1.000
+Nebraska	Antelope	31003	Dfa	1.000
+Nebraska	Arthur	31005	BSk	0.833
+Nebraska	Arthur	31005	Dfa	0.167
+Nebraska	Banner	31007	BSk	1.000
+Nebraska	Blaine	31009	Dfa	1.000
+Nebraska	Boone	31011	Dfa	1.000
+Nebraska	Box Butte	31013	BSk	1.000
+Nebraska	Boyd	31015	Dfa	1.000
+Nebraska	Brown	31017	Dfa	1.000
+Nebraska	Buffalo	31019	Dfa	1.000
+Nebraska	Burt	31021	Dfa	1.000
+Nebraska	Butler	31023	Dfa	1.000
+Nebraska	Cass	31025	Dfa	1.000
+Nebraska	Cedar	31027	Dfa	1.000
+Nebraska	Chase	31029	BSk	0.878
+Nebraska	Chase	31029	Dfa	0.122
+Nebraska	Cherry	31031	Dfa	1.000
+Nebraska	Cheyenne	31033	BSk	1.000
+Nebraska	Clay	31035	Dfa	1.000
+Nebraska	Colfax	31037	Dfa	1.000
+Nebraska	Cuming	31039	Dfa	1.000
+Nebraska	Custer	31041	Dfa	1.000
+Nebraska	Dakota	31043	Dfa	1.000
+Nebraska	Dawes	31045	BSk	1.000
+Nebraska	Dawson	31047	Dfa	1.000
+Nebraska	Deuel	31049	BSk	1.000
+Nebraska	Dixon	31051	Dfa	1.000
+Nebraska	Dodge	31053	Dfa	1.000
+Nebraska	Douglas	31055	Dfa	1.000
+Nebraska	Dundy	31057	BSk	1.000
+Nebraska	Fillmore	31059	Dfa	1.000
+Nebraska	Franklin	31061	Dfa	1.000
+Nebraska	Frontier	31063	Dfa	1.000
+Nebraska	Furnas	31065	Dfa	1.000
+Nebraska	Gage	31067	Dfa	1.000
+Nebraska	Garden	31069	BSk	1.000
+Nebraska	Garfield	31071	Dfa	1.000
+Nebraska	Gosper	31073	Dfa	1.000
+Nebraska	Grant	31075	Dfa	0.368
+Nebraska	Grant	31075	BSk	0.632
+Nebraska	Greeley	31077	Dfa	1.000
+Nebraska	Hall	31079	Dfa	1.000
+Nebraska	Hamilton	31081	Dfa	1.000
+Nebraska	Harlan	31083	Dfa	1.000
+Nebraska	Hayes	31085	Dfa	0.727
+Nebraska	Hayes	31085	BSk	0.273
+Nebraska	Hitchcock	31087	BSk	0.557
+Nebraska	Hitchcock	31087	Dfa	0.443
+Nebraska	Holt	31089	Dfa	1.000
+Nebraska	Hooker	31091	Dfa	1.000
+Nebraska	Howard	31093	Dfa	1.000
+Nebraska	Jefferson	31095	Dfa	1.000
+Nebraska	Johnson	31097	Dfa	1.000
+Nebraska	Kearney	31099	Dfa	1.000
+Nebraska	Keith	31101	BSk	0.688
+Nebraska	Keith	31101	Dfa	0.312
+Nebraska	Keya Paha	31103	Dfa	1.000
+Nebraska	Kimball	31105	BSk	1.000
+Nebraska	Knox	31107	Dfa	1.000
+Nebraska	Lancaster	31109	Dfa	1.000
+Nebraska	Lincoln	31111	Dfa	1.000
+Nebraska	Logan	31113	Dfa	1.000
+Nebraska	Loup	31115	Dfa	1.000
+Nebraska	Madison	31119	Dfa	1.000
+Nebraska	McPherson	31117	Dfa	1.000
+Nebraska	Merrick	31121	Dfa	1.000
+Nebraska	Morrill	31123	BSk	1.000
+Nebraska	Nance	31125	Dfa	1.000
+Nebraska	Nemaha	31127	Dfa	1.000
+Nebraska	Nuckolls	31129	Dfa	1.000
+Nebraska	Otoe	31131	Dfa	1.000
+Nebraska	Pawnee	31133	Dfa	1.000
+Nebraska	Perkins	31135	BSk	0.687
+Nebraska	Perkins	31135	Dfa	0.312
+Nebraska	Phelps	31137	Dfa	1.000
+Nebraska	Pierce	31139	Dfa	1.000
+Nebraska	Platte	31141	Dfa	1.000
+Nebraska	Polk	31143	Dfa	1.000
+Nebraska	Red Willow	31145	Dfa	1.000
+Nebraska	Richardson	31147	Dfa	1.000
+Nebraska	Rock	31149	Dfa	1.000
+Nebraska	Saline	31151	Dfa	1.000
+Nebraska	Sarpy	31153	Dfa	1.000
+Nebraska	Saunders	31155	Dfa	1.000
+Nebraska	Scotts Bluff	31157	BSk	1.000
+Nebraska	Seward	31159	Dfa	1.000
+Nebraska	Sheridan	31161	BSk	0.367
+Nebraska	Sheridan	31161	Dfa	0.633
+Nebraska	Sherman	31163	Dfa	1.000
+Nebraska	Sioux	31165	BSk	1.000
+Nebraska	Stanton	31167	Dfa	1.000
+Nebraska	Thayer	31169	Dfa	1.000
+Nebraska	Thomas	31171	Dfa	1.000
+Nebraska	Thurston	31173	Dfa	1.000
+Nebraska	Valley	31175	Dfa	1.000
+Nebraska	Washington	31177	Dfa	1.000
+Nebraska	Wayne	31179	Dfa	1.000
+Nebraska	Webster	31181	Dfa	1.000
+Nebraska	Wheeler	31183	Dfa	1.000
+Nebraska	York	31185	Dfa	1.000
+Nevada	Carson City	32510	Csb	1.000
+Nevada	Churchill	32001	BWk	0.729
+Nevada	Churchill	32001	BSk	0.271
+Nevada	Clark	32003	BWk	0.860
+Nevada	Clark	32003	BWh	0.140
+Nevada	Douglas	32005	Csb	0.900
+Nevada	Douglas	32005	BWk	0.100
+Nevada	Elko	32007	BSk	0.767
+Nevada	Elko	32007	Dfb	0.233
+Nevada	Esmeralda	32009	BSk	0.125
+Nevada	Esmeralda	32009	BWk	0.875
+Nevada	Eureka	32011	BSk	0.981
+Nevada	Eureka	32011	Dfb	0.019
+Nevada	Humboldt	32013	Dsb	0.059
+Nevada	Humboldt	32013	BSk	0.881
+Nevada	Humboldt	32013	Csb	0.059
+Nevada	Lander	32015	BSk	1.000
+Nevada	Lincoln	32017	Dfb	0.035
+Nevada	Lincoln	32017	BSk	0.708
+Nevada	Lincoln	32017	BWk	0.256
+Nevada	Lyon	32019	BWk	0.495
+Nevada	Lyon	32019	Csb	0.440
+Nevada	Lyon	32019	BSk	0.064
+Nevada	Mineral	32021	BWk	0.315
+Nevada	Mineral	32021	BSk	0.499
+Nevada	Mineral	32021	Csb	0.186
+Nevada	Nye	32023	BWk	0.491
+Nevada	Nye	32023	BSk	0.509
+Nevada	Pershing	32027	BSk	0.699
+Nevada	Pershing	32027	BWk	0.301
+Nevada	Storey	32029	Csb	0.621
+Nevada	Storey	32029	BWk	0.379
+Nevada	Washoe	32031	Dsb	0.186
+Nevada	Washoe	32031	Csb	0.513
+Nevada	Washoe	32031	BSk	0.095
+Nevada	Washoe	32031	Csa	0.138
+Nevada	Washoe	32031	BWk	0.068
+Nevada	White Pine	32033	Dfb	0.114
+Nevada	White Pine	32033	BSk	0.886
+New Hampshire	Belknap	33001	Dfb	1.000
+New Hampshire	Carroll	33003	Dfb	1.000
+New Hampshire	Cheshire	33005	Dfb	1.000
+New Hampshire	Coos	33007	Dfb	1.000
+New Hampshire	Grafton	33009	Dfb	1.000
+New Hampshire	Hillsborough	33011	Dfb	1.000
+New Hampshire	Merrimack	33013	Dfb	1.000
+New Hampshire	Rockingham	33015	Dfb	1.000
+New Hampshire	Strafford	33017	Dfb	1.000
+New Hampshire	Sullivan	33019	Dfb	1.000
+New Jersey	Atlantic	34001	Cfa	1.000
+New Jersey	Bergen	34003	Dfa	0.296
+New Jersey	Bergen	34003	Cfa	0.704
+New Jersey	Burlington	34005	Cfa	1.000
+New Jersey	Camden	34007	Cfa	1.000
+New Jersey	Cape May	34009	Cfa	0.926
+New Jersey	Cumberland	34011	Cfa	1.000
+New Jersey	Essex	34013	Cfa	1.000
+New Jersey	Gloucester	34015	Cfa	1.000
+New Jersey	Hudson	34017	Cfa	1.000
+New Jersey	Hunterdon	34019	Dfa	0.163
+New Jersey	Hunterdon	34019	Cfa	0.837
+New Jersey	Mercer	34021	Cfa	1.000
+New Jersey	Middlesex	34023	Cfa	1.000
+New Jersey	Monmouth	34025	Cfa	1.000
+New Jersey	Morris	34027	Dfb	0.019
+New Jersey	Morris	34027	Dfa	0.038
+New Jersey	Morris	34027	Cfa	0.942
+New Jersey	Ocean	34029	Cfa	1.000
+New Jersey	Passaic	34031	Dfa	0.625
+New Jersey	Passaic	34031	Cfa	0.375
+New Jersey	Salem	34033	Cfa	1.000
+New Jersey	Somerset	34035	Cfa	1.000
+New Jersey	Sussex	34037	Dfb	0.806
+New Jersey	Sussex	34037	Dfa	0.081
+New Jersey	Sussex	34037	Cfa	0.113
+New Jersey	Union	34039	Cfa	1.000
+New Jersey	Warren	34041	Dfb	0.100
+New Jersey	Warren	34041	Dfa	0.475
+New Jersey	Warren	34041	Cfa	0.425
+New Mexico	Bernalillo	35001	BSk	0.826
+New Mexico	Bernalillo	35001	Cfb	0.174
+New Mexico	Catron	35003	BSk	0.658
+New Mexico	Catron	35003	Csb	0.342
+New Mexico	Chaves	35005	BSk	1.000
+New Mexico	Cibola	35006	Cfb	0.121
+New Mexico	Cibola	35006	BSk	0.879
+New Mexico	Colfax	35007	Dfb	0.221
+New Mexico	Colfax	35007	BSk	0.779
+New Mexico	Curry	35009	BSk	1.000
+New Mexico	Debaca	35011	BSk	1.000
+New Mexico	Dona Ana	35013	BSk	0.142
+New Mexico	Dona Ana	35013	BWk	0.858
+New Mexico	Eddy	35015	BSk	0.618
+New Mexico	Eddy	35015	BWk	0.382
+New Mexico	Grant	35017	Csb	0.211
+New Mexico	Grant	35017	BSk	0.789
+New Mexico	Guadalupe	35019	BSk	1.000
+New Mexico	Harding	35021	BSk	1.000
+New Mexico	Hidalgo	35023	BSk	1.000
+New Mexico	Lea	35025	BSk	0.907
+New Mexico	Lea	35025	BWk	0.093
+New Mexico	Lincoln	35027	BSk	0.940
+New Mexico	Lincoln	35027	Csb	0.060
+New Mexico	Los Alamos	35028	Cfb	1.000
+New Mexico	Luna	35029	BSk	0.831
+New Mexico	Luna	35029	BWk	0.169
+New Mexico	McKinley	35031	BSk	0.919
+New Mexico	McKinley	35031	Cfb	0.081
+New Mexico	Mora	35033	Dfb	0.227
+New Mexico	Mora	35033	BSk	0.773
+New Mexico	Otero	35035	BSk	0.629
+New Mexico	Otero	35035	Csb	0.110
+New Mexico	Otero	35035	BWk	0.260
+New Mexico	Quay	35037	BSk	1.000
+New Mexico	Rio Arriba	35039	BSk	0.143
+New Mexico	Rio Arriba	35039	Dfb	0.851
+New Mexico	Rio Arriba	35039	Cfb	0.006
+New Mexico	Roosevelt	35041	BSk	1.000
+New Mexico	San Juan	35045	BSk	0.997
+New Mexico	San Juan	35045	Dfb	0.003
+New Mexico	San Miguel	35047	BSk	1.000
+New Mexico	Sandoval	35043	BSk	0.528
+New Mexico	Sandoval	35043	Dfb	0.021
+New Mexico	Sandoval	35043	Cfb	0.451
+New Mexico	Santa Fe	35049	Cfb	0.436
+New Mexico	Santa Fe	35049	BSk	0.564
+New Mexico	Sierra	35051	BSk	0.357
+New Mexico	Sierra	35051	BWk	0.643
+New Mexico	Socorro	35053	BSk	0.849
+New Mexico	Socorro	35053	BWk	0.151
+New Mexico	Taos	35055	Dfb	1.000
+New Mexico	Torrance	35057	Cfb	0.015
+New Mexico	Torrance	35057	BSk	0.985
+New Mexico	Union	35059	BSk	1.000
+New Mexico	Valencia	35061	BSk	1.000
+New York	Albany	36001	Dfb	0.934
+New York	Albany	36001	Dfa	0.066
+New York	Allegany	36003	Dfb	1.000
+New York	Bronx	36005	Cfa	1.000
+New York	Broome	36007	Dfb	1.000
+New York	Cattaraugus	36009	Dfb	1.000
+New York	Cayuga	36011	Dfb	1.000
+New York	Chautauqua	36013	Dfb	1.000
+New York	Chemung	36015	Dfb	1.000
+New York	Chenango	36017	Dfb	1.000
+New York	Clinton	36019	Dfb	1.000
+New York	Columbia	36021	Dfa	0.851
+New York	Columbia	36021	Dfb	0.149
+New York	Cortland	36023	Dfb	1.000
+New York	Delaware	36025	Dfb	1.000
+New York	Dutchess	36027	Dfa	0.989
+New York	Dutchess	36027	Cfa	0.011
+New York	Erie	36029	Dfb	1.000
+New York	Essex	36031	Dfb	1.000
+New York	Franklin	36033	Dfb	1.000
+New York	Fulton	36035	Dfb	1.000
+New York	Genesee	36037	Dfb	1.000
+New York	Greene	36039	Dfb	0.699
+New York	Greene	36039	Dfa	0.301
+New York	Hamilton	36041	Dfb	1.000
+New York	Herkimer	36043	Dfb	1.000
+New York	Jefferson	36045	Dfb	1.000
+New York	Kings	36047	Cfa	1.000
+New York	Lewis	36049	Dfb	1.000
+New York	Livingston	36051	Dfb	1.000
+New York	Madison	36053	Dfb	1.000
+New York	Monroe	36055	Dfb	1.000
+New York	Montgomery	36057	Dfb	1.000
+New York	Nassau	36059	Cfa	1.000
+New York	New York	36061	Cfa	1.000
+New York	Niagara	36063	Dfb	1.000
+New York	Oneida	36065	Dfb	1.000
+New York	Onondaga	36067	Dfb	1.000
+New York	Ontario	36069	Dfb	1.000
+New York	Orange	36071	Dfa	0.800
+New York	Orange	36071	Dfb	0.179
+New York	Orange	36071	Cfa	0.021
+New York	Orleans	36073	Dfb	1.000
+New York	Oswego	36075	Dfb	1.000
+New York	Otsego	36077	Dfb	1.000
+New York	Putnam	36079	Dfa	0.038
+New York	Putnam	36079	Cfa	0.962
+New York	Queens	36081	Cfa	1.000
+New York	Rensselaer	36083	Dfb	0.973
+New York	Rensselaer	36083	Dfa	0.027
+New York	Richmond	36085	Cfa	1.000
+New York	Rockland	36087	Dfa	0.591
+New York	Rockland	36087	Cfa	0.409
+New York	Saint Lawrence	36089	Dfb	1.000
+New York	Saratoga	36091	Dfb	1.000
+New York	Schenectady	36093	Dfb	1.000
+New York	Schoharie	36095	Dfb	1.000
+New York	Schuyler	36097	Dfb	1.000
+New York	Seneca	36099	Dfb	1.000
+New York	Steuben	36101	Dfb	1.000
+New York	Suffolk	36103	Cfa	0.899
+New York	Suffolk	36103	Cfb	0.101
+New York	Sullivan	36105	Dfb	0.936
+New York	Sullivan	36105	Dfa	0.064
+New York	Tioga	36107	Dfb	1.000
+New York	Tompkins	36109	Dfb	1.000
+New York	Ulster	36111	Dfb	0.315
+New York	Ulster	36111	Dfa	0.685
+New York	Warren	36113	Dfb	1.000
+New York	Washington	36115	Dfb	1.000
+New York	Wayne	36117	Dfb	1.000
+New York	Westchester	36119	Cfa	1.000
+New York	Wyoming	36121	Dfb	1.000
+New York	Yates	36123	Dfb	1.000
+North Carolina	Alamance	37001	Cfa	1.000
+North Carolina	Alexander	37003	Cfa	1.000
+North Carolina	Alleghany	37005	Cfb	0.421
+North Carolina	Alleghany	37005	Cfa	0.579
+North Carolina	Anson	37007	Cfa	1.000
+North Carolina	Ashe	37009	Cfb	0.622
+North Carolina	Ashe	37009	Cfa	0.378
+North Carolina	Avery	37011	Cfb	0.885
+North Carolina	Avery	37011	Cfa	0.115
+North Carolina	Beaufort	37013	Cfa	1.000
+North Carolina	Bertie	37015	Cfa	1.000
+North Carolina	Bladen	37017	Cfa	1.000
+North Carolina	Brunswick	37019	Cfa	1.000
+North Carolina	Buncombe	37021	Cfb	0.941
+North Carolina	Buncombe	37021	Cfa	0.059
+North Carolina	Burke	37023	Cfa	1.000
+North Carolina	Cabarrus	37025	Cfa	1.000
+North Carolina	Caldwell	37027	Cfb	0.213
+North Carolina	Caldwell	37027	Cfa	0.787
+North Carolina	Camden	37029	Cfa	1.000
+North Carolina	Carteret	37031	Cfa	1.000
+North Carolina	Caswell	37033	Cfa	1.000
+North Carolina	Catawba	37035	Cfa	1.000
+North Carolina	Chatham	37037	Cfa	1.000
+North Carolina	Cherokee	37039	Cfa	1.000
+North Carolina	Chowan	37041	Cfa	1.000
+North Carolina	Clay	37043	Cfa	1.000
+North Carolina	Cleveland	37045	Cfa	1.000
+North Carolina	Columbus	37047	Cfa	1.000
+North Carolina	Craven	37049	Cfa	1.000
+North Carolina	Cumberland	37051	Cfa	1.000
+North Carolina	Currituck	37053	Cfa	1.000
+North Carolina	Dare	37055	Cfa	0.974
+North Carolina	Davidson	37057	Cfa	1.000
+North Carolina	Davie	37059	Cfa	1.000
+North Carolina	Duplin	37061	Cfa	1.000
+North Carolina	Durham	37063	Cfa	1.000
+North Carolina	Edgecombe	37065	Cfa	1.000
+North Carolina	Forsyth	37067	Cfa	1.000
+North Carolina	Franklin	37069	Cfa	1.000
+North Carolina	Gaston	37071	Cfa	1.000
+North Carolina	Gates	37073	Cfa	1.000
+North Carolina	Graham	37075	Cfa	1.000
+North Carolina	Granville	37077	Cfa	1.000
+North Carolina	Greene	37079	Cfa	1.000
+North Carolina	Guilford	37081	Cfa	1.000
+North Carolina	Halifax	37083	Cfa	1.000
+North Carolina	Harnett	37085	Cfa	1.000
+North Carolina	Haywood	37087	Cfa	0.368
+North Carolina	Haywood	37087	Cfb	0.632
+North Carolina	Henderson	37089	Cfb	0.474
+North Carolina	Henderson	37089	Cfa	0.526
+North Carolina	Hertford	37091	Cfa	1.000
+North Carolina	Hoke	37093	Cfa	1.000
+North Carolina	Hyde	37095	Cfa	1.000
+North Carolina	Iredell	37097	Cfa	1.000
+North Carolina	Jackson	37099	Cfa	0.020
+North Carolina	Jackson	37099	Cfb	0.980
+North Carolina	Johnston	37101	Cfa	1.000
+North Carolina	Jones	37103	Cfa	1.000
+North Carolina	Lee	37105	Cfa	1.000
+North Carolina	Lenoir	37107	Cfa	1.000
+North Carolina	Lincoln	37109	Cfa	1.000
+North Carolina	Macon	37113	Cfa	0.327
+North Carolina	Macon	37113	Cfb	0.673
+North Carolina	Madison	37115	Cfa	0.044
+North Carolina	Madison	37115	Cfb	0.956
+North Carolina	Martin	37117	Cfa	1.000
+North Carolina	McDowell	37111	Cfb	0.628
+North Carolina	McDowell	37111	Cfa	0.372
+North Carolina	Mecklenburg	37119	Cfa	1.000
+North Carolina	Mitchell	37121	Cfb	1.000
+North Carolina	Montgomery	37123	Cfa	1.000
+North Carolina	Moore	37125	Cfa	1.000
+North Carolina	Nash	37127	Cfa	1.000
+North Carolina	New Hanover	37129	Cfa	1.000
+North Carolina	Northampton	37131	Cfa	1.000
+North Carolina	Onslow	37133	Cfa	1.000
+North Carolina	Orange	37135	Cfa	1.000
+North Carolina	Pamlico	37137	Cfa	1.000
+North Carolina	Pasquotank	37139	Cfa	1.000
+North Carolina	Pender	37141	Cfa	1.000
+North Carolina	Perquimans	37143	Cfa	1.000
+North Carolina	Person	37145	Cfa	1.000
+North Carolina	Pitt	37147	Cfa	1.000
+North Carolina	Polk	37149	Cfa	1.000
+North Carolina	Randolph	37151	Cfa	1.000
+North Carolina	Richmond	37153	Cfa	1.000
+North Carolina	Robeson	37155	Cfa	1.000
+North Carolina	Rockingham	37157	Cfa	1.000
+North Carolina	Rowan	37159	Cfa	1.000
+North Carolina	Rutherford	37161	Cfb	0.083
+North Carolina	Rutherford	37161	Cfa	0.917
+North Carolina	Sampson	37163	Cfa	1.000
+North Carolina	Scotland	37165	Cfa	1.000
+North Carolina	Stanly	37167	Cfa	1.000
+North Carolina	Stokes	37169	Cfa	1.000
+North Carolina	Surry	37171	Cfb	0.164
+North Carolina	Surry	37171	Cfa	0.836
+North Carolina	Swain	37173	Cfa	0.778
+North Carolina	Swain	37173	Cfb	0.222
+North Carolina	Transylvania	37175	Cfb	1.000
+North Carolina	Tyrrell	37177	Cfa	1.000
+North Carolina	Union	37179	Cfa	1.000
+North Carolina	Vance	37181	Cfa	1.000
+North Carolina	Wake	37183	Cfa	1.000
+North Carolina	Warren	37185	Cfa	1.000
+North Carolina	Washington	37187	Cfa	1.000
+North Carolina	Watauga	37189	Cfb	0.943
+North Carolina	Watauga	37189	Cfa	0.057
+North Carolina	Wayne	37191	Cfa	1.000
+North Carolina	Wilkes	37193	Cfb	0.013
+North Carolina	Wilkes	37193	Cfa	0.987
+North Carolina	Wilson	37195	Cfa	1.000
+North Carolina	Yadkin	37197	Cfa	1.000
+North Carolina	Yancey	37199	Cfb	1.000
+North Dakota	Adams	38001	Dwb	0.500
+North Dakota	Adams	38001	Dfb	0.417
+North Dakota	Adams	38001	BSk	0.083
+North Dakota	Barnes	38003	Dfb	1.000
+North Dakota	Benson	38005	Dfb	1.000
+North Dakota	Billings	38007	BSk	0.263
+North Dakota	Billings	38007	Dfb	0.737
+North Dakota	Bottineau	38009	Dfb	1.000
+North Dakota	Bowman	38011	BSk	1.000
+North Dakota	Burke	38013	Dfb	1.000
+North Dakota	Burleigh	38015	Dfb	1.000
+North Dakota	Cass	38017	Dfb	1.000
+North Dakota	Cavalier	38019	Dfb	1.000
+North Dakota	Dickey	38021	Dfb	0.929
+North Dakota	Dickey	38021	Dfa	0.071
+North Dakota	Divide	38023	BSk	0.045
+North Dakota	Divide	38023	Dfb	0.955
+North Dakota	Dunn	38025	Dfb	1.000
+North Dakota	Eddy	38027	Dfb	1.000
+North Dakota	Emmons	38029	Dfb	0.937
+North Dakota	Emmons	38029	Dfa	0.063
+North Dakota	Foster	38031	Dfb	1.000
+North Dakota	Golden Valley	38033	BSk	1.000
+North Dakota	Grand Forks	38035	Dfb	1.000
+North Dakota	Grant	38037	Dfb	1.000
+North Dakota	Griggs	38039	Dfb	1.000
+North Dakota	Hettinger	38041	Dfb	0.759
+North Dakota	Hettinger	38041	Dwb	0.241
+North Dakota	Kidder	38043	Dfb	1.000
+North Dakota	Lamoure	38045	Dfb	1.000
+North Dakota	Logan	38047	Dfb	1.000
+North Dakota	McHenry	38049	Dfb	1.000
+North Dakota	McIntosh	38051	Dfb	0.937
+North Dakota	McIntosh	38051	Dfa	0.063
+North Dakota	McKenzie	38053	BSk	0.480
+North Dakota	McKenzie	38053	Dfb	0.520
+North Dakota	McLean	38055	Dfb	1.000
+North Dakota	Mercer	38057	Dfb	1.000
+North Dakota	Morton	38059	Dfb	1.000
+North Dakota	Mountrail	38061	Dfb	1.000
+North Dakota	Nelson	38063	Dfb	1.000
+North Dakota	Oliver	38065	Dfb	1.000
+North Dakota	Pembina	38067	Dfb	1.000
+North Dakota	Pierce	38069	Dfb	1.000
+North Dakota	Ramsey	38071	Dfb	1.000
+North Dakota	Ransom	38073	Dfb	1.000
+North Dakota	Renville	38075	Dfb	1.000
+North Dakota	Richland	38077	Dfb	1.000
+North Dakota	Rolette	38079	Dfb	1.000
+North Dakota	Sargent	38081	Dfb	1.000
+North Dakota	Sheridan	38083	Dfb	1.000
+North Dakota	Sioux	38085	Dfb	0.927
+North Dakota	Sioux	38085	Dfa	0.073
+North Dakota	Slope	38087	BSk	0.738
+North Dakota	Slope	38087	Dfb	0.228
+North Dakota	Slope	38087	Dwb	0.034
+North Dakota	Stark	38089	Dfb	1.000
+North Dakota	Steele	38091	Dfb	1.000
+North Dakota	Stutsman	38093	Dfb	1.000
+North Dakota	Towner	38095	Dfb	1.000
+North Dakota	Traill	38097	Dfb	1.000
+North Dakota	Walsh	38099	Dfb	1.000
+North Dakota	Ward	38101	Dfb	1.000
+North Dakota	Wells	38103	Dfb	1.000
+North Dakota	Williams	38105	BSk	0.691
+North Dakota	Williams	38105	Dfb	0.309
+Ohio	Adams	39001	Cfa	1.000
+Ohio	Allen	39003	Dfa	1.000
+Ohio	Ashland	39005	Dfa	0.133
+Ohio	Ashland	39005	Dfb	0.867
+Ohio	Ashtabula	39007	Dfb	1.000
+Ohio	Athens	39009	Cfa	1.000
+Ohio	Auglaize	39011	Dfa	1.000
+Ohio	Belmont	39013	Cfa	1.000
+Ohio	Brown	39015	Cfa	1.000
+Ohio	Butler	39017	Dfa	0.125
+Ohio	Butler	39017	Cfa	0.875
+Ohio	Carroll	39019	Dfa	0.578
+Ohio	Carroll	39019	Dfb	0.267
+Ohio	Carroll	39019	Cfa	0.156
+Ohio	Champaign	39021	Dfa	1.000
+Ohio	Clark	39023	Dfa	0.136
+Ohio	Clark	39023	Cfa	0.864
+Ohio	Clermont	39025	Cfa	1.000
+Ohio	Clinton	39027	Cfa	1.000
+Ohio	Columbiana	39029	Dfa	0.100
+Ohio	Columbiana	39029	Dfb	0.900
+Ohio	Coshocton	39031	Dfa	0.358
+Ohio	Coshocton	39031	Cfa	0.642
+Ohio	Crawford	39033	Dfa	0.267
+Ohio	Crawford	39033	Dfb	0.733
+Ohio	Cuyahoga	39035	Dfa	0.813
+Ohio	Cuyahoga	39035	Dfb	0.188
+Ohio	Darke	39037	Dfa	0.968
+Ohio	Darke	39037	Cfa	0.032
+Ohio	Defiance	39039	Dfa	1.000
+Ohio	Delaware	39041	Dfa	1.000
+Ohio	Erie	39043	Dfa	1.000
+Ohio	Fairfield	39045	Cfa	1.000
+Ohio	Fayette	39047	Cfa	1.000
+Ohio	Franklin	39049	Dfa	0.429
+Ohio	Franklin	39049	Cfa	0.571
+Ohio	Fulton	39051	Dfb	0.800
+Ohio	Fulton	39051	Dfa	0.200
+Ohio	Gallia	39053	Cfa	1.000
+Ohio	Geauga	39055	Dfb	1.000
+Ohio	Greene	39057	Cfa	1.000
+Ohio	Guernsey	39059	Cfa	1.000
+Ohio	Hamilton	39061	Cfa	1.000
+Ohio	Hancock	39063	Dfa	1.000
+Ohio	Hardin	39065	Dfa	1.000
+Ohio	Harrison	39067	Cfa	1.000
+Ohio	Henry	39069	Dfa	1.000
+Ohio	Highland	39071	Cfa	1.000
+Ohio	Hocking	39073	Cfa	1.000
+Ohio	Holmes	39075	Dfb	0.273
+Ohio	Holmes	39075	Dfa	0.568
+Ohio	Holmes	39075	Cfa	0.159
+Ohio	Huron	39077	Dfa	1.000
+Ohio	Jackson	39079	Cfa	1.000
+Ohio	Jefferson	39081	Dfb	0.208
+Ohio	Jefferson	39081	Cfa	0.792
+Ohio	Knox	39083	Dfb	0.158
+Ohio	Knox	39083	Dfa	0.842
+Ohio	Lake	39085	Dfb	1.000
+Ohio	Lawrence	39087	Cfa	1.000
+Ohio	Licking	39089	Dfa	0.778
+Ohio	Licking	39089	Cfa	0.222
+Ohio	Logan	39091	Dfa	1.000
+Ohio	Lorain	39093	Dfa	1.000
+Ohio	Lucas	39095	Dfa	1.000
+Ohio	Madison	39097	Dfa	0.224
+Ohio	Madison	39097	Cfa	0.776
+Ohio	Mahoning	39099	Dfb	0.923
+Ohio	Mahoning	39099	Dfa	0.077
+Ohio	Marion	39101	Dfa	0.860
+Ohio	Marion	39101	Dfb	0.140
+Ohio	Medina	39103	Dfa	1.000
+Ohio	Meigs	39105	Cfa	1.000
+Ohio	Mercer	39107	Dfa	1.000
+Ohio	Miami	39109	Dfa	0.673
+Ohio	Miami	39109	Cfa	0.327
+Ohio	Monroe	39111	Cfa	1.000
+Ohio	Montgomery	39113	Cfa	1.000
+Ohio	Morgan	39115	Cfa	1.000
+Ohio	Morrow	39117	Dfb	0.535
+Ohio	Morrow	39117	Dfa	0.465
+Ohio	Muskingum	39119	Dfa	0.158
+Ohio	Muskingum	39119	Cfa	0.842
+Ohio	Noble	39121	Cfa	1.000
+Ohio	Ottawa	39123	Dfa	1.000
+Ohio	Paulding	39125	Dfa	1.000
+Ohio	Perry	39127	Cfa	1.000
+Ohio	Pickaway	39129	Cfa	1.000
+Ohio	Pike	39131	Cfa	1.000
+Ohio	Portage	39133	Dfb	1.000
+Ohio	Preble	39135	Dfa	1.000
+Ohio	Putnam	39137	Dfa	1.000
+Ohio	Richland	39139	Dfb	1.000
+Ohio	Ross	39141	Cfa	1.000
+Ohio	Sandusky	39143	Dfa	1.000
+Ohio	Scioto	39145	Cfa	1.000
+Ohio	Seneca	39147	Dfa	1.000
+Ohio	Shelby	39149	Dfa	1.000
+Ohio	Stark	39151	Dfa	1.000
+Ohio	Summit	39153	Dfa	0.720
+Ohio	Summit	39153	Dfb	0.280
+Ohio	Trumbull	39155	Dfb	1.000
+Ohio	Tuscarawas	39157	Dfa	0.338
+Ohio	Tuscarawas	39157	Cfa	0.662
+Ohio	Union	39159	Dfa	1.000
+Ohio	Van Wert	39161	Dfa	1.000
+Ohio	Vinton	39163	Cfa	1.000
+Ohio	Warren	39165	Cfa	1.000
+Ohio	Washington	39167	Cfa	1.000
+Ohio	Wayne	39169	Dfb	0.300
+Ohio	Wayne	39169	Dfa	0.700
+Ohio	Williams	39171	Dfb	0.780
+Ohio	Williams	39171	Dfa	0.220
+Ohio	Wood	39173	Dfa	1.000
+Ohio	Wyandot	39175	Dfa	1.000
+Oklahoma	Adair	40001	Cfa	1.000
+Oklahoma	Alfalfa	40003	Cfa	1.000
+Oklahoma	Atoka	40005	Cfa	1.000
+Oklahoma	Beaver	40007	BSk	1.000
+Oklahoma	Beckham	40009	Cfa	1.000
+Oklahoma	Blaine	40011	Cfa	1.000
+Oklahoma	Bryan	40013	Cfa	1.000
+Oklahoma	Caddo	40015	Cfa	1.000
+Oklahoma	Canadian	40017	Cfa	1.000
+Oklahoma	Carter	40019	Cfa	1.000
+Oklahoma	Cherokee	40021	Cfa	1.000
+Oklahoma	Choctaw	40023	Cfa	1.000
+Oklahoma	Cimarron	40025	BSk	1.000
+Oklahoma	Cleveland	40027	Cfa	1.000
+Oklahoma	Coal	40029	Cfa	1.000
+Oklahoma	Comanche	40031	Cfa	1.000
+Oklahoma	Cotton	40033	Cfa	1.000
+Oklahoma	Craig	40035	Cfa	1.000
+Oklahoma	Creek	40037	Cfa	1.000
+Oklahoma	Custer	40039	Cfa	1.000
+Oklahoma	Delaware	40041	Cfa	1.000
+Oklahoma	Dewey	40043	Cfa	1.000
+Oklahoma	Ellis	40045	BSk	0.797
+Oklahoma	Ellis	40045	Cfa	0.203
+Oklahoma	Garfield	40047	Cfa	1.000
+Oklahoma	Garvin	40049	Cfa	1.000
+Oklahoma	Grady	40051	Cfa	1.000
+Oklahoma	Grant	40053	Cfa	1.000
+Oklahoma	Greer	40055	Cfa	0.594
+Oklahoma	Greer	40055	BSk	0.406
+Oklahoma	Harmon	40057	Cfa	0.034
+Oklahoma	Harmon	40057	BSk	0.966
+Oklahoma	Harper	40059	BSk	0.755
+Oklahoma	Harper	40059	Cfa	0.245
+Oklahoma	Haskell	40061	Cfa	1.000
+Oklahoma	Hughes	40063	Cfa	1.000
+Oklahoma	Jackson	40065	BSk	0.325
+Oklahoma	Jackson	40065	Cfa	0.675
+Oklahoma	Jefferson	40067	Cfa	1.000
+Oklahoma	Johnston	40069	Cfa	1.000
+Oklahoma	Kay	40071	Cfa	1.000
+Oklahoma	Kingfisher	40073	Cfa	1.000
+Oklahoma	Kiowa	40075	Cfa	1.000
+Oklahoma	Latimer	40077	Cfa	1.000
+Oklahoma	Le Flore	40079	Cfa	1.000
+Oklahoma	Lincoln	40081	Cfa	1.000
+Oklahoma	Logan	40083	Cfa	1.000
+Oklahoma	Love	40085	Cfa	1.000
+Oklahoma	Major	40093	Cfa	1.000
+Oklahoma	Marshall	40095	Cfa	1.000
+Oklahoma	Mayes	40097	Cfa	1.000
+Oklahoma	McClain	40087	Cfa	1.000
+Oklahoma	McCurtain	40089	Cfa	1.000
+Oklahoma	McIntosh	40091	Cfa	1.000
+Oklahoma	Murray	40099	Cfa	1.000
+Oklahoma	Muskogee	40101	Cfa	1.000
+Oklahoma	Noble	40103	Cfa	1.000
+Oklahoma	Nowata	40105	Cfa	1.000
+Oklahoma	Okfuskee	40107	Cfa	1.000
+Oklahoma	Oklahoma	40109	Cfa	1.000
+Oklahoma	Okmulgee	40111	Cfa	1.000
+Oklahoma	Osage	40113	Cfa	1.000
+Oklahoma	Ottawa	40115	Cfa	1.000
+Oklahoma	Pawnee	40117	Cfa	1.000
+Oklahoma	Payne	40119	Cfa	1.000
+Oklahoma	Pittsburg	40121	Cfa	1.000
+Oklahoma	Pontotoc	40123	Cfa	1.000
+Oklahoma	Pottawatomie	40125	Cfa	1.000
+Oklahoma	Pushmataha	40127	Cfa	1.000
+Oklahoma	Roger Mills	40129	Cfa	1.000
+Oklahoma	Rogers	40131	Cfa	1.000
+Oklahoma	Seminole	40133	Cfa	1.000
+Oklahoma	Sequoyah	40135	Cfa	1.000
+Oklahoma	Stephens	40137	Cfa	1.000
+Oklahoma	Texas	40139	BSk	1.000
+Oklahoma	Tillman	40141	Cfa	1.000
+Oklahoma	Tulsa	40143	Cfa	1.000
+Oklahoma	Wagoner	40145	Cfa	1.000
+Oklahoma	Washington	40147	Cfa	1.000
+Oklahoma	Washita	40149	Cfa	1.000
+Oklahoma	Woods	40151	Cfa	1.000
+Oklahoma	Woodward	40153	BSk	0.133
+Oklahoma	Woodward	40153	Cfa	0.867
+Oregon	Baker	41001	Csb	0.579
+Oregon	Baker	41001	Dsb	0.329
+Oregon	Baker	41001	BSk	0.092
+Oregon	Benton	41003	Csb	1.000
+Oregon	Clackamas	41005	Csb	1.000
+Oregon	Clatsop	41007	Csb	1.000
+Oregon	Columbia	41009	Csb	1.000
+Oregon	Coos	41011	Csb	1.000
+Oregon	Crook	41013	Csb	0.739
+Oregon	Crook	41013	Dsb	0.261
+Oregon	Curry	41015	Csb	1.000
+Oregon	Deschutes	41017	Csb	1.000
+Oregon	Douglas	41019	Csb	1.000
+Oregon	Gilliam	41021	Csb	0.420
+Oregon	Gilliam	41021	BSk	0.580
+Oregon	Grant	41023	Csb	0.307
+Oregon	Grant	41023	Dsb	0.685
+Oregon	Grant	41023	BSk	0.008
+Oregon	Harney	41025	Dsb	0.147
+Oregon	Harney	41025	Csb	0.053
+Oregon	Harney	41025	BSk	0.799
+Oregon	Hood River	41027	Csb	1.000
+Oregon	Jackson	41029	Csb	1.000
+Oregon	Jefferson	41031	Csb	1.000
+Oregon	Josephine	41033	Csb	1.000
+Oregon	Klamath	41035	Csb	0.986
+Oregon	Klamath	41035	Dsb	0.014
+Oregon	Lake	41037	Csb	0.678
+Oregon	Lake	41037	BSk	0.196
+Oregon	Lake	41037	Dsb	0.126
+Oregon	Lane	41039	Csb	1.000
+Oregon	Lincoln	41041	Csb	1.000
+Oregon	Linn	41043	Csb	1.000
+Oregon	Malheur	41045	Dsb	0.027
+Oregon	Malheur	41045	BSk	0.966
+Oregon	Malheur	41045	Csa	0.006
+Oregon	Marion	41047	Csb	1.000
+Oregon	Morrow	41049	BSk	0.370
+Oregon	Morrow	41049	Csb	0.630
+Oregon	Multnomah	41051	Csb	1.000
+Oregon	Polk	41053	Csb	1.000
+Oregon	Sherman	41055	Csb	0.968
+Oregon	Sherman	41055	BSk	0.032
+Oregon	Tillamook	41057	Csb	1.000
+Oregon	Umatilla	41059	BSk	0.183
+Oregon	Umatilla	41059	Csa	0.257
+Oregon	Umatilla	41059	Csb	0.560
+Oregon	Union	41061	Csb	0.966
+Oregon	Union	41061	Dsb	0.034
+Oregon	Wallowa	41063	Csb	0.354
+Oregon	Wallowa	41063	Cfb	0.449
+Oregon	Wallowa	41063	Dsb	0.197
+Oregon	Wasco	41065	Csb	1.000
+Oregon	Washington	41067	Csb	1.000
+Oregon	Wheeler	41069	BSk	0.050
+Oregon	Wheeler	41069	Csb	0.910
+Oregon	Wheeler	41069	Dsb	0.040
+Oregon	Yamhill	41071	Csb	1.000
+Pennsylvania	Adams	42001	Cfa	1.000
+Pennsylvania	Allegheny	42003	Dfb	0.402
+Pennsylvania	Allegheny	42003	Cfa	0.598
+Pennsylvania	Armstrong	42005	Dfb	1.000
+Pennsylvania	Beaver	42007	Dfb	1.000
+Pennsylvania	Bedford	42009	Cfb	0.509
+Pennsylvania	Bedford	42009	Cfa	0.491
+Pennsylvania	Berks	42011	Dfa	0.226
+Pennsylvania	Berks	42011	Cfa	0.774
+Pennsylvania	Blair	42013	Dfb	0.441
+Pennsylvania	Blair	42013	Cfb	0.559
+Pennsylvania	Bradford	42015	Dfb	1.000
+Pennsylvania	Bucks	42017	Dfa	0.132
+Pennsylvania	Bucks	42017	Cfa	0.868
+Pennsylvania	Butler	42019	Dfb	1.000
+Pennsylvania	Cambria	42021	Dfb	0.500
+Pennsylvania	Cambria	42021	Cfa	0.013
+Pennsylvania	Cambria	42021	Cfb	0.487
+Pennsylvania	Cameron	42023	Dfb	1.000
+Pennsylvania	Carbon	42025	Dfb	0.186
+Pennsylvania	Carbon	42025	Dfa	0.814
+Pennsylvania	Centre	42027	Dfb	0.878
+Pennsylvania	Centre	42027	Dfa	0.122
+Pennsylvania	Chester	42029	Cfa	1.000
+Pennsylvania	Clarion	42031	Dfb	1.000
+Pennsylvania	Clearfield	42033	Dfb	1.000
+Pennsylvania	Clinton	42035	Dfb	0.990
+Pennsylvania	Clinton	42035	Dfa	0.010
+Pennsylvania	Columbia	42037	Dfb	0.647
+Pennsylvania	Columbia	42037	Dfa	0.353
+Pennsylvania	Crawford	42039	Dfb	1.000
+Pennsylvania	Cumberland	42041	Cfa	1.000
+Pennsylvania	Dauphin	42043	Dfa	0.350
+Pennsylvania	Dauphin	42043	Cfa	0.650
+Pennsylvania	Delaware	42045	Cfa	1.000
+Pennsylvania	Elk	42047	Dfb	1.000
+Pennsylvania	Erie	42049	Dfb	1.000
+Pennsylvania	Fayette	42051	Cfa	0.290
+Pennsylvania	Fayette	42051	Cfb	0.710
+Pennsylvania	Forest	42053	Dfb	1.000
+Pennsylvania	Franklin	42055	Cfa	1.000
+Pennsylvania	Fulton	42057	Cfb	0.196
+Pennsylvania	Fulton	42057	Cfa	0.804
+Pennsylvania	Greene	42059	Cfa	0.879
+Pennsylvania	Greene	42059	Cfb	0.121
+Pennsylvania	Huntingdon	42061	Dfb	0.374
+Pennsylvania	Huntingdon	42061	Cfb	0.293
+Pennsylvania	Huntingdon	42061	Cfa	0.333
+Pennsylvania	Indiana	42063	Dfb	0.830
+Pennsylvania	Indiana	42063	Cfa	0.148
+Pennsylvania	Indiana	42063	Cfb	0.023
+Pennsylvania	Jefferson	42065	Dfb	1.000
+Pennsylvania	Juniata	42067	Dfb	0.045
+Pennsylvania	Juniata	42067	Dfa	0.614
+Pennsylvania	Juniata	42067	Cfa	0.341
+Pennsylvania	Lackawanna	42069	Dfb	1.000
+Pennsylvania	Lancaster	42071	Cfa	1.000
+Pennsylvania	Lawrence	42073	Dfb	1.000
+Pennsylvania	Lebanon	42075	Dfa	0.050
+Pennsylvania	Lebanon	42075	Cfa	0.950
+Pennsylvania	Lehigh	42077	Dfa	0.895
+Pennsylvania	Lehigh	42077	Cfa	0.105
+Pennsylvania	Luzerne	42079	Dfb	0.901
+Pennsylvania	Luzerne	42079	Dfa	0.099
+Pennsylvania	Lycoming	42081	Dfb	1.000
+Pennsylvania	Mc Kean	42083	Dfb	1.000
+Pennsylvania	Mercer	42085	Dfb	1.000
+Pennsylvania	Mifflin	42087	Dfb	0.532
+Pennsylvania	Mifflin	42087	Dfa	0.255
+Pennsylvania	Mifflin	42087	Cfa	0.213
+Pennsylvania	Monroe	42089	Dfb	0.704
+Pennsylvania	Monroe	42089	Dfa	0.296
+Pennsylvania	Montgomery	42091	Cfa	1.000
+Pennsylvania	Montour	42093	Dfb	0.600
+Pennsylvania	Montour	42093	Dfa	0.400
+Pennsylvania	Northampton	42095	Dfa	1.000
+Pennsylvania	Northumberland	42097	Dfb	0.132
+Pennsylvania	Northumberland	42097	Dfa	0.868
+Pennsylvania	Perry	42099	Dfa	0.150
+Pennsylvania	Perry	42099	Cfa	0.850
+Pennsylvania	Philadelphia	42101	Cfa	1.000
+Pennsylvania	Pike	42103	Dfb	1.000
+Pennsylvania	Potter	42105	Dfb	1.000
+Pennsylvania	Schuylkill	42107	Dfa	1.000
+Pennsylvania	Snyder	42109	Dfa	1.000
+Pennsylvania	Somerset	42111	Cfa	0.384
+Pennsylvania	Somerset	42111	Cfb	0.616
+Pennsylvania	Sullivan	42113	Dfb	1.000
+Pennsylvania	Susquehanna	42115	Dfb	1.000
+Pennsylvania	Tioga	42117	Dfb	1.000
+Pennsylvania	Union	42119	Dfb	0.364
+Pennsylvania	Union	42119	Dfa	0.636
+Pennsylvania	Venango	42121	Dfb	1.000
+Pennsylvania	Warren	42123	Dfb	1.000
+Pennsylvania	Washington	42125	Cfa	1.000
+Pennsylvania	Wayne	42127	Dfb	1.000
+Pennsylvania	Westmoreland	42129	Dfb	0.107
+Pennsylvania	Westmoreland	42129	Cfa	0.893
+Pennsylvania	Wyoming	42131	Dfb	1.000
+Pennsylvania	York	42133	Cfa	1.000
+Rhode Island	Bristol	44001	Cfa	1.000
+Rhode Island	Kent	44003	Cfb	0.800
+Rhode Island	Kent	44003	Cfa	0.200
+Rhode Island	Newport	44005	Cfa	1.000
+Rhode Island	Providence	44007	Cfb	0.711
+Rhode Island	Providence	44007	Cfa	0.289
+Rhode Island	Washington	44009	Cfb	0.805
+Rhode Island	Washington	44009	Cfa	0.195
+South Carolina	Abbeville	45001	Cfa	1.000
+South Carolina	Aiken	45003	Cfa	1.000
+South Carolina	Allendale	45005	Cfa	1.000
+South Carolina	Anderson	45007	Cfa	1.000
+South Carolina	Bamberg	45009	Cfa	1.000
+South Carolina	Barnwell	45011	Cfa	1.000
+South Carolina	Beaufort	45013	Cfa	1.000
+South Carolina	Berkeley	45015	Cfa	1.000
+South Carolina	Calhoun	45017	Cfa	1.000
+South Carolina	Charleston	45019	Cfa	1.000
+South Carolina	Cherokee	45021	Cfa	1.000
+South Carolina	Chester	45023	Cfa	1.000
+South Carolina	Chesterfield	45025	Cfa	1.000
+South Carolina	Clarendon	45027	Cfa	1.000
+South Carolina	Colleton	45029	Cfa	1.000
+South Carolina	Darlington	45031	Cfa	1.000
+South Carolina	Dillon	45033	Cfa	1.000
+South Carolina	Dorchester	45035	Cfa	1.000
+South Carolina	Edgefield	45037	Cfa	1.000
+South Carolina	Fairfield	45039	Cfa	1.000
+South Carolina	Florence	45041	Cfa	1.000
+South Carolina	Georgetown	45043	Cfa	1.000
+South Carolina	Greenville	45045	Cfb	0.118
+South Carolina	Greenville	45045	Cfa	0.882
+South Carolina	Greenwood	45047	Cfa	1.000
+South Carolina	Hampton	45049	Cfa	1.000
+South Carolina	Horry	45051	Cfa	1.000
+South Carolina	Jasper	45053	Cfa	1.000
+South Carolina	Kershaw	45055	Cfa	1.000
+South Carolina	Lancaster	45057	Cfa	1.000
+South Carolina	Laurens	45059	Cfa	1.000
+South Carolina	Lee	45061	Cfa	1.000
+South Carolina	Lexington	45063	Cfa	1.000
+South Carolina	Marion	45067	Cfa	1.000
+South Carolina	Marlboro	45069	Cfa	1.000
+South Carolina	McCormick	45065	Cfa	1.000
+South Carolina	Newberry	45071	Cfa	1.000
+South Carolina	Oconee	45073	Cfb	0.030
+South Carolina	Oconee	45073	Cfa	0.970
+South Carolina	Orangeburg	45075	Cfa	1.000
+South Carolina	Pickens	45077	Cfb	0.143
+South Carolina	Pickens	45077	Cfa	0.857
+South Carolina	Richland	45079	Cfa	1.000
+South Carolina	Saluda	45081	Cfa	1.000
+South Carolina	Spartanburg	45083	Cfa	1.000
+South Carolina	Sumter	45085	Cfa	1.000
+South Carolina	Union	45087	Cfa	1.000
+South Carolina	Williamsburg	45089	Cfa	1.000
+South Carolina	York	45091	Cfa	1.000
+South Dakota	Aurora	46003	Dfa	1.000
+South Dakota	Beadle	46005	Dfa	1.000
+South Dakota	Bennett	46007	BSk	0.118
+South Dakota	Bennett	46007	Dwa	0.882
+South Dakota	Bon Homme	46009	Dfa	1.000
+South Dakota	Brookings	46011	Dfa	1.000
+South Dakota	Brown	46013	Dfa	0.563
+South Dakota	Brown	46013	Dfb	0.437
+South Dakota	Brule	46015	Dfa	1.000
+South Dakota	Buffalo	46017	Dfa	1.000
+South Dakota	Butte	46019	BSk	1.000
+South Dakota	Campbell	46021	Dfa	1.000
+South Dakota	Charles Mix	46023	Dfa	1.000
+South Dakota	Clark	46025	Dfb	0.263
+South Dakota	Clark	46025	Dfa	0.737
+South Dakota	Clay	46027	Dfa	1.000
+South Dakota	Codington	46029	Dfb	0.429
+South Dakota	Codington	46029	Dfa	0.571
+South Dakota	Corson	46031	Dfb	0.562
+South Dakota	Corson	46031	Dfa	0.438
+South Dakota	Custer	46033	BSk	0.581
+South Dakota	Custer	46033	Dfb	0.419
+South Dakota	Davison	46035	Dfa	1.000
+South Dakota	Day	46037	Dfb	1.000
+South Dakota	Deuel	46039	Dfa	1.000
+South Dakota	Dewey	46041	Dfa	0.787
+South Dakota	Dewey	46041	BSk	0.213
+South Dakota	Douglas	46043	Dfa	1.000
+South Dakota	Edmunds	46045	Dfa	0.854
+South Dakota	Edmunds	46045	Dfb	0.146
+South Dakota	Fall River	46047	BSk	1.000
+South Dakota	Faulk	46049	Dfa	1.000
+South Dakota	Grant	46051	Dfb	1.000
+South Dakota	Gregory	46053	Dfa	1.000
+South Dakota	Haakon	46055	BSk	1.000
+South Dakota	Hamlin	46057	Dfa	1.000
+South Dakota	Hand	46059	Dfa	1.000
+South Dakota	Hanson	46061	Dfa	1.000
+South Dakota	Harding	46063	BSk	1.000
+South Dakota	Hughes	46065	Dfa	0.667
+South Dakota	Hughes	46065	BSk	0.021
+South Dakota	Hughes	46065	Dwa	0.312
+South Dakota	Hutchinson	46067	Dfa	1.000
+South Dakota	Hyde	46069	Dfa	1.000
+South Dakota	Jackson	46071	BSk	0.857
+South Dakota	Jackson	46071	Dwa	0.143
+South Dakota	Jerauld	46073	Dfa	1.000
+South Dakota	Jones	46075	BSk	0.333
+South Dakota	Jones	46075	Dwa	0.083
+South Dakota	Jones	46075	Dfa	0.583
+South Dakota	Kingsbury	46077	Dfa	1.000
+South Dakota	Lake	46079	Dfa	1.000
+South Dakota	Lawrence	46081	BSk	0.213
+South Dakota	Lawrence	46081	Dfb	0.766
+South Dakota	Lawrence	46081	Dfa	0.021
+South Dakota	Lincoln	46083	Dfa	1.000
+South Dakota	Lyman	46085	Dwa	0.142
+South Dakota	Lyman	46085	Dfa	0.858
+South Dakota	Marshall	46091	Dfb	1.000
+South Dakota	McCook	46087	Dfa	1.000
+South Dakota	McPherson	46089	Dfa	0.474
+South Dakota	McPherson	46089	Dfb	0.526
+South Dakota	Meade	46093	BSk	0.819
+South Dakota	Meade	46093	Dfb	0.012
+South Dakota	Meade	46093	Dfa	0.168
+South Dakota	Mellette	46095	BSk	0.220
+South Dakota	Mellette	46095	Dfa	0.580
+South Dakota	Mellette	46095	Dwa	0.200
+South Dakota	Miner	46097	Dfa	1.000
+South Dakota	Minnehaha	46099	Dfa	1.000
+South Dakota	Moody	46101	Dfa	1.000
+South Dakota	Pennington	46103	Dfb	0.189
+South Dakota	Pennington	46103	Dfa	0.090
+South Dakota	Pennington	46103	BSk	0.721
+South Dakota	Perkins	46105	BSk	0.737
+South Dakota	Perkins	46105	Dfb	0.263
+South Dakota	Potter	46107	Dfa	1.000
+South Dakota	Roberts	46109	Dfb	1.000
+South Dakota	Sanborn	46111	Dfa	1.000
+South Dakota	Shannon	46113	BSk	1.000
+South Dakota	Spink	46115	Dfa	1.000
+South Dakota	Stanley	46117	BSk	0.806
+South Dakota	Stanley	46117	Dwa	0.183
+South Dakota	Stanley	46117	Dfa	0.011
+South Dakota	Sully	46119	BSk	0.108
+South Dakota	Sully	46119	Dfa	0.892
+South Dakota	Todd	46121	Dwa	0.714
+South Dakota	Todd	46121	Dfa	0.286
+South Dakota	Tripp	46123	Dfa	1.000
+South Dakota	Turner	46125	Dfa	1.000
+South Dakota	Union	46127	Dfa	1.000
+South Dakota	Walworth	46129	Dfa	1.000
+South Dakota	Yankton	46135	Dfa	1.000
+South Dakota	Ziebach	46137	Dfa	0.406
+South Dakota	Ziebach	46137	BSk	0.594
+Tennessee	Anderson	47001	Cfa	1.000
+Tennessee	Bedford	47003	Cfa	1.000
+Tennessee	Benton	47005	Cfa	1.000
+Tennessee	Bledsoe	47007	Cfa	1.000
+Tennessee	Blount	47009	Cfa	1.000
+Tennessee	Bradley	47011	Cfa	1.000
+Tennessee	Campbell	47013	Cfa	1.000
+Tennessee	Cannon	47015	Cfa	1.000
+Tennessee	Carroll	47017	Cfa	1.000
+Tennessee	Carter	47019	Cfb	1.000
+Tennessee	Cheatham	47021	Cfa	1.000
+Tennessee	Chester	47023	Cfa	1.000
+Tennessee	Claiborne	47025	Cfa	1.000
+Tennessee	Clay	47027	Cfa	1.000
+Tennessee	Cocke	47029	Cfa	0.867
+Tennessee	Cocke	47029	Cfb	0.133
+Tennessee	Coffee	47031	Cfa	1.000
+Tennessee	Crockett	47033	Cfa	1.000
+Tennessee	Cumberland	47035	Cfa	1.000
+Tennessee	Davidson	47037	Cfa	1.000
+Tennessee	Decatur	47039	Cfa	1.000
+Tennessee	DeKalb	47041	Cfa	1.000
+Tennessee	Dickson	47043	Cfa	1.000
+Tennessee	Dyer	47045	Cfa	1.000
+Tennessee	Fayette	47047	Cfa	1.000
+Tennessee	Fentress	47049	Cfa	1.000
+Tennessee	Franklin	47051	Cfa	1.000
+Tennessee	Gibson	47053	Cfa	1.000
+Tennessee	Giles	47055	Cfa	1.000
+Tennessee	Grainger	47057	Cfa	1.000
+Tennessee	Greene	47059	Cfa	0.953
+Tennessee	Greene	47059	Cfb	0.047
+Tennessee	Grundy	47061	Cfa	1.000
+Tennessee	Hamblen	47063	Cfa	1.000
+Tennessee	Hamilton	47065	Cfa	1.000
+Tennessee	Hancock	47067	Cfa	1.000
+Tennessee	Hardeman	47069	Cfa	1.000
+Tennessee	Hardin	47071	Cfa	1.000
+Tennessee	Hawkins	47073	Cfa	1.000
+Tennessee	Haywood	47075	Cfa	1.000
+Tennessee	Henderson	47077	Cfa	1.000
+Tennessee	Henry	47079	Cfa	1.000
+Tennessee	Hickman	47081	Cfa	1.000
+Tennessee	Houston	47083	Cfa	1.000
+Tennessee	Humphreys	47085	Cfa	1.000
+Tennessee	Jackson	47087	Cfa	1.000
+Tennessee	Jefferson	47089	Cfa	1.000
+Tennessee	Johnson	47091	Cfb	1.000
+Tennessee	Knox	47093	Cfa	1.000
+Tennessee	Lake	47095	Cfa	1.000
+Tennessee	Lauderdale	47097	Cfa	1.000
+Tennessee	Lawrence	47099	Cfa	1.000
+Tennessee	Lewis	47101	Cfa	1.000
+Tennessee	Lincoln	47103	Cfa	1.000
+Tennessee	Loudon	47105	Cfa	1.000
+Tennessee	Macon	47111	Cfa	1.000
+Tennessee	Madison	47113	Cfa	1.000
+Tennessee	Marion	47115	Cfa	1.000
+Tennessee	Marshall	47117	Cfa	1.000
+Tennessee	Maury	47119	Cfa	1.000
+Tennessee	McMinn	47107	Cfa	1.000
+Tennessee	McNairy	47109	Cfa	1.000
+Tennessee	Meigs	47121	Cfa	1.000
+Tennessee	Monroe	47123	Cfa	1.000
+Tennessee	Montgomery	47125	Cfa	1.000
+Tennessee	Moore	47127	Cfa	1.000
+Tennessee	Morgan	47129	Cfa	1.000
+Tennessee	Obion	47131	Cfa	1.000
+Tennessee	Overton	47133	Cfa	1.000
+Tennessee	Perry	47135	Cfa	1.000
+Tennessee	Pickett	47137	Cfa	1.000
+Tennessee	Polk	47139	Cfa	1.000
+Tennessee	Putnam	47141	Cfa	1.000
+Tennessee	Rhea	47143	Cfa	1.000
+Tennessee	Roane	47145	Cfa	1.000
+Tennessee	Robertson	47147	Cfa	1.000
+Tennessee	Rutherford	47149	Cfa	1.000
+Tennessee	Scott	47151	Cfa	1.000
+Tennessee	Sequatchie	47153	Cfa	1.000
+Tennessee	Sevier	47155	Cfa	1.000
+Tennessee	Shelby	47157	Cfa	1.000
+Tennessee	Smith	47159	Cfa	1.000
+Tennessee	Stewart	47161	Cfa	1.000
+Tennessee	Sullivan	47163	Cfa	0.614
+Tennessee	Sullivan	47163	Cfb	0.386
+Tennessee	Sumner	47165	Cfa	1.000
+Tennessee	Tipton	47167	Cfa	1.000
+Tennessee	Trousdale	47169	Cfa	1.000
+Tennessee	Unicoi	47171	Cfa	0.263
+Tennessee	Unicoi	47171	Cfb	0.737
+Tennessee	Union	47173	Cfa	1.000
+Tennessee	Van Buren	47175	Cfa	1.000
+Tennessee	Warren	47177	Cfa	1.000
+Tennessee	Washington	47179	Cfa	0.526
+Tennessee	Washington	47179	Cfb	0.474
+Tennessee	Wayne	47181	Cfa	1.000
+Tennessee	Weakley	47183	Cfa	1.000
+Tennessee	White	47185	Cfa	1.000
+Tennessee	Williamson	47187	Cfa	1.000
+Tennessee	Wilson	47189	Cfa	1.000
+Texas	Anderson	48001	Cfa	1.000
+Texas	Andrews	48003	BSk	1.000
+Texas	Angelina	48005	Cfa	1.000
+Texas	Aransas	48007	Cfa	0.963
+Texas	Archer	48009	Cfa	1.000
+Texas	Armstrong	48011	BSk	1.000
+Texas	Atascosa	48013	Cfa	1.000
+Texas	Austin	48015	Cfa	1.000
+Texas	Bailey	48017	BSk	1.000
+Texas	Bandera	48019	Cfa	1.000
+Texas	Bastrop	48021	Cfa	1.000
+Texas	Baylor	48023	Cfa	1.000
+Texas	Bee	48025	Cfa	1.000
+Texas	Bell	48027	Cfa	1.000
+Texas	Bexar	48029	Cfa	1.000
+Texas	Blanco	48031	Cfa	1.000
+Texas	Borden	48033	BSk	1.000
+Texas	Bosque	48035	Cfa	1.000
+Texas	Bowie	48037	Cfa	1.000
+Texas	Brazoria	48039	Cfa	1.000
+Texas	Brazos	48041	Cfa	1.000
+Texas	Brewster	48043	BSk	0.321
+Texas	Brewster	48043	BSh	0.285
+Texas	Brewster	48043	BWh	0.394
+Texas	Briscoe	48045	BSk	1.000
+Texas	Brooks	48047	Cfa	1.000
+Texas	Brown	48049	Cfa	1.000
+Texas	Burleson	48051	Cfa	1.000
+Texas	Burnet	48053	Cfa	1.000
+Texas	Caldwell	48055	Cfa	1.000
+Texas	Calhoun	48057	Cfa	1.000
+Texas	Callahan	48059	Cfa	1.000
+Texas	Cameron	48061	Cfa	0.967
+Texas	Cameron	48061	BSh	0.033
+Texas	Camp	48063	Cfa	1.000
+Texas	Carson	48065	BSk	1.000
+Texas	Cass	48067	Cfa	1.000
+Texas	Castro	48069	BSk	1.000
+Texas	Chambers	48071	Cfa	1.000
+Texas	Cherokee	48073	Cfa	1.000
+Texas	Childress	48075	BSk	1.000
+Texas	Clay	48077	Cfa	1.000
+Texas	Cochran	48079	BSk	1.000
+Texas	Coke	48081	BSk	0.250
+Texas	Coke	48081	BSh	0.750
+Texas	Coleman	48083	Cfa	1.000
+Texas	Collin	48085	Cfa	1.000
+Texas	Collingsworth	48087	BSk	1.000
+Texas	Colorado	48089	Cfa	1.000
+Texas	Comal	48091	Cfa	1.000
+Texas	Comanche	48093	Cfa	1.000
+Texas	Concho	48095	BSh	0.043
+Texas	Concho	48095	Cfa	0.957
+Texas	Cooke	48097	Cfa	1.000
+Texas	Coryell	48099	Cfa	1.000
+Texas	Cottle	48101	BSk	1.000
+Texas	Crane	48103	BWh	0.468
+Texas	Crane	48103	BSk	0.532
+Texas	Crockett	48105	BSk	0.039
+Texas	Crockett	48105	BSh	0.961
+Texas	Crosby	48107	BSk	1.000
+Texas	Culberson	48109	BWk	0.687
+Texas	Culberson	48109	BSk	0.223
+Texas	Culberson	48109	BWh	0.091
+Texas	Dallam	48111	BSk	1.000
+Texas	Dallas	48113	Cfa	1.000
+Texas	Dawson	48115	BSk	1.000
+Texas	Deaf Smith	48117	BSk	1.000
+Texas	Delta	48119	Cfa	1.000
+Texas	Denton	48121	Cfa	1.000
+Texas	Dewitt	48123	Cfa	1.000
+Texas	Dickens	48125	BSk	1.000
+Texas	Dimmit	48127	BSh	0.952
+Texas	Dimmit	48127	Cfa	0.048
+Texas	Donley	48129	BSk	1.000
+Texas	Duval	48131	Cfa	0.885
+Texas	Duval	48131	BSh	0.115
+Texas	Eastland	48133	Cfa	1.000
+Texas	Ector	48135	BSk	0.533
+Texas	Ector	48135	BWh	0.467
+Texas	Edwards	48137	BSh	0.262
+Texas	Edwards	48137	Cfa	0.738
+Texas	El Paso	48141	BWk	0.931
+Texas	El Paso	48141	BSk	0.069
+Texas	Ellis	48139	Cfa	1.000
+Texas	Erath	48143	Cfa	1.000
+Texas	Falls	48145	Cfa	1.000
+Texas	Fannin	48147	Cfa	1.000
+Texas	Fayette	48149	Cfa	1.000
+Texas	Fisher	48151	BSk	1.000
+Texas	Floyd	48153	BSk	1.000
+Texas	Foard	48155	BSk	1.000
+Texas	Fort Bend	48157	Cfa	1.000
+Texas	Franklin	48159	Cfa	1.000
+Texas	Freestone	48161	Cfa	1.000
+Texas	Frio	48163	Cfa	1.000
+Texas	Gaines	48165	BSk	1.000
+Texas	Galveston	48167	Cfa	1.000
+Texas	Garza	48169	BSk	1.000
+Texas	Gillespie	48171	Cfa	1.000
+Texas	Glasscock	48173	BSk	1.000
+Texas	Goliad	48175	Cfa	1.000
+Texas	Gonzales	48177	Cfa	1.000
+Texas	Gray	48179	BSk	1.000
+Texas	Grayson	48181	Cfa	1.000
+Texas	Gregg	48183	Cfa	1.000
+Texas	Grimes	48185	Cfa	1.000
+Texas	Guadalupe	48187	Cfa	1.000
+Texas	Hale	48189	BSk	1.000
+Texas	Hall	48191	BSk	1.000
+Texas	Hamilton	48193	Cfa	1.000
+Texas	Hansford	48195	BSk	1.000
+Texas	Hardeman	48197	BSk	1.000
+Texas	Hardin	48199	Cfa	1.000
+Texas	Harris	48201	Cfa	1.000
+Texas	Harrison	48203	Cfa	1.000
+Texas	Hartley	48205	BSk	1.000
+Texas	Haskell	48207	Cfa	1.000
+Texas	Hays	48209	Cfa	1.000
+Texas	Hemphill	48211	BSk	1.000
+Texas	Henderson	48213	Cfa	1.000
+Texas	Hidalgo	48215	Cfa	0.462
+Texas	Hidalgo	48215	BSh	0.538
+Texas	Hill	48217	Cfa	1.000
+Texas	Hockley	48219	BSk	1.000
+Texas	Hood	48221	Cfa	1.000
+Texas	Hopkins	48223	Cfa	1.000
+Texas	Houston	48225	Cfa	1.000
+Texas	Howard	48227	BSk	1.000
+Texas	Hudspeth	48229	BWk	0.884
+Texas	Hudspeth	48229	BWh	0.116
+Texas	Hunt	48231	Cfa	1.000
+Texas	Hutchinson	48233	BSk	1.000
+Texas	Irion	48235	BSk	0.031
+Texas	Irion	48235	BSh	0.969
+Texas	Jack	48237	Cfa	1.000
+Texas	Jackson	48239	Cfa	1.000
+Texas	Jasper	48241	Cfa	1.000
+Texas	Jeff Davis	48243	BSk	0.830
+Texas	Jeff Davis	48243	BWh	0.165
+Texas	Jeff Davis	48243	BSh	0.004
+Texas	Jefferson	48245	Cfa	1.000
+Texas	Jim Hogg	48247	BSh	0.885
+Texas	Jim Hogg	48247	Cfa	0.115
+Texas	Jim Wells	48249	Cfa	1.000
+Texas	Johnson	48251	Cfa	1.000
+Texas	Jones	48253	BSk	0.273
+Texas	Jones	48253	Cfa	0.727
+Texas	Karnes	48255	Cfa	1.000
+Texas	Kaufman	48257	Cfa	1.000
+Texas	Kendall	48259	Cfa	1.000
+Texas	Kenedy	48261	Cfa	1.000
+Texas	Kent	48263	BSk	1.000
+Texas	Kerr	48265	Cfa	1.000
+Texas	Kimble	48267	Cfa	1.000
+Texas	King	48269	BSk	1.000
+Texas	Kinney	48271	BSh	0.873
+Texas	Kinney	48271	Cfa	0.127
+Texas	Kleberg	48273	Cfa	1.000
+Texas	Knox	48275	BSk	0.756
+Texas	Knox	48275	Cfa	0.244
+Texas	La Salle	48283	Cfa	0.500
+Texas	La Salle	48283	BSh	0.500
+Texas	Lamar	48277	Cfa	1.000
+Texas	Lamb	48279	BSk	1.000
+Texas	Lampasas	48281	Cfa	1.000
+Texas	Lavaca	48285	Cfa	1.000
+Texas	Lee	48287	Cfa	1.000
+Texas	Leon	48289	Cfa	1.000
+Texas	Liberty	48291	Cfa	1.000
+Texas	Limestone	48293	Cfa	1.000
+Texas	Lipscomb	48295	BSk	1.000
+Texas	Live Oak	48297	Cfa	1.000
+Texas	Llano	48299	Cfa	1.000
+Texas	Loving	48301	BWh	1.000
+Texas	Lubbock	48303	BSk	1.000
+Texas	Lynn	48305	BSk	1.000
+Texas	Madison	48313	Cfa	1.000
+Texas	Marion	48315	Cfa	1.000
+Texas	Martin	48317	BSk	1.000
+Texas	Mason	48319	Cfa	1.000
+Texas	Matagorda	48321	Cfa	1.000
+Texas	Maverick	48323	BSh	1.000
+Texas	McCulloch	48307	Cfa	1.000
+Texas	McLennan	48309	Cfa	1.000
+Texas	McMullen	48311	Cfa	1.000
+Texas	Medina	48325	Cfa	1.000
+Texas	Menard	48327	Cfa	1.000
+Texas	Midland	48329	BSk	1.000
+Texas	Milam	48331	Cfa	1.000
+Texas	Mills	48333	Cfa	1.000
+Texas	Mitchell	48335	BSk	1.000
+Texas	Montague	48337	Cfa	1.000
+Texas	Montgomery	48339	Cfa	1.000
+Texas	Moore	48341	BSk	1.000
+Texas	Morris	48343	Cfa	1.000
+Texas	Motley	48345	BSk	1.000
+Texas	Nacogdoches	48347	Cfa	1.000
+Texas	Navarro	48349	Cfa	1.000
+Texas	Newton	48351	Cfa	1.000
+Texas	Nolan	48353	BSk	1.000
+Texas	Nueces	48355	Cfa	1.000
+Texas	Ochiltree	48357	BSk	1.000
+Texas	Oldham	48359	BSk	1.000
+Texas	Orange	48361	Cfa	1.000
+Texas	Palo Pinto	48363	Cfa	1.000
+Texas	Panola	48365	Cfa	1.000
+Texas	Parker	48367	Cfa	1.000
+Texas	Parmer	48369	BSk	1.000
+Texas	Pecos	48371	BWh	0.188
+Texas	Pecos	48371	BSk	0.169
+Texas	Pecos	48371	BSh	0.643
+Texas	Polk	48373	Cfa	1.000
+Texas	Potter	48375	BSk	1.000
+Texas	Presidio	48377	BWh	0.546
+Texas	Presidio	48377	BSk	0.347
+Texas	Presidio	48377	BSh	0.108
+Texas	Rains	48379	Cfa	1.000
+Texas	Randall	48381	BSk	1.000
+Texas	Reagan	48383	BSk	0.275
+Texas	Reagan	48383	BSh	0.725
+Texas	Real	48385	Cfa	1.000
+Texas	Red River	48387	Cfa	1.000
+Texas	Reeves	48389	BWk	0.039
+Texas	Reeves	48389	BWh	0.802
+Texas	Reeves	48389	BSk	0.147
+Texas	Reeves	48389	BSh	0.012
+Texas	Refugio	48391	Cfa	1.000
+Texas	Roberts	48393	BSk	1.000
+Texas	Robertson	48395	Cfa	1.000
+Texas	Rockwall	48397	Cfa	1.000
+Texas	Runnels	48399	BSk	0.088
+Texas	Runnels	48399	Cfa	0.558
+Texas	Runnels	48399	BSh	0.354
+Texas	Rusk	48401	Cfa	1.000
+Texas	Sabine	48403	Cfa	1.000
+Texas	San Augustine	48405	Cfa	1.000
+Texas	San Jacinto	48407	Cfa	1.000
+Texas	San Patricio	48409	Cfa	1.000
+Texas	San Saba	48411	Cfa	1.000
+Texas	Schleicher	48413	BSh	0.529
+Texas	Schleicher	48413	Cfa	0.471
+Texas	Scurry	48415	BSk	1.000
+Texas	Shackelford	48417	Cfa	1.000
+Texas	Shelby	48419	Cfa	1.000
+Texas	Sherman	48421	BSk	1.000
+Texas	Smith	48423	Cfa	1.000
+Texas	Somervell	48425	Cfa	1.000
+Texas	Starr	48427	BSh	0.897
+Texas	Starr	48427	Cfa	0.103
+Texas	Stephens	48429	Cfa	1.000
+Texas	Sterling	48431	BSk	0.656
+Texas	Sterling	48431	BSh	0.344
+Texas	Stonewall	48433	BSk	1.000
+Texas	Sutton	48435	BSh	0.529
+Texas	Sutton	48435	Cfa	0.471
+Texas	Swisher	48437	BSk	1.000
+Texas	Tarrant	48439	Cfa	1.000
+Texas	Taylor	48441	BSk	0.300
+Texas	Taylor	48441	Cfa	0.700
+Texas	Terrell	48443	BSh	0.857
+Texas	Terrell	48443	BSk	0.026
+Texas	Terrell	48443	BWh	0.117
+Texas	Terry	48445	BSk	1.000
+Texas	Throckmorton	48447	Cfa	1.000
+Texas	Titus	48449	Cfa	1.000
+Texas	Tom Green	48451	BSk	0.013
+Texas	Tom Green	48451	BSh	0.557
+Texas	Tom Green	48451	Cfa	0.430
+Texas	Travis	48453	Cfa	1.000
+Texas	Trinity	48455	Cfa	1.000
+Texas	Tyler	48457	Cfa	1.000
+Texas	Upshur	48459	Cfa	1.000
+Texas	Upton	48461	BSk	0.703
+Texas	Upton	48461	BSh	0.297
+Texas	Uvalde	48463	Cfa	0.891
+Texas	Uvalde	48463	BSh	0.109
+Texas	Val Verde	48465	BSh	1.000
+Texas	Van Zandt	48467	Cfa	1.000
+Texas	Victoria	48469	Cfa	1.000
+Texas	Walker	48471	Cfa	1.000
+Texas	Waller	48473	Cfa	1.000
+Texas	Ward	48475	BWh	1.000
+Texas	Washington	48477	Cfa	1.000
+Texas	Webb	48479	BSh	0.866
+Texas	Webb	48479	Cfa	0.134
+Texas	Wharton	48481	Cfa	1.000
+Texas	Wheeler	48483	BSk	1.000
+Texas	Wichita	48485	Cfa	1.000
+Texas	Wilbarger	48487	Cfa	1.000
+Texas	Willacy	48489	Cfa	1.000
+Texas	Williamson	48491	Cfa	1.000
+Texas	Wilson	48493	Cfa	1.000
+Texas	Winkler	48495	BSk	0.115
+Texas	Winkler	48495	BWh	0.885
+Texas	Wise	48497	Cfa	1.000
+Texas	Wood	48499	Cfa	1.000
+Texas	Yoakum	48501	BSk	1.000
+Texas	Young	48503	Cfa	1.000
+Texas	Zapata	48505	BSh	1.000
+Texas	Zavala	48507	BSh	0.698
+Texas	Zavala	48507	Cfa	0.302
+Utah	Beaver	49001	BSk	0.682
+Utah	Beaver	49001	Cfb	0.268
+Utah	Beaver	49001	Dfb	0.050
+Utah	Box Elder	49003	BSk	0.686
+Utah	Box Elder	49003	Dfa	0.119
+Utah	Box Elder	49003	Dfb	0.009
+Utah	Box Elder	49003	Cfa	0.127
+Utah	Box Elder	49003	Csa	0.059
+Utah	Cache	49005	Dfa	0.075
+Utah	Cache	49005	Dfb	0.925
+Utah	Carbon	49007	Dfb	0.512
+Utah	Carbon	49007	BSk	0.488
+Utah	Daggett	49009	Dfc	0.525
+Utah	Daggett	49009	BSk	0.475
+Utah	Davis	49011	Csa	0.347
+Utah	Davis	49011	Dfb	0.319
+Utah	Davis	49011	Cfa	0.333
+Utah	Duchesne	49013	Dfc	0.290
+Utah	Duchesne	49013	Dfb	0.298
+Utah	Duchesne	49013	BSk	0.412
+Utah	Emery	49015	Dfb	0.137
+Utah	Emery	49015	BSk	0.689
+Utah	Emery	49015	BWk	0.173
+Utah	Garfield	49017	Dfb	0.110
+Utah	Garfield	49017	BSk	0.685
+Utah	Garfield	49017	Cfb	0.205
+Utah	Grand	49019	BSk	0.954
+Utah	Grand	49019	BWk	0.046
+Utah	Iron	49021	BSk	0.440
+Utah	Iron	49021	Cfb	0.287
+Utah	Iron	49021	Csb	0.273
+Utah	Juab	49023	BSk	0.623
+Utah	Juab	49023	Dfb	0.341
+Utah	Juab	49023	Dfa	0.035
+Utah	Kane	49025	Cfb	0.041
+Utah	Kane	49025	BSk	0.552
+Utah	Kane	49025	Csb	0.407
+Utah	Millard	49027	BSk	0.826
+Utah	Millard	49027	Dfb	0.059
+Utah	Millard	49027	Dfa	0.116
+Utah	Morgan	49029	Dfb	1.000
+Utah	Piute	49031	Dfb	1.000
+Utah	Rich	49033	Dfb	1.000
+Utah	Salt Lake	49035	Cfa	0.375
+Utah	Salt Lake	49035	Dfb	0.580
+Utah	Salt Lake	49035	Dfa	0.045
+Utah	San Juan	49037	BSk	1.000
+Utah	Sanpete	49039	Dfb	0.533
+Utah	Sanpete	49039	BSk	0.467
+Utah	Sevier	49041	BSk	0.231
+Utah	Sevier	49041	Dfb	0.769
+Utah	Summit	49043	Dfb	0.553
+Utah	Summit	49043	Dfc	0.447
+Utah	Tooele	49045	Cfa	0.268
+Utah	Tooele	49045	Csa	0.001
+Utah	Tooele	49045	BSk	0.473
+Utah	Tooele	49045	BWk	0.248
+Utah	Tooele	49045	Dfb	0.010
+Utah	Uintah	49047	Dfc	0.106
+Utah	Uintah	49047	BSk	0.894
+Utah	Utah	49049	Dfb	0.492
+Utah	Utah	49049	Cfa	0.129
+Utah	Utah	49049	Dfa	0.379
+Utah	Wasatch	49051	Dfb	0.917
+Utah	Wasatch	49051	Dfc	0.045
+Utah	Wasatch	49051	Dfa	0.038
+Utah	Washington	49053	BSk	0.902
+Utah	Washington	49053	Csb	0.098
+Utah	Wayne	49055	Dfb	0.182
+Utah	Wayne	49055	BSk	0.818
+Utah	Weber	49057	Csa	0.392
+Utah	Weber	49057	Dfb	0.608
+Vermont	Addison	50001	Dfb	1.000
+Vermont	Bennington	50003	Dfb	1.000
+Vermont	Caledonia	50005	Dfb	1.000
+Vermont	Chittenden	50007	Dfb	1.000
+Vermont	Essex	50009	Dfb	1.000
+Vermont	Franklin	50011	Dfb	1.000
+Vermont	Grand Isle	50013	Dfb	1.000
+Vermont	Lamoille	50015	Dfb	1.000
+Vermont	Orange	50017	Dfb	1.000
+Vermont	Orleans	50019	Dfb	1.000
+Vermont	Rutland	50021	Dfb	1.000
+Vermont	Washington	50023	Dfb	1.000
+Vermont	Windham	50025	Dfb	1.000
+Vermont	Windsor	50027	Dfb	1.000
+Virginia	Accomack	51001	Cfa	1.000
+Virginia	Albemarle	51003	Cfa	1.000
+Virginia	Alexandria	51510	Cfa	1.000
+Virginia	Alleghany	51005	Cfa	1.000
+Virginia	Amelia	51007	Cfa	1.000
+Virginia	Amherst	51009	Cfa	1.000
+Virginia	Appomattox	51011	Cfa	1.000
+Virginia	Arlington	51013	Cfa	1.000
+Virginia	Augusta	51015	Cfa	1.000
+Virginia	Bath	51017	Cfb	0.672
+Virginia	Bath	51017	Cfa	0.328
+Virginia	Bedford	51019	Cfa	1.000
+Virginia	Bland	51021	Cfb	1.000
+Virginia	Botetourt	51023	Cfa	1.000
+Virginia	Bristol	51520	Cfa	1.000
+Virginia	Brunswick	51025	Cfa	1.000
+Virginia	Buchanan	51027	Cfa	1.000
+Virginia	Buckingham	51029	Cfa	1.000
+Virginia	Campbell	51031	Cfa	1.000
+Virginia	Caroline	51033	Cfa	1.000
+Virginia	Carroll	51035	Cfb	0.980
+Virginia	Carroll	51035	Cfa	0.020
+Virginia	Charles City	51036	Cfa	1.000
+Virginia	Charlotte	51037	Cfa	1.000
+Virginia	Charlottesville	51540	Cfa	1.000
+Virginia	Chesapeake	51550	Cfa	1.000
+Virginia	Chesterfield	51041	Cfa	1.000
+Virginia	Clarke	51043	Cfa	1.000
+Virginia	Colonial Heights	51570	Cfa	1.000
+Virginia	Covington	51580	Cfa	1.000
+Virginia	Craig	51045	Cfa	1.000
+Virginia	Culpeper	51047	Cfa	1.000
+Virginia	Cumberland	51049	Cfa	1.000
+Virginia	Danville	51590	Cfa	1.000
+Virginia	Dickenson	51051	Cfa	1.000
+Virginia	Dinwiddie	51053	Cfa	1.000
+Virginia	Emporia	51595	Cfa	1.000
+Virginia	Essex	51057	Cfa	1.000
+Virginia	Fairfax	51059	Cfa	1.000
+Virginia	Fauquier	51061	Cfa	1.000
+Virginia	Floyd	51063	Cfa	0.825
+Virginia	Floyd	51063	Cfb	0.175
+Virginia	Fluvanna	51065	Cfa	1.000
+Virginia	Franklin	51067	Cfa	1.000
+Virginia	Frederick	51069	Cfa	1.000
+Virginia	Fredericksburg	51630	Cfa	1.000
+Virginia	Galax	51640	Cfb	1.000
+Virginia	Giles	51071	Cfb	0.949
+Virginia	Giles	51071	Cfa	0.051
+Virginia	Gloucester	51073	Cfa	1.000
+Virginia	Goochland	51075	Cfa	1.000
+Virginia	Grayson	51077	Cfb	1.000
+Virginia	Greene	51079	Cfa	1.000
+Virginia	Greensville	51081	Cfa	1.000
+Virginia	Halifax	51083	Cfa	1.000
+Virginia	Hampton	51650	Cfa	1.000
+Virginia	Hanover	51085	Cfa	1.000
+Virginia	Harrisonburg	51660	Cfa	1.000
+Virginia	Henrico	51087	Cfa	1.000
+Virginia	Henry	51089	Cfa	1.000
+Virginia	Highland	51091	Dfb	0.089
+Virginia	Highland	51091	Cfb	0.644
+Virginia	Highland	51091	Cfa	0.267
+Virginia	Hopewell	51670	Cfa	1.000
+Virginia	Isle of Wight	51093	Cfa	1.000
+Virginia	James City	51095	Cfa	1.000
+Virginia	King and Queen	51097	Cfa	1.000
+Virginia	King George	51099	Cfa	1.000
+Virginia	King William	51101	Cfa	1.000
+Virginia	Lancaster	51103	Cfa	1.000
+Virginia	Lee	51105	Cfa	1.000
+Virginia	Loudoun	51107	Cfa	1.000
+Virginia	Louisa	51109	Cfa	1.000
+Virginia	Lunenburg	51111	Cfa	1.000
+Virginia	Lynchburg	51680	Cfa	1.000
+Virginia	Madison	51113	Cfa	1.000
+Virginia	Manassas	51683	Cfa	1.000
+Virginia	Martinsville	51690	Cfa	1.000
+Virginia	Mathews	51115	Cfa	1.000
+Virginia	Mecklenburg	51117	Cfa	1.000
+Virginia	Middlesex	51119	Cfa	1.000
+Virginia	Montgomery	51121	Cfb	0.132
+Virginia	Montgomery	51121	Cfa	0.868
+Virginia	Nelson	51125	Cfa	1.000
+Virginia	New Kent	51127	Cfa	1.000
+Virginia	Newport News	51700	Cfa	1.000
+Virginia	Norfolk	51710	Cfa	1.000
+Virginia	Northampton	51131	Cfa	1.000
+Virginia	Northumberland	51133	Cfa	1.000
+Virginia	Norton	51720	Cfa	1.000
+Virginia	Nottoway	51135	Cfa	1.000
+Virginia	Orange	51137	Cfa	1.000
+Virginia	Page	51139	Cfa	1.000
+Virginia	Patrick	51141	Cfb	0.082
+Virginia	Patrick	51141	Cfa	0.918
+Virginia	Petersburg	51730	Cfa	1.000
+Virginia	Pittsylvania	51143	Cfa	1.000
+Virginia	Poquoson	51735	Cfa	1.000
+Virginia	Portsmouth	51740	Cfa	1.000
+Virginia	Powhatan	51145	Cfa	1.000
+Virginia	Prince Edward	51147	Cfa	1.000
+Virginia	Prince George	51149	Cfa	1.000
+Virginia	Prince William	51153	Cfa	1.000
+Virginia	Pulaski	51155	Cfb	1.000
+Virginia	Radford	51750	Cfb	1.000
+Virginia	Rappahannock	51157	Cfa	1.000
+Virginia	Richmond	51159	Cfa	1.000
+Virginia	Roanoke	51161	Cfa	1.000
+Virginia	Rockbridge	51163	Cfa	1.000
+Virginia	Rockingham	51165	Cfb	0.163
+Virginia	Rockingham	51165	Cfa	0.837
+Virginia	Russell	51167	Cfa	0.840
+Virginia	Russell	51167	Cfb	0.160
+Virginia	Salem	51775	Cfa	1.000
+Virginia	Scott	51169	Cfa	1.000
+Virginia	Shenandoah	51171	Cfa	1.000
+Virginia	Smyth	51173	Cfb	1.000
+Virginia	Southampton	51175	Cfa	1.000
+Virginia	Spotsylvania	51177	Cfa	1.000
+Virginia	Stafford	51179	Cfa	1.000
+Virginia	Staunton	51790	Cfa	1.000
+Virginia	Suffolk	51800	Cfa	1.000
+Virginia	Surry	51181	Cfa	1.000
+Virginia	Sussex	51183	Cfa	1.000
+Virginia	Tazewell	51185	Cfa	0.536
+Virginia	Tazewell	51185	Cfb	0.464
+Virginia	Virginia Beach	51810	Cfa	1.000
+Virginia	Warren	51187	Cfa	1.000
+Virginia	Washington	51191	Cfa	0.379
+Virginia	Washington	51191	Cfb	0.621
+Virginia	Waynesboro	51820	Cfa	1.000
+Virginia	Westmoreland	51193	Cfa	1.000
+Virginia	Williamsburg	51830	Cfa	1.000
+Virginia	Winchester	51840	Cfa	1.000
+Virginia	Wise	51195	Cfa	1.000
+Virginia	Wythe	51197	Cfb	1.000
+Virginia	York	51199	Cfa	1.000
+Washington	Adams	53001	BSk	0.965
+Washington	Adams	53001	Csb	0.022
+Washington	Adams	53001	Csa	0.013
+Washington	Asotin	53003	Csb	0.932
+Washington	Asotin	53003	Cfb	0.068
+Washington	Benton	53005	BSk	0.667
+Washington	Benton	53005	Csa	0.333
+Washington	Chelan	53007	Dsc	0.265
+Washington	Chelan	53007	Dsb	0.528
+Washington	Chelan	53007	Csb	0.193
+Washington	Chelan	53007	BSk	0.013
+Washington	Clallam	53009	Cfb	0.597
+Washington	Clallam	53009	Csb	0.403
+Washington	Clark	53011	Csb	1.000
+Washington	Columbia	53013	BSk	0.064
+Washington	Columbia	53013	Csa	0.275
+Washington	Columbia	53013	Csb	0.661
+Washington	Cowlitz	53015	Csb	1.000
+Washington	Douglas	53017	Dsb	0.253
+Washington	Douglas	53017	BSk	0.659
+Washington	Douglas	53017	Csb	0.087
+Washington	Ferry	53019	Dfb	0.491
+Washington	Ferry	53019	Dsb	0.443
+Washington	Ferry	53019	BSk	0.038
+Washington	Ferry	53019	Csb	0.028
+Washington	Franklin	53021	BSk	1.000
+Washington	Garfield	53023	Csa	0.287
+Washington	Garfield	53023	Csb	0.713
+Washington	Grant	53025	BSk	0.997
+Washington	Grant	53025	Csb	0.003
+Washington	Grays Harbor	53027	Cfb	0.654
+Washington	Grays Harbor	53027	Csb	0.346
+Washington	Island	53029	Csb	1.000
+Washington	Jefferson	53031	Csb	0.397
+Washington	Jefferson	53031	Cfb	0.603
+Washington	King	53033	Csb	0.786
+Washington	King	53033	Cfb	0.214
+Washington	Kitsap	53035	Csb	1.000
+Washington	Kittitas	53037	Csb	0.799
+Washington	Kittitas	53037	Dsb	0.011
+Washington	Kittitas	53037	BSk	0.190
+Washington	Klickitat	53039	Csb	0.948
+Washington	Klickitat	53039	Csa	0.013
+Washington	Klickitat	53039	BSk	0.039
+Washington	Lewis	53041	Csb	0.961
+Washington	Lewis	53041	Dsb	0.039
+Washington	Lincoln	53043	BSk	0.602
+Washington	Lincoln	53043	Csb	0.307
+Washington	Lincoln	53043	Dsb	0.091
+Washington	Mason	53045	Csb	1.000
+Washington	Okanogan	53047	Dsc	0.235
+Washington	Okanogan	53047	Dfb	0.345
+Washington	Okanogan	53047	Dsb	0.412
+Washington	Okanogan	53047	BSk	0.007
+Washington	Pacific	53049	Csb	1.000
+Washington	Pend Oreille	53051	Dfb	0.549
+Washington	Pend Oreille	53051	Dsb	0.451
+Washington	Pierce	53053	Csb	0.985
+Washington	Pierce	53053	Dsb	0.015
+Washington	San Juan	53055	Csb	1.000
+Washington	Skagit	53057	Csb	0.195
+Washington	Skagit	53057	Cfb	0.445
+Washington	Skagit	53057	Dfc	0.136
+Washington	Skagit	53057	Dsc	0.223
+Washington	Skamania	53059	Csb	1.000
+Washington	Snohomish	53061	Csb	0.373
+Washington	Snohomish	53061	Cfb	0.392
+Washington	Snohomish	53061	Dsc	0.235
+Washington	Spokane	53063	Dsb	0.247
+Washington	Spokane	53063	Csb	0.753
+Washington	Stevens	53065	Dfb	0.394
+Washington	Stevens	53065	Dsb	0.551
+Washington	Stevens	53065	Csb	0.054
+Washington	Thurston	53067	Csb	1.000
+Washington	Wahkiakum	53069	Csb	1.000
+Washington	Walla Walla	53071	BSk	0.513
+Washington	Walla Walla	53071	Csa	0.487
+Washington	Whatcom	53073	Csb	0.093
+Washington	Whatcom	53073	Cfb	0.519
+Washington	Whatcom	53073	Dfc	0.259
+Washington	Whatcom	53073	Dsc	0.130
+Washington	Whitman	53075	Csb	0.678
+Washington	Whitman	53075	BSk	0.066
+Washington	Whitman	53075	Csa	0.256
+Washington	Yakima	53077	Csb	0.675
+Washington	Yakima	53077	Dsb	0.160
+Washington	Yakima	53077	BSk	0.113
+Washington	Yakima	53077	Csa	0.052
+West Virginia	Barbour	54001	Cfa	0.459
+West Virginia	Barbour	54001	Cfb	0.486
+West Virginia	Barbour	54001	Dfb	0.054
+West Virginia	Berkeley	54003	Cfa	1.000
+West Virginia	Boone	54005	Cfa	1.000
+West Virginia	Braxton	54007	Cfa	0.963
+West Virginia	Braxton	54007	Cfb	0.037
+West Virginia	Brooke	54009	Cfa	1.000
+West Virginia	Cabell	54011	Cfa	1.000
+West Virginia	Calhoun	54013	Cfa	1.000
+West Virginia	Clay	54015	Cfa	0.833
+West Virginia	Clay	54015	Cfb	0.167
+West Virginia	Doddridge	54017	Cfa	1.000
+West Virginia	Fayette	54019	Cfa	0.456
+West Virginia	Fayette	54019	Cfb	0.544
+West Virginia	Gilmer	54021	Cfa	1.000
+West Virginia	Grant	54023	Cfb	1.000
+West Virginia	Greenbrier	54025	Cfb	0.636
+West Virginia	Greenbrier	54025	Cfa	0.364
+West Virginia	Hampshire	54027	Cfa	1.000
+West Virginia	Hancock	54029	Dfb	0.600
+West Virginia	Hancock	54029	Cfa	0.400
+West Virginia	Hardy	54031	Cfb	0.175
+West Virginia	Hardy	54031	Cfa	0.825
+West Virginia	Harrison	54033	Cfa	1.000
+West Virginia	Jackson	54035	Cfa	1.000
+West Virginia	Jefferson	54037	Cfa	1.000
+West Virginia	Kanawha	54039	Cfa	0.990
+West Virginia	Kanawha	54039	Cfb	0.010
+West Virginia	Lewis	54041	Cfa	0.738
+West Virginia	Lewis	54041	Cfb	0.262
+West Virginia	Lincoln	54043	Cfa	1.000
+West Virginia	Logan	54045	Cfa	1.000
+West Virginia	Marion	54049	Cfa	1.000
+West Virginia	Marshall	54051	Cfa	1.000
+West Virginia	Mason	54053	Cfa	1.000
+West Virginia	McDowell	54047	Cfa	0.772
+West Virginia	McDowell	54047	Cfb	0.228
+West Virginia	Mercer	54055	Cfb	1.000
+West Virginia	Mineral	54057	Cfa	0.618
+West Virginia	Mineral	54057	Cfb	0.382
+West Virginia	Mingo	54059	Cfa	1.000
+West Virginia	Monongalia	54061	Cfa	0.514
+West Virginia	Monongalia	54061	Cfb	0.486
+West Virginia	Monroe	54063	Cfb	0.580
+West Virginia	Monroe	54063	Cfa	0.420
+West Virginia	Morgan	54065	Cfa	1.000
+West Virginia	Nicholas	54067	Cfa	0.171
+West Virginia	Nicholas	54067	Cfb	0.829
+West Virginia	Ohio	54069	Cfa	1.000
+West Virginia	Pendleton	54071	Dfb	0.099
+West Virginia	Pendleton	54071	Cfb	0.817
+West Virginia	Pendleton	54071	Cfa	0.085
+West Virginia	Pleasants	54073	Cfa	1.000
+West Virginia	Pocahontas	54075	Dfb	0.180
+West Virginia	Pocahontas	54075	Cfb	0.820
+West Virginia	Preston	54077	Cfb	1.000
+West Virginia	Putnam	54079	Cfa	1.000
+West Virginia	Raleigh	54081	Cfa	0.061
+West Virginia	Raleigh	54081	Cfb	0.939
+West Virginia	Randolph	54083	Cfb	0.389
+West Virginia	Randolph	54083	Dfb	0.611
+West Virginia	Ritchie	54085	Cfa	1.000
+West Virginia	Roane	54087	Cfa	1.000
+West Virginia	Summers	54089	Cfb	1.000
+West Virginia	Taylor	54091	Cfa	0.632
+West Virginia	Taylor	54091	Cfb	0.368
+West Virginia	Tucker	54093	Cfb	1.000
+West Virginia	Tyler	54095	Cfa	1.000
+West Virginia	Upshur	54097	Cfa	0.205
+West Virginia	Upshur	54097	Cfb	0.795
+West Virginia	Wayne	54099	Cfa	1.000
+West Virginia	Webster	54101	Cfa	0.098
+West Virginia	Webster	54101	Cfb	0.902
+West Virginia	Wetzel	54103	Cfa	1.000
+West Virginia	Wirt	54105	Cfa	1.000
+West Virginia	Wood	54107	Cfa	1.000
+West Virginia	Wyoming	54109	Cfa	0.607
+West Virginia	Wyoming	54109	Cfb	0.393
+Wisconsin	Adams	55001	Dfb	1.000
+Wisconsin	Ashland	55003	Dfb	1.000
+Wisconsin	Barron	55005	Dfb	1.000
+Wisconsin	Bayfield	55007	Dfb	1.000
+Wisconsin	Brown	55009	Dfb	1.000
+Wisconsin	Buffalo	55011	Dfb	0.284
+Wisconsin	Buffalo	55011	Dfa	0.716
+Wisconsin	Burnett	55013	Dfb	1.000
+Wisconsin	Calumet	55015	Dfb	1.000
+Wisconsin	Chippewa	55017	Dfb	1.000
+Wisconsin	Clark	55019	Dfb	1.000
+Wisconsin	Columbia	55021	Dfb	1.000
+Wisconsin	Crawford	55023	Dfa	0.364
+Wisconsin	Crawford	55023	Dfb	0.636
+Wisconsin	Dane	55025	Dfb	1.000
+Wisconsin	Dodge	55027	Dfb	0.444
+Wisconsin	Dodge	55027	Dfa	0.556
+Wisconsin	Door	55029	Dfb	1.000
+Wisconsin	Douglas	55031	Dfb	1.000
+Wisconsin	Dunn	55033	Dfb	1.000
+Wisconsin	Eau Claire	55035	Dfb	1.000
+Wisconsin	Florence	55037	Dfb	1.000
+Wisconsin	Fond du Lac	55039	Dfb	1.000
+Wisconsin	Forest	55041	Dfb	1.000
+Wisconsin	Grant	55043	Dfb	0.308
+Wisconsin	Grant	55043	Dfa	0.692
+Wisconsin	Green	55045	Dfb	1.000
+Wisconsin	Green Lake	55047	Dfb	1.000
+Wisconsin	Iowa	55049	Dfb	1.000
+Wisconsin	Iron	55051	Dfb	1.000
+Wisconsin	Jackson	55053	Dfb	1.000
+Wisconsin	Jefferson	55055	Dfa	1.000
+Wisconsin	Juneau	55057	Dfb	1.000
+Wisconsin	Kenosha	55059	Dfb	1.000
+Wisconsin	Kewaunee	55061	Dfb	1.000
+Wisconsin	La Crosse	55063	Dfb	0.392
+Wisconsin	La Crosse	55063	Dfa	0.608
+Wisconsin	Lafayette	55065	Dfb	1.000
+Wisconsin	Langlade	55067	Dfb	1.000
+Wisconsin	Lincoln	55069	Dfb	1.000
+Wisconsin	Manitowoc	55071	Dfb	1.000
+Wisconsin	Marathon	55073	Dfb	1.000
+Wisconsin	Marinette	55075	Dfb	1.000
+Wisconsin	Marquette	55077	Dfb	1.000
+Wisconsin	Menominee	55078	Dfb	1.000
+Wisconsin	Milwaukee	55079	Dfb	1.000
+Wisconsin	Monroe	55081	Dfb	1.000
+Wisconsin	Oconto	55083	Dfb	1.000
+Wisconsin	Oneida	55085	Dfb	1.000
+Wisconsin	Outagamie	55087	Dfb	1.000
+Wisconsin	Ozaukee	55089	Dfb	1.000
+Wisconsin	Pepin	55091	Dfb	1.000
+Wisconsin	Pierce	55093	Dfa	0.354
+Wisconsin	Pierce	55093	Dfb	0.646
+Wisconsin	Polk	55095	Dfb	1.000
+Wisconsin	Portage	55097	Dfb	1.000
+Wisconsin	Price	55099	Dfb	1.000
+Wisconsin	Racine	55101	Dfb	1.000
+Wisconsin	Richland	55103	Dfb	1.000
+Wisconsin	Rock	55105	Dfb	0.598
+Wisconsin	Rock	55105	Dfa	0.402
+Wisconsin	Rusk	55107	Dfb	1.000
+Wisconsin	Saint Croix	55109	Dfb	0.824
+Wisconsin	Saint Croix	55109	Dfa	0.176
+Wisconsin	Sauk	55111	Dfb	1.000
+Wisconsin	Sawyer	55113	Dfb	1.000
+Wisconsin	Shawano	55115	Dfb	1.000
+Wisconsin	Sheboygan	55117	Dfb	1.000
+Wisconsin	Taylor	55119	Dfb	1.000
+Wisconsin	Trempealeau	55121	Dfb	0.880
+Wisconsin	Trempealeau	55121	Dfa	0.120
+Wisconsin	Vernon	55123	Dfa	0.300
+Wisconsin	Vernon	55123	Dfb	0.700
+Wisconsin	Vilas	55125	Dfb	1.000
+Wisconsin	Walworth	55127	Dfa	0.569
+Wisconsin	Walworth	55127	Dfb	0.431
+Wisconsin	Washburn	55129	Dfb	1.000
+Wisconsin	Washington	55131	Dfb	1.000
+Wisconsin	Waukesha	55133	Dfa	0.100
+Wisconsin	Waukesha	55133	Dfb	0.900
+Wisconsin	Waupaca	55135	Dfb	1.000
+Wisconsin	Waushara	55137	Dfb	1.000
+Wisconsin	Winnebago	55139	Dfb	1.000
+Wisconsin	Wood	55141	Dfb	1.000
+Wyoming	Albany	56001	Dfb	0.257
+Wyoming	Albany	56001	BSk	0.636
+Wyoming	Albany	56001	Dfc	0.106
+Wyoming	Big Horn	56003	BSk	0.362
+Wyoming	Big Horn	56003	BWk	0.638
+Wyoming	Campbell	56005	BSk	1.000
+Wyoming	Carbon	56007	BSk	0.099
+Wyoming	Carbon	56007	Dfb	0.846
+Wyoming	Carbon	56007	Dfc	0.055
+Wyoming	Converse	56009	BSk	0.998
+Wyoming	Converse	56009	Dfb	0.002
+Wyoming	Crook	56011	BSk	0.839
+Wyoming	Crook	56011	Dfb	0.161
+Wyoming	Fremont	56013	Dfc	0.122
+Wyoming	Fremont	56013	BSk	0.780
+Wyoming	Fremont	56013	Dfb	0.098
+Wyoming	Goshen	56015	BSk	1.000
+Wyoming	Hot Springs	56017	BSk	0.544
+Wyoming	Hot Springs	56017	BWk	0.456
+Wyoming	Johnson	56019	BSk	1.000
+Wyoming	Laramie	56021	BSk	1.000
+Wyoming	Lincoln	56023	Dfb	0.522
+Wyoming	Lincoln	56023	Dfc	0.478
+Wyoming	Natrona	56025	BSk	0.969
+Wyoming	Natrona	56025	Dfb	0.031
+Wyoming	Niobrara	56027	BSk	1.000
+Wyoming	Park	56029	Dfc	0.520
+Wyoming	Park	56029	Dfb	0.122
+Wyoming	Park	56029	BSk	0.358
+Wyoming	Platte	56031	BSk	1.000
+Wyoming	Sheridan	56033	BSk	1.000
+Wyoming	Sublette	56035	Dfc	0.305
+Wyoming	Sublette	56035	Dfb	0.503
+Wyoming	Sublette	56035	BSk	0.192
+Wyoming	Sweetwater	56037	Dfb	0.400
+Wyoming	Sweetwater	56037	BSk	0.600
+Wyoming	Teton	56039	Dfc	0.951
+Wyoming	Teton	56039	Dfb	0.049
+Wyoming	Uinta	56041	Dfb	1.000
+Wyoming	Washakie	56043	BSk	0.398
+Wyoming	Washakie	56043	BWk	0.602
+Wyoming	Weston	56045	BSk	0.878
+Wyoming	Weston	56045	Dfb	0.122
